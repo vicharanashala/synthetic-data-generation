@@ -1,0 +1,322 @@
+OK   | seed=0 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there an effective management strategy for termite infest
+OK   | seed=0 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the following integrated management strategy address te
+SKIP | seed=0 | style=paraphrase_formal | call=3
+OK   | seed=0 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the integrated management strategies for termite (d
+OK   | seed=0 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Which integrated management strategies are recommended for t
+OK   | seed=0 | style=paraphrase_formal | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=When is the optimal timing for applying Chlorpyrifos 20% EC 
+OK   | seed=0 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Chlorpyriphos 20% EC effective for termite control in whe
+OK   | seed=0 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does Chlorpyriphos 20% EC control termites in wheat?
+OK   | seed=0 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are chlorpyriphos 20% ec and thiomethoxam 30% fs effective f
+OK   | seed=0 | style=paraphrase_short | call=4 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=What is the seed treatment for termite in wheat?
+OK   | seed=0 | style=paraphrase_short | call=5 | focus=chemical_name | judge=PASS | scope_overflow=False | q=Which chemicals control termites in wheat?
+OK   | seed=0 | style=paraphrase_problem_description | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a problem with the wheat plants in the field? The l
+OK   | seed=0 | style=paraphrase_problem_description | call=2 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Does the wheat field show yellowing leaves, stunted growth, 
+OK   | seed=0 | style=paraphrase_problem_description | call=3 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Are the wheat plants showing yellowing leaves and stunted gr
+OK   | seed=0 | style=paraphrase_problem_description | call=4 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=What if wheat plants are showing yellowing leaves, stunted g
+OK   | seed=0 | style=paraphrase_problem_description | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Which plants have leaves that turn yellow and feel weak, wit
+OK   | seed=0 | style=paraphrase_followup | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended dosage for Chlorpyriphos 20% EC when
+SKIP | seed=0 | style=paraphrase_followup | call=2
+OK   | seed=0 | style=paraphrase_followup | call=3 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Are the application methods for Beauveria bassiana different
+OK   | seed=0 | style=paraphrase_followup | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the correct method for applying Chlorpyrifos 20% EC 
+OK   | seed=0 | style=paraphrase_followup | call=5 | focus=chemical_name | judge=PASS | scope_overflow=False | q=Which chemical is used for soil treatment at sowing?
+SKIP | seed=0 | style=paraphrase_followup | call=6
+SKIP | seed=0 | style=paraphrase_followup | call=7
+OK   | seed=0 | style=paraphrase_followup | call=8 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Can you explain the specific symptoms of termite infestation
+OK   | seed=0 | style=paraphrase_yes_no | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is deep summer ploughing recommended as a preventive measure
+OK   | seed=0 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does deep summer ploughing help in managing termite infestat
+SKIP | seed=0 | style=paraphrase_yes_no | call=3
+OK   | seed=0 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the effectiveness of deep summer ploughing in managi
+SKIP | seed=0 | style=paraphrase_yes_no | call=5
+SKIP | seed=0 | style=paraphrase_yes_no | call=6
+SKIP | seed=0 | style=paraphrase_yes_no | call=7
+OK   | seed=0 | style=paraphrase_yes_no | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Can deep summer ploughing be used to manage termite infestat
+OK   | seed=0 | style=paraphrase_yes_no | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=Should deep summer ploughing be done in May-June to manage t
+OK   | seed=0 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is deep summer ploughing an effective method to prevent term
+OK   | seed=0 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does proper field sanitation and deep ploughing prevent term
+OK   | seed=0 | style=paraphrase_preventive | call=3 | focus=soil_condition | judge=PASS | scope_overflow=False | q=Are there cultural practices to manage soil moisture and pre
+OK   | seed=0 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What preventive measures can be taken to manage termite infe
+OK   | seed=0 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Which practices help prevent termite damage in wheat fields?
+OK   | seed=0 | style=paraphrase_comparison | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Beauveria bassiana 1.15% more effective than Metarhizium 
+SKIP | seed=0 | style=paraphrase_comparison | call=2
+OK   | seed=0 | style=paraphrase_comparison | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are biological management methods like Beauveria bassiana mo
+OK   | seed=0 | style=paraphrase_comparison | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the differences between biological control methods 
+OK   | seed=0 | style=paraphrase_comparison | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Which is better for termite control: cultural practices or b
+OK   | seed=0 | style=paraphrase_comparison | call=6 | focus=application_method | judge=PASS | scope_overflow=False | q=When comparing the application methods of biopesticides and 
+OK   | seed=0 | style=paraphrase_cause | call=1 | focus=soil_condition | judge=PASS | scope_overflow=False | q=Is the severity of termite infestation in wheat crops influe
+OK   | seed=0 | style=paraphrase_cause | call=2 | focus=soil_condition | judge=PASS | scope_overflow=False | q=Does the presence of high organic matter and dry soil condit
+OK   | seed=0 | style=paraphrase_cause | call=3 | focus=soil_condition | judge=PASS | scope_overflow=False | q=Are high organic matter levels and dry soil conditions the p
+OK   | seed=0 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What environmental factors contribute to termite infestation
+OK   | seed=0 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Which factors make wheat fields prone to termite infestation
+OK   | seed=0 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Is 3 ml per kg seed the correct dosage for treating wheat se
+OK   | seed=0 | style=paraphrase_quantity_focused | call=2 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Does 1 litre per acre of Chlorpyrifos 20% EC applied with ir
+OK   | seed=0 | style=paraphrase_quantity_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the biopesticide and farm yard manure mixture kept in sh
+OK   | seed=0 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the application rate for Chlorpyrifos 20% EC in stan
+OK   | seed=0 | style=paraphrase_quantity_focused | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Which quantity of biopesticide is used with farm yard manure
+OK   | seed=0 | style=paraphrase_timing_focused | call=1 | focus=application_timing | judge=PASS | scope_overflow=False | q=Is there a specific time to apply termite control measures i
+OK   | seed=0 | style=paraphrase_timing_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does regular field monitoring for termites in wheat crops ne
+SKIP | seed=0 | style=paraphrase_timing_focused | call=3
+OK   | seed=0 | style=paraphrase_timing_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended timing for monitoring termite infest
+OK   | seed=0 | style=paraphrase_timing_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Which periods are critical for termite monitoring in wheat f
+OK   | seed=0 | style=paraphrase_timing_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=When is regular field monitoring essential for termite infes
+SKIP | seed=1 | style=paraphrase_formal | call=1
+OK   | seed=1 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the recommended management strategies for Naavaai P
+OK   | seed=1 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Which management strategies are recommended for controlling 
+OK   | seed=1 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When should chemical control measures be implemented for Gun
+OK   | seed=1 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is managing Naavaai Poochi in paddy fields important?
+OK   | seed=1 | style=paraphrase_formal | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Can you outline the integrated management strategies for con
+OK   | seed=1 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are chemical controls effective for Gundhi Bug in paddy?
+OK   | seed=1 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the chemical control options for Gundhi Bug in padd
+OK   | seed=1 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Which botanical method controls Gundhi Bug in paddy?
+OK   | seed=1 | style=paraphrase_short | call=4 | focus=application_timing | judge=PASS | scope_overflow=False | q=When to apply insecticides for Gundhi Bug control?
+SKIP | seed=1 | style=paraphrase_short | call=5
+OK   | seed=1 | style=paraphrase_short | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Can KKM dust control Gundhi Bug in paddy?
+OK   | seed=1 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Are the rice grains turning discolored and shriveled with a 
+OK   | seed=1 | style=paraphrase_problem_description | call=2 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=What if the rice grains are turning discolored and shriveled
+JUDGE_RETRY | seed=1 | style=paraphrase_problem_description | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer claims that 'the presence of chaffy grains and a foul odor indicates an infestation' without explicitly stating which pest or crop this refers to, making it an ungrounded claim.", "The generated answer omits the specific mention of 'paddy' or 'rice' in the context of the symptoms, which is necessary for proper grounding."] | q=Which crops show chaffy grains and a foul smell during the m
+OK   | seed=1 | style=paraphrase_problem_description | call=4 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=When the rice plants have chaffy grains and some are discolo
+OK   | seed=1 | style=paraphrase_problem_description | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why are my paddy grains not filling properly and having a ba
+OK   | seed=1 | style=paraphrase_problem_description | call=6 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Can the rice grains be shriveled and discolored with a foul 
+OK   | seed=1 | style=paraphrase_followup | call=1 | focus=application_timing | judge=PASS | scope_overflow=False | q=When is the best time to apply insecticides for controlling 
+SKIP | seed=1 | style=paraphrase_followup | call=2
+SKIP | seed=1 | style=paraphrase_followup | call=3
+SKIP | seed=1 | style=paraphrase_followup | call=4
+SKIP | seed=1 | style=paraphrase_followup | call=5
+OK   | seed=1 | style=paraphrase_followup | call=6 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Can you explain the dosage for Malathion 50% EC when managin
+SKIP | seed=1 | style=paraphrase_followup | call=7
+OK   | seed=1 | style=paraphrase_followup | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the impact of Naavaai Poochi infestation on rice gra
+OK   | seed=1 | style=paraphrase_followup | call=9 | focus=application_method | judge=PASS | scope_overflow=False | q=Is the application method of KKM dust formulation different 
+SKIP | seed=1 | style=paraphrase_followup | call=10
+SKIP | seed=1 | style=paraphrase_followup | call=11
+SKIP | seed=1 | style=paraphrase_followup | call=12
+OK   | seed=1 | style=paraphrase_followup | call=13 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Which symptoms indicate a severe infestation of Gundhi Bug i
+OK   | seed=1 | style=paraphrase_yes_no | call=1 | focus=application_timing | judge=PASS | scope_overflow=False | q=Is it recommended to spray insecticides during the flowering
+SKIP | seed=1 | style=paraphrase_yes_no | call=2
+OK   | seed=1 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is KKM dust formulation recommended for controlling Gundhi B
+OK   | seed=1 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Neem seed kernel extract recommended for managing initial
+SKIP | seed=1 | style=paraphrase_yes_no | call=5
+OK   | seed=1 | style=paraphrase_yes_no | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Can KKM dust formulation be used to repel Gundhi Bugs in pad
+SKIP | seed=1 | style=paraphrase_yes_no | call=7
+SKIP | seed=1 | style=paraphrase_yes_no | call=8
+OK   | seed=1 | style=paraphrase_yes_no | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=Is KKM dust formulation recommended for Gundhi Bug control?
+OK   | seed=1 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there cultural practices to prevent Gundhi Bug infestati
+OK   | seed=1 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the preventive steps to manage Naavaai Poochi (Gund
+OK   | seed=1 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Which cultural practices can help prevent infestation by Gun
+OK   | seed=1 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When should alternate host plants be removed to prevent Gund
+OK   | seed=1 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why should farmers remove alternate host plants around paddy
+OK   | seed=1 | style=paraphrase_comparison | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are Malathion 50% EC, Imidacloprid 06% + Lambda-cyhalothrin 
+OK   | seed=1 | style=paraphrase_comparison | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the chemical control methods recommended for managi
+OK   | seed=1 | style=paraphrase_comparison | call=3 | focus=chemical_name | judge=PASS | scope_overflow=False | q=Which chemical control options are recommended for severe in
+JUDGE_RETRY | seed=1 | style=paraphrase_comparison | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer adds the claim that 'Insecticides should be applied during early morning or evening hours when bugs are active' without explicitly stating this in the seed answer. While the seed mentions 'apply insecticides during early morning or evening hours', it does not explicitly state that this is because 'bugs are active' at those times.", 'The generated answer includes the formulation types (EC, SL, WG) which are not explicitly mentioned in the seed answer.'] | q=When comparing the chemical control options for Gundhi Bug i
+OK   | seed=1 | style=paraphrase_comparison | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why are multiple chemicals used for Gundhi Bug control?
+OK   | seed=1 | style=paraphrase_comparison | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Can you compare the chemical controls recommended for severe
+OK   | seed=1 | style=paraphrase_cause | call=1 | focus=application_timing | judge=PASS | scope_overflow=False | q=Are the yield losses in paddy fields primarily caused by the
+OK   | seed=1 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes the damage to paddy grains from Gundhi Bug infes
+OK   | seed=1 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Which aspect of Gundhi Bug behavior leads to grain damage in
+OK   | seed=1 | style=paraphrase_cause | call=4 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=When does the Gundhi Bug cause significant damage in paddy f
+OK   | seed=1 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why does the Gundhi Bug damage paddy crops?
+OK   | seed=1 | style=paraphrase_quantity_focused | call=1 | focus=application_timing | judge=PASS | scope_overflow=False | q=What is the economic threshold level for Gundhi Bug in paddy
+OK   | seed=1 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended dosage of Malathion 50% EC for contr
+SKIP | seed=1 | style=paraphrase_quantity_focused | call=3
+SKIP | seed=1 | style=paraphrase_quantity_focused | call=4
+SKIP | seed=1 | style=paraphrase_quantity_focused | call=5
+OK   | seed=1 | style=paraphrase_quantity_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the volume of water required for Malathion 50% EC applic
+OK   | seed=1 | style=paraphrase_quantity_focused | call=7 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Should the Dinotefuran 15% + Pymetrozine 45% WG mixture be a
+SKIP | seed=1 | style=paraphrase_quantity_focused | call=8
+OK   | seed=1 | style=paraphrase_quantity_focused | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Malathion 50% EC applied at 200 ml/acre in 200–240 liters
+DUPE | seed=1 | style=paraphrase_timing_focused | q=When is the best time to apply insecticides for managing Gun
+OK   | seed=1 | style=paraphrase_timing_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the optimal time window for applying insecticides to
+OK   | seed=1 | style=paraphrase_timing_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Which time frames are recommended for applying insecticides 
+OK   | seed=1 | style=paraphrase_timing_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When should insecticides be applied to manage Gundhi Bug in 
+OK   | seed=1 | style=paraphrase_timing_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why should insecticides be applied during early morning or e
+OK   | seed=1 | style=paraphrase_timing_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Can insecticides be applied during specific times to avoid a
+SKIP | seed=2 | style=paraphrase_formal | call=1
+OK   | seed=2 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Are wheat seeds eligible for treatment with Nirog fungicide 
+OK   | seed=2 | style=paraphrase_formal | call=3 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Is the application of Nirog fungicide advisable for wheat se
+OK   | seed=2 | style=paraphrase_formal | call=4 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Is the application of Nirog fungicide recommended for wheat 
+JUDGE_RETRY | seed=2 | style=paraphrase_formal | retry=1/3 | conf=high | scope_overflow=False | issues=['The generated answer includes information about alternative fungicides (Carboxin 37.5% + Thiram 37.5% WS and Tebuconazole 2% DS) for loose smut and common bunt, which were not mentioned in the question. This introduces new information not directly related to the specific recommendation for Nirog, which is the focus of the question.'] | q=When is seed treatment with Nirog recommended for wheat dise
+OK   | seed=2 | style=paraphrase_formal | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is Trichoderma viride 1.5% WP recommended for loose smut
+OK   | seed=2 | style=paraphrase_formal | call=7 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Is it advisable to employ seed treatment with Nirog fungicid
+OK   | seed=2 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Does Nirog fungicide protect wheat seeds from diseases?
+OK   | seed=2 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Are wheat seeds treated with Nirog effective for disease con
+OK   | seed=2 | style=paraphrase_short | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the dosage for Trichoderma viride 1.5% WP in wheat?
+SKIP | seed=2 | style=paraphrase_short | call=4
+OK   | seed=2 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=When to treat wheat seeds with Nirog?
+OK   | seed=2 | style=paraphrase_short | call=6 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Why use Trichoderma viride 1.5% WP for wheat seed treatment?
+OK   | seed=2 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Does my wheat seed show discolored spots and poor germinatio
+OK   | seed=2 | style=paraphrase_problem_description | call=2 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Are the wheat seedlings showing weak growth and yellowing le
+OK   | seed=2 | style=paraphrase_problem_description | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What if the wheat seeds are not germinating well and the you
+OK   | seed=2 | style=paraphrase_problem_description | call=4 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Which steps should I take if my wheat seeds are discolored a
+OK   | seed=2 | style=paraphrase_problem_description | call=5 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=When wheat seeds are discolored and not germinating well, wh
+OK   | seed=2 | style=paraphrase_followup | call=1 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Does Trichoderma viride 1.50% WP require a specific dosage f
+OK   | seed=2 | style=paraphrase_followup | call=2 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Are the dosage quantities for Trichoderma viride 1.5% WP and
+OK   | seed=2 | style=paraphrase_followup | call=3 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=What is the correct application method for Trichoderma virid
+SKIP | seed=2 | style=paraphrase_followup | call=4
+OK   | seed=2 | style=paraphrase_followup | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=When treating wheat seeds for loose smut, how much Trichoder
+SKIP | seed=2 | style=paraphrase_followup | call=6
+OK   | seed=2 | style=paraphrase_followup | call=7 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Can you explain the application method for Trichoderma virid
+SKIP | seed=2 | style=paraphrase_yes_no | call=1
+OK   | seed=2 | style=paraphrase_yes_no | call=2 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Are biological fungicides like Trichoderma viride 1.5% WP re
+OK   | seed=2 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Trichoderma viride 1.5% WP recommended for controlling lo
+SKIP | seed=2 | style=paraphrase_yes_no | call=4
+OK   | seed=2 | style=paraphrase_yes_no | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=When treating wheat seeds for loose smut, is Trichoderma vir
+OK   | seed=2 | style=paraphrase_yes_no | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Trichoderma viride 1.5% WP effective against loose smut i
+OK   | seed=2 | style=paraphrase_yes_no | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Can Trichoderma viride 1.5% WP be used to control loose smut
+SKIP | seed=2 | style=paraphrase_preventive | call=1
+OK   | seed=2 | style=paraphrase_preventive | call=2 | focus=application_timing | judge=PASS | scope_overflow=False | q=Are there cultural practices to reduce wheat disease risks b
+SKIP | seed=2 | style=paraphrase_preventive | call=3
+JUDGE_RETRY | seed=2 | style=paraphrase_preventive | retry=1/3 | conf=medium | scope_overflow=False | issues=['The generated answer introduces the concept of verifying active ingredients and checking CIB registration, which is not explicitly mentioned in the seed answer as a step for disease prevention using biological fungicides.', "The generated answer mentions 'checking the label for approved usage and following manufacturer guidelines,' which is not explicitly stated in the seed answer as a specific step for disease prevention in wheat using biological fungicides."] | q=Which steps can farmers take to ensure effective disease pre
+OK   | seed=2 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=When should wheat seeds be treated to prevent diseases?
+OK   | seed=2 | style=paraphrase_preventive | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Why should Trichoderma viride be used for wheat disease prev
+OK   | seed=2 | style=paraphrase_preventive | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Can verifying fungicide authenticity prevent wheat diseases?
+OK   | seed=2 | style=paraphrase_preventive | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Should wheat seeds be treated with Trichoderma viride to pre
+OK   | seed=2 | style=paraphrase_comparison | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the bio-fungicide Trichoderma viride 1.5% WP differ fro
+SKIP | seed=2 | style=paraphrase_comparison | call=2
+OK   | seed=2 | style=paraphrase_comparison | call=3 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=What are the differences between Trichoderma viride 1.5% WP 
+OK   | seed=2 | style=paraphrase_comparison | call=4 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Which is a biological option for wheat seed treatment: Trich
+OK   | seed=2 | style=paraphrase_comparison | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=When choosing a fungicide for wheat, how do Trichoderma viri
+OK   | seed=2 | style=paraphrase_comparison | call=6 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Why is Trichoderma viride 1.5% WP recommended for wheat seed
+JUDGE_RETRY | seed=2 | style=paraphrase_cause | retry=1/3 | conf=high | scope_overflow=False | issues=['The generated answer claims that Nirog contains Trichoderma viride, but the seed answer only mentions Trichoderma viride 1.5% WP as a separate product, not as an ingredient in Nirog. This is an ungrounded claim.', "The generated answer states that Nirog 'protects seeds during germination by targeting pathogens that cause diseases like loose smut, Karnal bunt, and seedling blights.' These specific diseases are mentioned in the seed answer, but the generated answer implies that Nirog is effective against them, which is not explicitly stated in the seed answer."] | q=Does using Nirog as a seed treatment prevent wheat diseases 
+OK   | seed=2 | style=paraphrase_cause | call=2 | focus=pathogen_name | judge=PASS | scope_overflow=False | q=Are seed-borne pathogens the primary cause of wheat diseases
+OK   | seed=2 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes Loose Smut in wheat and how does Trichoderma vir
+OK   | seed=2 | style=paraphrase_cause | call=4 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Which factors necessitate seed treatment for wheat in Uttar 
+JUDGE_RETRY | seed=2 | style=paraphrase_cause | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer mentions 'Trichoderma viride 1.5% WP' without explicitly stating that this is the active ingredient in 'Nirog' as per the seed answer. This could be considered an ungrounded claim.", "The generated answer introduces the concept of 'harmful microbes' without explicitly citing this term from the seed answer, which may be considered a paraphrased but ungrounded claim."] | q=When do wheat seeds need treatment with fungicides like Niro
+OK   | seed=2 | style=paraphrase_cause | call=6 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Why is Trichoderma viride 1.5% WP recommended for wheat seed
+OK   | seed=2 | style=paraphrase_cause | call=7 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Can the use of Trichoderma viride 1.5% WP in wheat seed trea
+DUPE | seed=2 | style=paraphrase_quantity_focused | q=Does Trichoderma viride 1.5% WP require a specific dosage fo
+OK   | seed=2 | style=paraphrase_quantity_focused | call=2 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=What quantity of Trichoderma viride 1.5% WP is recommended f
+OK   | seed=2 | style=paraphrase_quantity_focused | call=3 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=What is the recommended dosage of Trichoderma viride 1.5% WP
+OK   | seed=2 | style=paraphrase_quantity_focused | call=4 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Which dosage of Trichoderma viride 1.50% WP is recommended f
+OK   | seed=2 | style=paraphrase_quantity_focused | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=When treating wheat seeds for loose smut, how much Trichoder
+OK   | seed=2 | style=paraphrase_quantity_focused | call=6 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Why is Trichoderma viride 1.5% WP applied at 4 grams per kg 
+OK   | seed=2 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When should wheat seeds be treated with Trichoderma viride 1
+OK   | seed=2 | style=paraphrase_timing_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific timing guidelines for applying Trichoderm
+OK   | seed=2 | style=paraphrase_timing_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended time for applying Trichoderma viride
+OK   | seed=2 | style=paraphrase_timing_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Which time period is recommended for applying Trichoderma vi
+OK   | seed=2 | style=paraphrase_timing_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=When should wheat seeds be treated with Nirog for disease co
+OK   | seed=3 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Can integrated weed management strategies effectively contro
+SKIP | seed=3 | style=paraphrase_formal | call=2
+OK   | seed=3 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the recommended herbicides for wild onion control i
+OK   | seed=3 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What integrated weed management strategies are recommended f
+OK   | seed=3 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Does integrated weed management effectively control wild oni
+OK   | seed=3 | style=paraphrase_formal | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific water management practices recommended du
+SKIP | seed=3 | style=paraphrase_short | call=1
+OK   | seed=3 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Pretilachlor 50% EC be used for wild onion control in
+OK   | seed=3 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What is Bispyribac sodium 10% SC used for in paddy?
+OK   | seed=3 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is wild onion in paddy controlled by herbicides and hand wee
+OK   | seed=3 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Does Pretilachlor 50% EC control wild onion in paddy?
+OK   | seed=3 | style=paraphrase_short | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Are proper water levels required during herbicide applicatio
+OK   | seed=3 | style=paraphrase_problem_description | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Can there be weeds growing among the paddy plants that are d
+OK   | seed=3 | style=paraphrase_problem_description | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Should I be concerned about weeds growing alongside my paddy
+OK   | seed=3 | style=paraphrase_problem_description | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the best way to manage weeds in my paddy field that 
+OK   | seed=3 | style=paraphrase_problem_description | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a way to manage the green, grass-like plants that a
+JUDGE_RETRY | seed=3 | style=paraphrase_problem_description | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer claims 'Wild onions are growing among the paddy plants,' which is not explicitly stated in the seed answer. The seed answer only discusses control methods for wild onions, not their presence in the field."] | q=Does the paddy field have weeds growing among the plants?
+OK   | seed=3 | style=paraphrase_problem_description | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the weeds in my paddy field growing rapidly and competin
+SKIP | seed=3 | style=paraphrase_followup | call=1
+SKIP | seed=3 | style=paraphrase_followup | call=2
+OK   | seed=3 | style=paraphrase_followup | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the correct timing for applying Bispyribac sodium 10
+SKIP | seed=3 | style=paraphrase_followup | call=4
+OK   | seed=3 | style=paraphrase_followup | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the timing of herbicide application affect wild onion c
+OK   | seed=3 | style=paraphrase_followup | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the application timings for Bispyribac sodium 10% SC dif
+OK   | seed=3 | style=paraphrase_followup | call=7 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=What is the recommended irrigation method during herbicide a
+OK   | seed=3 | style=paraphrase_followup | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Which application timing is recommended for Bispyribac sodiu
+DUPE | seed=3 | style=paraphrase_yes_no | q=Can Pretilachlor 50% EC be used for wild onion control in pa
+OK   | seed=3 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Should pre-emergence herbicides be applied within 3 days aft
+OK   | seed=3 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Pretilachlor 50% EC recommended for wild onion control in
+OK   | seed=3 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is maintaining a 2-3 inch water level recommended during her
+SKIP | seed=3 | style=paraphrase_yes_no | call=5
+OK   | seed=3 | style=paraphrase_yes_no | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Bispyribac sodium 10% SC recommended for post-emergence c
+OK   | seed=3 | style=paraphrase_yes_no | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Is hand weeding an effective method for controlling wild oni
+OK   | seed=3 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Can I prevent wild onion (Mathia) in paddy fields by applyin
+SKIP | seed=3 | style=paraphrase_preventive | call=2
+OK   | seed=3 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the preventive approach to manage wild onion (Mathia
+OK   | seed=3 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a way to prevent wild onion infestation in paddy fi
+SKIP | seed=3 | style=paraphrase_preventive | call=5
+OK   | seed=3 | style=paraphrase_preventive | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there cultural practices to prevent wild onion infestati
+OK   | seed=3 | style=paraphrase_preventive | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=What steps can be taken to prevent wild onion (Mathia) in pa
+OK   | seed=3 | style=paraphrase_comparison | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Can Pretilachlor 50% EC and Pyrazosulfuron ethyl 10% WP be u
+OK   | seed=3 | style=paraphrase_comparison | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Pretilachlor 50% EC or Pyrazosulfuron ethyl 10% WP be
+OK   | seed=3 | style=paraphrase_comparison | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the difference between Pretilachlor 50% EC, Pyrazosu
+OK   | seed=3 | style=paraphrase_comparison | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Pretilachlor 50% EC more effective than Pyrazosulfuron et
+OK   | seed=3 | style=paraphrase_comparison | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Does Pretilachlor 50% EC or Pyrazosulfuron ethyl 10% WP work
+OK   | seed=3 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Can improper herbicide timing lead to wild onion persistence
+OK   | seed=3 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Should wild onion (Mathia) infestation in paddy fields be ad
+SKIP | seed=3 | style=paraphrase_cause | call=3
+SKIP | seed=3 | style=paraphrase_cause | call=4
+SKIP | seed=3 | style=paraphrase_cause | call=5
+OK   | seed=3 | style=paraphrase_cause | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the specific application timings of herbicides essential
+OK   | seed=3 | style=paraphrase_cause | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes wild onion (Mathia) to persist in paddy fields d
+SKIP | seed=3 | style=paraphrase_cause | call=8
+OK   | seed=3 | style=paraphrase_cause | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=When does wild onion (Mathia) emergence in paddy fields requ
+OK   | seed=3 | style=paraphrase_quantity_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Can Pretilachlor 50% EC be applied at 600 ml/acre for wild o
+OK   | seed=3 | style=paraphrase_quantity_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Bispyribac sodium 10% SC be applied at 100 ml/acre fo
+OK   | seed=3 | style=paraphrase_quantity_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended water level for paddy fields during 
+OK   | seed=3 | style=paraphrase_quantity_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Pretilachlor 50% EC applied at 600 ml/acre for wild onion
+OK   | seed=3 | style=paraphrase_quantity_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Does maintaining a water level of 2-3 inches help in control
+OK   | seed=3 | style=paraphrase_timing_focused | call=1 | focus=application_timing | judge=PASS | scope_overflow=False | q=Can wild onion (Mathia) in paddy be controlled by applying P
+OK   | seed=3 | style=paraphrase_timing_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Bispyribac sodium 10% SC be applied at 20-25 days aft
+OK   | seed=3 | style=paraphrase_timing_focused | call=3 | focus=application_timing | judge=PASS | scope_overflow=False | q=What is the best time to apply Bispyribac sodium 10% SC for 
+OK   | seed=3 | style=paraphrase_timing_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Bispyribac sodium 10% SC applied at 20-25 days after tran
+SKIP | seed=3 | style=paraphrase_timing_focused | call=5
+OK   | seed=3 | style=paraphrase_timing_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=When should hand weeding be performed to control wild onion 
+OK   | seed=4 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Which measures are recommended for managing thrips in wheat 
+OK   | seed=4 | style=paraphrase_formal | call=2 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=When managing wheat crops, what strategies are recommended f
+OK   | seed=4 | style=paraphrase_formal | call=3 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Why is whitefly not a significant pest in wheat crops, and w
+OK   | seed=4 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the recommended management strategies for thrips in
+OK   | seed=4 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should thrips in wheat crops be managed through specific mon
+OK   | seed=4 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Which pest affects wheat and requires blue pan traps?
+OK   | seed=4 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When to use blue pan traps for thrips in wheat?
+OK   | seed=4 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why use blue pan traps for thrips in wheat?
+OK   | seed=4 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can blue pan traps monitor thrips in wheat?
+OK   | seed=4 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should thrips be controlled in wheat?
+OK   | seed=4 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Which symptoms indicate a problem with small insects on whea
+OK   | seed=4 | style=paraphrase_problem_description | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When the wheat leaves show silver discoloration and small in
+OK   | seed=4 | style=paraphrase_problem_description | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why are the stems of my wheat plants turning silver and havi
+OK   | seed=4 | style=paraphrase_problem_description | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can you help identify the cause of silver-colored patches on
+OK   | seed=4 | style=paraphrase_problem_description | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should the leaves of my wheat crop showing silver patches an
+OK   | seed=4 | style=paraphrase_followup | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Which type of trap is recommended for monitoring thrips in w
+OK   | seed=4 | style=paraphrase_followup | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When setting up blue pan traps for thrips monitoring, how hi
+SKIP | seed=4 | style=paraphrase_followup | call=3
+OK   | seed=4 | style=paraphrase_followup | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can I use empty tins as blue pan traps for monitoring thrips
+SKIP | seed=4 | style=paraphrase_followup | call=5
+OK   | seed=4 | style=paraphrase_followup | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the correct method for setting up blue pan traps to 
+OK   | seed=4 | style=paraphrase_followup | call=7 | focus=application_method | judge=PASS | scope_overflow=False | q=Is the application method for blue pan traps different when 
+OK   | seed=4 | style=paraphrase_yes_no | call=1 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Is whitefly a significant pest in wheat crops?
+OK   | seed=4 | style=paraphrase_yes_no | call=2 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=When is whitefly a significant pest in wheat crops?
+SKIP | seed=4 | style=paraphrase_yes_no | call=3
+SKIP | seed=4 | style=paraphrase_yes_no | call=4
+SKIP | seed=4 | style=paraphrase_yes_no | call=5
+SKIP | seed=4 | style=paraphrase_yes_no | call=6
+OK   | seed=4 | style=paraphrase_yes_no | call=7 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Is whitefly a significant pest affecting wheat crops?
+SKIP | seed=4 | style=paraphrase_yes_no | call=8
+DUPE | seed=4 | style=paraphrase_yes_no | q=Is whitefly a significant pest affecting wheat crops?
+SKIP | seed=4 | style=paraphrase_yes_no | call=10
+SKIP | seed=4 | style=paraphrase_yes_no | call=11
+SKIP | seed=4 | style=paraphrase_yes_no | call=12
+SKIP | seed=4 | style=paraphrase_yes_no | call=13
+ABANDON | seed=4 | style=paraphrase_yes_no | done=3/5
+OK   | seed=4 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Which preventive measures can be taken to manage thrips in w
+OK   | seed=4 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When should blue pan traps be set up to prevent thrips infes
+OK   | seed=4 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is monitoring thrips using blue pan traps important for 
+OK   | seed=4 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can proper trap placement and monitoring prevent thrips infe
+OK   | seed=4 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers use blue traps to prevent thrips in wheat?
+OK   | seed=4 | style=paraphrase_comparison | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Which method is more effective for monitoring thrips in whea
+OK   | seed=4 | style=paraphrase_comparison | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When considering thrips management in wheat, how do blue pan
+OK   | seed=4 | style=paraphrase_comparison | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why are blue pan traps recommended for thrips monitoring in 
+OK   | seed=4 | style=paraphrase_comparison | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can blue pan traps and yellow sticky traps be used for monit
+OK   | seed=4 | style=paraphrase_comparison | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should blue pan traps or yellow sticky traps be used for thr
+OK   | seed=4 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Why do thrips damage wheat crops?
+OK   | seed=4 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When do thrips cause silver discoloration on wheat leaves, a
+OK   | seed=4 | style=paraphrase_cause | call=3 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Why do wheat crops exhibit silver-colored lesions on the ste
+OK   | seed=4 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the silver discoloration on wheat leaves be attributed t
+OK   | seed=4 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers be concerned about silver-colored wheat leave
+OK   | seed=4 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Which quantity of blue pan traps is recommended per acre for
+OK   | seed=4 | style=paraphrase_quantity_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When should yellow sticky traps be placed for aphid monitori
+OK   | seed=4 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Why are 4-10 blue pan traps recommended per acre for thrips 
+OK   | seed=4 | style=paraphrase_quantity_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the number of blue pan traps for thrips monitoring in wh
+OK   | seed=4 | style=paraphrase_quantity_focused | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Should 4-10 blue pan traps per acre be set up for thrips mon
+SKIP | seed=4 | style=paraphrase_timing_focused | call=1
+OK   | seed=4 | style=paraphrase_timing_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When is the optimal time to deploy blue pan traps for thrips
+OK   | seed=4 | style=paraphrase_timing_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is daily monitoring of thrips important in wheat crops?
+OK   | seed=4 | style=paraphrase_timing_focused | call=4 | focus=application_timing | judge=PASS | scope_overflow=False | q=Can thrips be monitored during the early growth stages of wh
+OK   | seed=4 | style=paraphrase_timing_focused | call=5 | focus=application_timing | judge=PASS | scope_overflow=False | q=Should thrips be monitored during a specific growth stage in
+OK   | seed=4 | style=paraphrase_timing_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended timing for monitoring thrips in whea

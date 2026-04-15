@@ -1,0 +1,1126 @@
+OK   | seed=0 | style=paraphrase_formal | call=1 | focus=unknown | q=Can the infestation of termites (deemak/geda) in wheat crops
+OK   | seed=0 | style=paraphrase_formal | call=2 | focus=unknown | q=Should the management of termite infestation in wheat crops 
+OK   | seed=0 | style=paraphrase_formal | call=3 | focus=unknown | q=What is the integrated management strategy for termite infes
+OK   | seed=0 | style=paraphrase_formal | call=4 | focus=unknown | q=Is there a recommended approach for managing termite infesta
+OK   | seed=0 | style=paraphrase_formal | call=5 | focus=unknown | q=Does termite infestation affect wheat crops in Uttar Pradesh
+OK   | seed=0 | style=paraphrase_short | call=1 | focus=unknown | q=Can termite infestation in wheat be controlled?
+OK   | seed=0 | style=paraphrase_short | call=2 | focus=unknown | q=Should termite infestation in wheat be treated with Chlorpyr
+OK   | seed=0 | style=paraphrase_short | call=3 | focus=seed_treatment | q=What is the seed treatment for termite in wheat?
+OK   | seed=0 | style=paraphrase_short | call=4 | focus=unknown | q=Is termite infestation in wheat manageable?
+OK   | seed=0 | style=paraphrase_short | call=5 | focus=unknown | q=Does Chlorpyrifos 20% EC control termites in wheat?
+OK   | seed=0 | style=paraphrase_problem_description | call=1 | focus=unknown | q=Can the plants in my field be pulled out easily, and some ar
+OK   | seed=0 | style=paraphrase_problem_description | call=2 | focus=unknown | q=Should I be worried about patches of dry plants in my wheat 
+OK   | seed=0 | style=paraphrase_problem_description | call=3 | focus=symptom_detail | q=What is the solution for dry patches appearing in wheat fiel
+OK   | seed=0 | style=paraphrase_problem_description | call=4 | focus=symptom_detail | q=Is the wheat crop showing signs of yellowing leaves and stun
+OK   | seed=0 | style=paraphrase_problem_description | call=5 | focus=unknown | q=Does my wheat crop have yellow leaves and weak plants that p
+OK   | seed=0 | style=paraphrase_followup | call=1 | focus=unknown | q=Can I use any other chemical for termite control apart from 
+OK   | seed=0 | style=paraphrase_followup | call=2 | focus=irrigation_method | q=Should the application of Chlorpyrifos 20% EC be done with i
+OK   | seed=0 | style=paraphrase_followup | call=3 | focus=seed_treatment | q=What is the recommended seed treatment for wheat to protect 
+OK   | seed=0 | style=paraphrase_followup | call=4 | focus=unknown | q=Is it safe to use Chlorpyrifos 20% EC for termite control in
+OK   | seed=0 | style=paraphrase_followup | call=5 | focus=unknown | q=Does Chlorpyrifos 20% EC work for termite control in wheat?
+OK   | seed=0 | style=paraphrase_yes_no | call=1 | focus=unknown | q=Can Chlorpyrifos 20% EC be used for termite control in stand
+DUPE | seed=0 | style=paraphrase_yes_no | q=Should Chlorpyrifos 20% EC be used for termite control in st
+OK   | seed=0 | style=paraphrase_yes_no | call=3 | focus=unknown | q=What is the correct method for treating wheat seeds to preve
+OK   | seed=0 | style=paraphrase_yes_no | call=4 | focus=unknown | q=Is deep summer ploughing recommended for managing termite in
+OK   | seed=0 | style=paraphrase_yes_no | call=5 | focus=unknown | q=Does deep summer ploughing help manage termite infestation i
+OK   | seed=0 | style=paraphrase_yes_no | call=6 | focus=unknown | q=Are termites a major threat to wheat crops in Uttar Pradesh?
+OK   | seed=0 | style=paraphrase_preventive | call=1 | focus=unknown | q=Can proper soil preparation help prevent termite infestation
+OK   | seed=0 | style=paraphrase_preventive | call=2 | focus=unknown | q=Should farmers take any preventive measures to avoid termite
+OK   | seed=0 | style=paraphrase_preventive | call=3 | focus=unknown | q=What is the best way to prevent termite infestation in wheat
+OK   | seed=0 | style=paraphrase_preventive | call=4 | focus=unknown | q=Is there a way to prevent termite infestation in wheat field
+OK   | seed=0 | style=paraphrase_preventive | call=5 | focus=unknown | q=Does proper soil preparation help prevent termite infestatio
+OK   | seed=0 | style=paraphrase_comparison | call=1 | focus=seed_treatment | q=Can Chlorpyrifos 20% EC and thiomethoxam 30% FS be used for 
+OK   | seed=0 | style=paraphrase_comparison | call=2 | focus=unknown | q=Should Chlorpyrifos 20% EC or Beauveria bassiana 1.15% be us
+OK   | seed=0 | style=paraphrase_comparison | call=3 | focus=unknown | q=What is the difference between the biopesticides Beauvaria b
+OK   | seed=0 | style=paraphrase_comparison | call=4 | focus=unknown | q=Is Chlorpyrifos 20% EC or Beauveria bassiana 1.15% more effe
+OK   | seed=0 | style=paraphrase_comparison | call=5 | focus=unknown | q=Does Chlorpyriphos 20% EC work better than Beauvaria bassian
+OK   | seed=0 | style=paraphrase_cause | call=1 | focus=pathogen_name | q=Can termite infestation in wheat crops be caused by certain 
+OK   | seed=0 | style=paraphrase_cause | call=2 | focus=unknown | q=Why do termites cause damage to wheat crops in Uttar Pradesh
+OK   | seed=0 | style=paraphrase_cause | call=3 | focus=unknown | q=What is the cause of termite infestation in wheat crops in U
+OK   | seed=0 | style=paraphrase_cause | call=4 | focus=pathogen_name | q=Is the presence of termites in wheat fields caused by specif
+OK   | seed=0 | style=paraphrase_cause | call=5 | focus=soil_condition | q=Does termite infestation in wheat happen because of certain 
+OK   | seed=0 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | q=Can 1 kg per acre of Beauvaria bassiana 1.15% be used for te
+OK   | seed=0 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | q=How much Chlorpyrifos 20% EC should be used per acre for ter
+OK   | seed=0 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | q=What is the quantity of Chlorpyrifos 20% EC required per acr
+OK   | seed=0 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | q=Is 1 kg per acre of Beauvaria bassiana 1.15% sufficient for 
+OK   | seed=0 | style=paraphrase_quantity_focused | call=5 | focus=irrigation_method | q=Does Chlorpyrifos 20% EC need to be mixed with irrigation wa
+OK   | seed=0 | style=paraphrase_timing_focused | call=1 | focus=application_timing | q=When is the best time to apply Chlorpyrifos 20% EC for termi
+OK   | seed=0 | style=paraphrase_timing_focused | call=2 | focus=unknown | q=When should termite control measures be applied in wheat cro
+DUPE | seed=0 | style=paraphrase_timing_focused | q=What is the best time to apply Chlorpyrifos 20% EC for termi
+OK   | seed=0 | style=paraphrase_timing_focused | call=4 | focus=unknown | q=Is there a specific time during the wheat crop cycle when te
+OK   | seed=0 | style=paraphrase_timing_focused | call=5 | focus=unknown | q=Does termite infestation affect wheat during sowing time?
+OK   | seed=0 | style=paraphrase_timing_focused | call=6 | focus=unknown | q=When should Chlorpyrifos 20% EC be applied for termite contr
+OK   | seed=1 | style=paraphrase_formal | call=1 | focus=unknown | q=Are there specific management strategies for controlling the
+OK   | seed=1 | style=paraphrase_formal | call=2 | focus=unknown | q=What are the recommended methods for managing the Gundhi Bug
+OK   | seed=1 | style=paraphrase_formal | call=3 | focus=unknown | q=Which control measures are recommended for managing Naavaai 
+OK   | seed=1 | style=paraphrase_formal | call=4 | focus=application_timing | q=When is the optimal time to apply insecticides for managing 
+OK   | seed=1 | style=paraphrase_formal | call=5 | focus=unknown | q=Why does the Gundhi Bug cause damage to paddy fields?
+OK   | seed=1 | style=paraphrase_short | call=1 | focus=unknown | q=Are there chemical controls for Gundhi Bug in paddy?
+OK   | seed=1 | style=paraphrase_short | call=2 | focus=unknown | q=What is the ETL for Gundhi Bug in paddy?
+OK   | seed=1 | style=paraphrase_short | call=3 | focus=unknown | q=Which control measures are recommended for Gundhi Bug in pad
+OK   | seed=1 | style=paraphrase_short | call=4 | focus=unknown | q=When should insecticides be applied for Gundhi Bug in paddy?
+OK   | seed=1 | style=paraphrase_short | call=5 | focus=unknown | q=Why use Malathion 50% EC for Gundhi Bug?
+OK   | seed=1 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | q=Are the grains in my paddy field turning discolored and shri
+OK   | seed=1 | style=paraphrase_problem_description | call=2 | focus=symptom_detail | q=What are the visible signs of damage in my paddy field, and 
+OK   | seed=1 | style=paraphrase_problem_description | call=3 | focus=symptom_detail | q=Which pests are causing shriveled and discolored grains in m
+OK   | seed=1 | style=paraphrase_problem_description | call=4 | focus=symptom_detail | q=When I see some of the grains in my paddy field are light an
+OK   | seed=1 | style=paraphrase_problem_description | call=5 | focus=symptom_detail | q=Why are some of my rice grains shriveled and light in weight
+OK   | seed=1 | style=paraphrase_followup | call=1 | focus=unknown | q=Are there any specific times of day when it is best to apply
+OK   | seed=1 | style=paraphrase_followup | call=2 | focus=application_timing | q=What is the recommended time to apply insecticides for manag
+OK   | seed=1 | style=paraphrase_followup | call=3 | focus=chemical_name | q=Which chemical is recommended for severe infestations of Gun
+OK   | seed=1 | style=paraphrase_followup | call=4 | focus=unknown | q=When should the KKM dust formulation be applied for managing
+OK   | seed=1 | style=paraphrase_followup | call=5 | focus=unknown | q=Why is the ETL important for managing Gundhi Bug?
+OK   | seed=1 | style=paraphrase_yes_no | call=1 | focus=unknown | q=Are insecticides recommended for managing Naavaai Poochi in 
+OK   | seed=1 | style=paraphrase_yes_no | call=2 | focus=unknown | q=What is the recommended timing for applying insecticides to 
+OK   | seed=1 | style=paraphrase_yes_no | call=3 | focus=unknown | q=Which control measure is recommended for severe infestations
+OK   | seed=1 | style=paraphrase_yes_no | call=4 | focus=unknown | q=When should insecticides be applied to manage Gundhi Bug in 
+OK   | seed=1 | style=paraphrase_yes_no | call=5 | focus=unknown | q=Why should farmers avoid spraying insecticides during flower
+OK   | seed=1 | style=paraphrase_preventive | call=1 | focus=unknown | q=Are there any cultural practices to prevent the occurrence o
+OK   | seed=1 | style=paraphrase_preventive | call=2 | focus=unknown | q=What steps can be taken to prevent the occurrence of Gundhi 
+OK   | seed=1 | style=paraphrase_preventive | call=3 | focus=unknown | q=Which cultural practices can be adopted to prevent the occur
+OK   | seed=1 | style=paraphrase_preventive | call=4 | focus=unknown | q=When should paddy fields be managed to prevent infestation b
+OK   | seed=1 | style=paraphrase_preventive | call=5 | focus=unknown | q=Why should I remove alternate host plants to prevent Gundhi 
+OK   | seed=1 | style=paraphrase_comparison | call=1 | focus=unknown | q=Are there differences in the effectiveness of chemical and b
+OK   | seed=1 | style=paraphrase_comparison | call=2 | focus=unknown | q=What are the differences between the chemical control option
+OK   | seed=1 | style=paraphrase_comparison | call=3 | focus=unknown | q=Which is more effective for controlling Naavaai Poochi in pa
+OK   | seed=1 | style=paraphrase_comparison | call=4 | focus=unknown | q=When should farmers apply insecticides for managing Gundhi B
+OK   | seed=1 | style=paraphrase_comparison | call=5 | focus=unknown | q=Why should farmers use Neem seed kernel extract instead of c
+OK   | seed=1 | style=paraphrase_cause | call=1 | focus=pathogen_name | q=Are Gundhi Bugs in paddy fields caused by specific environme
+OK   | seed=1 | style=paraphrase_cause | call=2 | focus=unknown | q=What causes the damage to paddy grains from the Naavaai Pooc
+OK   | seed=1 | style=paraphrase_cause | call=3 | focus=unknown | q=Which factors cause the Rice Stink Bug to damage paddy crops
+OK   | seed=1 | style=paraphrase_cause | call=4 | focus=unknown | q=When does the Gundhi Bug become a threat to paddy crops, and
+OK   | seed=1 | style=paraphrase_cause | call=5 | focus=unknown | q=Why do Gundhi Bugs attack paddy fields?
+OK   | seed=1 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | q=Are 200 ml of Malathion 50% EC applied per acre for controll
+OK   | seed=1 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | q=What is the recommended dosage of Malathion 50% EC for contr
+OK   | seed=1 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | q=Which quantity of Malathion 50% EC is recommended for contro
+OK   | seed=1 | style=paraphrase_quantity_focused | call=4 | focus=unknown | q=When should the insecticide be applied for managing Gundhi B
+OK   | seed=1 | style=paraphrase_quantity_focused | call=5 | focus=unknown | q=Why is the ETL for Gundhi Bug 5 bugs per 100 ear heads at fl
+OK   | seed=1 | style=paraphrase_timing_focused | call=1 | focus=unknown | q=When should insecticides be applied to manage Naavaai Poochi
+DUPE | seed=1 | style=paraphrase_timing_focused | q=When should insecticides be applied to manage Naavaai Poochi
+OK   | seed=1 | style=paraphrase_timing_focused | call=3 | focus=unknown | q=Which time period is most critical for managing Naavaai Pooc
+OK   | seed=1 | style=paraphrase_timing_focused | call=4 | focus=unknown | q=When should the KKM dust formulation be applied for managing
+OK   | seed=1 | style=paraphrase_timing_focused | call=5 | focus=unknown | q=Why should insecticides be applied early in the morning or e
+OK   | seed=1 | style=paraphrase_timing_focused | call=6 | focus=unknown | q=Can the timing of insecticide application for Gundhi Bug in 
+OK   | seed=2 | style=paraphrase_formal | call=1 | focus=chemical_name | q=Which fungicides are recommended for the treatment of wheat 
+OK   | seed=2 | style=paraphrase_formal | call=2 | focus=application_timing | q=When is the appropriate time to apply fungicides for the con
+OK   | seed=2 | style=paraphrase_formal | call=3 | focus=application_timing | q=Why is it important to treat wheat seeds with fungicides bef
+OK   | seed=2 | style=paraphrase_formal | call=4 | focus=seed_treatment | q=Can the application of Nirog as a fungicide be recommended f
+OK   | seed=2 | style=paraphrase_formal | call=5 | focus=unknown | q=Should wheat seeds be treated with Nirog for disease control
+OK   | seed=2 | style=paraphrase_short | call=1 | focus=seed_treatment | q=Which fungicide is recommended for wheat seed treatment in U
+OK   | seed=2 | style=paraphrase_short | call=2 | focus=unknown | q=When should wheat seeds be treated with fungicides?
+OK   | seed=2 | style=paraphrase_short | call=3 | focus=seed_treatment | q=Why use Trichoderma viride 1.5% WP for wheat seed treatment?
+OK   | seed=2 | style=paraphrase_short | call=4 | focus=seed_treatment | q=Can Nirog be used for wheat seed treatment?
+OK   | seed=2 | style=paraphrase_short | call=5 | focus=unknown | q=Should wheat seeds be treated with Nirog?
+OK   | seed=2 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | q=Which symptoms are appearing in the wheat field that indicat
+OK   | seed=2 | style=paraphrase_problem_description | call=2 | focus=unknown | q=When I look at my wheat field, the seeds are not germinating
+OK   | seed=2 | style=paraphrase_problem_description | call=3 | focus=unknown | q=Why are the wheat plants in my field showing weak growth and
+OK   | seed=2 | style=paraphrase_problem_description | call=4 | focus=unknown | q=Can I treat my wheat seeds with a biological fungicide that 
+OK   | seed=2 | style=paraphrase_problem_description | call=5 | focus=application_timing | q=Should the wheat seeds show signs of poor germination and we
+OK   | seed=2 | style=paraphrase_followup | call=1 | focus=chemical_name | q=Which fungicide is recommended for treating Loose Smut in wh
+OK   | seed=2 | style=paraphrase_followup | call=2 | focus=seed_treatment | q=When should the Trichoderma viride 1.5% WP be applied for wh
+OK   | seed=2 | style=paraphrase_followup | call=3 | focus=seed_treatment | q=Why is seed treatment important for wheat in Uttar Pradesh?
+OK   | seed=2 | style=paraphrase_followup | call=4 | focus=dosage_quantity | q=Can we apply Trichoderma viride 1.5% WP at 4 grams per kg of
+OK   | seed=2 | style=paraphrase_followup | call=5 | focus=unknown | q=Should Trichoderma viride 1.5% WP be applied in the same way
+DUPE | seed=2 | style=paraphrase_yes_no | q=Which fungicide is recommended for treating loose smut in wh
+OK   | seed=2 | style=paraphrase_yes_no | call=2 | focus=application_timing | q=When is the best time to apply seed treatment for wheat in U
+OK   | seed=2 | style=paraphrase_yes_no | call=3 | focus=application_timing | q=Why should wheat seeds be treated before sowing in Uttar Pra
+OK   | seed=2 | style=paraphrase_yes_no | call=4 | focus=seed_treatment | q=Can Trichoderma viride 1.5% WP be used for seed treatment in
+DUPE | seed=2 | style=paraphrase_yes_no | q=Should Trichoderma viride 1.5% WP be used for wheat seed tre
+OK   | seed=2 | style=paraphrase_yes_no | call=6 | focus=dosage_quantity | q=What is the recommended application rate of Trichoderma viri
+OK   | seed=2 | style=paraphrase_yes_no | call=7 | focus=unknown | q=Is Trichoderma viride 1.5% WP suitable for treating wheat se
+OK   | seed=2 | style=paraphrase_preventive | call=1 | focus=application_timing | q=Which preventive measures can be taken to protect wheat crop
+OK   | seed=2 | style=paraphrase_preventive | call=2 | focus=unknown | q=When should wheat seeds be treated to prevent diseases?
+DUPE | seed=2 | style=paraphrase_preventive | q=Why should wheat seeds be treated before sowing in Uttar Pra
+OK   | seed=2 | style=paraphrase_preventive | call=4 | focus=unknown | q=Can we prevent wheat seed-borne diseases by preparing the so
+OK   | seed=2 | style=paraphrase_preventive | call=5 | focus=application_timing | q=Should wheat seeds be treated before sowing to prevent disea
+OK   | seed=2 | style=paraphrase_preventive | call=6 | focus=seed_treatment | q=What is the importance of seed treatment for wheat in Uttar 
+OK   | seed=2 | style=paraphrase_comparison | call=1 | focus=unknown | q=Which is better for treating wheat seeds, Nirog or Carboxin 
+OK   | seed=2 | style=paraphrase_comparison | call=2 | focus=seed_treatment | q=When comparing Trichoderma viride 1.5% WP and Carboxin 37.5%
+OK   | seed=2 | style=paraphrase_comparison | call=3 | focus=seed_treatment | q=Why is Trichoderma viride 1.5% WP preferred over other fungi
+OK   | seed=2 | style=paraphrase_comparison | call=4 | focus=seed_treatment | q=Can Trichoderma viride 1.5% WP and Carboxin 37.5% + Thiram 3
+OK   | seed=2 | style=paraphrase_comparison | call=5 | focus=seed_treatment | q=Should Nirog be used for wheat seed treatment in Uttar Prade
+OK   | seed=2 | style=paraphrase_cause | call=1 | focus=unknown | q=Which factors cause wheat crops to be vulnerable to diseases
+OK   | seed=2 | style=paraphrase_cause | call=2 | focus=seed_treatment | q=When does the use of Trichoderma viride 1.5% WP in wheat see
+DUPE | seed=2 | style=paraphrase_cause | q=Why is seed treatment important for wheat in Uttar Pradesh?
+OK   | seed=2 | style=paraphrase_cause | call=4 | focus=seed_treatment | q=Can the use of Nirog as a seed treatment lead to the prevent
+OK   | seed=2 | style=paraphrase_cause | call=5 | focus=unknown | q=Should wheat seeds be treated with Nirog to prevent diseases
+OK   | seed=2 | style=paraphrase_cause | call=6 | focus=seed_treatment | q=What is the cause of the need for seed treatment in wheat cu
+OK   | seed=2 | style=paraphrase_quantity_focused | call=1 | focus=seed_treatment | q=Which quantity of Trichoderma viride 1.50% WP is recommended
+OK   | seed=2 | style=paraphrase_quantity_focused | call=2 | focus=seed_treatment | q=When should Trichoderma viride 1.50% WP be applied for wheat
+OK   | seed=2 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | q=Why should Trichoderma viride 1.50% WP be applied at 4 grams
+OK   | seed=2 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | q=Can Trichoderma viride 1.5% WP be used at 4 grams per kg of 
+OK   | seed=2 | style=paraphrase_quantity_focused | call=5 | focus=dosage_quantity | q=Should Trichoderma viride 1.50% WP be used at 4 grams per kg
+OK   | seed=2 | style=paraphrase_timing_focused | call=1 | focus=unknown | q=When should wheat seeds be treated with fungicides in Uttar 
+DUPE | seed=2 | style=paraphrase_timing_focused | q=When should wheat seeds be treated with fungicides in Uttar 
+OK   | seed=2 | style=paraphrase_timing_focused | call=3 | focus=unknown | q=Why should wheat seeds be treated with Trichoderma viride 1.
+DUPE | seed=2 | style=paraphrase_timing_focused | q=When should wheat seeds be treated with Trichoderma viride 1
+OK   | seed=2 | style=paraphrase_timing_focused | call=5 | focus=application_timing | q=Should wheat seeds be treated with Nirog before sowing?
+OK   | seed=2 | style=paraphrase_timing_focused | call=6 | focus=unknown | q=What is the best time to treat wheat seeds with Trichoderma 
+OK   | seed=2 | style=paraphrase_timing_focused | call=7 | focus=unknown | q=Is it possible to treat wheat seeds with Trichoderma viride 
+OK   | seed=3 | style=paraphrase_formal | call=1 | focus=unknown | q=Are there effective methods for controlling wild onion (Math
+OK   | seed=3 | style=paraphrase_formal | call=2 | focus=unknown | q=What are the recommended methods for controlling wild onion 
+OK   | seed=3 | style=paraphrase_formal | call=3 | focus=unknown | q=Which integrated weed management practices are recommended f
+OK   | seed=3 | style=paraphrase_formal | call=4 | focus=unknown | q=When should pre-emergence herbicides be applied for the cont
+OK   | seed=3 | style=paraphrase_formal | call=5 | focus=unknown | q=Why is wild onion a problem in paddy fields in Punjab, and w
+OK   | seed=3 | style=paraphrase_short | call=1 | focus=unknown | q=Are wild onion control methods available for paddy in Punjab
+OK   | seed=3 | style=paraphrase_short | call=2 | focus=unknown | q=What is the method to control wild onion in paddy in Punjab?
+OK   | seed=3 | style=paraphrase_short | call=3 | focus=unknown | q=Which herbicides control wild onion in paddy?
+OK   | seed=3 | style=paraphrase_short | call=4 | focus=application_timing | q=When to apply herbicides for wild onion control in paddy?
+OK   | seed=3 | style=paraphrase_short | call=5 | focus=unknown | q=Why use Pretilachlor for wild onion in paddy?
+OK   | seed=3 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | q=Are there yellowing and thinning plants in my paddy field, a
+OK   | seed=3 | style=paraphrase_problem_description | call=2 | focus=unknown | q=What are the yellowish patches and thinning plants in my pad
+OK   | seed=3 | style=paraphrase_problem_description | call=3 | focus=symptom_detail | q=Which symptoms indicate the presence of wild onion in my pad
+OK   | seed=3 | style=paraphrase_problem_description | call=4 | focus=unknown | q=When I see thin, grass-like plants growing among my paddy pl
+OK   | seed=3 | style=paraphrase_problem_description | call=5 | focus=unknown | q=Why are some plants growing thick and tall in my paddy field
+OK   | seed=3 | style=paraphrase_followup | call=1 | focus=unknown | q=Are there any specific water level requirements during the a
+OK   | seed=3 | style=paraphrase_followup | call=2 | focus=dosage_quantity | q=What is the correct dosage of Pretilachlor 50% EC for contro
+OK   | seed=3 | style=paraphrase_followup | call=3 | focus=unknown | q=Which herbicide is recommended for post-emergence control of
+OK   | seed=3 | style=paraphrase_followup | call=4 | focus=unknown | q=When should I apply Bispyribac sodium 10% SC for wild onion 
+OK   | seed=3 | style=paraphrase_followup | call=5 | focus=unknown | q=Why is hand weeding done at 20-25 days after transplanting?
+OK   | seed=3 | style=paraphrase_yes_no | call=1 | focus=unknown | q=Are pre-emergence herbicides recommended for controlling wil
+OK   | seed=3 | style=paraphrase_yes_no | call=2 | focus=unknown | q=What should be the water level in the field during herbicide
+DUPE | seed=3 | style=paraphrase_yes_no | q=Which herbicides are recommended for controlling wild onion 
+OK   | seed=3 | style=paraphrase_yes_no | call=4 | focus=unknown | q=When should hand weeding be done for controlling wild onion 
+OK   | seed=3 | style=paraphrase_yes_no | call=5 | focus=unknown | q=Why should I apply Pretilachlor 50% EC within 3 days after t
+OK   | seed=3 | style=paraphrase_yes_no | call=6 | focus=unknown | q=Can Pretilachlor 50% EC be applied more than once for contro
+OK   | seed=3 | style=paraphrase_preventive | call=1 | focus=unknown | q=Are there any cultural practices to prevent wild onion (Math
+OK   | seed=3 | style=paraphrase_preventive | call=2 | focus=unknown | q=What steps can I take to prevent wild onion (Mathia) infesta
+OK   | seed=3 | style=paraphrase_preventive | call=3 | focus=unknown | q=Which cultural practices can help prevent wild onion (Mathia
+OK   | seed=3 | style=paraphrase_preventive | call=4 | focus=unknown | q=When should I apply herbicides to prevent wild onion in my p
+OK   | seed=3 | style=paraphrase_preventive | call=5 | focus=unknown | q=Why should I maintain a water level of 2-3 inches in paddy f
+OK   | seed=3 | style=paraphrase_comparison | call=1 | focus=unknown | q=Are Pretilachlor 50% EC and Pyrazosulfuron ethyl 10% WP both
+OK   | seed=3 | style=paraphrase_comparison | call=2 | focus=unknown | q=What are the differences between pre-emergence and post-emer
+OK   | seed=3 | style=paraphrase_comparison | call=3 | focus=unknown | q=Which is better for controlling wild onion in paddy, Pretila
+OK   | seed=3 | style=paraphrase_comparison | call=4 | focus=unknown | q=When should I apply herbicides for controlling wild onion in
+OK   | seed=3 | style=paraphrase_comparison | call=5 | focus=unknown | q=Why should I use Pretilachlor 50% EC over Pyrazosulfuron eth
+OK   | seed=3 | style=paraphrase_cause | call=1 | focus=pathogen_name | q=Are wild onions in paddy fields in Punjab caused by specific
+OK   | seed=3 | style=paraphrase_cause | call=2 | focus=unknown | q=What causes wild onion (Mathia) to infest paddy fields in Pu
+OK   | seed=3 | style=paraphrase_cause | call=3 | focus=unknown | q=Which factors contribute to the growth of wild onion (Mathia
+OK   | seed=3 | style=paraphrase_cause | call=4 | focus=unknown | q=When does wild onion (Mathia) become a problem in paddy fiel
+OK   | seed=3 | style=paraphrase_cause | call=5 | focus=unknown | q=Why does wild onion grow in paddy fields in Punjab?
+OK   | seed=3 | style=paraphrase_quantity_focused | call=1 | focus=unknown | q=Are 600 ml/acre of Pretilachlor 50% EC recommended for contr
+OK   | seed=3 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | q=What is the dosage of Pretilachlor 50% EC required for contr
+OK   | seed=3 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | q=Which quantity of Bispyribac sodium 10% SC is recommended fo
+OK   | seed=3 | style=paraphrase_quantity_focused | call=4 | focus=unknown | q=When should Bispyribac sodium 10% SC be applied for wild oni
+OK   | seed=3 | style=paraphrase_quantity_focused | call=5 | focus=unknown | q=Why should I use 600 ml/acre of Pretilachlor 50% EC?
+DUPE | seed=3 | style=paraphrase_timing_focused | q=When should I apply Bispyribac sodium 10% SC for controlling
+OK   | seed=3 | style=paraphrase_timing_focused | call=2 | focus=unknown | q=When should I apply herbicides to control wild onion in padd
+DUPE | seed=3 | style=paraphrase_timing_focused | q=When should I apply Bispyribac sodium 10% SC for controlling
+DUPE | seed=3 | style=paraphrase_timing_focused | q=When should I apply Bispyribac sodium 10% SC for controlling
+OK   | seed=3 | style=paraphrase_timing_focused | call=5 | focus=unknown | q=Why should I apply herbicides 3 days after transplanting pad
+OK   | seed=3 | style=paraphrase_timing_focused | call=6 | focus=unknown | q=Can I apply Bispyribac sodium 10% SC for wild onion control 
+OK   | seed=3 | style=paraphrase_timing_focused | call=7 | focus=unknown | q=Should I apply herbicides for wild onion control in paddy at
+OK   | seed=3 | style=paraphrase_timing_focused | call=8 | focus=application_timing | q=What is the best time to apply Bispyribac sodium 10% SC for 
+OK   | seed=4 | style=paraphrase_formal | call=1 | focus=symptom_detail | q=Is whitefly a significant pest in wheat crops, and what are 
+OK   | seed=4 | style=paraphrase_formal | call=2 | focus=unknown | q=What are the appropriate methods for identifying and managin
+OK   | seed=4 | style=paraphrase_formal | call=3 | focus=unknown | q=Are there specific monitoring techniques for identifying pes
+OK   | seed=4 | style=paraphrase_formal | call=4 | focus=unknown | q=What are the recommended methods for monitoring and managing
+OK   | seed=4 | style=paraphrase_formal | call=5 | focus=unknown | q=Which pests cause damage to wheat crops and how can they be 
+OK   | seed=4 | style=paraphrase_short | call=1 | focus=unknown | q=Is thrips a pest in wheat?
+OK   | seed=4 | style=paraphrase_short | call=2 | focus=unknown | q=Does thrips affect wheat crop?
+OK   | seed=4 | style=paraphrase_short | call=3 | focus=unknown | q=Are thrips a problem in wheat crops?
+OK   | seed=4 | style=paraphrase_short | call=4 | focus=unknown | q=What causes damage to wheat crops in Punjab?
+OK   | seed=4 | style=paraphrase_short | call=5 | focus=unknown | q=Which pests attack wheat crop?
+OK   | seed=4 | style=paraphrase_problem_description | call=1 | focus=unknown | q=Is the wheat crop showing silver-colored patches on the stem
+OK   | seed=4 | style=paraphrase_problem_description | call=2 | focus=symptom_detail | q=Does my wheat crop have small, brown insects causing silver-
+OK   | seed=4 | style=paraphrase_problem_description | call=3 | focus=unknown | q=Are the leaves of my wheat crop showing a silver coloration 
+OK   | seed=4 | style=paraphrase_problem_description | call=4 | focus=symptom_detail | q=What are the symptoms I am seeing in my wheat field where th
+OK   | seed=4 | style=paraphrase_problem_description | call=5 | focus=symptom_detail | q=Which symptoms are appearing on the wheat plants?
+OK   | seed=4 | style=paraphrase_followup | call=1 | focus=unknown | q=Is there a specific number of blue pan traps recommended for
+OK   | seed=4 | style=paraphrase_followup | call=2 | focus=unknown | q=Does the application of blue pan traps need to be done at a 
+OK   | seed=4 | style=paraphrase_followup | call=3 | focus=unknown | q=Are there specific instructions for using blue pan traps for
+OK   | seed=4 | style=paraphrase_followup | call=4 | focus=unknown | q=What is the recommended number of blue pan traps for monitor
+OK   | seed=4 | style=paraphrase_followup | call=5 | focus=unknown | q=Which traps are best for monitoring thrips in wheat?
+OK   | seed=4 | style=paraphrase_yes_no | call=1 | focus=symptom_detail | q=Is whitefly a significant pest of wheat crops?
+SKIP | seed=4 | style=paraphrase_yes_no | call=2
+OK   | seed=4 | style=paraphrase_yes_no | call=3 | focus=unknown | q=Are blue pan traps effective for monitoring thrips in wheat 
+OK   | seed=4 | style=paraphrase_yes_no | call=4 | focus=unknown | q=What is the correct method to monitor thrips in wheat crops?
+OK   | seed=4 | style=paraphrase_yes_no | call=5 | focus=unknown | q=Which pest is responsible for silvering of wheat leaves?
+OK   | seed=4 | style=paraphrase_yes_no | call=6 | focus=unknown | q=When should blue pan traps be set up for monitoring thrips i
+OK   | seed=4 | style=paraphrase_preventive | call=1 | focus=unknown | q=Is there a way to prevent thrips from damaging the wheat cro
+OK   | seed=4 | style=paraphrase_preventive | call=2 | focus=unknown | q=Does proper monitoring help in preventing thrips damage in w
+OK   | seed=4 | style=paraphrase_preventive | call=3 | focus=unknown | q=Are there any preventive measures to reduce thrips infestati
+OK   | seed=4 | style=paraphrase_preventive | call=4 | focus=unknown | q=What are the preventive measures to avoid thrips infestation
+OK   | seed=4 | style=paraphrase_preventive | call=5 | focus=unknown | q=Which practices can prevent thrips in wheat?
+OK   | seed=4 | style=paraphrase_comparison | call=1 | focus=symptom_detail | q=Is thrips or whitefly a more significant pest in wheat crops
+OK   | seed=4 | style=paraphrase_comparison | call=2 | focus=unknown | q=Does thrips cause similar damage to wheat as whitefly?
+OK   | seed=4 | style=paraphrase_comparison | call=3 | focus=unknown | q=Are blue pan traps and yellow sticky traps both effective fo
+OK   | seed=4 | style=paraphrase_comparison | call=4 | focus=unknown | q=What is the difference between whitefly and thrips in wheat 
+OK   | seed=4 | style=paraphrase_comparison | call=5 | focus=unknown | q=Which is better for thrips control, blue pan traps or yellow
+OK   | seed=4 | style=paraphrase_cause | call=1 | focus=unknown | q=Is whitefly the cause of damage in wheat crops?
+OK   | seed=4 | style=paraphrase_cause | call=2 | focus=unknown | q=What causes the silver coloration on wheat leaves?
+OK   | seed=4 | style=paraphrase_cause | call=3 | focus=unknown | q=Are thrips the cause of silver-colored damage on wheat leave
+DUPE | seed=4 | style=paraphrase_cause | q=What causes the silver coloration on wheat leaves?
+OK   | seed=4 | style=paraphrase_cause | call=5 | focus=unknown | q=Which pest causes silver coloration on wheat leaves?
+OK   | seed=4 | style=paraphrase_cause | call=6 | focus=unknown | q=When do thrips become a problem in wheat crops?
+OK   | seed=4 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | q=Is there a specific number of blue pan traps recommended per
+OK   | seed=4 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | q=What is the recommended number of blue pan traps per acre fo
+OK   | seed=4 | style=paraphrase_quantity_focused | call=3 | focus=unknown | q=Are there specific numbers of traps recommended for monitori
+DUPE | seed=4 | style=paraphrase_quantity_focused | q=What is the recommended number of blue pan traps per acre fo
+OK   | seed=4 | style=paraphrase_quantity_focused | call=5 | focus=dosage_quantity | q=Which quantity of blue pan traps should be used per acre for
+DUPE | seed=4 | style=paraphrase_quantity_focused | q=When should blue pan traps be set up for monitoring thrips i
+OK   | seed=4 | style=paraphrase_quantity_focused | call=7 | focus=dosage_quantity | q=Why is the number of blue pan traps recommended as 4-10 per 
+OK   | seed=4 | style=paraphrase_timing_focused | call=1 | focus=unknown | q=Is there a specific time during the wheat growth cycle when 
+OK   | seed=4 | style=paraphrase_timing_focused | call=2 | focus=unknown | q=When should thrips be monitored in wheat crops?
+DUPE | seed=4 | style=paraphrase_timing_focused | q=When should blue pan traps be set up for monitoring thrips i
+DUPE | seed=4 | style=paraphrase_timing_focused | q=When should thrips be monitored in wheat crops?
+OK   | seed=4 | style=paraphrase_timing_focused | call=5 | focus=application_timing | q=Which stage of wheat growth is thrips most active?
+DUPE | seed=4 | style=paraphrase_timing_focused | q=When should blue pan traps be set up for monitoring thrips i
+OK   | seed=4 | style=paraphrase_timing_focused | call=7 | focus=application_timing | q=Why is it important to monitor thrips in wheat during the ea
+OK   | seed=4 | style=paraphrase_timing_focused | call=8 | focus=application_timing | q=Can whitefly be controlled in wheat during the early growth 
+OK   | seed=5 | style=paraphrase_formal | call=1 | focus=unknown | q=Which measures can be implemented to control the Rust-red Fl
+OK   | seed=5 | style=paraphrase_formal | call=2 | focus=unknown | q=What measures can be implemented to manage the infestation o
+OK   | seed=5 | style=paraphrase_formal | call=3 | focus=symptom_detail | q=Why is the Rust-red Flour Beetle considered a significant th
+OK   | seed=5 | style=paraphrase_formal | call=4 | focus=unknown | q=Can proper storage management and integrated pest control me
+OK   | seed=5 | style=paraphrase_formal | call=5 | focus=unknown | q=Should the rust-red flour beetle in stored wheat grains be c
+OK   | seed=5 | style=paraphrase_short | call=1 | focus=chemical_name | q=Which chemical is effective for fumigating stored wheat agai
+OK   | seed=5 | style=paraphrase_short | call=2 | focus=unknown | q=When to fumigate wheat for rust-red flour beetle?
+OK   | seed=5 | style=paraphrase_short | call=3 | focus=unknown | q=Why use Aluminum Phosphide for wheat storage pests?
+OK   | seed=5 | style=paraphrase_short | call=4 | focus=unknown | q=Can Aluminum Phosphide control rust-red flour beetle in stor
+OK   | seed=5 | style=paraphrase_short | call=5 | focus=unknown | q=Should Aluminum Phosphide be used for beetle control?
+OK   | seed=5 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | q=Which symptoms are visible in stored wheat grains that indic
+OK   | seed=5 | style=paraphrase_problem_description | call=2 | focus=unknown | q=When I open my grain storage, I see fine powdery material an
+OK   | seed=5 | style=paraphrase_problem_description | call=3 | focus=unknown | q=Why are there small red-brown insects in my stored wheat and
+OK   | seed=5 | style=paraphrase_problem_description | call=4 | focus=unknown | q=Can the grains in my storage have a musty smell and fine pow
+OK   | seed=5 | style=paraphrase_problem_description | call=5 | focus=unknown | q=Should the grains have a musty smell and fine powder, and so
+OK   | seed=5 | style=paraphrase_followup | call=1 | focus=chemical_name | q=Which chemical is recommended for fumigation to control Rust
+OK   | seed=5 | style=paraphrase_followup | call=2 | focus=unknown | q=When should I aerate the stored wheat after fumigation with 
+OK   | seed=5 | style=paraphrase_followup | call=3 | focus=unknown | q=Why is it important to maintain grain moisture below 12% to 
+OK   | seed=5 | style=paraphrase_followup | call=4 | focus=unknown | q=Can I use a different type of container for storing wheat af
+OK   | seed=5 | style=paraphrase_followup | call=5 | focus=unknown | q=Should I aerate the grains after fumigation with Aluminum Ph
+OK   | seed=5 | style=paraphrase_yes_no | call=1 | focus=chemical_name | q=Which chemical is recommended for fumigation of stored wheat
+OK   | seed=5 | style=paraphrase_yes_no | call=2 | focus=unknown | q=When should fumigation with Aluminum Phosphide 56% be conduc
+OK   | seed=5 | style=paraphrase_yes_no | call=3 | focus=unknown | q=Why should stored wheat be sun-dried before storage?
+OK   | seed=5 | style=paraphrase_yes_no | call=4 | focus=unknown | q=Can Aluminum Phosphide 56% be used for fumigation in stored 
+OK   | seed=5 | style=paraphrase_yes_no | call=5 | focus=unknown | q=Should Aluminum Phosphide 56% be used for fumigation of stor
+OK   | seed=5 | style=paraphrase_preventive | call=1 | focus=unknown | q=Which cultural practices can be adopted to prevent infestati
+OK   | seed=5 | style=paraphrase_preventive | call=2 | focus=unknown | q=When should wheat be stored to prevent infestation by the Ru
+OK   | seed=5 | style=paraphrase_preventive | call=3 | focus=unknown | q=Why is it important to sun-dry wheat before storage to preve
+OK   | seed=5 | style=paraphrase_preventive | call=4 | focus=unknown | q=Can proper storage management prevent Rust-red Flour Beetle 
+OK   | seed=5 | style=paraphrase_preventive | call=5 | focus=unknown | q=Should I take any steps to prevent Rust-red Flour Beetle in 
+OK   | seed=5 | style=paraphrase_comparison | call=1 | focus=unknown | q=Which is more effective for controlling Rust-red Flour Beetl
+OK   | seed=5 | style=paraphrase_comparison | call=2 | focus=unknown | q=When comparing the effectiveness of fumigation with Aluminum
+OK   | seed=5 | style=paraphrase_comparison | call=3 | focus=unknown | q=Why is Aluminum Phosphide preferred over other methods for c
+OK   | seed=5 | style=paraphrase_comparison | call=4 | focus=unknown | q=Can fumigation with Aluminum Phosphide be used safely for st
+OK   | seed=5 | style=paraphrase_comparison | call=5 | focus=unknown | q=Should I use Aluminum Phosphide or Deltamethrin to control R
+OK   | seed=5 | style=paraphrase_cause | call=1 | focus=unknown | q=Which factors cause the Rust-red Flour Beetle to infest stor
+OK   | seed=5 | style=paraphrase_cause | call=2 | focus=unknown | q=When does the Rust-red Flour Beetle infest stored wheat grai
+OK   | seed=5 | style=paraphrase_cause | call=3 | focus=unknown | q=Why does the Rust-red Flour Beetle infest stored wheat grain
+OK   | seed=5 | style=paraphrase_cause | call=4 | focus=unknown | q=Can the presence of damaged grains in storage lead to an inf
+OK   | seed=5 | style=paraphrase_cause | call=5 | focus=unknown | q=Should the rust-red flour beetle infest stored wheat grains?
+OK   | seed=5 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | q=Which quantity of Aluminum Phosphide 56% is recommended for 
+OK   | seed=5 | style=paraphrase_quantity_focused | call=2 | focus=unknown | q=When should the fumigation with Aluminum Phosphide 56% be ca
+OK   | seed=5 | style=paraphrase_quantity_focused | call=3 | focus=unknown | q=Why is the aeration period 48 hours after fumigation with Al
+OK   | seed=5 | style=paraphrase_quantity_focused | call=4 | focus=unknown | q=Can I use 150 grams of Aluminum Phosphide per 100 cubic mete
+OK   | seed=5 | style=paraphrase_quantity_focused | call=5 | focus=unknown | q=Should I use 150 gm per 100 m3 of Aluminum Phosphide for fum
+OK   | seed=5 | style=paraphrase_timing_focused | call=1 | focus=unknown | q=Which timing is recommended for fumigating stored wheat to c
+OK   | seed=5 | style=paraphrase_timing_focused | call=2 | focus=unknown | q=When should fumigation with Aluminum Phosphide be done for c
+OK   | seed=5 | style=paraphrase_timing_focused | call=3 | focus=unknown | q=Why is it important to fumigate stored wheat with Aluminum P
+OK   | seed=5 | style=paraphrase_timing_focused | call=4 | focus=unknown | q=When should fumigation with Aluminum Phosphide be done for s
+OK   | seed=5 | style=paraphrase_timing_focused | call=5 | focus=unknown | q=Should I treat stored wheat for flour beetles before or afte
+OK   | seed=6 | style=paraphrase_formal | call=1 | focus=unknown | q=Does the Bihar hairy caterpillar and gram caterpillar pose a
+OK   | seed=6 | style=paraphrase_formal | call=2 | focus=unknown | q=Are there effective control measures available for Bihar hai
+OK   | seed=6 | style=paraphrase_formal | call=3 | focus=unknown | q=What are the integrated pest management strategies for contr
+OK   | seed=6 | style=paraphrase_formal | call=4 | focus=unknown | q=Which control measures are recommended for Bihar hairy cater
+OK   | seed=6 | style=paraphrase_formal | call=5 | focus=unknown | q=When should Spinosad 45% SC be sprayed for controlling gram 
+OK   | seed=6 | style=paraphrase_short | call=1 | focus=unknown | q=Does Bihar hairy caterpillar attack Berseem crop in Septembe
+OK   | seed=6 | style=paraphrase_short | call=2 | focus=unknown | q=Are there control methods for Bihar hairy caterpillar in Ber
+OK   | seed=6 | style=paraphrase_short | call=3 | focus=unknown | q=What control measures are for gram caterpillar in Berseem?
+OK   | seed=6 | style=paraphrase_short | call=4 | focus=unknown | q=Which pests attack Berseem crop in Punjab?
+OK   | seed=6 | style=paraphrase_short | call=5 | focus=unknown | q=When to spray Spinosad for gram caterpillar in Berseem?
+OK   | seed=6 | style=paraphrase_problem_description | call=1 | focus=unknown | q=Does my berseem crop have small green worms eating the leave
+OK   | seed=6 | style=paraphrase_problem_description | call=2 | focus=unknown | q=Are the leaves of my berseem crop being eaten away and the p
+OK   | seed=6 | style=paraphrase_problem_description | call=3 | focus=unknown | q=What should I do if my Berseem crop is being eaten by small 
+OK   | seed=6 | style=paraphrase_problem_description | call=4 | focus=symptom_detail | q=Which symptoms are observed in the field that indicate pest 
+OK   | seed=6 | style=paraphrase_problem_description | call=5 | focus=unknown | q=When the leaves of my berseem crop are eaten and the plants 
+SKIP | seed=6 | style=paraphrase_followup | call=1
+OK   | seed=6 | style=paraphrase_followup | call=2 | focus=application_timing | q=Are there specific weeds that should be destroyed before sow
+SKIP | seed=6 | style=paraphrase_followup | call=3
+SKIP | seed=6 | style=paraphrase_followup | call=4
+SKIP | seed=6 | style=paraphrase_followup | call=5
+OK   | seed=6 | style=paraphrase_followup | call=6 | focus=application_timing | q=Why should weeds like Gutpatna and Bathu be destroyed before
+SKIP | seed=6 | style=paraphrase_followup | call=7
+OK   | seed=6 | style=paraphrase_followup | call=8 | focus=unknown | q=Should I spray Spinosad 45% SC for gram caterpillar control 
+SKIP | seed=6 | style=paraphrase_followup | call=9
+OK   | seed=6 | style=paraphrase_followup | call=10 | focus=unknown | q=Is it necessary to destroy weeds near berseem fields to cont
+OK   | seed=6 | style=paraphrase_followup | call=11 | focus=unknown | q=Does the control of Bihar hairy caterpillar involve any spec
+OK   | seed=6 | style=paraphrase_yes_no | call=1 | focus=unknown | q=Does the seed answer mention any specific insecticide for co
+OK   | seed=6 | style=paraphrase_yes_no | call=2 | focus=unknown | q=Are weeds like Gutpatna and Bathu considered alternate host 
+OK   | seed=6 | style=paraphrase_yes_no | call=3 | focus=unknown | q=What is the recommended method to control Bihar hairy caterp
+OK   | seed=6 | style=paraphrase_yes_no | call=4 | focus=application_timing | q=Which pests are known to attack Berseem crops during the veg
+OK   | seed=6 | style=paraphrase_yes_no | call=5 | focus=unknown | q=When should weeds near berseem fields be destroyed?
+OK   | seed=6 | style=paraphrase_preventive | call=1 | focus=unknown | q=Does destroying weeds like Gutpatna and Bathu help prevent B
+OK   | seed=6 | style=paraphrase_preventive | call=2 | focus=unknown | q=Are there any preventive measures to avoid infestation of Bi
+OK   | seed=6 | style=paraphrase_preventive | call=3 | focus=unknown | q=What are the preventive steps to avoid infestation of Bihar 
+OK   | seed=6 | style=paraphrase_preventive | call=4 | focus=unknown | q=Which preventive practices can be followed to avoid infestat
+OK   | seed=6 | style=paraphrase_preventive | call=5 | focus=unknown | q=When should weeds near berseem fields be destroyed to preven
+OK   | seed=6 | style=paraphrase_comparison | call=1 | focus=unknown | q=Does Spinosad 45% SC help control both Bihar hairy caterpill
+OK   | seed=6 | style=paraphrase_comparison | call=2 | focus=unknown | q=Are there differences in the control methods for Bihar hairy
+OK   | seed=6 | style=paraphrase_comparison | call=3 | focus=unknown | q=What is the difference between the control methods for Bihar
+OK   | seed=6 | style=paraphrase_comparison | call=4 | focus=unknown | q=Which pest is more damaging to Berseem crop in Punjab during
+OK   | seed=6 | style=paraphrase_comparison | call=5 | focus=unknown | q=When comparing Bihar hairy caterpillar and gram caterpillar 
+OK   | seed=6 | style=paraphrase_cause | call=1 | focus=unknown | q=Does the presence of certain weeds cause the Bihar hairy cat
+OK   | seed=6 | style=paraphrase_cause | call=2 | focus=pathogen_name | q=Are Bihar hairy caterpillar and gram caterpillar in Berseem 
+OK   | seed=6 | style=paraphrase_cause | call=3 | focus=unknown | q=What causes the Bihar hairy caterpillar to attack Berseem cr
+OK   | seed=6 | style=paraphrase_cause | call=4 | focus=unknown | q=Which factors cause the Bihar hairy caterpillar and gram cat
+OK   | seed=6 | style=paraphrase_cause | call=5 | focus=unknown | q=When do Bihar hairy caterpillar and gram caterpillar attack 
+SKIP | seed=6 | style=paraphrase_quantity_focused | call=1
+SKIP | seed=6 | style=paraphrase_quantity_focused | call=2
+SKIP | seed=6 | style=paraphrase_quantity_focused | call=3
+SKIP | seed=6 | style=paraphrase_quantity_focused | call=4
+SKIP | seed=6 | style=paraphrase_quantity_focused | call=5
+OK   | seed=6 | style=paraphrase_quantity_focused | call=6 | focus=unknown | q=Why should Spinosad 45% SC be sprayed at 60-62ml/acre for gr
+SKIP | seed=6 | style=paraphrase_quantity_focused | call=7
+SKIP | seed=6 | style=paraphrase_quantity_focused | call=8
+SKIP | seed=6 | style=paraphrase_quantity_focused | call=9
+OK   | seed=6 | style=paraphrase_quantity_focused | call=10 | focus=dosage_quantity | q=Is there a specific quantity mentioned for the application o
+SKIP | seed=6 | style=paraphrase_quantity_focused | call=11
+OK   | seed=6 | style=paraphrase_quantity_focused | call=12 | focus=unknown | q=Are there specific quantities mentioned for the application 
+SKIP | seed=6 | style=paraphrase_quantity_focused | call=13
+SKIP | seed=6 | style=paraphrase_quantity_focused | call=14
+SKIP | seed=6 | style=paraphrase_quantity_focused | call=15
+OK   | seed=6 | style=paraphrase_quantity_focused | call=16 | focus=unknown | q=Why is Spinosad 45% SC sprayed at 60-62ml/acre for gram cate
+SKIP | seed=6 | style=paraphrase_quantity_focused | call=17
+SKIP | seed=6 | style=paraphrase_quantity_focused | call=18
+SKIP | seed=6 | style=paraphrase_quantity_focused | call=19
+OK   | seed=6 | style=paraphrase_quantity_focused | call=20 | focus=dosage_quantity | q=Is there a specific dosage mentioned for controlling gram ca
+OK   | seed=6 | style=paraphrase_timing_focused | call=1 | focus=unknown | q=Does the control of Bihar hairy caterpillar in Berseem crop 
+OK   | seed=6 | style=paraphrase_timing_focused | call=2 | focus=unknown | q=When should Spinosad 45% SC be sprayed to control gram cater
+OK   | seed=6 | style=paraphrase_timing_focused | call=3 | focus=unknown | q=What is the best time to spray Spinosad 45% SC for controlli
+OK   | seed=6 | style=paraphrase_timing_focused | call=4 | focus=unknown | q=Which time period should farmers be most cautious about Biha
+OK   | seed=6 | style=paraphrase_timing_focused | call=5 | focus=unknown | q=When should Spinosad 45% SC be sprayed for gram caterpillar 
+OK   | seed=7 | style=paraphrase_formal | call=1 | focus=unknown | q=What are the effective methods for managing borer infestatio
+OK   | seed=7 | style=paraphrase_formal | call=2 | focus=chemical_name | q=Which chemical treatments are recommended for managing borer
+OK   | seed=7 | style=paraphrase_formal | call=3 | focus=unknown | q=When should Chlorpyrifos 20% EC be applied for the control o
+OK   | seed=7 | style=paraphrase_formal | call=4 | focus=symptom_detail | q=Why is the early shoot borer considered a significant threat
+OK   | seed=7 | style=paraphrase_formal | call=5 | focus=unknown | q=Can borer infestation in sugarcane be controlled effectively
+OK   | seed=7 | style=paraphrase_short | call=1 | focus=chemical_name | q=What chemical control is used for sugarcane borer?
+OK   | seed=7 | style=paraphrase_short | call=2 | focus=chemical_name | q=Which chemical controls early shoot borer in sugarcane?
+OK   | seed=7 | style=paraphrase_short | call=3 | focus=application_timing | q=When to apply Chlorpyrifos 20% EC for borer control?
+OK   | seed=7 | style=paraphrase_short | call=4 | focus=unknown | q=Why is Chlorpyrifos 20% EC used for sugarcane borers?
+OK   | seed=7 | style=paraphrase_short | call=5 | focus=unknown | q=Can Chlorpyrifos 20% EC control borer infestation in sugarca
+OK   | seed=7 | style=paraphrase_problem_description | call=1 | focus=unknown | q=What if the sugarcane plants in my field are showing stunted
+OK   | seed=7 | style=paraphrase_problem_description | call=2 | focus=symptom_detail | q=Which symptoms are appearing in my sugarcane field that indi
+OK   | seed=7 | style=paraphrase_problem_description | call=3 | focus=unknown | q=When I notice some of my sugarcane plants have wilted and dr
+OK   | seed=7 | style=paraphrase_problem_description | call=4 | focus=symptom_detail | q=Why are some of my sugarcane plants showing wilting and drie
+OK   | seed=7 | style=paraphrase_problem_description | call=5 | focus=unknown | q=Can the sugarcane plants in my field have something wrong? S
+OK   | seed=7 | style=paraphrase_followup | call=1 | focus=dosage_quantity | q=What is the recommended dosage for Chlorpyrifos 20% EC when 
+OK   | seed=7 | style=paraphrase_followup | call=2 | focus=unknown | q=Which method is recommended for applying Chlorpyrifos 20% EC
+OK   | seed=7 | style=paraphrase_followup | call=3 | focus=unknown | q=When should I apply Chlorpyrifos 20% EC for controlling earl
+OK   | seed=7 | style=paraphrase_followup | call=4 | focus=unknown | q=Why should I avoid ratooning heavily infested sugarcane crop
+OK   | seed=7 | style=paraphrase_followup | call=5 | focus=unknown | q=Can I use Chlorpyrifos 20% EC for other pests in sugarcane?
+OK   | seed=7 | style=paraphrase_yes_no | call=1 | focus=dosage_quantity | q=What is the recommended application rate for Chlorpyrifos 20
+OK   | seed=7 | style=paraphrase_yes_no | call=2 | focus=chemical_name | q=Which chemical is recommended for the control of early shoot
+OK   | seed=7 | style=paraphrase_yes_no | call=3 | focus=unknown | q=When should Chlorpyrifos 20% EC be applied for early shoot b
+OK   | seed=7 | style=paraphrase_yes_no | call=4 | focus=application_timing | q=Why should I avoid applying insecticides during the flowerin
+OK   | seed=7 | style=paraphrase_yes_no | call=5 | focus=unknown | q=Can Chlorpyrifos 20% EC be used to control early shoot borer
+OK   | seed=7 | style=paraphrase_preventive | call=1 | focus=unknown | q=What can I do to prevent borer infestation in sugarcane?
+OK   | seed=7 | style=paraphrase_preventive | call=2 | focus=unknown | q=Which cultural practices can be adopted to prevent borer inf
+OK   | seed=7 | style=paraphrase_preventive | call=3 | focus=unknown | q=When should I apply Chlorpyrifos 20% EC to prevent borer inf
+OK   | seed=7 | style=paraphrase_preventive | call=4 | focus=unknown | q=Why should I practice proper spacing and avoid dense plantin
+OK   | seed=7 | style=paraphrase_preventive | call=5 | focus=unknown | q=Can I prevent borer infestation in sugarcane?
+OK   | seed=7 | style=paraphrase_comparison | call=1 | focus=unknown | q=What are the differences between the control methods for ear
+OK   | seed=7 | style=paraphrase_comparison | call=2 | focus=chemical_name | q=Which chemical is more effective for controlling early shoot
+DUPE | seed=7 | style=paraphrase_comparison | q=When should I apply Chlorpyrifos 20% EC for controlling earl
+OK   | seed=7 | style=paraphrase_comparison | call=4 | focus=unknown | q=Why is Chlorpyrifos 20% EC preferred over Carbofuran 3% CG f
+OK   | seed=7 | style=paraphrase_comparison | call=5 | focus=unknown | q=Can Chlorpyrifos 20% EC and Carbofuran 3% CG be used togethe
+OK   | seed=7 | style=paraphrase_comparison | call=6 | focus=unknown | q=Should I use Chlorpyrifos 20% EC or Carbofuran 3% CG for con
+OK   | seed=7 | style=paraphrase_cause | call=1 | focus=symptom_detail | q=What causes dead heart symptoms in sugarcane plants?
+OK   | seed=7 | style=paraphrase_cause | call=2 | focus=unknown | q=Which factors lead to borer infestation in sugarcane fields?
+OK   | seed=7 | style=paraphrase_cause | call=3 | focus=unknown | q=When does the early shoot borer cause damage to sugarcane, a
+OK   | seed=7 | style=paraphrase_cause | call=4 | focus=symptom_detail | q=Why does the early shoot borer cause dead heart symptoms in 
+OK   | seed=7 | style=paraphrase_cause | call=5 | focus=pathogen_name | q=Can borer infestation in sugarcane be caused by certain pest
+DUPE | seed=7 | style=paraphrase_quantity_focused | q=What is the recommended dosage of Chlorpyrifos 20% EC for co
+OK   | seed=7 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | q=Which quantity of Chlorpyrifos 20% EC is recommended for soi
+DUPE | seed=7 | style=paraphrase_quantity_focused | q=When should Chlorpyrifos 20% EC be applied for early shoot b
+OK   | seed=7 | style=paraphrase_quantity_focused | call=4 | focus=unknown | q=Why should Chlorpyrifos 20% EC be applied at 2.5 liters per 
+OK   | seed=7 | style=paraphrase_quantity_focused | call=5 | focus=unknown | q=Can I use Chlorpyrifos 20% EC for borer control?
+OK   | seed=7 | style=paraphrase_quantity_focused | call=6 | focus=unknown | q=Should I apply Chlorpyrifos 20% EC at a specific rate for co
+OK   | seed=7 | style=paraphrase_quantity_focused | call=7 | focus=unknown | q=What is the recommended rate of Chlorpyrifos 20% EC for cont
+DUPE | seed=7 | style=paraphrase_timing_focused | q=When should Chlorpyrifos 20% EC be applied for controlling e
+DUPE | seed=7 | style=paraphrase_timing_focused | q=When should Chlorpyrifos 20% EC be applied for controlling e
+DUPE | seed=7 | style=paraphrase_timing_focused | q=When should Chlorpyrifos 20% EC be applied for controlling e
+OK   | seed=7 | style=paraphrase_timing_focused | call=4 | focus=application_timing | q=Why should Chlorpyrifos 20% EC be applied during the early g
+OK   | seed=7 | style=paraphrase_timing_focused | call=5 | focus=unknown | q=Can I apply Chlorpyrifos 20% EC after 45 days of planting?
+OK   | seed=7 | style=paraphrase_timing_focused | call=6 | focus=application_timing | q=Should I apply Chlorpyrifos 20% EC during the early growth s
+OK   | seed=7 | style=paraphrase_timing_focused | call=7 | focus=application_timing | q=What is the best time to apply Chlorpyrifos 20% EC for contr
+OK   | seed=7 | style=paraphrase_timing_focused | call=8 | focus=application_timing | q=Is there a specific time to apply Chlorpyrifos 20% EC for co
+OK   | seed=8 | style=paraphrase_formal | call=1 | focus=unknown | q=Are there specific environmental and agronomic factors that 
+OK   | seed=8 | style=paraphrase_formal | call=2 | focus=unknown | q=What are the factors contributing to poor sugarcane tillerin
+OK   | seed=8 | style=paraphrase_formal | call=3 | focus=unknown | q=Which factors contribute to reduced tillering in sugarcane c
+OK   | seed=8 | style=paraphrase_formal | call=4 | focus=unknown | q=When might sugarcane exhibit poor tillering and what are the
+OK   | seed=8 | style=paraphrase_formal | call=5 | focus=unknown | q=Why is sugarcane showing low tillering or poor sprouting thi
+OK   | seed=8 | style=paraphrase_short | call=1 | focus=unknown | q=Are short winter days causing poor sugarcane tillering?
+OK   | seed=8 | style=paraphrase_short | call=2 | focus=unknown | q=What causes low sugarcane tillering?
+OK   | seed=8 | style=paraphrase_short | call=3 | focus=unknown | q=Which factors cause poor sugarcane tillering?
+OK   | seed=8 | style=paraphrase_short | call=4 | focus=irrigation_method | q=When should irrigation be prioritized for sugarcane?
+OK   | seed=8 | style=paraphrase_short | call=5 | focus=unknown | q=Why is sugarcane tillering low this time?
+OK   | seed=8 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | q=Are the sugarcane plants showing thin, elongated growth with
+OK   | seed=8 | style=paraphrase_problem_description | call=2 | focus=unknown | q=What is causing the thin and elongated plants in my sugarcan
+OK   | seed=8 | style=paraphrase_problem_description | call=3 | focus=symptom_detail | q=Which symptoms are observed in sugarcane fields that indicat
+OK   | seed=8 | style=paraphrase_problem_description | call=4 | focus=symptom_detail | q=When I look at my sugarcane field, the plants are thin and h
+OK   | seed=8 | style=paraphrase_problem_description | call=5 | focus=unknown | q=Why are the sugarcane plants not growing well and have few s
+OK   | seed=8 | style=paraphrase_followup | call=1 | focus=application_method | q=Are there any specific fertilizer application methods that c
+OK   | seed=8 | style=paraphrase_followup | call=2 | focus=application_method | q=What is the recommended dosage for applying DAP as a foliar 
+OK   | seed=8 | style=paraphrase_followup | call=3 | focus=application_method | q=Which chemical is recommended for foliar spray to improve ti
+OK   | seed=8 | style=paraphrase_followup | call=4 | focus=application_method | q=When should the farmer apply 2% DAP foliar spray for sugarca
+OK   | seed=8 | style=paraphrase_followup | call=5 | focus=irrigation_method | q=Why is the irrigation important for sugarcane tillering?
+OK   | seed=8 | style=paraphrase_yes_no | call=1 | focus=unknown | q=Are short winter days a contributing factor to low sugarcane
+OK   | seed=8 | style=paraphrase_yes_no | call=2 | focus=unknown | q=What is the effect of short day length on sugarcane tillerin
+OK   | seed=8 | style=paraphrase_yes_no | call=3 | focus=unknown | q=Which factors can lead to reduced tillering in sugarcane acc
+OK   | seed=8 | style=paraphrase_yes_no | call=4 | focus=application_timing | q=When is the best time to apply irrigation to improve sugarca
+OK   | seed=8 | style=paraphrase_yes_no | call=5 | focus=unknown | q=Why is tillering important in sugarcane?
+OK   | seed=8 | style=paraphrase_preventive | call=1 | focus=unknown | q=Are there any cultural practices to prevent poor sugarcane t
+OK   | seed=8 | style=paraphrase_preventive | call=2 | focus=unknown | q=What steps can be taken to prevent poor sugarcane tillering?
+OK   | seed=8 | style=paraphrase_preventive | call=3 | focus=unknown | q=Which cultural practices can be followed to prevent low suga
+OK   | seed=8 | style=paraphrase_preventive | call=4 | focus=irrigation_method | q=When should farmers ensure proper irrigation to prevent low 
+OK   | seed=8 | style=paraphrase_preventive | call=5 | focus=unknown | q=Why is sugarcane not tillering well this season?
+OK   | seed=8 | style=paraphrase_comparison | call=1 | focus=unknown | q=Are copper deficiency and zinc deficiency both causes of low
+OK   | seed=8 | style=paraphrase_comparison | call=2 | focus=unknown | q=What are the differences between the causes of low sugarcane
+OK   | seed=8 | style=paraphrase_comparison | call=3 | focus=symptom_detail | q=Which deficiency causes yellowing of the leaf blade while th
+OK   | seed=8 | style=paraphrase_comparison | call=4 | focus=application_timing | q=When is the best time to apply DAP for sugarcane, and how mu
+OK   | seed=8 | style=paraphrase_comparison | call=5 | focus=unknown | q=Why is sugarcane not tillering well?
+OK   | seed=8 | style=paraphrase_cause | call=1 | focus=irrigation_method | q=Are short winter days and inadequate irrigation the main cau
+OK   | seed=8 | style=paraphrase_cause | call=2 | focus=unknown | q=What causes reduced tillering in sugarcane during the curren
+OK   | seed=8 | style=paraphrase_cause | call=3 | focus=unknown | q=Which factors cause reduced tillering in sugarcane during th
+OK   | seed=8 | style=paraphrase_cause | call=4 | focus=unknown | q=When does short day length affect sugarcane tillering and wh
+DUPE | seed=8 | style=paraphrase_cause | q=Why is sugarcane not tillering well this season?
+OK   | seed=8 | style=paraphrase_cause | call=6 | focus=unknown | q=Can short day length cause poor sugarcane tillering?
+OK   | seed=8 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | q=Are there specific fertilizer application rates recommended 
+SKIP | seed=8 | style=paraphrase_quantity_focused | call=2
+SKIP | seed=8 | style=paraphrase_quantity_focused | call=3
+SKIP | seed=8 | style=paraphrase_quantity_focused | call=4
+OK   | seed=8 | style=paraphrase_quantity_focused | call=5 | focus=irrigation_method | q=Why is the irrigation amount important for sugarcane tilleri
+SKIP | seed=8 | style=paraphrase_quantity_focused | call=6
+SKIP | seed=8 | style=paraphrase_quantity_focused | call=7
+SKIP | seed=8 | style=paraphrase_quantity_focused | call=8
+OK   | seed=8 | style=paraphrase_quantity_focused | call=9 | focus=dosage_quantity | q=Is 15 kg zinc sulphate per acre recommended for sugarcane in
+SKIP | seed=8 | style=paraphrase_quantity_focused | call=10
+DUPE | seed=8 | style=paraphrase_quantity_focused | q=Are there specific fertilizer application rates recommended 
+SKIP | seed=8 | style=paraphrase_quantity_focused | call=12
+OK   | seed=8 | style=paraphrase_quantity_focused | call=13 | focus=application_method | q=Which quantity of DAP is recommended for foliar spray in sug
+OK   | seed=8 | style=paraphrase_quantity_focused | call=14 | focus=irrigation_method | q=When should irrigation be prioritized for sugarcane in Punja
+OK   | seed=8 | style=paraphrase_timing_focused | call=1 | focus=irrigation_method | q=When should irrigation be prioritized for sugarcane to ensur
+DUPE | seed=8 | style=paraphrase_timing_focused | q=When should irrigation be prioritized for sugarcane to ensur
+DUPE | seed=8 | style=paraphrase_timing_focused | q=When should irrigation be prioritized for sugarcane to ensur
+DUPE | seed=8 | style=paraphrase_timing_focused | q=When should irrigation be prioritized for sugarcane to ensur
+OK   | seed=8 | style=paraphrase_timing_focused | call=5 | focus=unknown | q=Why is sugarcane not tillering well in Punjab?
+OK   | seed=8 | style=paraphrase_timing_focused | call=6 | focus=application_method | q=Can I apply DAP foliar spray during the tillering stage of s
+OK   | seed=8 | style=paraphrase_timing_focused | call=7 | focus=unknown | q=Should sugarcane be irrigated during the tillering stage?
+DUPE | seed=8 | style=paraphrase_timing_focused | q=What is the best time to apply irrigation to improve sugarca
+OK   | seed=8 | style=paraphrase_timing_focused | call=9 | focus=unknown | q=Is it necessary to irrigate sugarcane during the tillering s
+OK   | seed=9 | style=paraphrase_formal | call=1 | focus=irrigation_method | q=Can you outline the recommended irrigation schedule and timi
+OK   | seed=9 | style=paraphrase_formal | call=2 | focus=soil_condition | q=Should the irrigation schedule for cotton be adjusted based 
+OK   | seed=9 | style=paraphrase_formal | call=3 | focus=irrigation_method | q=What are the critical factors influencing irrigation schedul
+OK   | seed=9 | style=paraphrase_formal | call=4 | focus=irrigation_method | q=Is there a recommended irrigation schedule and timing for co
+OK   | seed=9 | style=paraphrase_formal | call=5 | focus=irrigation_method | q=Does irrigation timing affect cotton yield and quality?
+OK   | seed=9 | style=paraphrase_short | call=1 | focus=application_method | q=Can cotton be drip-irrigated?
+OK   | seed=9 | style=paraphrase_short | call=2 | focus=application_method | q=Should cotton be drip-irrigated?
+OK   | seed=9 | style=paraphrase_short | call=3 | focus=irrigation_method | q=What is the irrigation schedule for cotton in Punjab?
+OK   | seed=9 | style=paraphrase_short | call=4 | focus=irrigation_method | q=Is irrigation timing important for cotton crop?
+OK   | seed=9 | style=paraphrase_short | call=5 | focus=irrigation_method | q=Does cotton need 4-6 irrigations?
+OK   | seed=9 | style=paraphrase_problem_description | call=1 | focus=unknown | q=Can the cotton plants in my field be suffering from water st
+OK   | seed=9 | style=paraphrase_problem_description | call=2 | focus=unknown | q=Should the cotton plants be watered more frequently during c
+OK   | seed=9 | style=paraphrase_problem_description | call=3 | focus=irrigation_method | q=What is the proper irrigation schedule and timing for cotton
+OK   | seed=9 | style=paraphrase_problem_description | call=4 | focus=symptom_detail | q=Is the cotton crop showing signs of wilting and yellowing le
+OK   | seed=9 | style=paraphrase_problem_description | call=5 | focus=unknown | q=Does the cotton crop have dry leaves and poor growth?
+OK   | seed=9 | style=paraphrase_followup | call=1 | focus=irrigation_method | q=Can I use tube well water for irrigation after the pre-sowin
+OK   | seed=9 | style=paraphrase_followup | call=2 | focus=application_timing | q=Should the first irrigation for cotton be given 4 to 6 weeks
+OK   | seed=9 | style=paraphrase_followup | call=3 | focus=irrigation_method | q=What is the recommended irrigation schedule for American Bt 
+OK   | seed=9 | style=paraphrase_followup | call=4 | focus=irrigation_method | q=Is drip irrigation suitable for all types of cotton crops?
+SKIP | seed=9 | style=paraphrase_followup | call=5
+OK   | seed=9 | style=paraphrase_followup | call=6 | focus=application_method | q=Are there any precautions to take while drip-irrigating cott
+OK   | seed=9 | style=paraphrase_yes_no | call=1 | focus=irrigation_method | q=Can pre-sowing irrigation with canal water be used in cotton
+OK   | seed=9 | style=paraphrase_yes_no | call=2 | focus=irrigation_method | q=Should irrigation be avoided during peak afternoon heat for 
+OK   | seed=9 | style=paraphrase_yes_no | call=3 | focus=unknown | q=Is it recommended to irrigate during peak afternoon heat for
+OK   | seed=9 | style=paraphrase_yes_no | call=4 | focus=irrigation_method | q=Is it necessary to adjust the irrigation duration based on t
+OK   | seed=9 | style=paraphrase_yes_no | call=5 | focus=application_timing | q=Does cotton need frequent irrigation during its early growth
+OK   | seed=9 | style=paraphrase_preventive | call=1 | focus=unknown | q=Can proper soil preparation help in preventing waterlogging 
+OK   | seed=9 | style=paraphrase_preventive | call=2 | focus=irrigation_method | q=Should farmers take any preventive measures to ensure proper
+OK   | seed=9 | style=paraphrase_preventive | call=3 | focus=unknown | q=What is the best way to prepare the soil to support healthy 
+OK   | seed=9 | style=paraphrase_preventive | call=4 | focus=unknown | q=Is there a way to prevent water stress in cotton crops durin
+OK   | seed=9 | style=paraphrase_preventive | call=5 | focus=unknown | q=Does cotton need special soil preparation to avoid waterlogg
+OK   | seed=9 | style=paraphrase_comparison | call=1 | focus=irrigation_method | q=Can drip irrigation and surface irrigation be used together 
+OK   | seed=9 | style=paraphrase_comparison | call=2 | focus=irrigation_method | q=Should drip irrigation be used for American Bt cotton hybrid
+OK   | seed=9 | style=paraphrase_comparison | call=3 | focus=irrigation_method | q=What is the difference between drip irrigation and surface d
+OK   | seed=9 | style=paraphrase_comparison | call=4 | focus=irrigation_method | q=Is drip irrigation better than surface irrigation for cotton
+OK   | seed=9 | style=paraphrase_comparison | call=5 | focus=irrigation_method | q=Does drip irrigation help save water compared to other metho
+OK   | seed=9 | style=paraphrase_cause | call=1 | focus=unknown | q=Can waterlogging during cotton cultivation cause damage to t
+OK   | seed=9 | style=paraphrase_cause | call=2 | focus=irrigation_method | q=Why is it important to time the first irrigation of cotton p
+OK   | seed=9 | style=paraphrase_cause | call=3 | focus=unknown | q=What causes waterlogging in cotton crops and how can it be p
+OK   | seed=9 | style=paraphrase_cause | call=4 | focus=unknown | q=Is waterlogging a major cause of root damage in cotton crops
+OK   | seed=9 | style=paraphrase_cause | call=5 | focus=unknown | q=Does waterlogging harm cotton plants?
+OK   | seed=9 | style=paraphrase_quantity_focused | call=1 | focus=irrigation_method | q=Can you specify the irrigation duration for American Bt cott
+OK   | seed=9 | style=paraphrase_quantity_focused | call=2 | focus=irrigation_method | q=Should the irrigation duration for cotton be adjusted if the
+OK   | seed=9 | style=paraphrase_quantity_focused | call=3 | focus=irrigation_method | q=What is the recommended irrigation duration for American Bt 
+OK   | seed=9 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | q=Is 16 quintal per acre of rice-residue biochar the correct a
+SKIP | seed=9 | style=paraphrase_quantity_focused | call=5
+OK   | seed=9 | style=paraphrase_quantity_focused | call=6 | focus=dosage_quantity | q=Are 16 quintal per acre of rice-residue biochar required for
+SKIP | seed=9 | style=paraphrase_timing_focused | call=1
+SKIP | seed=9 | style=paraphrase_timing_focused | call=2
+SKIP | seed=9 | style=paraphrase_timing_focused | call=3
+SKIP | seed=9 | style=paraphrase_timing_focused | call=4
+OK   | seed=9 | style=paraphrase_timing_focused | call=5 | focus=application_timing | q=Does the first irrigation for cotton need to be done 4 to 6 
+OK   | seed=9 | style=paraphrase_timing_focused | call=6 | focus=irrigation_method | q=When should the last irrigation be given to cotton to hasten
+DUPE | seed=9 | style=paraphrase_timing_focused | q=When should the last irrigation be given to cotton to hasten
+DUPE | seed=9 | style=paraphrase_timing_focused | q=When should the last irrigation be given to cotton to hasten
+DUPE | seed=9 | style=paraphrase_timing_focused | q=When should the last irrigation be given to cotton to hasten
+OK   | seed=9 | style=paraphrase_timing_focused | call=10 | focus=irrigation_method | q=Why is it important to time the last irrigation of cotton be
+OK   | seed=9 | style=paraphrase_timing_focused | call=11 | focus=application_timing | q=Can the timing of irrigation for cotton be adjusted based on
+OK   | seed=9 | style=paraphrase_timing_focused | call=12 | focus=irrigation_method | q=Should irrigation be given during the flowering and fruiting
+OK   | seed=10 | style=paraphrase_formal | call=1 | focus=unknown | q=When is the waste decomposer used in wheat cultivation and h
+OK   | seed=10 | style=paraphrase_formal | call=2 | focus=unknown | q=Why is the use of waste decomposer beneficial for wheat cult
+OK   | seed=10 | style=paraphrase_formal | call=3 | focus=soil_condition | q=Can the waste decomposer be prepared and used in a sustainab
+OK   | seed=10 | style=paraphrase_formal | call=4 | focus=unknown | q=Should the method of preparing a waste decomposer be followe
+OK   | seed=10 | style=paraphrase_formal | call=5 | focus=unknown | q=What is the method of making a waste decomposer for wheat fa
+OK   | seed=10 | style=paraphrase_short | call=1 | focus=unknown | q=When should waste decomposer be applied for wheat?
+OK   | seed=10 | style=paraphrase_short | call=2 | focus=unknown | q=Why use waste decomposer for wheat cultivation?
+OK   | seed=10 | style=paraphrase_short | call=3 | focus=unknown | q=Can waste decomposer be reused for wheat farming?
+OK   | seed=10 | style=paraphrase_short | call=4 | focus=unknown | q=Should farmers in Uttar Pradesh use waste decomposer for whe
+OK   | seed=10 | style=paraphrase_short | call=5 | focus=unknown | q=What is waste decomposer for wheat?
+OK   | seed=10 | style=paraphrase_problem_description | call=1 | focus=unknown | q=When I see the soil in my field becoming hard and not absorb
+OK   | seed=10 | style=paraphrase_problem_description | call=2 | focus=unknown | q=Why are the wheat plants in my field looking weak and not gr
+OK   | seed=10 | style=paraphrase_problem_description | call=3 | focus=unknown | q=Can the leaves of my wheat plants be turning yellow and the 
+OK   | seed=10 | style=paraphrase_problem_description | call=4 | focus=unknown | q=Should I use a bio-formulation to manage crop residues and i
+OK   | seed=10 | style=paraphrase_problem_description | call=5 | focus=unknown | q=What is the problem with my wheat field?
+OK   | seed=10 | style=paraphrase_followup | call=1 | focus=unknown | q=When should the waste decomposer be applied in wheat cultiva
+OK   | seed=10 | style=paraphrase_followup | call=2 | focus=unknown | q=Why is the waste decomposer solution ready after five days?
+OK   | seed=10 | style=paraphrase_followup | call=3 | focus=unknown | q=Can I reuse the waste decomposer solution for multiple batch
+OK   | seed=10 | style=paraphrase_followup | call=4 | focus=unknown | q=Should I use the same waste decomposer solution multiple tim
+OK   | seed=10 | style=paraphrase_followup | call=5 | focus=unknown | q=What is the method of preparing the waste decomposer solutio
+OK   | seed=10 | style=paraphrase_yes_no | call=1 | focus=unknown | q=When preparing waste decomposer for wheat, should jaggery be
+OK   | seed=10 | style=paraphrase_yes_no | call=2 | focus=unknown | q=Why is the waste decomposer important for wheat cultivation 
+OK   | seed=10 | style=paraphrase_yes_no | call=3 | focus=unknown | q=Can waste decomposer be used to improve soil health in wheat
+SKIP | seed=10 | style=paraphrase_yes_no | call=4
+OK   | seed=10 | style=paraphrase_yes_no | call=5 | focus=unknown | q=What is the method of preparing waste decomposer for wheat?
+OK   | seed=10 | style=paraphrase_yes_no | call=6 | focus=unknown | q=Is the waste decomposer solution ready for use after five da
+OK   | seed=10 | style=paraphrase_preventive | call=1 | focus=unknown | q=When should waste decomposer be prepared for wheat cultivati
+OK   | seed=10 | style=paraphrase_preventive | call=2 | focus=unknown | q=Why should farmers in Uttar Pradesh use waste decomposer for
+OK   | seed=10 | style=paraphrase_preventive | call=3 | focus=unknown | q=Can proper soil preparation help in improving the effectiven
+OK   | seed=10 | style=paraphrase_preventive | call=4 | focus=unknown | q=Should farmers in Uttar Pradesh take any preventive steps to
+OK   | seed=10 | style=paraphrase_preventive | call=5 | focus=unknown | q=What is the best way to prevent poor soil health in wheat fi
+OK   | seed=10 | style=paraphrase_comparison | call=1 | focus=unknown | q=When comparing waste decomposer with other methods for soil 
+OK   | seed=10 | style=paraphrase_comparison | call=2 | focus=unknown | q=Why is the waste decomposer considered beneficial for wheat 
+OK   | seed=10 | style=paraphrase_comparison | call=3 | focus=unknown | q=Can waste decomposer be used as an alternative to chemical f
+OK   | seed=10 | style=paraphrase_comparison | call=4 | focus=unknown | q=Should farmers prefer using waste decomposer over other meth
+OK   | seed=10 | style=paraphrase_comparison | call=5 | focus=unknown | q=What is the difference between waste decomposer and other co
+OK   | seed=10 | style=paraphrase_cause | call=1 | focus=unknown | q=When does the use of waste decomposer become essential for w
+OK   | seed=10 | style=paraphrase_cause | call=2 | focus=unknown | q=Why is the waste decomposer used in wheat cultivation in Utt
+OK   | seed=10 | style=paraphrase_cause | call=3 | focus=unknown | q=Can the use of waste decomposer affect soil health in wheat 
+OK   | seed=10 | style=paraphrase_cause | call=4 | focus=unknown | q=Should farmers in Uttar Pradesh use waste decomposer for whe
+OK   | seed=10 | style=paraphrase_cause | call=5 | focus=unknown | q=What is the cause of the need for waste decomposer in wheat 
+OK   | seed=10 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | q=When should 1000 liters of waste decomposer be applied per a
+OK   | seed=10 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | q=Why is 1000 liters of waste decomposer used per acre?
+OK   | seed=10 | style=paraphrase_quantity_focused | call=3 | focus=unknown | q=Can 200 liters of water be used to prepare the waste decompo
+OK   | seed=10 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | q=Should 1000 liters of waste decomposer be applied per acre f
+SKIP | seed=10 | style=paraphrase_quantity_focused | call=5
+OK   | seed=10 | style=paraphrase_quantity_focused | call=6 | focus=dosage_quantity | q=Is 1000 liters of waste decomposer per acre effective for so
+OK   | seed=10 | style=paraphrase_timing_focused | call=1 | focus=unknown | q=When should waste decomposer be applied for wheat cultivatio
+OK   | seed=10 | style=paraphrase_timing_focused | call=2 | focus=unknown | q=Why should waste decomposer be applied during the Rabi seaso
+OK   | seed=10 | style=paraphrase_timing_focused | call=3 | focus=unknown | q=Can waste decomposer be applied at a specific time during wh
+OK   | seed=10 | style=paraphrase_timing_focused | call=4 | focus=application_timing | q=Should waste decomposer be applied before or after sowing wh
+OK   | seed=10 | style=paraphrase_timing_focused | call=5 | focus=application_timing | q=What is the best time to apply waste decomposer for wheat?
+OK   | seed=11 | style=paraphrase_formal | call=1 | focus=application_timing | q=When is the optimal time to apply Sagarika Z++ Granules and 
+OK   | seed=11 | style=paraphrase_formal | call=2 | focus=unknown | q=Why is Sagarika considered a suitable biostimulant for wheat
+OK   | seed=11 | style=paraphrase_formal | call=3 | focus=application_method | q=Can you provide details on the application methods and benef
+OK   | seed=11 | style=paraphrase_formal | call=4 | focus=unknown | q=Should farmers consider using Quantis Biostimulant for wheat
+OK   | seed=11 | style=paraphrase_formal | call=5 | focus=unknown | q=What is Sagarika Biostimulant for wheat cultivation?
+OK   | seed=11 | style=paraphrase_short | call=1 | focus=application_timing | q=When to apply Sagarika Z++ Granules for wheat?
+OK   | seed=11 | style=paraphrase_short | call=2 | focus=unknown | q=Why use Sagarika for wheat?
+OK   | seed=11 | style=paraphrase_short | call=3 | focus=unknown | q=Can Sagarika Z++ Granules be used for wheat?
+OK   | seed=11 | style=paraphrase_short | call=4 | focus=unknown | q=Should farmers use Sagarika for wheat?
+OK   | seed=11 | style=paraphrase_short | call=5 | focus=unknown | q=What is Sagarika for wheat?
+OK   | seed=11 | style=paraphrase_problem_description | call=1 | focus=unknown | q=When I look at my wheat field, the plants are not growing as
+OK   | seed=11 | style=paraphrase_problem_description | call=2 | focus=unknown | q=Why are the wheat plants in my field looking weak and not gr
+OK   | seed=11 | style=paraphrase_problem_description | call=3 | focus=unknown | q=Can the wheat crop be seen with weak roots and poor tillerin
+OK   | seed=11 | style=paraphrase_problem_description | call=4 | focus=unknown | q=Should I use a biostimulant to improve the growth of my whea
+OK   | seed=11 | style=paraphrase_problem_description | call=5 | focus=unknown | q=What is the problem with my wheat crop?
+OK   | seed=11 | style=paraphrase_followup | call=1 | focus=unknown | q=When should Sagarika Z++ Granules be applied in wheat cultiv
+OK   | seed=11 | style=paraphrase_followup | call=2 | focus=dosage_quantity | q=Why is Sagarika considered a supplement to the standard NPK 
+OK   | seed=11 | style=paraphrase_followup | call=3 | focus=unknown | q=Can Sagarika Z++ Granules be applied at a different time tha
+OK   | seed=11 | style=paraphrase_followup | call=4 | focus=soil_condition | q=Should Sagarika Z++ Granules be applied at a different rate 
+OK   | seed=11 | style=paraphrase_followup | call=5 | focus=unknown | q=What is Sagarika Z++ Granules used for?
+OK   | seed=11 | style=paraphrase_yes_no | call=1 | focus=unknown | q=When is Sagarika Z++ Granules applied in wheat cultivation?
+OK   | seed=11 | style=paraphrase_yes_no | call=2 | focus=unknown | q=Why is Quantis Biostimulant not recommended for wheat cultiv
+OK   | seed=11 | style=paraphrase_yes_no | call=3 | focus=unknown | q=Can Sagarika Z++ Granules be applied at sowing for wheat cul
+OK   | seed=11 | style=paraphrase_yes_no | call=4 | focus=unknown | q=Should farmers use Quantis Biostimulant for wheat cultivatio
+OK   | seed=11 | style=paraphrase_yes_no | call=5 | focus=unknown | q=What is the availability of Quantis Biostimulant for wheat c
+DUPE | seed=11 | style=paraphrase_preventive | q=When should Sagarika Z++ Granules be applied for wheat culti
+OK   | seed=11 | style=paraphrase_preventive | call=2 | focus=unknown | q=Why should farmers use Sagarika Z++ Granules for wheat culti
+OK   | seed=11 | style=paraphrase_preventive | call=3 | focus=unknown | q=Can proper soil preparation help in improving wheat crop hea
+OK   | seed=11 | style=paraphrase_preventive | call=4 | focus=unknown | q=Should farmers in Haryana use Sagarika Z++ Granules as a pre
+OK   | seed=11 | style=paraphrase_preventive | call=5 | focus=unknown | q=What is the best way to prevent poor wheat growth?
+OK   | seed=11 | style=paraphrase_preventive | call=6 | focus=unknown | q=Is there a specific method to ensure optimal use of Sagarika
+OK   | seed=11 | style=paraphrase_comparison | call=1 | focus=unknown | q=When comparing Sagarika Z++ Granules and Sagarika Liquid for
+OK   | seed=11 | style=paraphrase_comparison | call=2 | focus=unknown | q=Why is Sagarika considered a better option than Quantis Bios
+OK   | seed=11 | style=paraphrase_comparison | call=3 | focus=unknown | q=Can Sagarika Z++ Granules and Sagarika Liquid be used togeth
+OK   | seed=11 | style=paraphrase_comparison | call=4 | focus=unknown | q=Should farmers use Sagarika Z++ Granules or Sagarika Liquid 
+OK   | seed=11 | style=paraphrase_comparison | call=5 | focus=unknown | q=What is the difference between Quantis Biostimulant and Saga
+OK   | seed=11 | style=paraphrase_cause | call=1 | focus=unknown | q=When does the application of Sagarika Z++ Granules help in w
+DUPE | seed=11 | style=paraphrase_cause | q=Why is Quantis Biostimulant not recommended for wheat cultiv
+OK   | seed=11 | style=paraphrase_cause | call=3 | focus=unknown | q=Can the use of Sagarika Z++ Granules cause improved wheat cr
+OK   | seed=11 | style=paraphrase_cause | call=4 | focus=unknown | q=Should farmers use Quantis Biostimulant for wheat in Haryana
+OK   | seed=11 | style=paraphrase_cause | call=5 | focus=unknown | q=What is the cause of improved wheat crop health when using S
+OK   | seed=11 | style=paraphrase_cause | call=6 | focus=unknown | q=Is the cause of improved wheat growth due to the biostimulan
+DUPE | seed=11 | style=paraphrase_quantity_focused | q=When should Sagarika Z++ Granules be applied in wheat cultiv
+OK   | seed=11 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | q=Why is Sagarika Z++ Granules applied at 10 kg per acre durin
+OK   | seed=11 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | q=Can Sagarika Z++ Granules be applied at a rate of 10 kg per 
+OK   | seed=11 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | q=Should 10 kg of Sagarika Z++ Granules be applied per acre fo
+OK   | seed=11 | style=paraphrase_quantity_focused | call=5 | focus=dosage_quantity | q=What is the application rate of Sagarika Z++ Granules for wh
+OK   | seed=11 | style=paraphrase_quantity_focused | call=6 | focus=dosage_quantity | q=Is Sagarika Z++ Granules applied at a rate of 10 kg per acre
+OK   | seed=11 | style=paraphrase_timing_focused | call=1 | focus=application_method | q=When should Sagarika Liquid be applied as a foliar spray in 
+OK   | seed=11 | style=paraphrase_timing_focused | call=2 | focus=application_timing | q=Why should Sagarika Z++ Granules be applied at 10 kg per acr
+OK   | seed=11 | style=paraphrase_timing_focused | call=3 | focus=application_timing | q=Can Sagarika Liquid be applied during a specific growth stag
+OK   | seed=11 | style=paraphrase_timing_focused | call=4 | focus=unknown | q=Should Sagarika Z++ Granules be applied at a specific time d
+OK   | seed=11 | style=paraphrase_timing_focused | call=5 | focus=application_timing | q=What is the best time to apply Sagarika Z++ Granules in whea
+OK   | seed=12 | style=paraphrase_formal | call=1 | focus=symptom_detail | q=Which nutritional deficiencies in maize lead to yellowing of
+OK   | seed=12 | style=paraphrase_formal | call=2 | focus=symptom_detail | q=When does leaf yellowing occur in maize, and what are the re
+OK   | seed=12 | style=paraphrase_formal | call=3 | focus=unknown | q=Why does chlorosis occur in maize crops and what are the rec
+OK   | seed=12 | style=paraphrase_formal | call=4 | focus=symptom_detail | q=Can yellowing of maize leaves be attributed to nutritional d
+OK   | seed=12 | style=paraphrase_formal | call=5 | focus=symptom_detail | q=Should yellowing of maize leaves be managed, and how?
+OK   | seed=12 | style=paraphrase_short | call=1 | focus=symptom_detail | q=Which nutrients cause yellowing in maize?
+OK   | seed=12 | style=paraphrase_short | call=2 | focus=unknown | q=When should nitrogen be applied for maize?
+OK   | seed=12 | style=paraphrase_short | call=3 | focus=symptom_detail | q=Why is maize leaf yellowing happening?
+OK   | seed=12 | style=paraphrase_short | call=4 | focus=unknown | q=Can nitrogen and zinc deficiency in maize be corrected?
+OK   | seed=12 | style=paraphrase_short | call=5 | focus=unknown | q=Should maize leaves turn yellow due to nutrient issues?
+OK   | seed=12 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | q=Which crops are showing yellowing on the tips of older leave
+OK   | seed=12 | style=paraphrase_problem_description | call=2 | focus=symptom_detail | q=When the leaves of my maize crop start turning pale and show
+OK   | seed=12 | style=paraphrase_problem_description | call=3 | focus=unknown | q=Why are the leaves of my maize crop turning pale and have ye
+OK   | seed=12 | style=paraphrase_problem_description | call=4 | focus=unknown | q=Can the leaves of my maize crop be turning yellow and having
+OK   | seed=12 | style=paraphrase_problem_description | call=5 | focus=unknown | q=Should the leaves of my maize crop be turning yellow and loo
+OK   | seed=12 | style=paraphrase_followup | call=1 | focus=unknown | q=Which nitrogen fertiliser should be applied at the recommend
+OK   | seed=12 | style=paraphrase_followup | call=2 | focus=unknown | q=When should nitrogen be applied for maize crops in Punjab?
+OK   | seed=12 | style=paraphrase_followup | call=3 | focus=unknown | q=Why should one-third of nitrogen be top-dressed at the knee-
+OK   | seed=12 | style=paraphrase_followup | call=4 | focus=symptom_detail | q=Can I apply zinc sulphate during the growing season if the s
+OK   | seed=12 | style=paraphrase_followup | call=5 | focus=unknown | q=Should I apply nitrogen fertiliser at the same time as sowin
+OK   | seed=12 | style=paraphrase_yes_no | call=1 | focus=symptom_detail | q=Which nutrient deficiencies can cause yellowing of maize lea
+OK   | seed=12 | style=paraphrase_yes_no | call=2 | focus=unknown | q=When should zinc sulphate be applied to maize crops affected
+OK   | seed=12 | style=paraphrase_yes_no | call=3 | focus=symptom_detail | q=Why is yellowing of leaves in maize a concern for crop healt
+OK   | seed=12 | style=paraphrase_yes_no | call=4 | focus=unknown | q=Can zinc sulphate be applied to maize during the growing sea
+OK   | seed=12 | style=paraphrase_yes_no | call=5 | focus=unknown | q=Should nitrogen be applied at the recommended rate for maize
+OK   | seed=12 | style=paraphrase_preventive | call=1 | focus=symptom_detail | q=Which cultural practices can prevent yellowing of leaves in 
+OK   | seed=12 | style=paraphrase_preventive | call=2 | focus=symptom_detail | q=When should nitrogen and zinc be applied to prevent leaf yel
+OK   | seed=12 | style=paraphrase_preventive | call=3 | focus=symptom_detail | q=Why should I ensure proper soil preparation for maize to pre
+OK   | seed=12 | style=paraphrase_preventive | call=4 | focus=symptom_detail | q=Can proper soil preparation prevent yellowing of leaves in m
+OK   | seed=12 | style=paraphrase_preventive | call=5 | focus=symptom_detail | q=Should farmers take any steps to prevent yellowing of maize 
+OK   | seed=12 | style=paraphrase_comparison | call=1 | focus=unknown | q=Which is more effective for correcting zinc deficiency in ma
+OK   | seed=12 | style=paraphrase_comparison | call=2 | focus=symptom_detail | q=When comparing nitrogen and zinc deficiencies in maize, what
+OK   | seed=12 | style=paraphrase_comparison | call=3 | focus=unknown | q=Why is nitrogen fertiliser applied at different rates for di
+OK   | seed=12 | style=paraphrase_comparison | call=4 | focus=unknown | q=Can nitrogen deficiency and zinc deficiency in maize be mana
+OK   | seed=12 | style=paraphrase_comparison | call=5 | focus=unknown | q=Should nitrogen or zinc deficiency be checked first in maize
+OK   | seed=12 | style=paraphrase_cause | call=1 | focus=symptom_detail | q=Which factors lead to yellowing of maize leaves and what cau
+OK   | seed=12 | style=paraphrase_cause | call=2 | focus=symptom_detail | q=When does zinc deficiency in maize occur, and what causes th
+OK   | seed=12 | style=paraphrase_cause | call=3 | focus=symptom_detail | q=Why do maize plants show yellowing of leaves during the grow
+OK   | seed=12 | style=paraphrase_cause | call=4 | focus=pathogen_name | q=Can yellowing of maize leaves be caused by nutrient deficien
+OK   | seed=12 | style=paraphrase_cause | call=5 | focus=symptom_detail | q=Should yellowing of maize leaves be a concern, and what caus
+OK   | seed=12 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | q=Which quantity of nitrogen fertiliser should be applied per 
+DUPE | seed=12 | style=paraphrase_quantity_focused | q=When should nitrogen be applied to maize crops in Punjab?
+OK   | seed=12 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | q=Why is 50 kg nitrogen per acre recommended for certain maize
+OK   | seed=12 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | q=Can 50 kg of nitrogen per acre be applied to maize varieties
+OK   | seed=12 | style=paraphrase_quantity_focused | call=5 | focus=unknown | q=Should nitrogen be applied at a specific rate for maize?
+OK   | seed=12 | style=paraphrase_quantity_focused | call=6 | focus=dosage_quantity | q=What is the recommended quantity of zinc sulphate heptahydra
+OK   | seed=12 | style=paraphrase_timing_focused | call=1 | focus=symptom_detail | q=When should nitrogen be applied to maize to manage yellowing
+OK   | seed=12 | style=paraphrase_timing_focused | call=2 | focus=symptom_detail | q=When should zinc sulphate be applied for maize plants showin
+OK   | seed=12 | style=paraphrase_timing_focused | call=3 | focus=unknown | q=Why should nitrogen be applied at the knee-high stage in mai
+OK   | seed=12 | style=paraphrase_timing_focused | call=4 | focus=unknown | q=When should zinc sulphate be applied to maize to address def
+OK   | seed=12 | style=paraphrase_timing_focused | call=5 | focus=unknown | q=Should nitrogen be applied at a specific time during maize g
+OK   | seed=13 | style=paraphrase_formal | call=1 | focus=unknown | q=Can zinc and phosphorous fertilizers be applied in dry field
+OK   | seed=13 | style=paraphrase_formal | call=2 | focus=unknown | q=Should zinc and phosphorous be applied in dry fields prior t
+OK   | seed=13 | style=paraphrase_formal | call=3 | focus=unknown | q=What is the reason for not recommending zinc and phosphorous
+OK   | seed=13 | style=paraphrase_formal | call=4 | focus=unknown | q=Is the application of zinc and phosphorus fertilizers in dry
+OK   | seed=13 | style=paraphrase_formal | call=5 | focus=unknown | q=Does applying zinc and phosphorous in dry fields before tran
+OK   | seed=13 | style=paraphrase_short | call=1 | focus=unknown | q=Can zinc and phosphorous be used in dry fields before paddy 
+OK   | seed=13 | style=paraphrase_short | call=2 | focus=unknown | q=Should zinc and phosphorous be applied in dry fields before 
+OK   | seed=13 | style=paraphrase_short | call=3 | focus=application_timing | q=What is the best time to apply zinc and phosphorous for padd
+OK   | seed=13 | style=paraphrase_short | call=4 | focus=unknown | q=Is zinc and phosphorous suitable for dry paddy fields before
+OK   | seed=13 | style=paraphrase_short | call=5 | focus=unknown | q=Does zinc and phosphorus work in dry paddy fields?
+OK   | seed=13 | style=paraphrase_problem_description | call=1 | focus=unknown | q=Can the leaves of my paddy plants look pale and stunted even
+OK   | seed=13 | style=paraphrase_problem_description | call=2 | focus=unknown | q=Should I apply zinc and phosphorus fertilizers in my dry pad
+OK   | seed=13 | style=paraphrase_problem_description | call=3 | focus=unknown | q=What is happening to my paddy plants in the dry field?
+OK   | seed=13 | style=paraphrase_problem_description | call=4 | focus=unknown | q=Is the soil in my field too dry for applying zinc and phosph
+OK   | seed=13 | style=paraphrase_problem_description | call=5 | focus=unknown | q=Does the soil in my paddy field not take in the fertilizers 
+OK   | seed=13 | style=paraphrase_followup | call=1 | focus=unknown | q=Can I apply zinc and phosphorous fertilizers after transplan
+OK   | seed=13 | style=paraphrase_followup | call=2 | focus=unknown | q=Should zinc and phosphorus be applied during the last puddli
+DUPE | seed=13 | style=paraphrase_followup | q=What is the best time to apply zinc and phosphorous for padd
+OK   | seed=13 | style=paraphrase_followup | call=4 | focus=unknown | q=Is it necessary to apply phosphorous and zinc during land pr
+OK   | seed=13 | style=paraphrase_followup | call=5 | focus=unknown | q=Does applying zinc and phosphorous in dry fields waste the f
+OK   | seed=13 | style=paraphrase_followup | call=6 | focus=unknown | q=Are zinc and phosphorous fertilizers effective when applied 
+OK   | seed=13 | style=paraphrase_yes_no | call=1 | focus=unknown | q=Can zinc and phosphorous fertilizers be applied in dry field
+DUPE | seed=13 | style=paraphrase_yes_no | q=Should zinc and phosphorous be applied in dry fields before 
+OK   | seed=13 | style=paraphrase_yes_no | call=3 | focus=unknown | q=What is the availability of zinc and phosphorous in dry fiel
+OK   | seed=13 | style=paraphrase_yes_no | call=4 | focus=unknown | q=Is it advisable to apply zinc and phosphorous fertilizers in
+OK   | seed=13 | style=paraphrase_yes_no | call=5 | focus=unknown | q=Does applying zinc and phosphorous in dry fields before tran
+OK   | seed=13 | style=paraphrase_yes_no | call=6 | focus=unknown | q=Are zinc and phosphorous fertilizers recommended for dry fie
+OK   | seed=13 | style=paraphrase_preventive | call=1 | focus=unknown | q=Can proper soil preparation help in preventing nutrient wast
+OK   | seed=13 | style=paraphrase_preventive | call=2 | focus=unknown | q=Should farmers avoid applying zinc and phosphorous in dry fi
+OK   | seed=13 | style=paraphrase_preventive | call=3 | focus=unknown | q=What is the best way to ensure proper nutrient availability 
+OK   | seed=13 | style=paraphrase_preventive | call=4 | focus=unknown | q=Is there a way to prevent poor nutrient uptake in paddy fiel
+OK   | seed=13 | style=paraphrase_preventive | call=5 | focus=unknown | q=Does applying zinc and phosphorous in dry fields before tran
+DUPE | seed=13 | style=paraphrase_comparison | q=Can zinc and phosphorous be used in dry fields before transp
+DUPE | seed=13 | style=paraphrase_comparison | q=Should zinc and phosphorous be applied in dry fields before 
+OK   | seed=13 | style=paraphrase_comparison | call=3 | focus=soil_condition | q=What is the difference in the application of zinc and phosph
+OK   | seed=13 | style=paraphrase_comparison | call=4 | focus=unknown | q=Is applying zinc and phosphorous in dry fields before transp
+OK   | seed=13 | style=paraphrase_comparison | call=5 | focus=unknown | q=Does applying zinc and phosphorous in dry fields before tran
+OK   | seed=13 | style=paraphrase_comparison | call=6 | focus=unknown | q=Are zinc and phosphorous more effective when applied during 
+OK   | seed=13 | style=paraphrase_comparison | call=7 | focus=unknown | q=What is the difference between applying zinc and phosphorous
+OK   | seed=13 | style=paraphrase_cause | call=1 | focus=unknown | q=Can the lack of moisture in dry fields affect the effectiven
+DUPE | seed=13 | style=paraphrase_cause | q=Should zinc and phosphorous be applied in dry fields before 
+OK   | seed=13 | style=paraphrase_cause | call=3 | focus=unknown | q=What is the reason behind the reduced effectiveness of zinc 
+OK   | seed=13 | style=paraphrase_cause | call=4 | focus=unknown | q=Is the lack of moisture in dry fields the reason why zinc an
+OK   | seed=13 | style=paraphrase_cause | call=5 | focus=unknown | q=Does dry soil reduce the effectiveness of zinc and phosphoru
+OK   | seed=13 | style=paraphrase_cause | call=6 | focus=soil_condition | q=Are dry soil conditions the reason why zinc and phosphorous 
+DUPE | seed=13 | style=paraphrase_quantity_focused | q=Can zinc and phosphorous fertilizers be applied in dry field
+OK   | seed=13 | style=paraphrase_quantity_focused | call=2 | focus=unknown | q=Should the application of phosphorous be avoided in dry fiel
+OK   | seed=13 | style=paraphrase_quantity_focused | call=3 | focus=unknown | q=What is the recommended time for applying phosphorous and zi
+OK   | seed=13 | style=paraphrase_quantity_focused | call=4 | focus=application_timing | q=Is there a specific time to apply zinc and phosphorous ferti
+DUPE | seed=13 | style=paraphrase_quantity_focused | q=Does applying zinc and phosphorous in dry fields before tran
+OK   | seed=13 | style=paraphrase_quantity_focused | call=6 | focus=unknown | q=Are zinc and phosphorous fertilizers effective in dry fields
+DUPE | seed=13 | style=paraphrase_quantity_focused | q=What is the recommended time for applying zinc and phosphoro
+OK   | seed=13 | style=paraphrase_quantity_focused | call=8 | focus=dosage_quantity | q=Which quantity of zinc and phosphorous fertilizers is not re
+DUPE | seed=13 | style=paraphrase_timing_focused | q=Can zinc and phosphorous be applied before transplanting pad
+DUPE | seed=13 | style=paraphrase_timing_focused | q=Should zinc and phosphorous fertilizers be applied before tr
+DUPE | seed=13 | style=paraphrase_timing_focused | q=What is the best time to apply zinc and phosphorous fertiliz
+DUPE | seed=13 | style=paraphrase_timing_focused | q=Is it advisable to apply zinc and phosphorus fertilizers in 
+OK   | seed=13 | style=paraphrase_timing_focused | call=5 | focus=unknown | q=Does applying zinc and phosphorus in dry fields before trans
+OK   | seed=13 | style=paraphrase_timing_focused | call=6 | focus=unknown | q=When should zinc and phosphorous fertilizers be applied for 
+DUPE | seed=13 | style=paraphrase_timing_focused | q=When is the best time to apply zinc and phosphorous for padd
+DUPE | seed=13 | style=paraphrase_timing_focused | q=When should zinc and phosphorous fertilizers be applied for 
+OK   | seed=13 | style=paraphrase_timing_focused | call=9 | focus=unknown | q=When should zinc and phosphorous fertilizers be applied for 
+OK   | seed=13 | style=paraphrase_timing_focused | call=10 | focus=unknown | q=Why is it not advisable to apply zinc and phosphorous before
+DUPE | seed=13 | style=paraphrase_timing_focused | q=Can zinc and phosphorous be applied in dry fields before tra
+DUPE | seed=13 | style=paraphrase_timing_focused | q=Should zinc and phosphorous fertilizers be applied before tr
+DUPE | seed=13 | style=paraphrase_timing_focused | q=What is the best time to apply zinc and phosphorous for padd
+DUPE | seed=13 | style=paraphrase_timing_focused | q=Is it advisable to apply zinc and phosphorous fertilizers be
+OK   | seed=13 | style=paraphrase_timing_focused | call=15 | focus=unknown | q=Does the timing of applying zinc and phosphorous matter for 
+OK   | seed=14 | style=paraphrase_formal | call=1 | focus=unknown | q=What are the recommended methods for managing powdery mildew
+OK   | seed=14 | style=paraphrase_formal | call=2 | focus=unknown | q=Which methods are recommended for managing powdery mildew in
+OK   | seed=14 | style=paraphrase_formal | call=3 | focus=unknown | q=When should integrated disease management strategies be appl
+OK   | seed=14 | style=paraphrase_formal | call=4 | focus=unknown | q=Why is powdery mildew a concern for okra cultivation in Punj
+OK   | seed=14 | style=paraphrase_formal | call=5 | focus=unknown | q=Can downy mildew be controlled in okra crops?
+OK   | seed=14 | style=paraphrase_short | call=1 | focus=unknown | q=What is the control for powdery mildew in okra?
+OK   | seed=14 | style=paraphrase_short | call=2 | focus=unknown | q=Which methods control powdery mildew in okra?
+OK   | seed=14 | style=paraphrase_short | call=3 | focus=unknown | q=When should powdery mildew be controlled in okra?
+OK   | seed=14 | style=paraphrase_short | call=4 | focus=unknown | q=Why is powdery mildew a problem in okra?
+OK   | seed=14 | style=paraphrase_short | call=5 | focus=unknown | q=Can powdery mildew affect okra?
+OK   | seed=14 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | q=What should I do if my okra plants have white, powdery spots
+OK   | seed=14 | style=paraphrase_problem_description | call=2 | focus=symptom_detail | q=Which symptoms are observed on the leaves of the okra plant 
+OK   | seed=14 | style=paraphrase_problem_description | call=3 | focus=symptom_detail | q=When I look at my okra plants, I notice small white spots on
+OK   | seed=14 | style=paraphrase_problem_description | call=4 | focus=unknown | q=Why are the older leaves of my okra plants turning yellow an
+OK   | seed=14 | style=paraphrase_problem_description | call=5 | focus=unknown | q=Can the leaves of my okra plants be turning yellow and have 
+OK   | seed=14 | style=paraphrase_followup | call=1 | focus=dosage_quantity | q=What is the recommended dosage of neem oil for controlling p
+OK   | seed=14 | style=paraphrase_followup | call=2 | focus=application_method | q=Which application method is recommended for neem oil-based E
+OK   | seed=14 | style=paraphrase_followup | call=3 | focus=unknown | q=When should the neem oil spray be applied for powdery mildew
+OK   | seed=14 | style=paraphrase_followup | call=4 | focus=unknown | q=Why is powdery mildew more common in older leaves of okra pl
+OK   | seed=14 | style=paraphrase_followup | call=5 | focus=unknown | q=Can I use neem oil for powdery mildew in okra?
+OK   | seed=14 | style=paraphrase_yes_no | call=1 | focus=unknown | q=What is the recommended approach for managing powdery mildew
+OK   | seed=14 | style=paraphrase_yes_no | call=2 | focus=unknown | q=Which method is recommended for controlling powdery mildew i
+OK   | seed=14 | style=paraphrase_yes_no | call=3 | focus=application_timing | q=When is the best time to apply azadirachtin 0.03% neem oil-b
+OK   | seed=14 | style=paraphrase_yes_no | call=4 | focus=unknown | q=Why is downy mildew not considered a serious threat to okra 
+OK   | seed=14 | style=paraphrase_yes_no | call=5 | focus=unknown | q=Can powdery mildew affect okra plants?
+OK   | seed=14 | style=paraphrase_preventive | call=1 | focus=unknown | q=What are the preventive measures to avoid powdery mildew in 
+OK   | seed=14 | style=paraphrase_preventive | call=2 | focus=unknown | q=Which practices can be followed to prevent powdery mildew in
+OK   | seed=14 | style=paraphrase_preventive | call=3 | focus=unknown | q=When should proper plant spacing be maintained to prevent po
+DUPE | seed=14 | style=paraphrase_preventive | q=Why should proper plant spacing be maintained to prevent pow
+OK   | seed=14 | style=paraphrase_preventive | call=5 | focus=unknown | q=Can downy mildew in okra be prevented?
+OK   | seed=14 | style=paraphrase_preventive | call=6 | focus=unknown | q=Should farmers ensure proper plant spacing to prevent powder
+OK   | seed=14 | style=paraphrase_comparison | call=1 | focus=unknown | q=What are the differences between powdery mildew and downy mi
+OK   | seed=14 | style=paraphrase_comparison | call=2 | focus=unknown | q=Which is more effective for controlling powdery mildew in ok
+OK   | seed=14 | style=paraphrase_comparison | call=3 | focus=unknown | q=When comparing the effectiveness of neem oil and sulfur in c
+OK   | seed=14 | style=paraphrase_comparison | call=4 | focus=unknown | q=Why is powdery mildew more concerning than downy mildew in o
+OK   | seed=14 | style=paraphrase_comparison | call=5 | focus=unknown | q=Can neem oil and sulfur be used together to control powdery 
+OK   | seed=14 | style=paraphrase_cause | call=1 | focus=unknown | q=What causes powdery mildew to develop in okra crops?
+OK   | seed=14 | style=paraphrase_cause | call=2 | focus=unknown | q=Which factors contribute to the occurrence of powdery mildew
+OK   | seed=14 | style=paraphrase_cause | call=3 | focus=unknown | q=When does powdery mildew in okra become a serious problem?
+OK   | seed=14 | style=paraphrase_cause | call=4 | focus=unknown | q=Why does powdery mildew affect okra crops in Punjab during t
+OK   | seed=14 | style=paraphrase_cause | call=5 | focus=pathogen_name | q=Can powdery mildew in okra be caused by high humidity?
+OK   | seed=14 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | q=What is the recommended dosage of neem oil-based EC for cont
+OK   | seed=14 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | q=Which quantity of azadirachtin 0.03% neem oil-based EC is re
+OK   | seed=14 | style=paraphrase_quantity_focused | call=3 | focus=unknown | q=When should sulphur 80% WP be applied for controlling powder
+OK   | seed=14 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | q=Why should azadirachtin 0.03% neem oil-based EC be applied a
+OK   | seed=14 | style=paraphrase_quantity_focused | call=5 | focus=unknown | q=Can 80% WP sulphur be used for downy mildew in okra?
+OK   | seed=14 | style=paraphrase_timing_focused | call=1 | focus=application_timing | q=What is the best time to apply neem oil for controlling powd
+OK   | seed=14 | style=paraphrase_timing_focused | call=2 | focus=unknown | q=When should I apply neem oil to control powdery mildew in ok
+DUPE | seed=14 | style=paraphrase_timing_focused | q=When should I apply neem oil to control powdery mildew in ok
+OK   | seed=14 | style=paraphrase_timing_focused | call=4 | focus=unknown | q=Why should azadirachtin 0.03% neem oil-based EC be sprayed a
+OK   | seed=14 | style=paraphrase_timing_focused | call=5 | focus=unknown | q=Can powdery mildew in okra be controlled by spraying neem oi
+OK   | seed=14 | style=paraphrase_timing_focused | call=6 | focus=unknown | q=Should the application of neem oil be done at a specific tim
+OK   | seed=15 | style=paraphrase_formal | call=1 | focus=application_method | q=What is the recommended foliar spray treatment for zinc defi
+OK   | seed=15 | style=paraphrase_formal | call=2 | focus=application_method | q=Is there a recommended foliar spray for addressing zinc defi
+OK   | seed=15 | style=paraphrase_formal | call=3 | focus=symptom_detail | q=Does the application of zinc sulphate help in managing zinc 
+OK   | seed=15 | style=paraphrase_formal | call=4 | focus=symptom_detail | q=What is the recommended foliar application for addressing zi
+OK   | seed=15 | style=paraphrase_formal | call=5 | focus=application_method | q=What is the recommended foliar spray for zinc deficiency in 
+OK   | seed=15 | style=paraphrase_short | call=1 | focus=application_method | q=What is foliar spray for zinc deficiency in paddy?
+OK   | seed=15 | style=paraphrase_short | call=2 | focus=application_method | q=Is foliar spray effective for zinc deficiency in paddy?
+OK   | seed=15 | style=paraphrase_short | call=3 | focus=application_method | q=Does zinc deficiency in paddy require foliar spray?
+OK   | seed=15 | style=paraphrase_short | call=4 | focus=application_method | q=Are foliar sprays effective for zinc deficiency in paddy?
+DUPE | seed=15 | style=paraphrase_short | q=What is the foliar spray for zinc deficiency in paddy?
+OK   | seed=15 | style=paraphrase_short | call=6 | focus=application_method | q=Which zinc sulphate solution is suitable for paddy foliar sp
+OK   | seed=15 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | q=What is the treatment for paddy plants showing reddish leave
+OK   | seed=15 | style=paraphrase_problem_description | call=2 | focus=unknown | q=Is my paddy field showing reddish leaves and plants that are
+OK   | seed=15 | style=paraphrase_problem_description | call=3 | focus=symptom_detail | q=Does my paddy field have yellowing leaves and weak growth?
+OK   | seed=15 | style=paraphrase_problem_description | call=4 | focus=unknown | q=Are the leaves of my paddy plants turning reddish and the pl
+OK   | seed=15 | style=paraphrase_problem_description | call=5 | focus=unknown | q=What should I do if my paddy plants have red leaves and are 
+OK   | seed=15 | style=paraphrase_followup | call=1 | focus=application_method | q=What is the correct dosage of zinc sulphate monohydrate for 
+OK   | seed=15 | style=paraphrase_followup | call=2 | focus=unknown | q=Is there any alternative to zinc sulphate for treating zinc 
+OK   | seed=15 | style=paraphrase_followup | call=3 | focus=unknown | q=Does the application of zinc sulphate heptahydrate require a
+OK   | seed=15 | style=paraphrase_followup | call=4 | focus=soil_condition | q=Are there any specific soil conditions where the zinc sulpha
+OK   | seed=15 | style=paraphrase_followup | call=5 | focus=unknown | q=What is the amount of zinc sulphate heptahydrate needed for 
+OK   | seed=15 | style=paraphrase_yes_no | call=1 | focus=application_method | q=Is it necessary to broadcast zinc sulphate in patches even a
+OK   | seed=15 | style=paraphrase_yes_no | call=2 | focus=application_method | q=Is it necessary to broadcast zinc sulphate in addition to fo
+OK   | seed=15 | style=paraphrase_yes_no | call=3 | focus=unknown | q=Does applying zinc sulphate monohydrate in a 0.3% solution h
+OK   | seed=15 | style=paraphrase_yes_no | call=4 | focus=application_method | q=Are foliar sprays of zinc sulphate effective for treating zi
+SKIP | seed=15 | style=paraphrase_yes_no | call=5
+OK   | seed=15 | style=paraphrase_yes_no | call=6 | focus=unknown | q=Which zinc sulphate formulation is recommended for foliar ap
+OK   | seed=15 | style=paraphrase_preventive | call=1 | focus=unknown | q=What is the method to prevent zinc deficiency in paddy that 
+OK   | seed=15 | style=paraphrase_preventive | call=2 | focus=unknown | q=Is there a way to prevent zinc deficiency in paddy that caus
+OK   | seed=15 | style=paraphrase_preventive | call=3 | focus=unknown | q=Does proper soil preparation help in preventing zinc deficie
+OK   | seed=15 | style=paraphrase_preventive | call=4 | focus=unknown | q=Are there any preventive measures to avoid zinc deficiency i
+OK   | seed=15 | style=paraphrase_preventive | call=5 | focus=unknown | q=What can be done to prevent zinc deficiency in paddy?
+OK   | seed=15 | style=paraphrase_comparison | call=1 | focus=application_method | q=What is the difference between using zinc sulphate heptahydr
+OK   | seed=15 | style=paraphrase_comparison | call=2 | focus=unknown | q=Is zinc sulphate heptahydrate more effective than zinc sulph
+OK   | seed=15 | style=paraphrase_comparison | call=3 | focus=unknown | q=Does zinc sulphate heptahydrate or zinc sulphate monohydrate
+OK   | seed=15 | style=paraphrase_comparison | call=4 | focus=unknown | q=Are 0.5% zinc sulphate heptahydrate and 0.3% zinc sulphate m
+OK   | seed=15 | style=paraphrase_comparison | call=5 | focus=unknown | q=What is the difference between using zinc sulphate heptahydr
+OK   | seed=15 | style=paraphrase_cause | call=1 | focus=unknown | q=What is the cause of reddish leaves and drying plants in pad
+OK   | seed=15 | style=paraphrase_cause | call=2 | focus=symptom_detail | q=Why do paddy plants show reddish leaves and drying symptoms?
+OK   | seed=15 | style=paraphrase_cause | call=3 | focus=unknown | q=Does the presence of zinc deficiency in paddy lead to reddis
+OK   | seed=15 | style=paraphrase_cause | call=4 | focus=pathogen_name | q=Are the reddish leaves and drying in paddy caused by a lack 
+OK   | seed=15 | style=paraphrase_cause | call=5 | focus=unknown | q=What causes the reddish leaves and drying in paddy plants?
+OK   | seed=15 | style=paraphrase_quantity_focused | call=1 | focus=application_method | q=What is the quantity of zinc sulphate heptahydrate required 
+OK   | seed=15 | style=paraphrase_quantity_focused | call=2 | focus=application_method | q=Is 500 g of zinc sulphate heptahydrate required per acre for
+OK   | seed=15 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | q=Does 0.5% zinc sulphate heptahydrate solution require 500 g 
+OK   | seed=15 | style=paraphrase_quantity_focused | call=4 | focus=application_method | q=Are 500 grams of zinc sulphate heptahydrate required per acr
+OK   | seed=15 | style=paraphrase_quantity_focused | call=5 | focus=application_method | q=What is the amount of zinc sulphate heptahydrate needed for 
+OK   | seed=15 | style=paraphrase_timing_focused | call=1 | focus=application_timing | q=What is the best time to apply foliar spray for zinc deficie
+OK   | seed=15 | style=paraphrase_timing_focused | call=2 | focus=application_timing | q=Is there a specific time to apply foliar spray for zinc defi
+OK   | seed=15 | style=paraphrase_timing_focused | call=3 | focus=application_method | q=When should the foliar spray for zinc deficiency in paddy be
+OK   | seed=15 | style=paraphrase_timing_focused | call=4 | focus=unknown | q=Are there specific times during the paddy growth cycle when 
+DUPE | seed=15 | style=paraphrase_timing_focused | q=What is the best time to apply foliar spray for zinc deficie
+OK   | seed=15 | style=paraphrase_timing_focused | call=6 | focus=application_timing | q=Which stage of paddy growth is best for applying foliar spra
+OK   | seed=16 | style=paraphrase_formal | call=1 | focus=unknown | q=Are there effective methods to manage hailstorm damage in pa
+OK   | seed=16 | style=paraphrase_formal | call=2 | focus=unknown | q=What are the appropriate steps to manage hailstorm damage in
+OK   | seed=16 | style=paraphrase_formal | call=3 | focus=unknown | q=Which measures can be taken to prevent secondary infections 
+OK   | seed=16 | style=paraphrase_formal | call=4 | focus=unknown | q=When should preventive fungicide applications be made after 
+OK   | seed=16 | style=paraphrase_formal | call=5 | focus=unknown | q=Why is hailstorm damage a concern in paddy nurseries?
+OK   | seed=16 | style=paraphrase_short | call=1 | focus=unknown | q=Are hailstorm damages in paddy nurseries preventable?
+OK   | seed=16 | style=paraphrase_short | call=2 | focus=unknown | q=What steps to take after hailstorm in paddy nursery?
+OK   | seed=16 | style=paraphrase_short | call=3 | focus=chemical_name | q=Which fungicides to apply after hailstorm in paddy nursery?
+OK   | seed=16 | style=paraphrase_short | call=4 | focus=application_timing | q=When to apply fungicides after hailstorm?
+OK   | seed=16 | style=paraphrase_short | call=5 | focus=unknown | q=Why is hailstorm damage in paddy nurseries a problem?
+OK   | seed=16 | style=paraphrase_problem_description | call=1 | focus=unknown | q=Are the paddy seedlings in the nursery showing torn leaves, 
+OK   | seed=16 | style=paraphrase_problem_description | call=2 | focus=symptom_detail | q=What are the visible signs of damage in my paddy nursery aft
+OK   | seed=16 | style=paraphrase_problem_description | call=3 | focus=symptom_detail | q=Which symptoms are visible in paddy nursery after a hailstor
+OK   | seed=16 | style=paraphrase_problem_description | call=4 | focus=unknown | q=When I look at my paddy nursery, I see torn leaves and broke
+OK   | seed=16 | style=paraphrase_problem_description | call=5 | focus=unknown | q=Why are my paddy seedlings looking damaged with torn leaves 
+OK   | seed=16 | style=paraphrase_followup | call=1 | focus=unknown | q=Are there any specific steps to follow after applying the fu
+OK   | seed=16 | style=paraphrase_followup | call=2 | focus=dosage_quantity | q=What is the recommended dosage for Carbendazim 50% WP to pre
+OK   | seed=16 | style=paraphrase_followup | call=3 | focus=chemical_name | q=Which chemical can be used to prevent bacterial infections a
+OK   | seed=16 | style=paraphrase_followup | call=4 | focus=unknown | q=When should I apply fungicides after a hailstorm in my paddy
+OK   | seed=16 | style=paraphrase_followup | call=5 | focus=unknown | q=Why should I drain water from the nursery after a hailstorm?
+OK   | seed=16 | style=paraphrase_yes_no | call=1 | focus=unknown | q=Are fungicides recommended for managing hailstorm damage in 
+OK   | seed=16 | style=paraphrase_yes_no | call=2 | focus=unknown | q=What should be done immediately after a hailstorm damages pa
+OK   | seed=16 | style=paraphrase_yes_no | call=3 | focus=chemical_name | q=Which fungicide can be applied to prevent fungal infections 
+OK   | seed=16 | style=paraphrase_yes_no | call=4 | focus=unknown | q=When should fungicides be applied after a hailstorm in paddy
+OK   | seed=16 | style=paraphrase_yes_no | call=5 | focus=unknown | q=Why is it important to drain water after a hailstorm in padd
+OK   | seed=16 | style=paraphrase_preventive | call=1 | focus=unknown | q=Are there any preventive measures to reduce hailstorm damage
+OK   | seed=16 | style=paraphrase_preventive | call=2 | focus=unknown | q=What steps can be taken to prevent hailstorm damage in paddy
+OK   | seed=16 | style=paraphrase_preventive | call=3 | focus=unknown | q=Which cultural practices can help prevent hailstorm damage i
+OK   | seed=16 | style=paraphrase_preventive | call=4 | focus=unknown | q=When should protective netting be used in paddy nurseries to
+DUPE | seed=16 | style=paraphrase_preventive | q=Why is it important to drain water after a hailstorm in padd
+OK   | seed=16 | style=paraphrase_preventive | call=6 | focus=unknown | q=Can I use protective netting to prevent hailstorm damage in 
+OK   | seed=16 | style=paraphrase_comparison | call=1 | focus=unknown | q=Are Carbendazim 50% WP and Mancozeb 75% WP both effective fo
+OK   | seed=16 | style=paraphrase_comparison | call=2 | focus=unknown | q=What is the difference between using Carbendazim 50% WP and 
+OK   | seed=16 | style=paraphrase_comparison | call=3 | focus=chemical_name | q=Which fungicide is better to prevent fungal infections after
+OK   | seed=16 | style=paraphrase_comparison | call=4 | focus=unknown | q=When comparing Carbendazim 50% WP and Mancozeb 75% WP for ha
+OK   | seed=16 | style=paraphrase_comparison | call=5 | focus=unknown | q=Why should farmers use Carbendazim or Mancozeb after a hails
+OK   | seed=16 | style=paraphrase_cause | call=1 | focus=unknown | q=Are hailstorms the main cause of damage in paddy nurseries, 
+OK   | seed=16 | style=paraphrase_cause | call=2 | focus=unknown | q=What causes paddy seedlings to get infected after a hailstor
+OK   | seed=16 | style=paraphrase_cause | call=3 | focus=unknown | q=Which factors make paddy seedlings more vulnerable to infect
+OK   | seed=16 | style=paraphrase_cause | call=4 | focus=unknown | q=When does hailstorm damage in paddy nurseries lead to increa
+OK   | seed=16 | style=paraphrase_cause | call=5 | focus=unknown | q=Why do hailstorms harm paddy seedlings?
+OK   | seed=16 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | q=Are how much Carbendazim 50% WP required per acre for preven
+OK   | seed=16 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | q=What is the recommended dosage of Carbendazim 50% WP for pre
+OK   | seed=16 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | q=Which quantity of Carbendazim 50% WP should be applied per a
+DUPE | seed=16 | style=paraphrase_quantity_focused | q=When should fungicides be applied after a hailstorm in paddy
+OK   | seed=16 | style=paraphrase_quantity_focused | call=5 | focus=unknown | q=Why should Carbendazim 50% WP be used after a hailstorm?
+OK   | seed=16 | style=paraphrase_quantity_focused | call=6 | focus=unknown | q=Can I apply Carbendazim 50% WP after a hailstorm in paddy nu
+DUPE | seed=16 | style=paraphrase_timing_focused | q=When should fungicides be applied after a hailstorm in paddy
+OK   | seed=16 | style=paraphrase_timing_focused | call=2 | focus=application_timing | q=What is the best time to apply fungicides after a hailstorm 
+OK   | seed=16 | style=paraphrase_timing_focused | call=3 | focus=unknown | q=Which timing is recommended for applying fungicides after a 
+DUPE | seed=16 | style=paraphrase_timing_focused | q=When should fungicides be applied after a hailstorm in paddy
+OK   | seed=16 | style=paraphrase_timing_focused | call=5 | focus=unknown | q=Why should fungicides be applied within 48 hours after a hai
+OK   | seed=16 | style=paraphrase_timing_focused | call=6 | focus=unknown | q=Can hailstorm-damaged paddy seedlings be treated after 48 ho
+DUPE | seed=16 | style=paraphrase_timing_focused | q=Should fungicides be applied immediately after a hailstorm i
+DUPE | seed=16 | style=paraphrase_timing_focused | q=What is the best time to apply fungicides after a hailstorm 
+OK   | seed=16 | style=paraphrase_timing_focused | call=9 | focus=unknown | q=Is it necessary to apply fungicides after a hailstorm in pad
+OK   | seed=17 | style=paraphrase_formal | call=1 | focus=unknown | q=Does the recommended fertilizer schedule for irrigated wheat
+OK   | seed=17 | style=paraphrase_formal | call=2 | focus=unknown | q=Are there specific fertilizer application schedules recommen
+OK   | seed=17 | style=paraphrase_formal | call=3 | focus=unknown | q=What are the specific fertilizer application timings and met
+OK   | seed=17 | style=paraphrase_formal | call=4 | focus=unknown | q=Which fertilizer application schedule is advised for irrigat
+OK   | seed=17 | style=paraphrase_formal | call=5 | focus=unknown | q=When should fertilizers be applied for irrigated wheat in Ut
+OK   | seed=17 | style=paraphrase_short | call=1 | focus=dosage_quantity | q=Does Uttar Pradesh recommend specific fertilizer doses for i
+OK   | seed=17 | style=paraphrase_short | call=2 | focus=dosage_quantity | q=Are there specific fertilizer doses for irrigated wheat in U
+OK   | seed=17 | style=paraphrase_short | call=3 | focus=dosage_quantity | q=What is the nitrogen dose for irrigated wheat in UP?
+OK   | seed=17 | style=paraphrase_short | call=4 | focus=dosage_quantity | q=Which fertilizer doses are recommended for irrigated wheat i
+DUPE | seed=17 | style=paraphrase_short | q=When should fertilizers be applied for wheat in Uttar Prades
+OK   | seed=17 | style=paraphrase_short | call=6 | focus=unknown | q=Why apply 50% nitrogen at sowing time for wheat?
+OK   | seed=17 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | q=Does the wheat in my field show yellowing between the leaf v
+OK   | seed=17 | style=paraphrase_problem_description | call=2 | focus=unknown | q=Are the leaves of my wheat plants turning yellow between the
+OK   | seed=17 | style=paraphrase_problem_description | call=3 | focus=symptom_detail | q=What can be done if the wheat plants are showing yellowing b
+OK   | seed=17 | style=paraphrase_problem_description | call=4 | focus=symptom_detail | q=Which crops are showing poor growth and yellowing between th
+OK   | seed=17 | style=paraphrase_problem_description | call=5 | focus=unknown | q=When the wheat plants are not growing properly and the leave
+OK   | seed=17 | style=paraphrase_followup | call=1 | focus=unknown | q=Does the recommended fertilizer schedule for wheat in Uttar 
+OK   | seed=17 | style=paraphrase_followup | call=2 | focus=unknown | q=Are there any specific precautions to take while applying fe
+OK   | seed=17 | style=paraphrase_followup | call=3 | focus=unknown | q=What is the correct method for applying fertilizers at sowin
+OK   | seed=17 | style=paraphrase_followup | call=4 | focus=unknown | q=Which method should I use to apply fertilizers during the so
+SKIP | seed=17 | style=paraphrase_followup | call=5
+OK   | seed=17 | style=paraphrase_followup | call=6 | focus=dosage_quantity | q=Why should I apply 50% of the nitrogen dose at sowing time?
+OK   | seed=17 | style=paraphrase_yes_no | call=1 | focus=seed_treatment | q=Does the seed treatment include the application of Zinc Sulp
+OK   | seed=17 | style=paraphrase_yes_no | call=2 | focus=dosage_quantity | q=Are fertilizers to be applied in split doses for irrigated w
+SKIP | seed=17 | style=paraphrase_yes_no | call=3
+OK   | seed=17 | style=paraphrase_yes_no | call=4 | focus=unknown | q=Which nutrient should be applied entirely at the time of sow
+OK   | seed=17 | style=paraphrase_yes_no | call=5 | focus=unknown | q=When should nitrogen be applied for wheat in Uttar Pradesh?
+OK   | seed=17 | style=paraphrase_yes_no | call=6 | focus=irrigation_method | q=Why should fertilizers not be applied on dry soil without ir
+OK   | seed=17 | style=paraphrase_preventive | call=1 | focus=unknown | q=Does proper soil preparation help in managing wheat crop nut
+OK   | seed=17 | style=paraphrase_preventive | call=2 | focus=unknown | q=Are there any cultural practices to prevent nutrient deficie
+OK   | seed=17 | style=paraphrase_preventive | call=3 | focus=unknown | q=What are the best soil preparation practices to ensure effec
+OK   | seed=17 | style=paraphrase_preventive | call=4 | focus=unknown | q=Which cultural practices can be followed to prevent nutrient
+OK   | seed=17 | style=paraphrase_preventive | call=5 | focus=unknown | q=When should I apply fertilizers for wheat in Uttar Pradesh?
+OK   | seed=17 | style=paraphrase_comparison | call=1 | focus=irrigation_method | q=Does applying Urea at sowing time differ from applying it du
+OK   | seed=17 | style=paraphrase_comparison | call=2 | focus=application_method | q=Are there differences in the fertilizer application methods 
+OK   | seed=17 | style=paraphrase_comparison | call=3 | focus=unknown | q=What is the difference between using Single Super Phosphate 
+OK   | seed=17 | style=paraphrase_comparison | call=4 | focus=unknown | q=Which is better for wheat cultivation in Uttar Pradesh, usin
+OK   | seed=17 | style=paraphrase_comparison | call=5 | focus=unknown | q=When should nitrogen and phosphorus be applied for wheat in 
+OK   | seed=17 | style=paraphrase_cause | call=1 | focus=application_timing | q=Does the fertilizer schedule for irrigated wheat in Uttar Pr
+OK   | seed=17 | style=paraphrase_cause | call=2 | focus=unknown | q=Why is a split application of fertilizers recommended for ir
+OK   | seed=17 | style=paraphrase_cause | call=3 | focus=unknown | q=What causes the need for split fertilizer application in irr
+OK   | seed=17 | style=paraphrase_cause | call=4 | focus=unknown | q=Which factors cause the need for split fertilizer applicatio
+OK   | seed=17 | style=paraphrase_cause | call=5 | focus=unknown | q=When does the need for fertilizer arise in wheat cultivation
+OK   | seed=17 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | q=Does the seed rate for irrigated wheat in Uttar Pradesh requ
+OK   | seed=17 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | q=How much urea should be applied at the time of sowing for ir
+OK   | seed=17 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | q=What is the amount of phosphorus required per acre for irrig
+OK   | seed=17 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | q=Which amount of nitrogen is recommended per acre for irrigat
+DUPE | seed=17 | style=paraphrase_quantity_focused | q=When should nitrogen be applied for wheat in Uttar Pradesh?
+OK   | seed=17 | style=paraphrase_quantity_focused | call=6 | focus=dosage_quantity | q=Why is 150 kg of Single Super Phosphate (SSP) recommended pe
+OK   | seed=17 | style=paraphrase_timing_focused | call=1 | focus=unknown | q=When should the remaining nitrogen be applied for irrigated 
+DUPE | seed=17 | style=paraphrase_timing_focused | q=When should the remaining nitrogen be applied for irrigated 
+OK   | seed=17 | style=paraphrase_timing_focused | call=3 | focus=unknown | q=When should the remaining nitrogen be applied during the gro
+OK   | seed=17 | style=paraphrase_timing_focused | call=4 | focus=unknown | q=When should the remaining half of the nitrogen be applied fo
+DUPE | seed=17 | style=paraphrase_timing_focused | q=When should the remaining nitrogen be applied for wheat in U
+OK   | seed=17 | style=paraphrase_timing_focused | call=6 | focus=unknown | q=Why should nitrogen be applied at the Crown Root Initiation 
+DUPE | seed=17 | style=paraphrase_timing_focused | q=When should the remaining half of the nitrogen be applied fo
+DUPE | seed=17 | style=paraphrase_timing_focused | q=When should the remaining nitrogen be applied for wheat in U
+OK   | seed=17 | style=paraphrase_timing_focused | call=9 | focus=application_timing | q=What is the timing for applying the remaining nitrogen after
+OK   | seed=18 | style=paraphrase_formal | call=1 | focus=unknown | q=Does the recommended row-to-row spacing for planting fodder 
+OK   | seed=18 | style=paraphrase_formal | call=2 | focus=unknown | q=Are there specific row-to-row spacing recommendations for pl
+OK   | seed=18 | style=paraphrase_formal | call=3 | focus=dosage_quantity | q=What is the optimal seed rate and sowing period for fodder m
+OK   | seed=18 | style=paraphrase_formal | call=4 | focus=unknown | q=Which row-to-row spacing is recommended for planting fodder 
+OK   | seed=18 | style=paraphrase_formal | call=5 | focus=unknown | q=When should fodder maize be sown to reduce fall armyworm ris
+OK   | seed=18 | style=paraphrase_short | call=1 | focus=unknown | q=Does row spacing affect fodder maize yield?
+OK   | seed=18 | style=paraphrase_short | call=2 | focus=unknown | q=Are there any alternatives to conventional tillage for growi
+OK   | seed=18 | style=paraphrase_short | call=3 | focus=dosage_quantity | q=What is the seed rate for fodder maize?
+OK   | seed=18 | style=paraphrase_short | call=4 | focus=unknown | q=Which row spacing is best for fodder maize?
+OK   | seed=18 | style=paraphrase_short | call=5 | focus=unknown | q=When to sow fodder maize for best results?
+OK   | seed=18 | style=paraphrase_problem_description | call=1 | focus=unknown | q=Does the maize crop show uneven growth and low yield despite
+OK   | seed=18 | style=paraphrase_problem_description | call=2 | focus=unknown | q=Are the plants in my field looking thin and not growing prop
+OK   | seed=18 | style=paraphrase_problem_description | call=3 | focus=unknown | q=What if the plants in my field are not growing well and the 
+OK   | seed=18 | style=paraphrase_problem_description | call=4 | focus=symptom_detail | q=Which symptoms are observed in the field that indicate a pro
+OK   | seed=18 | style=paraphrase_problem_description | call=5 | focus=unknown | q=When I look at my field, the plants are too close together a
+OK   | seed=18 | style=paraphrase_followup | call=1 | focus=unknown | q=Does the recommended row-to-row spacing for fodder maize var
+OK   | seed=18 | style=paraphrase_followup | call=2 | focus=unknown | q=Are there any specific methods for sowing fodder maize that 
+OK   | seed=18 | style=paraphrase_followup | call=3 | focus=unknown | q=What is the best method to sow fodder maize along with cowpe
+OK   | seed=18 | style=paraphrase_followup | call=4 | focus=unknown | q=Which method is recommended for sowing fodder maize along wi
+OK   | seed=18 | style=paraphrase_followup | call=5 | focus=unknown | q=When should I sow maize to avoid fall armyworm?
+OK   | seed=18 | style=paraphrase_yes_no | call=1 | focus=unknown | q=Does the seed answer recommend a specific row-to-row spacing
+OK   | seed=18 | style=paraphrase_yes_no | call=2 | focus=unknown | q=Are there specific guidelines for row-to-row spacing when pl
+SKIP | seed=18 | style=paraphrase_yes_no | call=3
+SKIP | seed=18 | style=paraphrase_yes_no | call=4
+DUPE | seed=18 | style=paraphrase_yes_no | q=When should fodder maize be sown to reduce fall armyworm ris
+OK   | seed=18 | style=paraphrase_yes_no | call=6 | focus=unknown | q=Why is 30 cm row-to-row spacing recommended for planting fod
+OK   | seed=18 | style=paraphrase_yes_no | call=7 | focus=unknown | q=Can fodder maize be grown as a mixed crop with cowpea?
+OK   | seed=18 | style=paraphrase_yes_no | call=8 | focus=unknown | q=Should fodder maize be sown using the kera or pora method?
+OK   | seed=18 | style=paraphrase_preventive | call=1 | focus=unknown | q=Does proper row-to-row spacing help in maximizing forage yie
+OK   | seed=18 | style=paraphrase_preventive | call=2 | focus=unknown | q=Are there specific cultural practices to prevent low forage 
+OK   | seed=18 | style=paraphrase_preventive | call=3 | focus=unknown | q=What cultural practices can be followed to prevent pest infe
+OK   | seed=18 | style=paraphrase_preventive | call=4 | focus=unknown | q=Which practices can be followed to prevent low forage yield 
+OK   | seed=18 | style=paraphrase_preventive | call=5 | focus=unknown | q=When should fodder maize be sown to avoid fall armyworm?
+OK   | seed=18 | style=paraphrase_comparison | call=1 | focus=unknown | q=Does growing fodder maize with cowpea give the same green fo
+OK   | seed=18 | style=paraphrase_comparison | call=2 | focus=unknown | q=Are there differences in the recommended row-to-row spacing 
+OK   | seed=18 | style=paraphrase_comparison | call=3 | focus=unknown | q=What are the benefits of using 30 cm row-to-row spacing for 
+OK   | seed=18 | style=paraphrase_comparison | call=4 | focus=unknown | q=Which is better for fodder maize, no-tillage or conventional
+DUPE | seed=18 | style=paraphrase_comparison | q=When should fodder maize be sown to avoid fall armyworm?
+DUPE | seed=18 | style=paraphrase_comparison | q=Why is 30 cm row-to-row spacing recommended for planting fod
+OK   | seed=18 | style=paraphrase_comparison | call=7 | focus=unknown | q=Can fodder maize be grown successfully under no-tillage cond
+OK   | seed=18 | style=paraphrase_cause | call=1 | focus=unknown | q=Does the row-to-row spacing affect the forage yield of fodde
+DUPE | seed=18 | style=paraphrase_cause | q=Why is 30 cm row-to-row spacing recommended for planting fod
+OK   | seed=18 | style=paraphrase_cause | call=3 | focus=unknown | q=What causes the need for 30 cm row-to-row spacing when plant
+OK   | seed=18 | style=paraphrase_cause | call=4 | focus=unknown | q=Which factors influence the optimal row-to-row spacing for p
+OK   | seed=18 | style=paraphrase_cause | call=5 | focus=unknown | q=When does the risk of fall armyworm increase in fodder maize
+DUPE | seed=18 | style=paraphrase_cause | q=Why is 30 cm row-to-row spacing recommended for planting fod
+OK   | seed=18 | style=paraphrase_cause | call=7 | focus=unknown | q=Can the cause of lower forage yield in fodder maize be due t
+OK   | seed=18 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | q=Does the seed rate for fodder maize vary depending on whethe
+OK   | seed=18 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | q=Are 30 kg of seed per acre recommended for planting fodder m
+SKIP | seed=18 | style=paraphrase_quantity_focused | call=3
+SKIP | seed=18 | style=paraphrase_quantity_focused | call=4
+DUPE | seed=18 | style=paraphrase_quantity_focused | q=When should fodder maize be sown to reduce fall armyworm ris
+OK   | seed=18 | style=paraphrase_quantity_focused | call=6 | focus=dosage_quantity | q=Why is 30 kg of seed per acre recommended for planting fodde
+OK   | seed=18 | style=paraphrase_quantity_focused | call=7 | focus=dosage_quantity | q=Can the seed rate for fodder maize be adjusted based on the 
+OK   | seed=18 | style=paraphrase_quantity_focused | call=8 | focus=dosage_quantity | q=Should the seed rate for fodder maize be adjusted when growi
+OK   | seed=18 | style=paraphrase_timing_focused | call=1 | focus=unknown | q=When is the best time to sow fodder maize in Punjab to reduc
+OK   | seed=18 | style=paraphrase_timing_focused | call=2 | focus=unknown | q=When is the best time to sow fodder maize in Punjab to avoid
+DUPE | seed=18 | style=paraphrase_timing_focused | q=When is the best time to sow fodder maize in Punjab to avoid
+OK   | seed=18 | style=paraphrase_timing_focused | call=4 | focus=unknown | q=Which period is best for sowing fodder maize in Punjab to av
+DUPE | seed=18 | style=paraphrase_timing_focused | q=When should fodder maize be sown to reduce fall armyworm ris
+OK   | seed=18 | style=paraphrase_timing_focused | call=6 | focus=unknown | q=Why should fodder maize be sown between mid-April and mid-Au
+OK   | seed=18 | style=paraphrase_timing_focused | call=7 | focus=unknown | q=Can fodder maize be sown during mid-April to mid-August to r
+OK   | seed=19 | style=paraphrase_formal | call=1 | focus=unknown | q=Are there any specific safety precautions and best practices
+OK   | seed=19 | style=paraphrase_formal | call=2 | focus=unknown | q=What are the recommended safety measures and best practices 
+OK   | seed=19 | style=paraphrase_formal | call=3 | focus=unknown | q=Which best practices should be followed for managing weeds i
+OK   | seed=19 | style=paraphrase_formal | call=4 | focus=unknown | q=When is the optimal time for sowing berseem in areas with he
+OK   | seed=19 | style=paraphrase_formal | call=5 | focus=unknown | q=Why is it important to follow safety precautions when applyi
+OK   | seed=19 | style=paraphrase_short | call=1 | focus=unknown | q=Are there herbicide recommendations for barseem cultivation?
+OK   | seed=19 | style=paraphrase_short | call=2 | focus=unknown | q=What is the herbicide recommendation for barseem in Punjab?
+OK   | seed=19 | style=paraphrase_short | call=3 | focus=unknown | q=Which herbicides are recommended for barseem cultivation?
+OK   | seed=19 | style=paraphrase_short | call=4 | focus=unknown | q=When should berseem be sown to avoid weeding issues?
+OK   | seed=19 | style=paraphrase_short | call=5 | focus=unknown | q=Why is herbicide not recommended for barseem?
+OK   | seed=19 | style=paraphrase_problem_description | call=1 | focus=unknown | q=Are the leaves of my berseem crop turning yellow and the pla
+OK   | seed=19 | style=paraphrase_problem_description | call=2 | focus=unknown | q=What should I do if the leaves of my berseem crop are turnin
+OK   | seed=19 | style=paraphrase_problem_description | call=3 | focus=symptom_detail | q=Which symptoms are observed in the field that indicate a pro
+OK   | seed=19 | style=paraphrase_problem_description | call=4 | focus=unknown | q=When the plants in my field are not growing properly and som
+OK   | seed=19 | style=paraphrase_problem_description | call=5 | focus=unknown | q=Why are the plants in my field not growing well and some are
+OK   | seed=19 | style=paraphrase_followup | call=1 | focus=unknown | q=Are there any specific timing guidelines for herbicide appli
+OK   | seed=19 | style=paraphrase_followup | call=2 | focus=unknown | q=What is the recommended timing for sowing berseem when there
+OK   | seed=19 | style=paraphrase_followup | call=3 | focus=unknown | q=Which crop is recommended to be sown in mixture with berseem
+OK   | seed=19 | style=paraphrase_followup | call=4 | focus=unknown | q=When should berseem be sown in mixture with raya to manage w
+OK   | seed=19 | style=paraphrase_followup | call=5 | focus=unknown | q=Why should sowing be postponed until the second week of Octo
+OK   | seed=19 | style=paraphrase_yes_no | call=1 | focus=unknown | q=Are there specific herbicide recommendations for controlling
+OK   | seed=19 | style=paraphrase_yes_no | call=2 | focus=unknown | q=What is the recommended herbicide application for barseem in
+OK   | seed=19 | style=paraphrase_yes_no | call=3 | focus=unknown | q=Which herbicides are recommended for use in barseem cultivat
+OK   | seed=19 | style=paraphrase_yes_no | call=4 | focus=unknown | q=When should berseem be sown in fields with severe infestatio
+OK   | seed=19 | style=paraphrase_yes_no | call=5 | focus=unknown | q=Why should herbicides not be used for weed control in barsee
+OK   | seed=19 | style=paraphrase_preventive | call=1 | focus=unknown | q=Are there any preventive measures to avoid weed infestation 
+OK   | seed=19 | style=paraphrase_preventive | call=2 | focus=unknown | q=What steps can be taken to prevent weed infestation in barse
+OK   | seed=19 | style=paraphrase_preventive | call=3 | focus=unknown | q=Which cultural practices can be adopted to prevent weed infe
+OK   | seed=19 | style=paraphrase_preventive | call=4 | focus=unknown | q=When should berseem be sown to prevent weed infestation?
+OK   | seed=19 | style=paraphrase_preventive | call=5 | focus=unknown | q=Why should berseem be sown in mixture with raya?
+OK   | seed=19 | style=paraphrase_comparison | call=1 | focus=unknown | q=Are there any recommended herbicides for barseem cultivation
+OK   | seed=19 | style=paraphrase_comparison | call=2 | focus=unknown | q=What is the comparison between using herbicides and sowing i
+OK   | seed=19 | style=paraphrase_comparison | call=3 | focus=unknown | q=Which method is more effective for controlling Trianthema po
+OK   | seed=19 | style=paraphrase_comparison | call=4 | focus=unknown | q=When is the best time to sow berseem to avoid weed problems?
+OK   | seed=19 | style=paraphrase_comparison | call=5 | focus=unknown | q=Why is herbicide not recommended for barseem in Punjab?
+OK   | seed=19 | style=paraphrase_cause | call=1 | focus=unknown | q=Are there any specific causes that make herbicide applicatio
+OK   | seed=19 | style=paraphrase_cause | call=2 | focus=unknown | q=What causes the need to delay sowing of berseem in certain c
+OK   | seed=19 | style=paraphrase_cause | call=3 | focus=unknown | q=Which factors cause the occurrence of itsit (Trianthema port
+OK   | seed=19 | style=paraphrase_cause | call=4 | focus=symptom_detail | q=When does the occurrence of itsit (Trianthema portulacastrum
+DUPE | seed=19 | style=paraphrase_cause | q=Why is herbicide application not recommended for barseem in 
+OK   | seed=19 | style=paraphrase_cause | call=6 | focus=unknown | q=Can the occurrence of Trianthema portulacastrum in barseem f
+OK   | seed=19 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | q=Are there any recommended herbicide dosages for barseem cult
+OK   | seed=19 | style=paraphrase_quantity_focused | call=2 | focus=unknown | q=What is the recommended sowing time for berseem to manage we
+OK   | seed=19 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | q=Which herbicide dosage is recommended for barseem cultivatio
+OK   | seed=19 | style=paraphrase_quantity_focused | call=4 | focus=unknown | q=When should berseem be sown in mixture with raya to control 
+OK   | seed=19 | style=paraphrase_quantity_focused | call=5 | focus=unknown | q=Why is there no recommendation for herbicide application in 
+OK   | seed=19 | style=paraphrase_timing_focused | call=1 | focus=unknown | q=When is the best time to sow berseem to manage weeds effecti
+OK   | seed=19 | style=paraphrase_timing_focused | call=2 | focus=unknown | q=When should berseem be sown to manage weed infestation effec
+OK   | seed=19 | style=paraphrase_timing_focused | call=3 | focus=unknown | q=Which timing is recommended for sowing berseem to avoid weed
+OK   | seed=19 | style=paraphrase_timing_focused | call=4 | focus=unknown | q=When should berseem be sown to manage weeds effectively?
+OK   | seed=19 | style=paraphrase_timing_focused | call=5 | focus=unknown | q=Why should sowing be postponed until the second week of Octo
