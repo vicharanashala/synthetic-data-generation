@@ -1,0 +1,1530 @@
+OK   | seed=0 | call=1 | judge=PASS | scope_overflow=False | q=My wheat plants are looking weak and some are drying up, wha
+OK   | seed=0 | call=2 | judge=PASS | scope_overflow=False | q=My wheat plants are getting weak and dying, what's causing i
+OK   | seed=0 | call=3 | judge=PASS | scope_overflow=False | q=My wheat plants are not growing well, and some are getting p
+OK   | seed=0 | call=4 | judge=PASS | scope_overflow=False | q=How do I stop termites from eating my wheat plants?
+OK   | seed=0 | call=5 | judge=PASS | scope_overflow=False | q=My wheat plants are getting weak and dying, what could be th
+OK   | seed=1 | call=1 | judge=PASS | scope_overflow=False | q=My paddy plants are getting damaged, and the grains are not 
+OK   | seed=1 | call=2 | judge=PASS | scope_overflow=False | q=My paddy fields are getting attacked by some bugs that make 
+OK   | seed=1 | call=3 | judge=PASS | scope_overflow=False | q=How can I tell if my paddy has Gundhi Bug, and what can I do
+OK   | seed=1 | call=4 | judge=PASS | scope_overflow=False | q=My paddy plants are getting damaged, and I think it's the Gu
+OK   | seed=1 | call=5 | judge=PASS | scope_overflow=False | q=My paddy fields are getting damaged by some bugs. What can I
+OK   | seed=2 | call=1 | judge=PASS | scope_overflow=False | q=Is it okay to use Nirog on my wheat seeds to keep them healt
+JUDGE_RETRY | seed=2 | retry=1/3 | conf=high | scope_overflow=False | issues=['The generated answer includes information about other fungicides (Carboxin 37.5% + Thiram 37.5% WS and Tebuconazole 2% DS) that were not mentioned in the original question, which only asked about Nirog. This is an addition of new facts not explicitly present in the seed answer.', "The generated answer includes a recommendation to 'check the label of any product you buy and make sure it's registered by the Central Insecticides Board,' which is not explicitly present in the seed answer."] | q=Is it okay to use Nirog on my wheat seeds to stop them from 
+OK   | seed=2 | call=3 | judge=PASS | scope_overflow=False | q=Is Nirog a good option for treating my wheat seeds?
+OK   | seed=2 | call=4 | judge=PASS | scope_overflow=False | q=I heard about a product called Nirog for treating my wheat s
+OK   | seed=2 | call=5 | judge=PASS | scope_overflow=False | q=Can I use Nirog to treat my wheat seeds?
+OK   | seed=2 | call=6 | judge=PASS | scope_overflow=False | q=Is Nirog a good option to use on my wheat seeds?
+OK   | seed=3 | call=1 | judge=PASS | scope_overflow=False | q=My paddy field has a lot of wild onion, what can I do about 
+OK   | seed=3 | call=2 | judge=PASS | scope_overflow=False | q=Kya meri chawal ki seedhi mein kuch nahi karna chahiye agar 
+DUPE | seed=3 | call=3 | q=My paddy field has a lot of wild onion, how can I get rid of
+OK   | seed=3 | call=4 | judge=PASS | scope_overflow=False | q=My paddy field has a lot of wild onions, what can I do to ge
+OK   | seed=3 | call=5 | judge=PASS | scope_overflow=False | q=My paddy field has wild onions, how do I get rid of them?
+OK   | seed=3 | call=6 | judge=PASS | scope_overflow=False | q=Kya paddy ke khete mein mathia ko khatam karne ki koi aasani
+OK   | seed=4 | call=1 | judge=PASS | scope_overflow=False | q=My wheat plants are getting some kind of bug that's making t
+OK   | seed=4 | call=2 | judge=PASS | scope_overflow=False | q=I'm seeing some small bugs on my wheat plants, what could th
+DUPE | seed=4 | call=3 | q=My wheat plants are getting some kind of bug that's making t
+OK   | seed=4 | call=4 | judge=PASS | scope_overflow=False | q=I've noticed some tiny bugs on my wheat plants, what should 
+OK   | seed=4 | call=5 | judge=PASS | scope_overflow=False | q=My wheat plants are getting damaged, and I think it's someth
+OK   | seed=4 | call=6 | judge=PASS | scope_overflow=False | q=I noticed small brown bugs on my wheat plants, what are they
+OK   | seed=5 | call=1 | judge=PASS | scope_overflow=False | q=My stored wheat is getting attacked by little red bugs, what
+DUPE | seed=5 | call=2 | q=My wheat is getting ruined by little red bugs, what can I do
+OK   | seed=5 | call=3 | judge=PASS | scope_overflow=False | q=What can I do if my stored wheat has got bugs in it?
+OK   | seed=5 | call=4 | judge=PASS | scope_overflow=False | q=My wheat is getting damaged after I store it, what can I do?
+DUPE | seed=5 | call=5 | q=My wheat is getting eaten by little red bugs, what can I do?
+DUPE | seed=5 | call=6 | q=What can I do if I see tiny red bugs in my stored wheat?
+OK   | seed=5 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to get rid of flour beetles in my stored wheat
+OK   | seed=5 | call=8 | judge=PASS | scope_overflow=False | q=My stored wheat has a bad smell and tiny bugs in it, what ca
+OK   | seed=6 | call=1 | judge=PASS | scope_overflow=False | q=My Berseem crop is getting damaged by some caterpillars, wha
+DUPE | seed=6 | call=2 | q=My berseem crop is getting damaged by some caterpillars, wha
+OK   | seed=6 | call=3 | judge=PASS | scope_overflow=False | q=What can I do to stop the caterpillars from eating my bersee
+DUPE | seed=6 | call=4 | q=My berseem crop is getting damaged by caterpillars, what can
+DUPE | seed=6 | call=5 | q=My berseem crop is getting damaged by caterpillars. What can
+DUPE | seed=6 | call=6 | q=What can I do to stop the caterpillars from eating my bersee
+DUPE | seed=6 | call=7 | q=What can I do to stop the caterpillars from damaging my Bers
+OK   | seed=6 | call=8 | judge=PASS | scope_overflow=False | q=The leaves of my berseem crop are getting eaten up, what's c
+OK   | seed=6 | call=9 | judge=PASS | scope_overflow=False | q=My berseem plants are getting eaten up, what's causing it an
+DUPE | seed=6 | call=10 | q=My Berseem crop is getting eaten up by caterpillars, what ca
+DUPE | seed=6 | call=11 | q=My Berseem crop is getting damaged by caterpillars, what can
+OK   | seed=6 | call=12 | judge=PASS | scope_overflow=False | q=My Berseem crop is getting eaten up by small worms, what can
+OK   | seed=7 | call=1 | judge=PASS | scope_overflow=False | q=My sugarcane plants are getting damaged, and I think it's be
+OK   | seed=7 | call=2 | judge=PASS | scope_overflow=False | q=My sugarcane plants are getting damaged by borers, what can 
+OK   | seed=7 | call=3 | judge=PASS | scope_overflow=False | q=My sugarcane plants have some dead hearts, what could be cau
+OK   | seed=7 | call=4 | judge=PASS | scope_overflow=False | q=My sugarcane plants are getting damaged, and some have dead 
+DUPE | seed=7 | call=5 | q=My sugarcane is getting damaged by borers, what can I do?
+OK   | seed=7 | call=6 | judge=PASS | scope_overflow=False | q=My sugarcane plants are getting eaten from the inside, what 
+OK   | seed=8 | call=1 | judge=PASS | scope_overflow=False | q=Why are my sugarcane plants not producing enough shoots this
+OK   | seed=8 | call=2 | judge=PASS | scope_overflow=False | q=Why isn't my sugarcane making enough shoots this year?
+OK   | seed=8 | call=3 | judge=PASS | scope_overflow=False | q=Why is my sugarcane not growing many side shoots this year?
+DUPE | seed=8 | call=4 | q=Why are my sugarcane plants not growing many side shoots thi
+OK   | seed=8 | call=5 | judge=PASS | scope_overflow=False | q=Why are my sugarcane plants not making enough side shoots?
+DUPE | seed=8 | call=6 | q=Why are my sugarcane plants not growing many side shoots thi
+OK   | seed=8 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to fix poor sugarcane tillering?
+OK   | seed=9 | call=1 | judge=PASS | scope_overflow=False | q=How often should I water my cotton plants and when is the be
+DUPE | seed=9 | call=2 | q=How often should I water my cotton plants and when is the be
+OK   | seed=9 | call=3 | judge=PASS | scope_overflow=False | q=When should I water my cotton crop and how often?
+OK   | seed=9 | call=4 | judge=PASS | scope_overflow=False | q=How often should I water my cotton plants during the early s
+OK   | seed=9 | call=5 | judge=PASS | scope_overflow=False | q=How often should I water my cotton plants?
+DUPE | seed=9 | call=6 | q=How often should I water my cotton plants, and when is the b
+OK   | seed=9 | call=7 | judge=PASS | scope_overflow=False | q=How do I make sure I'm watering my cotton crop the right way
+OK   | seed=10 | call=1 | judge=PASS | scope_overflow=False | q=How do I make a waste decomposer for my wheat field?
+DUPE | seed=10 | call=2 | q=How do I make a waste decomposer for my wheat farm?
+DUPE | seed=10 | call=3 | q=How can I make a waste decomposer for my wheat field?
+DUPE | seed=10 | call=4 | q=How do I make a waste decomposer for my wheat field?
+DUPE | seed=10 | call=5 | q=How do I make a waste decomposer for my wheat fields?
+DUPE | seed=10 | call=6 | q=How do I make the waste decomposer solution for my wheat fie
+DUPE | seed=10 | call=7 | q=How do I make and use waste decomposer for my wheat field?
+OK   | seed=11 | call=1 | judge=PASS | scope_overflow=False | q=What is Sagarika, and can it be used for my wheat crop?
+OK   | seed=11 | call=2 | judge=PASS | scope_overflow=False | q=Is there any good biostimulant I can use for my wheat crop?
+OK   | seed=11 | call=3 | judge=PASS | scope_overflow=False | q=What is Sagarika and how does it help my wheat crop?
+OK   | seed=11 | call=4 | judge=PASS | scope_overflow=False | q=Kya hum kisan Sagarika biostimulant ke baare mein kuch aur j
+DUPE | seed=11 | call=5 | q=Is there any good biostimulant for wheat? What can I use?
+OK   | seed=11 | call=6 | judge=PASS | scope_overflow=False | q=Is there any info on how Sagarika Z++ Granules help wheat pl
+OK   | seed=12 | call=1 | judge=PASS | scope_overflow=False | q=My maize plants are looking sick, and the leaves are turning
+OK   | seed=12 | call=2 | judge=PASS | scope_overflow=False | q=My maize plants are looking yellow, what could be the proble
+OK   | seed=12 | call=3 | judge=PASS | scope_overflow=False | q=My maize plants are looking weak and the leaves are turning 
+OK   | seed=12 | call=4 | judge=PASS | scope_overflow=False | q=My maize plants are looking sick, the leaves are yellow. Wha
+OK   | seed=12 | call=5 | judge=PASS | scope_overflow=False | q=Why are the leaves on my maize plant turning yellow?
+OK   | seed=13 | call=1 | judge=PASS | scope_overflow=False | q=Why can't I use zinc and phosphorus in dry fields before pla
+DUPE | seed=13 | call=2 | q=Why can't I use zinc and phosphate in dry soil before planti
+OK   | seed=13 | call=3 | judge=PASS | scope_overflow=False | q=Why can't I use zinc and phosphorous when the field is dry b
+OK   | seed=13 | call=4 | judge=PASS | scope_overflow=False | q=I'm planting paddy, but the soil is dry. Should I add zinc a
+DUPE | seed=13 | call=5 | q=Why shouldn't I use zinc and phosphorus in dry fields before
+OK   | seed=13 | call=6 | judge=PASS | scope_overflow=False | q=Why shouldn't I add zinc and phosphorus to my dry paddy fiel
+OK   | seed=13 | call=7 | judge=PASS | scope_overflow=False | q=What’s the best time to add zinc and phosphorous to paddy fi
+OK   | seed=14 | call=1 | judge=PASS | scope_overflow=False | q=My okra plants have white stuff on the leaves, what can I do
+OK   | seed=14 | call=2 | judge=PASS | scope_overflow=False | q=My okra plants are getting white spots on the leaves, what c
+OK   | seed=14 | call=3 | judge=PASS | scope_overflow=False | q=My okra plants have white stuff on the leaves, what's that a
+DUPE | seed=14 | call=4 | q=My okra plants have white stuff on the leaves, what can I do
+DUPE | seed=14 | call=5 | q=My okra plants have white stuff on the leaves, what can I do
+OK   | seed=14 | call=6 | judge=PASS | scope_overflow=False | q=Mildew is attacking my okra plants, what can I do?
+DUPE | seed=14 | call=7 | q=What can I do to stop the white stuff on my okra leaves?
+DUPE | seed=14 | call=8 | q=My okra leaves are getting white stuff on them, what can I d
+DUPE | seed=14 | call=9 | q=My okra plants have white stuff on the leaves, what can I do
+DUPE | seed=14 | call=10 | q=My okra plants have white stuff on the leaves, what can I do
+DUPE | seed=14 | call=11 | q=My okra plants have white stuff on the leaves, what can I do
+DUPE | seed=14 | call=12 | q=My okra plants have white stuff on the leaves, what can I do
+OK   | seed=15 | call=1 | judge=PASS | scope_overflow=False | q=My paddy plants are looking bad, the leaves are turning redd
+OK   | seed=15 | call=2 | judge=PASS | scope_overflow=False | q=My paddy plants are turning red and drying up, what can I do
+DUPE | seed=15 | call=3 | q=My paddy plants are turning red and drying up, what can I do
+DUPE | seed=15 | call=4 | q=My paddy plants are getting red and drying up, what can I do
+DUPE | seed=15 | call=5 | q=My paddy plants have red leaves and are drying up. What can 
+DUPE | seed=15 | call=6 | q=My paddy plants are turning red and drying up, what can I do
+OK   | seed=15 | call=7 | judge=PASS | scope_overflow=False | q=How can I treat my paddy plants that are turning red and dry
+DUPE | seed=15 | call=8 | q=My paddy plants are turning red and drying up, what can I do
+DUPE | seed=15 | call=9 | q=My paddy plants are turning red and drying up, what can I do
+DUPE | seed=15 | call=10 | q=My paddy plants are turning red and dying, what can I do?
+DUPE | seed=15 | call=11 | q=My paddy plants are looking weak and the leaves are turning 
+DUPE | seed=15 | call=12 | q=My paddy plants are turning red and drying up, what can I do
+DUPE | seed=15 | call=13 | q=My paddy plants are turning red and drying up, what can I do
+OK   | seed=16 | call=1 | judge=PASS | scope_overflow=False | q=My paddy seedlings got hit by hail, and now they look all to
+OK   | seed=16 | call=2 | judge=PASS | scope_overflow=False | q=My paddy nursery got hit by hail, what should I do?
+DUPE | seed=16 | call=3 | q=My paddy seedlings got hit by hail, what should I do right a
+OK   | seed=16 | call=4 | judge=PASS | scope_overflow=False | q=My paddy seedlings got hit by hail, what can I do right away
+DUPE | seed=16 | call=5 | q=My paddy nursery got hit by hail, what should I do?
+OK   | seed=16 | call=6 | judge=PASS | scope_overflow=False | q=My paddy seedlings got hit by hail, and some are bent. What 
+OK   | seed=16 | call=7 | judge=PASS | scope_overflow=False | q=What should I do after a hailstorm hits my paddy nursery?
+OK   | seed=17 | call=1 | judge=PASS | scope_overflow=False | q=I'm growing wheat in Uttar Pradesh, and I want to know how t
+OK   | seed=17 | call=2 | judge=PASS | scope_overflow=False | q=Kya mera chawal ke kheta mein kis tarah ki khem ko kahan aur
+OK   | seed=17 | call=3 | judge=PASS | scope_overflow=False | q=How should I apply fertilizers for my wheat crop in UP to ge
+OK   | seed=17 | call=4 | judge=PASS | scope_overflow=False | q=Mai khet me pahle chakkar me urea lagaya tha, ab kya ab aur 
+OK   | seed=17 | call=5 | judge=PASS | scope_overflow=False | q=Kya mere gandum ke kheta mein konsa khadak daalna chahiye au
+OK   | seed=18 | call=1 | judge=PASS | scope_overflow=False | q=How far apart should I plant the maize rows to get the most 
+DUPE | seed=18 | call=2 | q=How far apart should I plant rows of fodder maize to get the
+DUPE | seed=18 | call=3 | q=How far apart should I plant my maize rows to get the most f
+DUPE | seed=18 | call=4 | q=How far apart should I plant the maize rows to get the most 
+DUPE | seed=18 | call=5 | q=How far apart should I plant maize rows to get the most fodd
+DUPE | seed=18 | call=6 | q=How far apart should I plant the maize rows for good fodder 
+DUPE | seed=18 | call=7 | q=How should I space my maize rows to get the most fodder?
+OK   | seed=19 | call=1 | judge=PASS | scope_overflow=False | q=My barseem crop is getting choked with weeds, what can I do?
+OK   | seed=19 | call=2 | judge=PASS | scope_overflow=False | q=Kya barseem mein uthne wale chhaon ke khate kya kya safty me
+OK   | seed=19 | call=3 | judge=PASS | scope_overflow=False | q=Kya barseem mein herbicide lagane se phele kuch chizo ka dhy
+OK   | seed=19 | call=4 | judge=PASS | scope_overflow=False | q=I planted berseem, but the weeds are coming up fast. What ca
+OK   | seed=19 | call=5 | judge=PASS | scope_overflow=False | q=Kya barseem mein herbicide lagane se pahle kuch chinta karni
+OK   | seed=20 | call=1 | judge=PASS | scope_overflow=False | q=My pea plants are getting yellow leaves at the bottom, what'
+OK   | seed=20 | call=2 | judge=PASS | scope_overflow=False | q=My pea plants' lower leaves are turning yellow, what's going
+DUPE | seed=20 | call=3 | q=My pea plants' lower leaves are turning yellow, what's causi
+DUPE | seed=20 | call=4 | q=My pea plants are getting yellow on the bottom, what's going
+DUPE | seed=20 | call=5 | q=My pea plants have yellow leaves at the bottom, what's going
+DUPE | seed=20 | call=6 | q=My pea plants are getting yellow at the bottom, what's causi
+OK   | seed=20 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to stop the lower leaves of my pea plants from
+OK   | seed=20 | call=8 | judge=PASS | scope_overflow=False | q=My pea plants' lower leaves are turning yellow and the stems
+DUPE | seed=20 | call=9 | q=My pea plants are getting weak and the bottom leaves are tur
+DUPE | seed=20 | call=10 | q=My pea plants are getting weak and the leaves at the bottom 
+DUPE | seed=20 | call=11 | q=My pea plants are getting weak and the bottom leaves are tur
+OK   | seed=20 | call=12 | judge=PASS | scope_overflow=False | q=Why are the bottom leaves on my pea plants turning yellow an
+OK   | seed=21 | call=1 | judge=PASS | scope_overflow=False | q=I heard using too much DAP might hurt my maize. Is that true
+JUDGE_RETRY | seed=21 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer introduces new claims not present in the seed answer, such as 'kheta aur zimmedari badh jati hai' (soil becomes more demanding) and 'pahle khet ki janch karni chahiye' (you should test the soil first), which are not explicitly mentioned in the seed answer.", "The generated answer mentions 'pani ki kamayi' (water shortage) and 'khet ka jhada kharab kar sakti hai' (can damage the field), which are not explicitly stated in the seed answer."] | q=Kya mujhe maize ke khete me zyada DAP lagane se koi farak pa
+OK   | seed=21 | call=3 | judge=PASS | scope_overflow=False | q=Kya mujhe maize ke khete mein DAP ka zyada istemal karna cha
+OK   | seed=21 | call=4 | judge=PASS | scope_overflow=False | q=Kya maize mein DAP ki sath mein zyada doshi daal sakte hain?
+OK   | seed=21 | call=5 | judge=PASS | scope_overflow=False | q=Is it okay to use more DAP than what's recommended for my ma
+JUDGE_RETRY | seed=21 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer introduces the claim that excessive DAP can cause 'phal ki khoj' (rot) and 'phal ka varna bhi kharab' (bad color of the fruit), which are not explicitly mentioned in the seed answer.", "The generated answer mentions 'phal ka kachhua aur kharab hona rok sakte hai' (can prevent the fruit from becoming soft and rotten), which is not explicitly stated in the seed answer."] | q=Kya mera makka ka phal kuch zyada DAP lagane se kharaab ho j
+OK   | seed=21 | call=7 | judge=PASS | scope_overflow=False | q=What should I do if I used too much DAP on my maize?
+OK   | seed=22 | call=1 | judge=PASS | scope_overflow=False | q=Are Sultan and Rudraksh good wheat varieties to grow in Utta
+DUPE | seed=22 | call=2 | q=Are Sultan and Rudraksh good wheat varieties to grow in UP?
+DUPE | seed=22 | call=3 | q=Are Sultan and Rudraksh wheat varieties safe to grow in Utta
+JUDGE_RETRY | seed=22 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer contains the claim that 'some varieties like UP-2382, PBW-343, DBW-17, HD-2967, K-0307, K-1006, and K-9107 have special properties such as disease resistance and grain characteristics,' which is not explicitly stated in the seed answer. The seed answer provides specific details about these varieties, but the generated answer generalizes and adds claims not directly present in the seed.", "The generated answer adds the phrase 'dawa par pratikar' (resistance to disease) without explicitly citing which diseases these varieties are resistant to, which is not present in the seed answer."] | q=Kya Sultan aur Rudraksh chawal ke varietiyan hai? Kya unke k
+OK   | seed=22 | call=5 | judge=PASS | scope_overflow=False | q=Are Sultan and Rudraksh good wheat seeds to grow?
+DUPE | seed=22 | call=6 | q=Are Sultan and Rudraksh wheat varieties safe to grow in Utta
+OK   | seed=22 | call=7 | judge=PASS | scope_overflow=False | q=What wheat varieties should I grow in Meerut, and where can 
+OK   | seed=22 | call=8 | judge=PASS | scope_overflow=False | q=Kya Sultan aur Rudraksh chane ke varietiyan kisi jagah pata 
+OK   | seed=22 | call=9 | judge=PASS | scope_overflow=False | q=Is there any problem if I plant wheat seeds that are called 
+OK   | seed=23 | call=1 | judge=PASS | scope_overflow=False | q=My wheat plants are looking sick, and the leaves are yellowi
+OK   | seed=23 | call=2 | judge=PASS | scope_overflow=False | q=Wheat crop is getting attacked by chepa, what can I do?
+OK   | seed=23 | call=3 | judge=PASS | scope_overflow=False | q=My wheat crop is getting attacked by small green bugs, what 
+JUDGE_RETRY | seed=23 | retry=1/3 | conf=high | scope_overflow=False | issues=["The GENERATED ANSWER contains new claims not present in the SEED ANSWER, such as 'kheer mein chhupa hua kharaab hai' (aphids in kheer) which is not mentioned in the seed answer. The seed answer discusses aphids in wheat crops, not in kheer (a type of milk pudding).", 'The answer provides specific application instructions for Malathion, Thiamethoxam, and Quinalphos that are not explicitly present in the seed answer, including mixing ratios and timing of application.'] | q=Mai kheer mein chhupa hua kharaab hai, kya karna chahiye?
+OK   | seed=23 | call=5 | judge=PASS | scope_overflow=False | q=My wheat crop has tiny bugs on it, what can I do?
+JUDGE_RETRY | seed=23 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer introduces a new claim that is not present in the seed answer: 'kheer ke badan ko kho jaye' (to lose the milk body), which is not mentioned in the seed answer.", "The generated answer contains a paraphrased version of the chemical control method for Malathion 50% EC, but adds the phrase 'kheer ke badan ko kho jaye' which is not present in the seed answer and is not a factual statement from the original content."] | q=Kya kuchh aisa hai jo main khud kar saku jo chhota chepa lag
+OK   | seed=23 | call=7 | judge=PASS | scope_overflow=False | q=What should I do if my wheat crop has aphids?
+OK   | seed=24 | call=1 | judge=PASS | scope_overflow=False | q=What is the Fasal Bima Yojana all about?
+DUPE | seed=24 | call=2 | q=What is the Pradhan Mantri Fasal Bima Yojana all about?
+OK   | seed=24 | call=3 | judge=PASS | scope_overflow=False | q=What is PMFBY and how can I get it?
+OK   | seed=24 | call=4 | judge=PASS | scope_overflow=False | q=Kya hum kisan credit card ke bina bhi fasal bima yojana ke t
+OK   | seed=24 | call=5 | judge=PASS | scope_overflow=False | q=What is the PMFBY scheme all about?
+OK   | seed=24 | call=6 | judge=PASS | scope_overflow=False | q=What is the rate of premium for wheat under the Fasal Bima Y
+OK   | seed=25 | call=1 | judge=PASS | scope_overflow=False | q=How should I treat my moong seeds before planting in the sum
+DUPE | seed=25 | call=2 | q=How should I prepare my moong seeds before planting in summe
+DUPE | seed=25 | call=3 | q=How do I treat my moong seeds before planting in the summer?
+OK   | seed=25 | call=4 | judge=PASS | scope_overflow=False | q=Kya summer moong ke seed ko kuch alag tareeke se soak karna 
+DUPE | seed=25 | call=5 | q=How should I treat my moong seeds before planting in summer?
+DUPE | seed=25 | call=6 | q=How do I treat moong seeds before planting in the summer?
+DUPE | seed=25 | call=7 | q=How do I treat my moong seeds before sowing in summer?
+OK   | seed=25 | call=8 | judge=PASS | scope_overflow=False | q=My moong seeds are not sprouting well, what can I do?
+OK   | seed=25 | call=9 | judge=PASS | scope_overflow=False | q=My moong plants are not growing well, what could be the prob
+DUPE | seed=25 | call=10 | q=My moong plants are not growing well, what could be the prob
+OK   | seed=25 | call=11 | judge=PASS | scope_overflow=False | q=How do I treat my moong seeds before sowing to get better gr
+OK   | seed=26 | call=1 | judge=PASS | scope_overflow=False | q=Kya Tiruvannamalai district mein Deluxe Ponni dhan ka varsha
+DUPE | seed=26 | call=2 | q=Kya Tiruvannamalai mein Deluxe Ponni dhan ka varsha kaise ho
+JUDGE_RETRY | seed=26 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer introduces the claim that 'Deluxe Ponni dhan is not officially released by the government,' which is not explicitly stated in the seed answer. The seed answer only states that 'Deluxe Ponni dhan is a paddy variety that is not an officially released or notified variety,' but the generated answer adds the phrase 'koi government se officially release nahi kiya gaya hai,' which is a paraphrase but still introduces a claim not explicitly present in the seed.", "The generated answer adds the phrase 'aapko apne raajya ki agricultural university ki sariyogi varietiyan chunani chahiye,' which is not explicitly present in the seed answer. The seed answer advises farmers to use government-recognized, registered, or certified varieties and to grow varieties recommended by their State Agricultural University, but the generated answer paraphrases this in a way that introduces new phrasing not directly present in the seed."] | q=Kya Tiruvannamalai mein Deluxe Ponni dhan ka koi specific mu
+OK   | seed=26 | call=4 | judge=PASS | scope_overflow=False | q=Which paddy varieties are good to grow in Tiruvannamalai dur
+OK   | seed=26 | call=5 | judge=PASS | scope_overflow=False | q=Kya Tiruvannamalai mein Deluxe Ponni dhan ka koi suitable mu
+OK   | seed=26 | call=6 | judge=PASS | scope_overflow=False | q=Kya Tiruvannamalai me Deluxe Ponni chawal ka varsha kisi ala
+JUDGE_RETRY | seed=26 | retry=1/3 | conf=high | scope_overflow=False | issues=["The GENERATED ANSWER includes the claim 'Deluxe Ponni' as an unregistered variety, which is not mentioned in the SEED ANSWER.", "The GENERATED ANSWER adds the recommendation to 'avoid unregistered varieties like Deluxe Ponni' which is not present in the SEED ANSWER."] | q=Which paddy varieties should I grow in Tiruvannamalai distri
+OK   | seed=26 | call=8 | judge=PASS | scope_overflow=False | q=Is it safe to grow Deluxe Ponni paddy in Tiruvannamalai, or 
+OK   | seed=27 | call=1 | judge=PASS | scope_overflow=False | q=My paddy field has salty soil, what can I do to fix it?
+OK   | seed=27 | call=2 | judge=PASS | scope_overflow=False | q=How can I fix salty soil when growing paddy?
+OK   | seed=27 | call=3 | judge=PASS | scope_overflow=False | q=How can I fix the salt problem in my paddy field?
+OK   | seed=27 | call=4 | judge=PASS | scope_overflow=False | q=I planted paddy in my field, but the soil is really salty. W
+DUPE | seed=27 | call=5 | q=How can I fix salty soil when growing paddy?
+OK   | seed=27 | call=6 | judge=PASS | scope_overflow=False | q=How do I get rid of the salt in my paddy field?
+OK   | seed=28 | call=1 | judge=PASS | scope_overflow=False | q=I think I heard about a fertilizer called 20:20:13 for my ma
+OK   | seed=28 | call=2 | judge=PASS | scope_overflow=False | q=Kya mera maize ke liye NPK 20:20:13 ke sath magnesium sulpha
+OK   | seed=28 | call=3 | judge=PASS | scope_overflow=False | q=Kya mujhe kisan kheer mein 20:20:13 ki jaga 20:20:0:13 ka is
+JUDGE_RETRY | seed=28 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer contains the claim that '20:20:13 NPK ke naam se koi utha nahi hai' (there is no fertilizer named 20:20:13 NPK), which is not explicitly stated in the seed answer. The seed answer says 'There is no fertilizer named 20:20:13' but does not explicitly say '20:20:13 NPK' is not a fertilizer.", "The generated answer repeats the phrase 'Isko khet mein utha ke dene ki sariyan nahi hai' multiple times, which is not present in the seed answer and adds no new information."] | q=Kya maize ke khete mein 20:20:13 NPK aur magnesium sulphate 
+OK   | seed=28 | call=5 | judge=PASS | scope_overflow=False | q=How much NPK 20:20:13 and magnesium sulphate should I spray 
+OK   | seed=28 | call=6 | judge=PASS | scope_overflow=False | q=Is it okay to spray NPK 20:20:13 and magnesium sulphate on m
+OK   | seed=29 | call=1 | judge=PASS | scope_overflow=False | q=What's the right amount of fertilizer to use for my mustard 
+DUPE | seed=29 | call=2 | q=What's the right amount of fertilizer to use for my mustard 
+DUPE | seed=29 | call=3 | q=What is the right amount of fertilizer to use for my mustard
+OK   | seed=29 | call=4 | judge=PASS | scope_overflow=False | q=What fertilizers should I use for my mustard crop and when?
+DUPE | seed=29 | call=5 | q=What's the right amount of fertilizer to use for my mustard 
+OK   | seed=29 | call=6 | judge=PASS | scope_overflow=False | q=How much fertilizer should I use for my mustard crop, and wh
+OK   | seed=29 | call=7 | judge=PASS | scope_overflow=False | q=How much fertilizer should I apply for mustard, and when?
+OK   | seed=29 | call=8 | judge=PASS | scope_overflow=False | q=My mustard plants are looking weak and not growing well, wha
+OK   | seed=30 | call=1 | judge=PASS | scope_overflow=False | q=What's the right amount of fertilizer to use when planting s
+OK   | seed=30 | call=2 | judge=PASS | scope_overflow=False | q=How much fertilizer should I use when planting sugarcane?
+DUPE | seed=30 | call=3 | q=How much fertilizer should I use when planting sugarcane?
+DUPE | seed=30 | call=4 | q=How much fertilizer should I use when I plant sugarcane?
+DUPE | seed=30 | call=5 | q=What fertilizer should I use when planting sugarcane?
+DUPE | seed=30 | call=6 | q=How much nitrogen should I use for planting sugarcane?
+OK   | seed=30 | call=7 | judge=PASS | scope_overflow=False | q=How should I apply fertiliser when planting sugarcane?
+OK   | seed=30 | call=8 | judge=PASS | scope_overflow=False | q=My sugarcane plants are not growing strong, what could be th
+DUPE | seed=30 | call=9 | q=My sugarcane plants are not growing well, what could be the 
+DUPE | seed=30 | call=10 | q=My sugarcane plants are not growing well, what could be the 
+OK   | seed=30 | call=11 | judge=PASS | scope_overflow=False | q=My sugarcane plants are looking weak and not growing well, w
+OK   | seed=31 | call=1 | judge=PASS | scope_overflow=False | q=My wheat plants are falling over, will that affect how much 
+DUPE | seed=31 | call=2 | q=My wheat crop is falling over, will that affect how much gra
+DUPE | seed=31 | call=3 | q=My wheat plants are falling over, will that affect how much 
+DUPE | seed=31 | call=4 | q=My wheat crop is falling over, will that affect how much gra
+OK   | seed=31 | call=5 | judge=PASS | scope_overflow=False | q=My wheat crop is falling over, will that hurt my harvest?
+JUDGE_RETRY | seed=31 | retry=1/3 | conf=high | scope_overflow=False | issues=["The GENERATED ANSWER contains claims not present in the SEED ANSWER, such as 'jyada paani', 'bimari', 'khet ki jamiyat kharab', 'jyada nitrogen', and 'khet ki jamiyat aur paani ki sambhavna' which are not mentioned in the SEED ANSWER.", 'The answer discusses soybean (soya) issues, while the SEED ANSWER is about wheat lodging, which may indicate a mismatch in the topic, but since the question is about soybean, this is not a scope overflow.'] | q=Mai soya ke kheta me kya kuch galat ho raha hai, kyun kabhie
+OK   | seed=31 | call=7 | judge=PASS | scope_overflow=False | q=Is there a way to prevent the wheat from falling and losing 
+OK   | seed=31 | call=8 | judge=PASS | scope_overflow=False | q=My wheat plants are falling over, and I'm worried about the 
+DUPE | seed=31 | call=9 | q=My wheat plants are falling over, and I'm worried about my h
+OK   | seed=31 | call=10 | judge=PASS | scope_overflow=False | q=My wheat plants are falling over, and I'm worried it's affec
+OK   | seed=32 | call=1 | judge=PASS | scope_overflow=False | q=I'm seeing yellow stripes on my wheat leaves, what can I do?
+OK   | seed=32 | call=2 | judge=PASS | scope_overflow=False | q=How much manganese sulphate should I use and how do I spray 
+OK   | seed=32 | call=3 | judge=PASS | scope_overflow=False | q=How do I spray manganese sulphate on my wheat if the leaves 
+OK   | seed=32 | call=4 | judge=PASS | scope_overflow=False | q=How do I apply manganese sulphate to my wheat if the leaves 
+DUPE | seed=32 | call=5 | q=How much manganese sulphate should I use for my wheat, and h
+DUPE | seed=32 | call=6 | q=How do I spray manganese sulphate on my wheat if the leaves 
+OK   | seed=32 | call=7 | judge=PASS | scope_overflow=False | q=How do I apply manganese sulphate to my wheat crop if it's s
+OK   | seed=33 | call=1 | judge=PASS | scope_overflow=False | q=My cotton has dark spots on the lint, what's causing that an
+OK   | seed=33 | call=2 | judge=PASS | scope_overflow=False | q=My cotton is getting dark, what's causing that and how can I
+OK   | seed=33 | call=3 | judge=PASS | scope_overflow=False | q=Why does my cotton feel sticky and look dark, and how can I 
+DUPE | seed=33 | call=4 | q=My cotton has dark spots on the fibers, what's causing that 
+OK   | seed=33 | call=5 | judge=PASS | scope_overflow=False | q=Why is my cotton fiber turning dark and how can I stop it?
+OK   | seed=33 | call=6 | judge=PASS | scope_overflow=False | q=My cotton has sticky stuff on it and some dark spots, what's
+OK   | seed=34 | call=1 | judge=PASS | scope_overflow=False | q=I'm planning to grow paddy, what should I do to prepare the 
+OK   | seed=34 | call=2 | judge=PASS | scope_overflow=False | q=What should I do to get good growth for my paddy crop from t
+OK   | seed=34 | call=3 | judge=PASS | scope_overflow=False | q=How should I prepare the soil for paddy before planting?
+OK   | seed=34 | call=4 | judge=PASS | scope_overflow=False | q=What should I do when I'm getting ready to plant paddy in my
+OK   | seed=34 | call=5 | judge=PASS | scope_overflow=False | q=What should I do for the first time when I start growing pad
+OK   | seed=35 | call=1 | judge=PASS | scope_overflow=False | q=I want to grow tomatoes on my one hectare land in Punjab. Wh
+DUPE | seed=35 | call=2 | q=I want to grow tomatoes on my 1 hectare field in Punjab. Wha
+OK   | seed=35 | call=3 | judge=PASS | scope_overflow=False | q=What kind of soil is best for growing tomatoes in Punjab?
+OK   | seed=35 | call=4 | judge=PASS | scope_overflow=False | q=What temperature is best for my tomato plants to grow proper
+OK   | seed=35 | call=5 | judge=PASS | scope_overflow=False | q=How do I grow tomatoes on a hectare of land in Punjab?
+OK   | seed=35 | call=6 | judge=PASS | scope_overflow=False | q=What's the best way to grow tomato seedlings in Punjab?
+OK   | seed=36 | call=1 | judge=PASS | scope_overflow=False | q=My paddy plants are getting yellow and some look stunted, wh
+OK   | seed=36 | call=2 | judge=PASS | scope_overflow=False | q=How can I keep the green bugs from hurting my rice plants?
+OK   | seed=36 | call=3 | judge=PASS | scope_overflow=False | q=How can I tell if my paddy has green leafhoppers and what ca
+DUPE | seed=36 | call=4 | q=How can I stop the green bugs from hurting my rice plants?
+OK   | seed=36 | call=5 | judge=PASS | scope_overflow=False | q=How do I stop green leaf hoppers from hurting my paddy plant
+OK   | seed=36 | call=6 | judge=PASS | scope_overflow=False | q=How can I spot the green leaf hoppers in my paddy field?
+OK   | seed=37 | call=1 | judge=PASS | scope_overflow=False | q=My maize plants are being attacked by worms and weeds. What 
+OK   | seed=37 | call=2 | judge=PASS | scope_overflow=False | q=What can I do if armyworms and motha weeds are damaging my m
+DUPE | seed=37 | call=3 | q=My maize plants are getting damaged by some worms and weeds.
+OK   | seed=37 | call=4 | judge=PASS | scope_overflow=False | q=Mai kisan hai, motha aur kuch chhote chhote kalam kha raha h
+OK   | seed=37 | call=5 | judge=PASS | scope_overflow=False | q=What can I do if armyworm, silk cutter, and motha weed are a
+OK   | seed=37 | call=6 | judge=PASS | scope_overflow=False | q=How can I get rid of the worms eating my maize leaves and th
+OK   | seed=38 | call=1 | judge=PASS | scope_overflow=False | q=My wheat plants are getting yellow leaves, what's causing it
+OK   | seed=38 | call=2 | judge=PASS | scope_overflow=False | q=My wheat plants are getting yellow leaves, what can I do?
+OK   | seed=38 | call=3 | judge=PASS | scope_overflow=False | q=My wheat plants are looking weak and their leaves are yellow
+OK   | seed=38 | call=4 | judge=PASS | scope_overflow=False | q=My wheat crop is showing yellow leaves, what can I do?
+OK   | seed=38 | call=5 | judge=PASS | scope_overflow=False | q=My wheat plants have yellow leaves, what's going on?
+OK   | seed=39 | call=1 | judge=PASS | scope_overflow=False | q=I'm growing wheat in Saharanpur, and I'm not sure what to do
+OK   | seed=39 | call=2 | judge=PASS | scope_overflow=False | q=How should I manage nutrients for my wheat crop in Saharanpu
+OK   | seed=39 | call=3 | judge=PASS | scope_overflow=False | q=How do I apply fertilizers properly for my wheat crop in Sah
+DUPE | seed=39 | call=4 | q=How should I apply fertilizers for my wheat crop in Saharanp
+OK   | seed=39 | call=5 | judge=PASS | scope_overflow=False | q=How should I fertilize my wheat crop in Saharanpur?
+OK   | seed=39 | call=6 | judge=PASS | scope_overflow=False | q=How much zinc should I spray on my wheat if the leaves are l
+OK   | seed=40 | call=1 | judge=PASS | scope_overflow=False | q=My Berseem crop is getting damaged by some pests, and I don'
+OK   | seed=40 | call=2 | judge=PASS | scope_overflow=False | q=My Berseem crop is getting damaged by some caterpillars, wha
+DUPE | seed=40 | call=3 | q=My berseem crop is getting damaged by some caterpillars, wha
+OK   | seed=40 | call=4 | judge=PASS | scope_overflow=False | q=Kya berseem ke khet mein babu kuta laga hai to kya karna cha
+JUDGE_RETRY | seed=40 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer contains multiple claims not present in the seed answer, such as 'Babu Kuta ek aisa chhota jharna hai' (Babu Kuta is a small worm), 'kandhe chhote jharno ko khana de dete hain' (weeds feed small worms), and 'kheta ka chhedna banta hai' (field cleaning helps). These are not explicitly mentioned in the seed answer.", "The generated answer introduces new terminology and explanations not present in the seed answer, such as 'chhote jharno' (small worms) and 'kheta ka chhedna' (field cleaning), which are not explicitly stated in the seed."] | q=Mai Berseem ke kheta me Babu Kuta ki problem ho rahi hai, ky
+JUDGE_RETRY | seed=40 | retry=2/3 | conf=high | scope_overflow=False | issues=["The generated answer introduces the concept of 'alawat wale kalamon' (foreign caterpillars) which is not mentioned in the seed answer.", "The generated answer mentions 'chhaan rakhna' (keeping a distance) as a method to prevent caterpillars, which is not explicitly stated in the seed answer."] | q=Mai berseem ke kheta mein badi gandh wale chhote chhote kala
+OK   | seed=40 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to stop the caterpillars from eating my Bersee
+OK   | seed=40 | call=8 | judge=PASS | scope_overflow=False | q=My Berseem crop is getting eaten up by small green worms, wh
+OK   | seed=41 | call=1 | judge=PASS | scope_overflow=False | q=How long should I wait after using organic fertilizer before
+DUPE | seed=41 | call=2 | q=How long should I wait after using organic manure before put
+DUPE | seed=41 | call=3 | q=How long should I wait after using organic manure before add
+DUPE | seed=41 | call=4 | q=How long should I wait after putting in manure before I use 
+DUPE | seed=41 | call=5 | q=How long should I wait after using organic fertilizer before
+OK   | seed=41 | call=6 | judge=PASS | scope_overflow=False | q=I used some cow dung in my paddy field, how long should I wa
+DUPE | seed=41 | call=7 | q=How long should I wait after adding organic fertilizer befor
+OK   | seed=41 | call=8 | judge=PASS | scope_overflow=False | q=My paddy plants are looking weak, could it be because I mixe
+OK   | seed=41 | call=9 | judge=PASS | scope_overflow=False | q=I used some cow dung in my paddy field, but my plants aren't
+DUPE | seed=41 | call=10 | q=My paddy plants are looking weak, could it be because I mixe
+OK   | seed=41 | call=11 | judge=PASS | scope_overflow=False | q=My paddy plants are looking weak, what could be the reason?
+OK   | seed=42 | call=1 | judge=PASS | scope_overflow=False | q=How long does it take for fodder maize to be ready for cutti
+DUPE | seed=42 | call=2 | q=How long does it take for fodder maize to be ready for cutti
+DUPE | seed=42 | call=3 | q=How long does it take for fodder maize to be ready for cutti
+DUPE | seed=42 | call=4 | q=How long does it take for fodder maize to be ready for cutti
+OK   | seed=42 | call=5 | judge=PASS | scope_overflow=False | q=How long does it take for fodder maize to be ready for harve
+DUPE | seed=42 | call=6 | q=How long does it take for fodder maize to be ready for cutti
+OK   | seed=42 | call=7 | judge=PASS | scope_overflow=False | q=When should I cut my fodder maize for the best quality for m
+OK   | seed=42 | call=8 | judge=PASS | scope_overflow=False | q=My maize plants are looking a bit dry, and I'm not sure when
+OK   | seed=42 | call=9 | judge=PASS | scope_overflow=False | q=My maize plants are getting too tall and the leaves are turn
+OK   | seed=43 | call=1 | judge=PASS | scope_overflow=False | q=I’m growing maize, and I want to know when and how to apply 
+OK   | seed=43 | call=2 | judge=PASS | scope_overflow=False | q=Can I use Stomp on my maize crop? What's the right way to do
+OK   | seed=43 | call=3 | judge=PASS | scope_overflow=False | q=Is it safe to use Stomp herbicide for controlling weeds in m
+JUDGE_RETRY | seed=43 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer contains claims not explicitly present in the seed answer, such as 'Stomp herbidis' (which is not mentioned in the seed answer) and 'jhinga' (which is not a term used in the seed answer).", "The generated answer adds general advice about 'sahi samay par karo' (using them at the right time) and 'sahi jagah par karyavadhi karna' (applying them in the right place), which are not specific facts from the seed answer."] | q=Kya mere khet me pahle chahat ke baad kisi herbidis ka istem
+OK   | seed=43 | call=5 | judge=PASS | scope_overflow=False | q=When and how should I use Stomp herbicide for my maize crop?
+OK   | seed=43 | call=6 | judge=PASS | scope_overflow=False | q=Is it okay to use Stomp on my maize crop, or should I try so
+OK   | seed=44 | call=1 | judge=PASS | scope_overflow=False | q=I've heard about drones for farming. Is there any help to bu
+OK   | seed=44 | call=2 | judge=PASS | scope_overflow=False | q=Is there any help from the government to buy a drone for far
+OK   | seed=44 | call=3 | judge=PASS | scope_overflow=False | q=Kya koi subsidy milti hai kisan drone khareedne ke liye?
+DUPE | seed=44 | call=4 | q=Kya koi sahulat hai kisan drone khareedne ke liye?
+OK   | seed=44 | call=5 | judge=PASS | scope_overflow=False | q=Can I get any help to buy a drone for farming?
+OK   | seed=44 | call=6 | judge=PASS | scope_overflow=False | q=Are there any subsidies for buying a drone for farming?
+OK   | seed=45 | call=1 | judge=PASS | scope_overflow=False | q=My pea plants are not growing well, and the roots look bad. 
+OK   | seed=45 | call=2 | judge=PASS | scope_overflow=False | q=Matar ki akali mein nematode hota hai, kya kya tareeqe kaam 
+JUDGE_RETRY | seed=45 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer contains new claims not present in the seed answer, such as 'akshay kand mein jharna aur lagatar kand ke kand me kuch karan hote hain' (there are some causes in the root that cause continuous damage to the root), which is not explicitly mentioned in the seed answer.", "The generated answer includes a recommendation to 'kuch kheti ke upaay hain jaise garmi me chhota khodna, khud ki surya ki chhaon, aur jhukne wale varieti ka upyog' (some farming methods such as summer plowing, solarization, and using resistant varieties), which is a paraphrase of the seed answer but adds the phrase 'khud ki surya ki chhaon' (solarization) without explicitly stating it as a method from the seed answer."] | q=Kya mera matar ka phal kuch nahi ho raha hai, kya koi aisa k
+JUDGE_RETRY | seed=45 | retry=2/3 | conf=high | scope_overflow=False | issues=['The generated answer contains no factual information about Matar ki jhumar or any specific management practices. It is completely non-informative and does not address the question.', 'The generated answer introduces no claims, facts, or recommendations that could be compared to the seed answer, but it also fails to provide any relevant information.'] | q=Matar ki jhumar mein kya karna chahiye jaise ki akhiri pata 
+JUDGE_RETRY | seed=45 | retry=3/3 | conf=high | scope_overflow=False | issues=["The generated answer contains new claims not present in the seed answer, such as 'khane wale akshar ko badalne ki koshish karein' (try to replace the affected roots) and 'pani ki chhoo ko 3 hafta tak khola rakh sakte hain' (keep the field wet for 3 weeks), which are not mentioned in the seed answer.", "The generated answer includes advice like 'koshish karein ki aap jaldi pauda lagaayein' (try to plant early) and 'aap pahle se hi taney ka test karein' (test the soil beforehand), which are not explicitly mentioned in the seed answer."] | q=Kya mujhe matar ke paudon mein akshar nematode ke liye kuch 
+JUDGE_RETRY | seed=45 | retry=4/3 | conf=high | scope_overflow=False | issues=["The generated answer contains claims not present in the seed answer, such as 'ghar mein chhoti chhoti galon wale akar dekhne ko milti hain' (small galls on roots can be seen at home), 'akar mei pani ke jaise kuch safed area bhi ho sakte hain' (white areas like water on roots), and 'kuch log garam pani ke saath kuch chiz daal ke akar ko chhane ka upay karte hain' (some people use warm water with some substance to soak the roots). These are not mentioned in the seed answer.", 'The generated answer adds new practices not present in the seed answer, such as soaking roots in warm water with some substance.'] | q=Matar ke akar mein kharaab hota hai, kya kya upaay hai?
+JUDGE_ABANDON | seed=45 | conf=high | scope_overflow=False | q=Matar ke akar mein kharaab hota hai, kya kya upaay hai?
+OK   | seed=45 | call=7 | judge=PASS | scope_overflow=False | q=How can I control root knot nematodes in my pea crop?
+DUPE | seed=45 | call=8 | q=My pea plants are not growing well, and the roots look all m
+OK   | seed=45 | call=9 | judge=PASS | scope_overflow=False | q=My pea plants are not growing well, and their roots look dam
+DUPE | seed=45 | call=10 | q=My pea plants are not growing well, and the roots look weird
+DUPE | seed=45 | call=11 | q=My pea plants are not growing well, and the roots look weird
+OK   | seed=45 | call=12 | judge=PASS | scope_overflow=False | q=My pea plants are not growing well and the leaves are turnin
+OK   | seed=46 | call=1 | judge=PASS | scope_overflow=False | q=How do I apply MAP foliar spray to my rice crop and what str
+OK   | seed=46 | call=2 | judge=PASS | scope_overflow=False | q=How much MAP should I mix with water for spraying on my rice
+DUPE | seed=46 | call=3 | q=How much MAP should I mix with water for spraying on my rice
+DUPE | seed=46 | call=4 | q=How much MAP should I mix with water for spraying on my rice
+OK   | seed=46 | call=5 | judge=PASS | scope_overflow=False | q=How do I mix and spray MAP on my rice plants?
+DUPE | seed=46 | call=6 | q=How much MAP should I mix with water for spraying on my rice
+OK   | seed=46 | call=7 | judge=PASS | scope_overflow=False | q=How do I apply MAP foliar spray to my rice crop?
+OK   | seed=46 | call=8 | judge=PASS | scope_overflow=False | q=My rice plants are looking weak and not growing well, how ca
+OK   | seed=47 | call=1 | judge=PASS | scope_overflow=False | q=I have sandy soil, what maize varieties can I grow?
+OK   | seed=47 | call=2 | judge=PASS | scope_overflow=False | q=I have sandy soil on my farm, which maize varieties can I gr
+OK   | seed=47 | call=3 | judge=PASS | scope_overflow=False | q=Which maize types grow well in sandy soil?
+JUDGE_RETRY | seed=47 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer contains new claims not present in the seed answer, such as 'kheleti ja rahi hai' (which appears to be a repeated phrase with no clear meaning) and 'kheleti ja rahi hai, to kheleti ja rahi hai' (repetitive and nonsensical text).", 'The generated answer includes non-English text that is not a direct paraphrase of the seed answer and introduces unclear or irrelevant content.'] | q=Kya mere khet me jal ko kharaab karte hain, to kya koi maize
+OK   | seed=47 | call=5 | judge=PASS | scope_overflow=False | q=Which maize types grow well in sandy soil?
+OK   | seed=47 | call=6 | judge=PASS | scope_overflow=False | q=Are there any maize types that do well in sandy soil?
+OK   | seed=48 | call=1 | judge=PASS | scope_overflow=False | q=I'm growing wheat and want to know about NPK 19-19-19 and Sa
+OK   | seed=48 | call=2 | judge=PASS | scope_overflow=False | q=What's the deal with NPK 19-19-19 and Sagarika liquid fertil
+OK   | seed=48 | call=3 | judge=PASS | scope_overflow=False | q=How should I use NPK 19-19-19 and Sagarika on my wheat crop?
+OK   | seed=48 | call=4 | judge=PASS | scope_overflow=False | q=Kya koi aisa fertilizer hai jo dhani ke kheta me kamaal kare
+DUPE | seed=48 | call=5 | q=What's the deal with NPK 19-19-19 and Sagarika liquid fertil
+OK   | seed=48 | call=6 | judge=PASS | scope_overflow=False | q=How often should I spray Sagarika liquid fertilizer on my wh
+OK   | seed=49 | call=1 | judge=PASS | scope_overflow=False | q=I’m growing cotton, and I’m not sure how to take care of the
+OK   | seed=49 | call=2 | judge=PASS | scope_overflow=False | q=How do I manage nutrients and pests in my cotton field witho
+DUPE | seed=49 | call=3 | q=How do I manage the nutrients and pests in my cotton field u
+OK   | seed=49 | call=4 | judge=PASS | scope_overflow=False | q=What are the best ways to take care of my cotton plants and 
+OK   | seed=49 | call=5 | judge=PASS | scope_overflow=False | q=What’s the best way to manage nutrients and pests in my cott
+OK   | seed=49 | call=6 | judge=PASS | scope_overflow=False | q=How do I apply the right amount of zinc sulphate when growin
+OK   | seed=50 | call=1 | judge=PASS | scope_overflow=False | q=I've noticed my sugarcane plants are looking weak and yellow
+OK   | seed=50 | call=2 | judge=PASS | scope_overflow=False | q=How much ferrous sulphate should I use for my sugarcane fiel
+DUPE | seed=50 | call=3 | q=How much ferrous sulphate should I use for my sugarcane fiel
+DUPE | seed=50 | call=4 | q=How much ferrous sulphate should I use for my sugarcane fiel
+DUPE | seed=50 | call=5 | q=How much ferrous sulphate should I use for my sugarcane?
+DUPE | seed=50 | call=6 | q=How much ferrous sulphate should I use for my sugarcane fiel
+DUPE | seed=50 | call=7 | q=How much ferrous sulphate should I use for my sugarcane fiel
+OK   | seed=50 | call=8 | judge=PASS | scope_overflow=False | q=My sugarcane plants are looking weak and the leaves are yell
+OK   | seed=50 | call=9 | judge=PASS | scope_overflow=False | q=My sugarcane plants have yellow spots between the veins, wha
+DUPE | seed=50 | call=10 | q=My sugarcane plants have yellow leaves between the veins, wh
+DUPE | seed=50 | call=11 | q=My sugarcane plants are looking weak and the leaves are turn
+DUPE | seed=50 | call=12 | q=My sugarcane plants have yellow spots between the veins, wha
+DUPE | seed=50 | call=13 | q=My sugarcane plants are looking weak and the leaves are turn
+DUPE | seed=50 | call=14 | q=My sugarcane plants are looking weak and the leaves are yell
+OK   | seed=50 | call=15 | judge=PASS | scope_overflow=False | q=My sugarcane plants are not growing well, and the leaves are
+OK   | seed=51 | call=1 | judge=PASS | scope_overflow=False | q=How do I use 13:0:45 fertilizer for my maize crop?
+DUPE | seed=51 | call=2 | q=How do I use 13:0:45 NPK fertilizer on my maize crop?
+DUPE | seed=51 | call=3 | q=How do I use 13:0:45 fertilizer on my maize crop?
+JUDGE_RETRY | seed=51 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer adds the claim that 'farmers are strongly advised to They can provide soil testing facilities...' which is not present in the seed answer. This appears to be an incomplete or corrupted sentence from the seed answer, but it introduces new information not explicitly in the seed.", 'The generated answer omits key details from the seed answer, such as the specific benefits of potassium nitrate, its role in plant resistance, and abiotic stress tolerance.'] | q=Kya 13:0:45 NPK ka use karte waqt kuch khass cheezo ka dhyan
+OK   | seed=51 | call=5 | judge=PASS | scope_overflow=False | q=How do I use 13:0:45 fertilizer on my maize plants?
+OK   | seed=51 | call=6 | judge=PASS | scope_overflow=False | q=How much 13-0-45 should I mix in water for a foliar spray on
+OK   | seed=51 | call=7 | judge=PASS | scope_overflow=False | q=How should I use 13:00:45 NPK fertilizer for my maize crop?
+OK   | seed=51 | call=8 | judge=PASS | scope_overflow=False | q=My maize plants are looking weak and not growing well, what 
+OK   | seed=52 | call=1 | judge=PASS | scope_overflow=False | q=How much Nano Urea should I use for my berseem crop?
+OK   | seed=52 | call=2 | judge=PASS | scope_overflow=False | q=Kya berseem ke khane wale chawal ke liye nano urea ka koi sp
+OK   | seed=52 | call=3 | judge=PASS | scope_overflow=False | q=Kya berseem ke khane wale chakki mein nano urea ka istemal k
+OK   | seed=52 | call=4 | judge=PASS | scope_overflow=False | q=Kya berseem ke khete mein nano urea ka koi dosha diya gaya h
+OK   | seed=52 | call=5 | judge=PASS | scope_overflow=False | q=Kya berseem ke khet me nano urea ki koi specific doshi di ga
+OK   | seed=53 | call=1 | judge=PASS | scope_overflow=False | q=How long does it take for S-4003 paddy to grow, and how much
+DUPE | seed=53 | call=2 | q=How long does it take for S-4003 paddy to grow, and how much
+DUPE | seed=53 | call=3 | q=How long does it take for S-4003 paddy to grow, and how much
+DUPE | seed=53 | call=4 | q=How long does it take for S-4003 paddy to grow, and how much
+OK   | seed=53 | call=5 | judge=PASS | scope_overflow=False | q=How long does S-4003 paddy take to grow and how much does it
+DUPE | seed=53 | call=6 | q=How long does it take for S-4003 paddy to grow, and how much
+DUPE | seed=53 | call=7 | q=How long does S-4003 paddy take to grow and how much can I e
+DUPE | seed=53 | call=8 | q=How long does it take for S-4003 paddy to grow, and how much
+DUPE | seed=53 | call=9 | q=How long does it take for S-4003 paddy to grow, and how much
+OK   | seed=53 | call=10 | judge=PASS | scope_overflow=False | q=Kharif में S-4003 धान की फसल कितने दिन में तैयार हो जाती है?
+DUPE | seed=53 | call=11 | q=How long does it take for S-4003 paddy to grow, and how much
+JUDGE_RETRY | seed=53 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer introduces new claims not present in the seed answer, such as 'poor soil conditions', 'lack of proper nutrients', 'good quality seeds', 'irrigation and fertilization practices', and 'sunlight' which are not mentioned in the seed answer."] | q=My paddy plants are looking weak and not growing well, what 
+JUDGE_RETRY | seed=53 | retry=2/3 | conf=high | scope_overflow=False | issues=["The GENERATED ANSWER contains new claims not present in the SEED ANSWER, such as 'poor soil conditions', 'lack of proper care', 'good quality seeds', 'irrigation and fertilization practices', 'sunlight', and 'pest problems'. These are not mentioned in the SEED ANSWER.", 'The GENERATED ANSWER introduces recommendations not explicitly present in the SEED ANSWER, such as suggesting S-4003 as a solution for weak paddy plants, which is not directly stated in the SEED ANSWER.'] | q=My paddy plants are looking weak and not growing well, what 
+OK   | seed=53 | call=14 | judge=PASS | scope_overflow=False | q=Kharif me paddy ka ye S-4003 variety kis tarah ka hai aur ky
+DUPE | seed=53 | call=15 | q=How long does it take for S-4003 paddy to grow, and how much
+JUDGE_RETRY | seed=53 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer introduces new claims not present in the seed answer, such as 'poor soil conditions', 'lack of proper nutrients', 'good quality seeds', 'proper planting practices', 'enough water', and 'right amount of fertilizer'. These are not mentioned in the seed answer."] | q=My paddy plants are looking weak and not growing well, what 
+OK   | seed=53 | call=17 | judge=PASS | scope_overflow=False | q=Kharif में S-4003 धान की फसल कितने दिन लेती है और उसकी उपज क
+OK   | seed=54 | call=1 | judge=PASS | scope_overflow=False | q=I'm growing sugarcane, and I'm not sure what to do with fert
+OK   | seed=54 | call=2 | judge=PASS | scope_overflow=False | q=What should I do with fertilizers for my sugarcane in August
+OK   | seed=54 | call=3 | judge=PASS | scope_overflow=False | q=Is there any fertilizer I should use for my sugarcane in Aug
+DUPE | seed=54 | call=4 | q=Is there any fertilizer I should apply to my sugarcane in Au
+DUPE | seed=54 | call=5 | q=What should I do with fertilizers for sugarcane in August?
+OK   | seed=54 | call=6 | judge=PASS | scope_overflow=False | q=Is there a specific fertilizer to use in August for sugarcan
+OK   | seed=54 | call=7 | judge=PASS | scope_overflow=False | q=What should I do if my sugarcane is showing yellow leaves in
+OK   | seed=55 | call=1 | judge=PASS | scope_overflow=False | q=My paddy field is not growing well, and I think the soil mig
+OK   | seed=55 | call=2 | judge=PASS | scope_overflow=False | q=How do I keep the soil pH right for growing paddy?
+OK   | seed=55 | call=3 | judge=PASS | scope_overflow=False | q=How do I fix the pH in my paddy field if it's too alkaline?
+OK   | seed=55 | call=4 | judge=PASS | scope_overflow=False | q=How can I fix the soil pH for my paddy field before planting
+DUPE | seed=55 | call=5 | q=How do I keep the soil pH right for growing paddy?
+OK   | seed=55 | call=6 | judge=PASS | scope_overflow=False | q=How can I make sure the soil in my paddy field is the right 
+OK   | seed=56 | call=1 | judge=PASS | scope_overflow=False | q=My paddy field is losing a lot of water, what can I do?
+OK   | seed=56 | call=2 | judge=PASS | scope_overflow=False | q=My paddy field is losing too much water, what can I do to st
+DUPE | seed=56 | call=3 | q=My paddy field is losing too much water, what can I do?
+DUPE | seed=56 | call=4 | q=My paddy field is losing too much water, what can I do?
+DUPE | seed=56 | call=5 | q=My paddy field is losing too much water, what can I do?
+DUPE | seed=56 | call=6 | q=My paddy field is losing too much water, what can I do?
+OK   | seed=56 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to stop water from draining too fast in my pad
+DUPE | seed=56 | call=8 | q=My paddy field is losing too much water, what can I do?
+DUPE | seed=56 | call=9 | q=My paddy field is losing too much water, what can I do?
+DUPE | seed=56 | call=10 | q=My paddy field is losing too much water, what can I do?
+DUPE | seed=56 | call=11 | q=My paddy field is losing water quickly after watering, what 
+DUPE | seed=56 | call=12 | q=My paddy field is losing too much water, what can I do?
+DUPE | seed=56 | call=13 | q=My paddy field is losing too much water, what can I do?
+OK   | seed=57 | call=1 | judge=PASS | scope_overflow=False | q=What's the right amount of seeds to use for MRC 7117 and MRC
+OK   | seed=57 | call=2 | judge=PASS | scope_overflow=False | q=How much seed do I need for MRC 7117 and MRC 7131 cotton, an
+DUPE | seed=57 | call=3 | q=What's the right amount of seed to use for Bt cotton like MR
+JUDGE_RETRY | seed=57 | retry=1/3 | conf=high | scope_overflow=False | issues=["The GENERATED ANSWER introduces 'MRC 7117 ya MRC 7131' which are not mentioned in the SEED ANSWER, adding new facts not present in the source.", "The GENERATED ANSWER contains a minor formatting change ('900gm' to '900 gram') which is acceptable, but the addition of new variety names is not."] | q=Kya main kis tarah ka seed lagaye, jisse kachra nahi lage au
+OK   | seed=57 | call=5 | judge=PASS | scope_overflow=False | q=How much seed do I need for MRC 7117 and MRC 7131 cotton?
+OK   | seed=57 | call=6 | judge=PASS | scope_overflow=False | q=Kya MRC 7117 aur MRC 7131 chhota kaspal ke liye koi alag see
+OK   | seed=57 | call=7 | judge=PASS | scope_overflow=False | q=What's the best way to plant Bt and non-Bt cotton together?
+OK   | seed=58 | call=1 | judge=PASS | scope_overflow=False | q=My sugarcane plants are getting red leaves and some look bur
+OK   | seed=58 | call=2 | judge=PASS | scope_overflow=False | q=My sugarcane plants are getting damaged, and I think it's mi
+OK   | seed=58 | call=3 | judge=PASS | scope_overflow=False | q=My sugarcane plants are getting red leaves, what can I do?
+DUPE | seed=58 | call=4 | q=My sugarcane plants are getting really bad, and the leaves a
+OK   | seed=58 | call=5 | judge=PASS | scope_overflow=False | q=My sugarcane plants are getting messed up by tiny pests, wha
+OK   | seed=58 | call=6 | judge=PASS | scope_overflow=False | q=My sugarcane plants have red spots on the leaves, what can I
+OK   | seed=59 | call=1 | judge=PASS | scope_overflow=False | q=My rice field has a lot of green stuff on the water, what ca
+DUPE | seed=59 | call=2 | q=My rice field has a lot of green stuff floating on the water
+DUPE | seed=59 | call=3 | q=My rice field has a lot of green stuff on the water, what ca
+DUPE | seed=59 | call=4 | q=My rice field has a lot of green stuff on the water, what ca
+DUPE | seed=59 | call=5 | q=My rice field has a lot of green stuff growing on the water,
+DUPE | seed=59 | call=6 | q=My rice field has a lot of green stuff floating on the water
+OK   | seed=59 | call=7 | judge=PASS | scope_overflow=False | q=What can I do if my rice field has a lot of algae?
+OK   | seed=59 | call=8 | judge=PASS | scope_overflow=False | q=My rice plants are looking weak and their leaves are yellowi
+OK   | seed=59 | call=9 | judge=PASS | scope_overflow=False | q=My rice plants are looking weak and the water is all green, 
+OK   | seed=59 | call=10 | judge=PASS | scope_overflow=False | q=My rice plants are not growing well and the water looks gree
+OK   | seed=60 | call=1 | judge=PASS | scope_overflow=False | q=My wheat plants have brown spots on the leaves, what can I d
+DUPE | seed=60 | call=2 | q=My wheat plants have brown patches on the leaves, what can I
+DUPE | seed=60 | call=3 | q=My wheat plants have brown spots on the leaves, what can I d
+DUPE | seed=60 | call=4 | q=My wheat plants have brown spots on the leaves, what can I d
+DUPE | seed=60 | call=5 | q=My wheat plants have brown spots on the leaves, what can I d
+DUPE | seed=60 | call=6 | q=My wheat plants have brown spots on the leaves, what can I d
+OK   | seed=60 | call=7 | judge=PASS | scope_overflow=False | q=What should I do if my wheat has brown spots?
+OK   | seed=60 | call=8 | judge=PASS | scope_overflow=False | q=My wheat leaves have brown patches, what's causing it and ho
+DUPE | seed=60 | call=9 | q=My wheat leaves have brown spots and yellow edges, what can 
+DUPE | seed=60 | call=10 | q=My wheat leaves have brown spots, what's causing it and how 
+OK   | seed=60 | call=11 | judge=PASS | scope_overflow=False | q=My wheat plants have yellow patches on the leaves, what coul
+DUPE | seed=60 | call=12 | q=My wheat plants are getting these brown spots on the leaves,
+OK   | seed=60 | call=13 | judge=PASS | scope_overflow=False | q=My wheat leaves are getting brown spots and looking sick, wh
+OK   | seed=61 | call=1 | judge=PASS | scope_overflow=False | q=How does that machine work that plants the rice seedlings in
+OK   | seed=61 | call=2 | judge=PASS | scope_overflow=False | q=How does the paddy transplanter help in rice farming in Punj
+OK   | seed=61 | call=3 | judge=PASS | scope_overflow=False | q=How does the machine plant rice seedlings in Punjab fields?
+OK   | seed=61 | call=4 | judge=PASS | scope_overflow=False | q=How do they plant rice seedlings these days in Punjab?
+DUPE | seed=61 | call=5 | q=How does the paddy transplanter work for rice in Punjab?
+OK   | seed=61 | call=6 | judge=PASS | scope_overflow=False | q=How does the paddy transplanter pick up and plant the seedli
+OK   | seed=62 | call=1 | judge=PASS | scope_overflow=False | q=I heard about using mustard cake for paddy. Is it good to us
+OK   | seed=62 | call=2 | judge=PASS | scope_overflow=False | q=Can I use mustard cake for my paddy, and how much should I p
+DUPE | seed=62 | call=3 | q=Can I use mustard cake for my paddy crop, and how much shoul
+DUPE | seed=62 | call=4 | q=Can I use mustard cake for my paddy, and how much should I a
+OK   | seed=62 | call=5 | judge=PASS | scope_overflow=False | q=Can I use mustard cake for my paddy crop?
+DUPE | seed=62 | call=6 | q=Can I use mustard cake for my paddy, and how much should I p
+OK   | seed=62 | call=7 | judge=PASS | scope_overflow=False | q=How should I use mustard cake in my paddy field?
+OK   | seed=62 | call=8 | judge=PASS | scope_overflow=False | q=My paddy plants are showing yellow leaves with green veins, 
+OK   | seed=63 | call=1 | judge=PASS | scope_overflow=False | q=My maize is getting pecked by birds, what can I do?
+OK   | seed=63 | call=2 | judge=PASS | scope_overflow=False | q=My maize plants are getting pecked by birds, what can I do t
+DUPE | seed=63 | call=3 | q=My maize plants are getting pecked by birds, what can I do?
+DUPE | seed=63 | call=4 | q=My maize plants are getting pecked by birds, what can I do t
+DUPE | seed=63 | call=5 | q=My maize is getting pecked by birds, how can I stop them?
+DUPE | seed=63 | call=6 | q=My maize plants are getting eaten by birds, what can I do to
+OK   | seed=63 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to stop birds from eating my maize?
+DUPE | seed=63 | call=8 | q=My maize plants are getting pecked by birds, what can I do?
+DUPE | seed=63 | call=9 | q=My maize plants are getting pecked by birds, what can I do?
+DUPE | seed=63 | call=10 | q=My maize plants are getting pecked by birds, what can I do?
+DUPE | seed=63 | call=11 | q=My maize plants are getting pecked by birds, what can I do?
+DUPE | seed=63 | call=12 | q=My maize plants are getting pecked by birds, what can I do?
+DUPE | seed=63 | call=13 | q=My maize plants are getting pecked by birds, what can I do?
+OK   | seed=64 | call=1 | judge=PASS | scope_overflow=False | q=My paddy plants are looking weak after I sprayed weedicides.
+OK   | seed=64 | call=2 | judge=PASS | scope_overflow=False | q=My paddy crop is looking a bit weak after using weedicide, i
+OK   | seed=64 | call=3 | judge=PASS | scope_overflow=False | q=My paddy plants are looking weak after I used weedicide, wil
+OK   | seed=64 | call=4 | judge=PASS | scope_overflow=False | q=My paddy crop looks a bit yellow after using weedicides, is 
+OK   | seed=64 | call=5 | judge=PASS | scope_overflow=False | q=After spraying weedicide on my paddy, the plants are looking
+OK   | seed=65 | call=1 | judge=PASS | scope_overflow=False | q=My onion bulbs are not getting big, what can I do?
+OK   | seed=65 | call=2 | judge=PASS | scope_overflow=False | q=What can I do to make my onions bigger?
+OK   | seed=65 | call=3 | judge=PASS | scope_overflow=False | q=I want my onions to have bigger bulbs. What can I do?
+DUPE | seed=65 | call=4 | q=What can I do to make my onions bigger?
+OK   | seed=65 | call=5 | judge=PASS | scope_overflow=False | q=My onions aren't getting big, what can I do?
+DUPE | seed=65 | call=6 | q=I want my onions to grow bigger bulbs. What can I do?
+DUPE | seed=65 | call=7 | q=What can I do to get bigger onions?
+OK   | seed=65 | call=8 | judge=PASS | scope_overflow=False | q=My onion plants are growing but the bulbs are small, what ca
+OK   | seed=66 | call=1 | judge=PASS | scope_overflow=False | q=I used a Happy Seeder to plant my wheat, and I want to know 
+OK   | seed=66 | call=2 | judge=PASS | scope_overflow=False | q=I used a Happy Seeder for wheat for three years. What should
+OK   | seed=66 | call=3 | judge=PASS | scope_overflow=False | q=I sowed wheat with a Happy Seeder. How much urea should I us
+OK   | seed=66 | call=4 | judge=PASS | scope_overflow=False | q=I used Happy Seeder for three years straight, now what ferti
+DUPE | seed=66 | call=5 | q=I used a Happy Seeder for wheat for three years. What should
+OK   | seed=66 | call=6 | judge=PASS | scope_overflow=False | q=I’ve been using a Happy Seeder for three years, what should 
+OK   | seed=67 | call=1 | judge=PASS | scope_overflow=False | q=My paddy field is being damaged by deer, what can I do?
+DUPE | seed=67 | call=2 | q=My paddy field is getting messed up by deer, what can I do?
+OK   | seed=67 | call=3 | judge=PASS | scope_overflow=False | q=How do I keep deer out of my rice field?
+OK   | seed=67 | call=4 | judge=PASS | scope_overflow=False | q=My paddy field is getting damaged by deer, what can I do to 
+DUPE | seed=67 | call=5 | q=My paddy field is getting messed up by deer, what can I do?
+OK   | seed=67 | call=6 | judge=PASS | scope_overflow=False | q=What can I do if deer are eating my paddy plants?
+OK   | seed=67 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to keep deer away from my paddy field?
+OK   | seed=68 | call=1 | judge=PASS | scope_overflow=False | q=My paddy crop is still young, and I want to protect it befor
+OK   | seed=68 | call=2 | judge=PASS | scope_overflow=False | q=What sprays should I use in my paddy field before the pests 
+DUPE | seed=68 | call=3 | q=What sprays should I use for my paddy crop before the pests 
+DUPE | seed=68 | call=4 | q=What sprays should I use for my paddy crop before the pests 
+OK   | seed=68 | call=5 | judge=PASS | scope_overflow=False | q=What sprays should I use early on for my paddy crop in Harya
+DUPE | seed=68 | call=6 | q=What sprays can I use to protect my paddy before the pests g
+OK   | seed=68 | call=7 | judge=PASS | scope_overflow=False | q=What sprays should I use early on my paddy to protect it fro
+OK   | seed=68 | call=8 | judge=PASS | scope_overflow=False | q=My paddy plants are looking weak and the leaves are not gree
+OK   | seed=69 | call=1 | judge=PASS | scope_overflow=False | q=How much maize does the PMH-1 variety usually give per acre?
+DUPE | seed=69 | call=2 | q=How much maize does the PMH-1 variety usually give per acre?
+OK   | seed=69 | call=3 | judge=PASS | scope_overflow=False | q=How much maize does PMH-1 give per acre?
+OK   | seed=69 | call=4 | judge=PASS | scope_overflow=False | q=Kya PMH-1 मकई की फसल के बाद उपज कितनी रहती है?
+DUPE | seed=69 | call=5 | q=How much maize does PMH-1 give per acre?
+DUPE | seed=69 | call=6 | q=How much maize does PMH-1 give per acre?
+DUPE | seed=69 | call=7 | q=How much maize does PMH-1 give per acre?
+JUDGE_RETRY | seed=69 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer introduces new claims not present in the seed answer, such as 'soil is not fertile enough', 'not enough water', 'lack of proper nutrients', 'using enough fertilizer', 'watering the plants regularly', and 'check for pests or diseases'. These are not mentioned in the seed answer."] | q=My maize plants are turning yellow early, what could be caus
+OK   | seed=69 | call=9 | judge=PASS | scope_overflow=False | q=My maize plants are looking weak and not growing well, what 
+OK   | seed=69 | call=10 | judge=PASS | scope_overflow=False | q=My maize plants are staying green even when they should be r
+OK   | seed=70 | call=1 | judge=PASS | scope_overflow=False | q=How should I apply fertilizers to my cotton field in Mansa, 
+DUPE | seed=70 | call=2 | q=How should I apply fertilizers to my cotton plants in Mansa 
+OK   | seed=70 | call=3 | judge=PASS | scope_overflow=False | q=How often should I apply nitrogen to my cotton crop and how 
+DUPE | seed=70 | call=4 | q=How should I apply fertilizers to my cotton field in the ear
+OK   | seed=70 | call=5 | judge=PASS | scope_overflow=False | q=How should I apply fertilizers for my cotton crop?
+OK   | seed=70 | call=6 | judge=PASS | scope_overflow=False | q=How much urea should I use at the start of sowing for my cot
+DUPE | seed=70 | call=7 | q=How should I apply fertilizers to my cotton crop in Mansa di
+OK   | seed=70 | call=8 | judge=PASS | scope_overflow=False | q=My cotton plants have yellow leaves, what can I do?
+OK   | seed=71 | call=1 | judge=PASS | scope_overflow=False | q=My cotton plants are getting damaged by small bugs that suck
+OK   | seed=71 | call=2 | judge=PASS | scope_overflow=False | q=My cotton plants have some small bugs eating the soft parts,
+DUPE | seed=71 | call=3 | q=My cotton plants have small bugs on the soft parts, what can
+DUPE | seed=71 | call=4 | q=My cotton plants are getting damaged by small bugs that suck
+DUPE | seed=71 | call=5 | q=My cotton plants have bugs eating the soft parts, what can I
+DUPE | seed=71 | call=6 | q=My cotton plants have small bugs on the soft parts, what can
+OK   | seed=71 | call=7 | judge=PASS | scope_overflow=False | q=What chemicals can I use to kill the bugs on my cotton plant
+OK   | seed=71 | call=8 | judge=PASS | scope_overflow=False | q=My cotton plants have yellow leaves and some are curling, wh
+OK   | seed=71 | call=9 | judge=PASS | scope_overflow=False | q=My cotton plants have tiny black spots on the leaves, what's
+OK   | seed=72 | call=1 | judge=PASS | scope_overflow=False | q=How much bleaching powder should I use for my potato crop?
+DUPE | seed=72 | call=2 | q=How much bleaching powder should I use for my potato crop?
+OK   | seed=72 | call=3 | judge=PASS | scope_overflow=False | q=How do I use bleaching powder for my potato crops?
+DUPE | seed=72 | call=4 | q=How much bleaching powder should I use for my potato field?
+DUPE | seed=72 | call=5 | q=How much bleaching powder should I use for my potato field?
+DUPE | seed=72 | call=6 | q=How do I use bleaching powder for my potato plants?
+DUPE | seed=72 | call=7 | q=How do I use bleaching powder for my potato crop?
+OK   | seed=72 | call=8 | judge=PASS | scope_overflow=False | q=My potato plants are getting sick, and I heard bleaching pow
+OK   | seed=72 | call=9 | judge=PASS | scope_overflow=False | q=My potato plants are getting sick, what can I do to stop it?
+DUPE | seed=72 | call=10 | q=My potato plants are getting sick, what can I do to stop it?
+DUPE | seed=72 | call=11 | q=My potato plants are getting sick, what can I do to stop it?
+DUPE | seed=72 | call=12 | q=My potato plants are getting sick, what can I do to stop the
+OK   | seed=72 | call=13 | judge=PASS | scope_overflow=False | q=My potato plants are getting sick, and the leaves are turnin
+OK   | seed=73 | call=1 | judge=PASS | scope_overflow=False | q=What is PPFM and how long should I use it for my paddy field
+OK   | seed=73 | call=2 | judge=PASS | scope_overflow=False | q=What is PPFM and how long should it be used for paddy?
+OK   | seed=73 | call=3 | judge=PASS | scope_overflow=False | q=What's PPFM, and when should I spray it on my rice plants?
+OK   | seed=73 | call=4 | judge=PASS | scope_overflow=False | q=How long should I use PPFM on my paddy field, and what's it 
+DUPE | seed=73 | call=5 | q=What is PPFM, and when should I use it for my paddy?
+DUPE | seed=73 | call=6 | q=What is PPFM and how long should I use it for my paddy crop?
+OK   | seed=73 | call=7 | judge=PASS | scope_overflow=False | q=How do I use PPFM in paddy farming and when should I apply i
+OK   | seed=74 | call=1 | judge=PASS | scope_overflow=False | q=My paddy crop is 10 days after transplanting, and I didn't a
+OK   | seed=74 | call=2 | judge=PASS | scope_overflow=False | q=I forgot to put the base fertilizer when I transplanted my p
+OK   | seed=74 | call=3 | judge=PASS | scope_overflow=False | q=I didn’t put the fertilizer when I planted my paddy. What sh
+DUPE | seed=74 | call=4 | q=My paddy crop is 10 days after transplanting, and I didn't p
+OK   | seed=74 | call=5 | judge=PASS | scope_overflow=False | q=Mai paddy ke 10 din baad kya fertilizers dalna chahiye agar 
+DUPE | seed=74 | call=6 | q=Mai paddy ke 10 din baad kya fertilizer lagana chahiye agar 
+OK   | seed=74 | call=7 | judge=PASS | scope_overflow=False | q=What should I do if I missed applying the basal fertilizer f
+OK   | seed=75 | call=1 | judge=PASS | scope_overflow=False | q=How do I manage the nutrients in my wheat field if I don't h
+OK   | seed=75 | call=2 | judge=PASS | scope_overflow=False | q=How do I manage the nutrients in my soil for better wheat gr
+OK   | seed=75 | call=3 | judge=PASS | scope_overflow=False | q=How do I know how much fertilizer to use for my wheat crop?
+OK   | seed=75 | call=4 | judge=PASS | scope_overflow=False | q=What should I do for my wheat field if I don't have a soil t
+OK   | seed=75 | call=5 | judge=PASS | scope_overflow=False | q=How do I manage the nutrients in my wheat field?
+OK   | seed=76 | call=1 | judge=PASS | scope_overflow=False | q=My chilli plants are getting yellow leaves, what's wrong and
+OK   | seed=76 | call=2 | judge=PASS | scope_overflow=False | q=Why are the leaves on my chilli plants turning yellow, and w
+OK   | seed=76 | call=3 | judge=PASS | scope_overflow=False | q=My chilli plants are getting yellow leaves, what could be th
+DUPE | seed=76 | call=4 | q=My chilli plants are getting yellow leaves, what's wrong and
+DUPE | seed=76 | call=5 | q=My chilli plants are getting yellow leaves. What's causing i
+OK   | seed=76 | call=6 | judge=PASS | scope_overflow=False | q=Why are the new leaves on my chilli plants turning yellow bu
+OK   | seed=76 | call=7 | judge=PASS | scope_overflow=False | q=What can I do if my chilli plants are showing yellow leaves?
+OK   | seed=77 | call=1 | judge=PASS | scope_overflow=False | q=My paddy is not growing well, what should I do?
+OK   | seed=77 | call=2 | judge=PASS | scope_overflow=False | q=What can I do to make my paddy grow better and add the right
+OK   | seed=77 | call=3 | judge=PASS | scope_overflow=False | q=What’s the best way to apply zinc and iron to my paddy crop 
+OK   | seed=77 | call=4 | judge=PASS | scope_overflow=False | q=What should I do for my paddy field in Fatehabad to make it 
+DUPE | seed=77 | call=5 | q=What can I do to help my paddy grow better and add the right
+OK   | seed=77 | call=6 | judge=PASS | scope_overflow=False | q=How do I make sure the rice gets enough zinc and iron in Fat
+OK   | seed=78 | call=1 | judge=PASS | scope_overflow=False | q=Which paddy variety is good to grow in Tamil Nadu?
+DUPE | seed=78 | call=2 | q=Which paddy variety is good to grow in Tamil Nadu?
+DUPE | seed=78 | call=3 | q=Which paddy variety is good to grow in Tamil Nadu?
+DUPE | seed=78 | call=4 | q=Which paddy variety is good to grow in Tamil Nadu?
+DUPE | seed=78 | call=5 | q=Which paddy variety is good to grow in Tamil Nadu?
+DUPE | seed=78 | call=6 | q=What paddy variety is good to grow in Tamil Nadu?
+OK   | seed=78 | call=7 | judge=PASS | scope_overflow=False | q=What paddy variety should I grow in Tamil Nadu?
+DUPE | seed=78 | call=8 | q=Which paddy variety is good for growing in Tamil Nadu?
+OK   | seed=78 | call=9 | judge=PASS | scope_overflow=False | q=I've heard about a paddy variety that grows fast and doesn't
+OK   | seed=78 | call=10 | judge=PASS | scope_overflow=False | q=Which paddy variety can I grow in Tamil Nadu that doesn't ge
+DUPE | seed=78 | call=11 | q=Which paddy variety is good for growing in Tamil Nadu?
+OK   | seed=78 | call=12 | judge=PASS | scope_overflow=False | q=Which paddy variety can I grow in Tamil Nadu that gives good
+OK   | seed=79 | call=1 | judge=PASS | scope_overflow=False | q=My moong crop is getting damaged by worms and some sick leav
+OK   | seed=79 | call=2 | judge=PASS | scope_overflow=False | q=My moong plants are getting eaten by bugs and some are turni
+OK   | seed=79 | call=3 | judge=PASS | scope_overflow=False | q=My moong plants have some bugs and a weird fungus, what can 
+OK   | seed=79 | call=4 | judge=PASS | scope_overflow=False | q=My moong plants are getting damaged by worms and some yellow
+DUPE | seed=79 | call=5 | q=My moong plants have bugs and some sick-looking leaves. What
+OK   | seed=79 | call=6 | judge=PASS | scope_overflow=False | q=What can I do if my moong crop has a lot of caterpillars eat
+OK   | seed=80 | call=1 | judge=PASS | scope_overflow=False | q=I heard using city compost can cut down on chemical fertiliz
+OK   | seed=80 | call=2 | judge=PASS | scope_overflow=False | q=Can I use city compost to cut down on chemical fertilizers f
+OK   | seed=80 | call=3 | judge=PASS | scope_overflow=False | q=If I use city compost in my mustard field, can I use less ch
+DUPE | seed=80 | call=4 | q=Can I use less chemical fertilizer if I add compost to my mu
+DUPE | seed=80 | call=5 | q=Can I use city compost to cut down on chemical fertilizers f
+DUPE | seed=80 | call=6 | q=If I use city compost in my mustard field, can I use less ch
+DUPE | seed=80 | call=7 | q=If I use city compost in my mustard field, can I use less ch
+OK   | seed=80 | call=8 | judge=PASS | scope_overflow=False | q=My mustard plants are looking weak, could using city compost
+OK   | seed=80 | call=9 | judge=PASS | scope_overflow=False | q=My mustard plants are looking weak and not growing well, cou
+OK   | seed=81 | call=1 | judge=PASS | scope_overflow=False | q=How do I use this IFFCO NPK Sulphur fertilizer on my paddy c
+OK   | seed=81 | call=2 | judge=PASS | scope_overflow=False | q=How much IFFCO NPK Sulphur Enriched 18-18-18 should I mix in
+OK   | seed=81 | call=3 | judge=PASS | scope_overflow=False | q=How do I use IFFCO NPK Sulphur 18-18-18 as a spray for paddy
+OK   | seed=81 | call=4 | judge=PASS | scope_overflow=False | q=Kya paddy ke khete me IFFCO NPK Sulphur Enriched 18-18-18 ka
+OK   | seed=81 | call=5 | judge=PASS | scope_overflow=False | q=How much IFFCO NPK Sulphur Enriched 18-18-18 should I use fo
+OK   | seed=82 | call=1 | judge=PASS | scope_overflow=False | q=What nutrients do paddy plants take in from the air?
+OK   | seed=82 | call=2 | judge=PASS | scope_overflow=False | q=Do paddy plants take any nutrients from the air they breathe
+OK   | seed=82 | call=3 | judge=PASS | scope_overflow=False | q=Do paddy plants take in any nutrients from the air, and if s
+OK   | seed=82 | call=4 | judge=PASS | scope_overflow=False | q=Are there any nutrients in the air that paddy plants can tak
+DUPE | seed=82 | call=5 | q=Do paddy plants take any nutrients from the air?
+DUPE | seed=82 | call=6 | q=Do paddy plants take any nutrients from the air they breathe
+DUPE | seed=82 | call=7 | q=Can paddy plants get any nutrients from the air, and if so, 
+OK   | seed=82 | call=8 | judge=PASS | scope_overflow=False | q=Why are my paddy plants not growing well even though I don't
+OK   | seed=83 | call=1 | judge=PASS | scope_overflow=False | q=I think there are some bugs on my wheat plants, but I'm not 
+DUPE | seed=83 | call=2 | q=I think there are some bugs eating my wheat, but I'm not sur
+OK   | seed=83 | call=3 | judge=PASS | scope_overflow=False | q=Is there a problem with plant hoppers in my wheat field?
+OK   | seed=83 | call=4 | judge=PASS | scope_overflow=False | q=Mai khet mein jhooliyan kyun aarhi hain aur unse kaise rok s
+OK   | seed=83 | call=5 | judge=PASS | scope_overflow=False | q=My wheat field has some bugs, could they be plant hoppers?
+OK   | seed=83 | call=6 | judge=PASS | scope_overflow=False | q=I think there are some bugs in my wheat field, but I'm not s
+OK   | seed=84 | call=1 | judge=PASS | scope_overflow=False | q=What are the best berseem varieties for growing fodder, and 
+DUPE | seed=84 | call=2 | q=Which berseem varieties are best for growing fodder, and wha
+OK   | seed=84 | call=3 | judge=PASS | scope_overflow=False | q=Which berseem varieties are good for growing fodder and what
+DUPE | seed=84 | call=4 | q=Which berseem varieties are best for growing fodder and what
+DUPE | seed=84 | call=5 | q=Which berseem varieties are best for growing fodder, and wha
+OK   | seed=84 | call=6 | judge=PASS | scope_overflow=False | q=Which berseem varieties are good for making fodder, and what
+JUDGE_RETRY | seed=84 | retry=1/3 | conf=high | scope_overflow=False | issues=["The GENERATED ANSWER claims that BL 42 has 'better nutrition for livestock' without explicitly stating this in the SEED ANSWER. The seed mentions 'superior nutritional quality' for BL 44 and BL 42 but does not directly compare them in terms of livestock nutrition.", "The GENERATED ANSWER adds the claim that 'BL 42 and BL 44 have better nutrition for livestock' which is not explicitly stated in the SEED ANSWER."] | q=Which barseem varieties give the best green fodder yield and
+OK   | seed=84 | call=8 | judge=PASS | scope_overflow=False | q=What berseem variety grows fast and gives good fodder?
+OK   | seed=84 | call=9 | judge=PASS | scope_overflow=False | q=What's the best berseem variety to grow if I want lots of gr
+OK   | seed=85 | call=1 | judge=PASS | scope_overflow=False | q=How much Kresoxim-Methyl 443 SC should I use for my potato c
+DUPE | seed=85 | call=2 | q=How much Kresoxim-Methyl 443 SC should I use for my potato f
+DUPE | seed=85 | call=3 | q=How much Kresoxim-Methyl 443 SC should I use for my potato f
+JUDGE_RETRY | seed=85 | retry=1/3 | conf=high | scope_overflow=False | issues=["The GENERATED ANSWER includes the statement 'Yeh aam taur par aloo me pahale blight aur aakhri blight ke liye istemal kiya jata hai.' which is present in the SEED ANSWER, but the statement 'Yeh pani me 200-300 liter me 600 g bhi istemal kiya ja sakta hai.' introduces a new fact not present in the SEED ANSWER. The SEED ANSWER mentions 600 g per acre in 200-300 liters of water, but it is associated with a different fungicide (Cymoxanil 8% + Mancozeb 64% WP), not Kresoxim-methyl 44.3% SC."] | q=Kresoxim-Methyl 443 SC ke kis dos ki zaroorat hoti hai?
+OK   | seed=85 | call=5 | judge=PASS | scope_overflow=False | q=How much Kresoxim-Methyl 443 SC should I use for my potato f
+OK   | seed=85 | call=6 | judge=PASS | scope_overflow=False | q=Kresoxim-Methyl 443 SC ka kya dawa hai? Kya karna padega?
+DUPE | seed=85 | call=7 | q=How much Kresoxim-Methyl 443 SC should I use for my potato f
+OK   | seed=85 | call=8 | judge=PASS | scope_overflow=False | q=My potato plants have yellow spots on the leaves, what can I
+OK   | seed=85 | call=9 | judge=PASS | scope_overflow=False | q=My potato plants are getting some kind of leaf disease, what
+OK   | seed=86 | call=1 | judge=PASS | scope_overflow=False | q=My maize plants are not growing well, and the new leaves loo
+DUPE | seed=86 | call=2 | q=My maize plants are not growing well, and the leaves look we
+DUPE | seed=86 | call=3 | q=My maize plants are not growing well, and the new leaves loo
+DUPE | seed=86 | call=4 | q=My maize plants are not growing strong, and the new leaves l
+OK   | seed=86 | call=5 | judge=PASS | scope_overflow=False | q=My maize plants are not growing well, and the new leaves loo
+DUPE | seed=86 | call=6 | q=My maize plants are not growing well, and the new leaves loo
+OK   | seed=86 | call=7 | judge=PASS | scope_overflow=False | q=What should I do if my maize is suffering from calcium defic
+OK   | seed=86 | call=8 | judge=PASS | scope_overflow=False | q=My maize plants have weak stems and curled leaves, what's wr
+OK   | seed=86 | call=9 | judge=PASS | scope_overflow=False | q=My maize plants have weak stems and the new leaves are curli
+OK   | seed=87 | call=1 | judge=PASS | scope_overflow=False | q=I'm growing wheat and the leaves are turning yellow. How muc
+OK   | seed=87 | call=2 | judge=PASS | scope_overflow=False | q=How much zinc should I spray on my wheat crop?
+OK   | seed=87 | call=3 | judge=PASS | scope_overflow=False | q=How much zinc sulphate should I mix with urea for spraying o
+OK   | seed=87 | call=4 | judge=PASS | scope_overflow=False | q=How much zinc should I spray on my wheat field if the leaves
+DUPE | seed=87 | call=5 | q=How much zinc should I spray on my wheat crop?
+DUPE | seed=87 | call=6 | q=How much zinc sulphate should I spray on my wheat if the lea
+OK   | seed=87 | call=7 | judge=PASS | scope_overflow=False | q=How do I make a spray for zinc deficiency in my wheat crop?
+OK   | seed=88 | call=1 | judge=PASS | scope_overflow=False | q=What potato varieties should I grow, when should I plant the
+DUPE | seed=88 | call=2 | q=What potato types should I grow, when should I plant them, a
+OK   | seed=88 | call=3 | judge=PASS | scope_overflow=False | q=Which potato types are best to grow and when should I plant 
+OK   | seed=88 | call=4 | judge=PASS | scope_overflow=False | q=Which potato varieties are best for growing, when should I p
+DUPE | seed=88 | call=5 | q=Which potato types should I plant, when should I sow them, a
+OK   | seed=88 | call=6 | judge=PASS | scope_overflow=False | q=Which potato varieties are good for growing and when should 
+OK   | seed=88 | call=7 | judge=PASS | scope_overflow=False | q=What's the best way to fertilize my potato crop and when sho
+OK   | seed=89 | call=1 | judge=PASS | scope_overflow=False | q=My maize plants are getting damaged, and I think it's becaus
+OK   | seed=89 | call=2 | judge=PASS | scope_overflow=False | q=My maize crop is getting damaged by some bugs, what can I do
+DUPE | seed=89 | call=3 | q=My maize plants are getting damaged, and I think it's becaus
+JUDGE_RETRY | seed=89 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer includes 'neem ka tel ya jangali daba' (neem oil and wild paste) which are not mentioned in the seed answer.", "The generated answer includes 'khalisa kare' (contact an expert) which is not explicitly mentioned in the seed answer."] | q=Mai kharif me maize kholo me pyrilla ki aayi hai, kya karo?
+OK   | seed=89 | call=5 | judge=PASS | scope_overflow=False | q=My maize plants are getting damaged, what could be the probl
+OK   | seed=89 | call=6 | judge=PASS | scope_overflow=False | q=My maize plants have some small bugs on them, what can I do?
+OK   | seed=89 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to stop pyrilla from hurting my maize?
+OK   | seed=90 | call=1 | judge=PASS | scope_overflow=False | q=I'm planning to sow wheat, but I'm not sure when to start. W
+OK   | seed=90 | call=2 | judge=PASS | scope_overflow=False | q=When should I plant my wheat in Haryana, and what if I plant
+JUDGE_RETRY | seed=90 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer introduces new claims not present in the seed answer, such as 'khus kadam ki zaroorat nahi hoti' (no need for a specific step) and 'khus kadam ki zaroorat nahi hoti, lekin aapko apne khet mein koi khas dhoondh ya koshish karna hota hai' (you don't need a specific step, but you need to do some specific weeding or effort). These claims are not mentioned or implied in the seed answer.", "The generated answer contains information that is not grounded in the seed answer, such as the idea that 'dhoondh' (weeding) involves removing bad or wrong places, which is not discussed in the seed answer."] | q=Kya koi khus kadam ki zaroorat hai jab main dhoondh raha hoo
+JUDGE_RETRY | seed=90 | retry=2/3 | conf=high | scope_overflow=False | issues=["The generated answer mentions 'chawal' (rice) while the seed answer is about 'wheat' (gandum), which is a significant scope mismatch.", "The generated answer contains claims not present in the seed answer, such as 'bina paani ke kheta me 2-3 baar chashma lagana chahiye' (irrigate 2-3 times in dry fields), which is not mentioned in the seed answer."] | q=Mai kisan ko pata kaise kare ki mere chawal ka boondh kab ka
+OK   | seed=90 | call=5 | judge=PASS | scope_overflow=False | q=When should I sow wheat in Haryana, and what if I wait too l
+JUDGE_RETRY | seed=90 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer contains claims not present in the seed answer, such as 'kuch kam logon ke bajar me kuch kharaab ho sakta hai' (some people's sowing can go wrong) and 'gale me seed rok sakte hain' (some people keep seeds in the mouth). These are not mentioned in the seed answer.", "The generated answer introduces new information about seed depth (5-6 cm) without explicitly referencing the seed answer's recommendation of 5-6 cm depth for sowing, which is present in the seed answer but not properly attributed."] | q=Mai kharif chawal ki bajar me kya kuch kharaab ho sakta hai?
+OK   | seed=90 | call=7 | judge=PASS | scope_overflow=False | q=What should I do if termites are damaging my wheat seeds aft
+OK   | seed=90 | call=8 | judge=PASS | scope_overflow=False | q=My wheat seeds aren't sprouting, what could be the problem?
+OK   | seed=91 | call=1 | judge=PASS | scope_overflow=False | q=Where is the Skill Development Centre of PAU located?
+DUPE | seed=91 | call=2 | q=Where is the Skill Development Centre of PAU located?
+DUPE | seed=91 | call=3 | q=Where is the skill development center of PAU located?
+DUPE | seed=91 | call=4 | q=Where is the skill development centre of PAU located?
+DUPE | seed=91 | call=5 | q=Where is the skill development centre of PAU located?
+DUPE | seed=91 | call=6 | q=Where exactly is the skill development centre at PAU located
+DUPE | seed=91 | call=7 | q=Where is the Skill Development Centre of PAU located?
+OK   | seed=92 | call=1 | judge=PASS | scope_overflow=False | q=My maize plants are looking weak, and the new leaves are tur
+DUPE | seed=92 | call=2 | q=My maize plants are looking sick, and the new leaves are all
+OK   | seed=92 | call=3 | judge=PASS | scope_overflow=False | q=My maize plants are getting white leaves, what could be the 
+DUPE | seed=92 | call=4 | q=My maize plants are looking weak and the new leaves are all 
+OK   | seed=92 | call=5 | judge=PASS | scope_overflow=False | q=My maize plants have white leaves, what's going on?
+DUPE | seed=92 | call=6 | q=My maize plants have white leaves, what's causing that?
+OK   | seed=92 | call=7 | judge=PASS | scope_overflow=False | q=What can I do if my maize plants have white leaves?
+OK   | seed=92 | call=8 | judge=PASS | scope_overflow=False | q=My maize plants have leaves that look pale and not green, wh
+OK   | seed=93 | call=1 | judge=PASS | scope_overflow=False | q=My maize plants are not growing well, and the leaves are tur
+DUPE | seed=93 | call=2 | q=My maize plants are not growing well, and the older leaves a
+OK   | seed=93 | call=3 | judge=PASS | scope_overflow=False | q=My maize plants are growing slowly and the older leaves are 
+OK   | seed=93 | call=4 | judge=PASS | scope_overflow=False | q=My maize plants are growing really slow and the leaves look 
+DUPE | seed=93 | call=5 | q=My maize plants are not growing well and the leaves are turn
+OK   | seed=93 | call=6 | judge=PASS | scope_overflow=False | q=My maize plants are growing slowly and the older leaves have
+OK   | seed=93 | call=7 | judge=PASS | scope_overflow=False | q=How do I fix phosphorus deficiency in my maize crop?
+OK   | seed=94 | call=1 | judge=PASS | scope_overflow=False | q=Where can I get books and publications from PAU?
+DUPE | seed=94 | call=2 | q=Where can I get books and publications from PAU?
+DUPE | seed=94 | call=3 | q=Where can I get books and publications from PAU?
+DUPE | seed=94 | call=4 | q=Where can I get books and publications from PAU?
+DUPE | seed=94 | call=5 | q=Where can I get books and publications from PAU?
+DUPE | seed=94 | call=6 | q=Where can I get books or publications from PAU?
+DUPE | seed=94 | call=7 | q=Where do I get books and publications from PAU?
+OK   | seed=95 | call=1 | judge=PASS | scope_overflow=False | q=Can I mix Imidacloprid and SAAF when spraying paddy?
+OK   | seed=95 | call=2 | judge=PASS | scope_overflow=False | q=Can I mix Imidacloprid with SAAF for paddy, or will it cause
+OK   | seed=95 | call=3 | judge=PASS | scope_overflow=False | q=Can I mix imidacloprid with a fungicide that has carbendazim
+DUPE | seed=95 | call=4 | q=Can I mix Imidacloprid and SAAF when I'm spraying my paddy f
+OK   | seed=95 | call=5 | judge=PASS | scope_overflow=False | q=Can I mix Imidacloprid and SAAF in the same spray for paddy?
+DUPE | seed=95 | call=6 | q=Can I mix Imidacloprid and SAAF in the same spray for paddy?
+DUPE | seed=95 | call=7 | q=Can I mix Imidacloprid and SAAF in one spray for paddy?
+OK   | seed=95 | call=8 | judge=PASS | scope_overflow=False | q=My paddy plants have yellow spots on the leaves, what can I 
+OK   | seed=96 | call=1 | judge=PASS | scope_overflow=False | q=I want to plant Raya late, but I'm not sure which varieties 
+OK   | seed=96 | call=2 | judge=PASS | scope_overflow=False | q=Are there any Raya varieties that can be sown late without l
+OK   | seed=96 | call=3 | judge=PASS | scope_overflow=False | q=Which Raya varieties are good to plant if I sow late?
+OK   | seed=96 | call=4 | judge=PASS | scope_overflow=False | q=What if I plant Raya late in November? Will it still grow we
+OK   | seed=96 | call=5 | judge=PASS | scope_overflow=False | q=Which Raya varieties are good for late sowing?
+OK   | seed=97 | call=1 | judge=PASS | scope_overflow=False | q=Is there a wheat variety that does well in Uttar Pradesh and
+OK   | seed=97 | call=2 | judge=PASS | scope_overflow=False | q=Is PBW 343 a good wheat variety to grow in Uttar Pradesh?
+OK   | seed=97 | call=3 | judge=PASS | scope_overflow=False | q=Is PBW 343 a good wheat variety for farmers in Siddharth Nag
+OK   | seed=97 | call=4 | judge=PASS | scope_overflow=False | q=Is PBW 343 a good wheat variety to grow in my field in Siddh
+DUPE | seed=97 | call=5 | q=Is PBW 343 a good wheat variety to grow in UP?
+OK   | seed=97 | call=6 | judge=PASS | scope_overflow=False | q=How tall does the PBW 343 wheat plant grow, and why is that 
+OK   | seed=98 | call=1 | judge=PASS | scope_overflow=False | q=I've heard about this rice called CORH 4. Can you tell me mo
+OK   | seed=98 | call=2 | judge=PASS | scope_overflow=False | q=I heard about CORH 4 rice, but I don't know much about it. C
+OK   | seed=98 | call=3 | judge=PASS | scope_overflow=False | q=Is CORH 4 a good rice variety to grow in Tamil Nadu, and wha
+OK   | seed=98 | call=4 | judge=PASS | scope_overflow=False | q=I heard about CORH 4 rice. Is it good for my farm? What shou
+OK   | seed=98 | call=5 | judge=PASS | scope_overflow=False | q=What's special about the CORH 4 rice, and how do I grow it?
+OK   | seed=99 | call=1 | judge=PASS | scope_overflow=False | q=Where can I find the contact number for the agricultural off
+SKIP | seed=99 | call=2 | (null or filter)
+SKIP | seed=99 | call=3 | (null or filter)
+OK   | seed=99 | call=4 | judge=PASS | scope_overflow=False | q=Kya koi aise number hain jo main kisi khet mein kuch problem
+SKIP | seed=99 | call=5 | (null or filter)
+OK   | seed=99 | call=6 | judge=PASS | scope_overflow=False | q=Kya koi number hai Chief Agricultural Officer ke liye Muktsa
+OK   | seed=99 | call=7 | judge=PASS | scope_overflow=False | q=How can I get in touch with the Chief Agricultural Officer i
+OK   | seed=99 | call=8 | judge=PASS | scope_overflow=False | q=Kya koi aisa number hai jo main kisi kheti ke sawal ke liye 
+OK   | seed=100 | call=1 | judge=PASS | scope_overflow=False | q=I’ve heard about this new wheat variety called PBW 1 Zn. Wha
+OK   | seed=100 | call=2 | judge=PASS | scope_overflow=False | q=What's special about the PBW 1 Zn wheat variety and how does
+OK   | seed=100 | call=3 | judge=PASS | scope_overflow=False | q=How much zinc does PBW 1 Zn wheat have, and what are its ben
+OK   | seed=100 | call=4 | judge=PASS | scope_overflow=False | q=Is PBW 1 Zn a good wheat variety to grow in my field?
+OK   | seed=100 | call=5 | judge=PASS | scope_overflow=False | q=What's special about the PBW 1 Zn wheat variety?
+OK   | seed=101 | call=1 | judge=PASS | scope_overflow=False | q=My citrus trees are getting sick, what can I do?
+DUPE | seed=101 | call=2 | q=My citrus trees are getting sick, what can I do?
+DUPE | seed=101 | call=3 | q=My citrus trees in Punjab are getting sick, what can I do?
+OK   | seed=101 | call=4 | judge=PASS | scope_overflow=False | q=My citrus trees in Punjab are looking sick, what could be wr
+DUPE | seed=101 | call=5 | q=My citrus trees in Punjab are getting sick. What can I do?
+OK   | seed=101 | call=6 | judge=PASS | scope_overflow=False | q=Mai Kinnow ke pahle khoob chhutte hain, kya karna chahiye?
+OK   | seed=101 | call=7 | judge=PASS | scope_overflow=False | q=What should I do if my citrus trees are getting sick with gu
+OK   | seed=101 | call=8 | judge=PASS | scope_overflow=False | q=My citrus trees have sticky stuff on the leaves, what can I 
+OK   | seed=102 | call=1 | judge=PASS | scope_overflow=False | q=What’s the deal with HI 8713 and GW 513 wheat varieties? I’v
+OK   | seed=102 | call=2 | judge=PASS | scope_overflow=False | q=What's the deal with HI 8713 and GW 513 wheat varieties?
+DUPE | seed=102 | call=3 | q=What's the difference between HI 8713 and GW 513 wheat varie
+OK   | seed=102 | call=4 | judge=PASS | scope_overflow=False | q=Which wheat varieties are good for growing in Madhya Pradesh
+DUPE | seed=102 | call=5 | q=What's the deal with HI 8713 and GW 513 wheat varieties?
+OK   | seed=102 | call=6 | judge=PASS | scope_overflow=False | q=What are the irrigation needs for HI 8713 wheat?
+OK   | seed=102 | call=7 | judge=PASS | scope_overflow=False | q=What are the key features of HI 8713 and GW 513 wheat variet
+OK   | seed=103 | call=1 | judge=PASS | scope_overflow=False | q=I heard about a wheat variety called Kisan-444, but I'm not 
+OK   | seed=103 | call=2 | judge=PASS | scope_overflow=False | q=Is Kisan-444 a good wheat variety to grow in Uttar Pradesh?
+DUPE | seed=103 | call=3 | q=Is Kisan-444 a good wheat variety to grow in Uttar Pradesh?
+JUDGE_RETRY | seed=103 | retry=1/3 | conf=high | scope_overflow=False | issues=["The GENERATED ANSWER claims that Kisan-444 is not a government-registered wheat variety, but the SEED ANSWER only states that it is a private company-developed variety not registered with the Government of India. The term 'government-registered' is not explicitly used in the SEED ANSWER, so this is a paraphrasing that may misrepresent the original statement.", 'The GENERATED ANSWER recommends specific varieties (K-8027, K-8962, K-9465, K-9351, UP-2382, K-9107, PBW-343) without explicitly stating that these are the only ones recommended, which could imply they are the best options, while the SEED ANSWER only provides a list of recommended varieties without making such a claim.'] | q=Is Kisan-444 a good wheat seed to plant in my field?
+OK   | seed=103 | call=5 | judge=PASS | scope_overflow=False | q=Is Kisan-444 a good wheat variety to grow?
+DUPE | seed=103 | call=6 | q=Is Kisan-444 a good wheat variety to grow in Uttar Pradesh?
+OK   | seed=103 | call=7 | judge=PASS | scope_overflow=False | q=What are the best wheat varieties to grow in Uttar Pradesh, 
+OK   | seed=103 | call=8 | judge=PASS | scope_overflow=False | q=Kisan-444 kya khas faida de sakta hai, ya kya kuch kharaab b
+OK   | seed=104 | call=1 | judge=PASS | scope_overflow=False | q=What are the types of early-sowing rice that have fine grain
+OK   | seed=104 | call=2 | judge=PASS | scope_overflow=False | q=Which types of early paddy can I grow in UP that have fine g
+OK   | seed=104 | call=3 | judge=PASS | scope_overflow=False | q=Which paddy varieties are good for growing early in Uttar Pr
+OK   | seed=104 | call=4 | judge=PASS | scope_overflow=False | q=Which early rice varieties can I grow in UP that give good y
+DUPE | seed=104 | call=5 | q=Which paddy varieties are good for growing early in Uttar Pr
+OK   | seed=104 | call=6 | judge=PASS | scope_overflow=False | q=Are there any paddy varieties that are both early and have f
+OK   | seed=105 | call=1 | judge=PASS | scope_overflow=False | q=My paddy nursery is getting damaged at night, what's causing
+OK   | seed=105 | call=2 | judge=PASS | scope_overflow=False | q=My paddy nursery is getting destroyed by wild pigs, what can
+DUPE | seed=105 | call=3 | q=My paddy nursery is getting damaged at night, what could be 
+OK   | seed=105 | call=4 | judge=PASS | scope_overflow=False | q=My paddy nursery gets ruined every night, what can I do?
+DUPE | seed=105 | call=5 | q=My paddy nursery is getting destroyed by wild pigs. What can
+OK   | seed=105 | call=6 | judge=PASS | scope_overflow=False | q=My paddy nursery is getting messed up at night, what's going
+OK   | seed=105 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to stop wild boars from hurting my paddy nurse
+OK   | seed=106 | call=1 | judge=PASS | scope_overflow=False | q=I heard about using carbon powder in my paddy field. What's 
+OK   | seed=106 | call=2 | judge=PASS | scope_overflow=False | q=How does using carbon powder help my paddy, and how should I
+OK   | seed=106 | call=3 | judge=PASS | scope_overflow=False | q=How can I use biochar in my paddy field, and what are the go
+DUPE | seed=106 | call=4 | q=How can I use biochar in my paddy field, and what are the go
+OK   | seed=106 | call=5 | judge=PASS | scope_overflow=False | q=How can I use carbon powder in my paddy field and what are t
+OK   | seed=106 | call=6 | judge=PASS | scope_overflow=False | q=How do I mix carbon powder with farmyard manure for paddy fi
+OK   | seed=107 | call=1 | judge=PASS | scope_overflow=False | q=My cow's feet are getting really bad, and she's not walking 
+OK   | seed=107 | call=2 | judge=PASS | scope_overflow=False | q=ਮੇਰੀਆਂ ਗਊਆਂ ਦੇ ਪੈਰ ਖਰਾਬ ਹੋ ਗਏ ਹਨ, ਕੀ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ?
+OK   | seed=107 | call=3 | judge=PASS | scope_overflow=False | q=My cow's feet are getting really sore, what can I do?
+JUDGE_RETRY | seed=107 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer introduces new claims not present in the seed answer, such as 'paani ki kheer mein kuch kum aasman ya zink sulfa ka pani dal do' (adding a small amount of copper or zinc sulfate to water), which is not mentioned in the seed answer.", "The generated answer mentions 'khamira aur kachra ka istemal karein' (use of manure and garbage), which is not part of the seed answer's recommendations."] | q=Kya koi aisa kamaal hota hai jo kharab kalam ki wajah se gal
+OK   | seed=107 | call=5 | judge=PASS | scope_overflow=False | q=ਮੇਰੇ ਗਊ ਦੇ ਪੈਰਾਂ ਵਿੱਚ ਦੁੱਖ ਹੋ ਰਿਹਾ ਹੈ, ਕੀ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ?
+DUPE | seed=107 | call=6 | q=ਮੇਰੇ ਗਊ ਦੇ ਪੈਰ ਕਿਉਂ ਖੁਰ ਰਹੇ ਹਨ? ਕੀ ਕੀ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ?
+OK   | seed=107 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to help my animals recover from foot-and-mouth
+OK   | seed=108 | call=1 | judge=PASS | scope_overflow=False | q=I just planted my onions, and I'm not sure what to do about 
+OK   | seed=108 | call=2 | judge=PASS | scope_overflow=False | q=I planted my onions a while back, and I need to know which h
+OK   | seed=108 | call=3 | judge=PASS | scope_overflow=False | q=What's the best way to get rid of weeds after I plant my oni
+OK   | seed=108 | call=4 | judge=PASS | scope_overflow=False | q=I planted my onion seeds a while back, and I'm trying to fig
+OK   | seed=108 | call=5 | judge=PASS | scope_overflow=False | q=What weed killer can I use after planting onions, and how do
+OK   | seed=109 | call=1 | judge=PASS | scope_overflow=False | q=Which Indian mustard varieties can I grow in Punjab if I don
+OK   | seed=109 | call=2 | judge=PASS | scope_overflow=False | q=Which types of Raya are good to grow in dry areas of Punjab?
+OK   | seed=109 | call=3 | judge=PASS | scope_overflow=False | q=Which Raya varieties are good for growing in Punjab when the
+DUPE | seed=109 | call=4 | q=Which Raya varieties are good for growing in dry areas of Pu
+OK   | seed=109 | call=5 | judge=PASS | scope_overflow=False | q=Which Indian mustard varieties work best in dry areas of Pun
+OK   | seed=109 | call=6 | judge=PASS | scope_overflow=False | q=Are there any Raya varieties that grow well in dry areas of 
+OK   | seed=110 | call=1 | judge=PASS | scope_overflow=False | q=My paddy field is losing a lot of water, and I think the nut
+OK   | seed=110 | call=2 | judge=PASS | scope_overflow=False | q=My paddy field is losing too much water, what can I do?
+DUPE | seed=110 | call=3 | q=My paddy field is losing a lot of water, and I'm worried abo
+DUPE | seed=110 | call=4 | q=My paddy field is losing a lot of water, and I think it's wa
+DUPE | seed=110 | call=5 | q=My paddy field is losing a lot of water, what can I do?
+DUPE | seed=110 | call=6 | q=My paddy field is losing too much water, what can I do?
+OK   | seed=110 | call=7 | judge=PASS | scope_overflow=False | q=How can I stop water from washing away nutrients in my paddy
+OK   | seed=110 | call=8 | judge=PASS | scope_overflow=False | q=My paddy field is losing a lot of water quickly, what can I 
+DUPE | seed=110 | call=9 | q=My paddy field is losing a lot of water quickly, what can I 
+DUPE | seed=110 | call=10 | q=My paddy field is losing a lot of water quickly, what can I 
+DUPE | seed=110 | call=11 | q=My paddy field is losing a lot of water quickly, what can I 
+DUPE | seed=110 | call=12 | q=My paddy fields are losing a lot of water quickly, what can 
+DUPE | seed=110 | call=13 | q=My paddy field is losing a lot of water quickly, what can I 
+DUPE | seed=110 | call=14 | q=My paddy field is losing a lot of water quickly, what can I 
+OK   | seed=111 | call=1 | judge=PASS | scope_overflow=False | q=What's the deal with this HUW-533 wheat variety? I've heard 
+OK   | seed=111 | call=2 | judge=PASS | scope_overflow=False | q=What's the best way to grow HUW-533 wheat, and when should I
+OK   | seed=111 | call=3 | judge=PASS | scope_overflow=False | q=How much fertilizer should I use for HUW-533 wheat, and when
+OK   | seed=111 | call=4 | judge=PASS | scope_overflow=False | q=What's the best time to plant HUW-533 wheat and how much wat
+OK   | seed=111 | call=5 | judge=PASS | scope_overflow=False | q=What's special about HUW-533 wheat and how do I grow it?
+OK   | seed=112 | call=1 | judge=PASS | scope_overflow=False | q=My wheat field is getting attacked by birds, what can I do?
+DUPE | seed=112 | call=2 | q=My wheat field is getting attacked by birds, what can I do?
+DUPE | seed=112 | call=3 | q=My wheat field is getting attacked by birds, what can I do t
+OK   | seed=112 | call=4 | judge=PASS | scope_overflow=False | q=How can I keep birds from eating my wheat when it's almost r
+DUPE | seed=112 | call=5 | q=My wheat field is getting attacked by birds, what can I do?
+DUPE | seed=112 | call=6 | q=What can I do to stop birds from eating my wheat when it's a
+OK   | seed=112 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to keep birds away from my wheat field?
+DUPE | seed=112 | call=8 | q=My wheat crops are getting pecked by birds, what can I do?
+DUPE | seed=112 | call=9 | q=My wheat plants are getting pecked by birds, what can I do?
+DUPE | seed=112 | call=10 | q=My wheat crop is getting pecked by birds, what can I do?
+DUPE | seed=112 | call=11 | q=My wheat is getting pecked by birds, what can I do?
+DUPE | seed=112 | call=12 | q=My wheat is getting pecked by birds, what can I do?
+DUPE | seed=112 | call=13 | q=My wheat crop is getting pecked by birds, what can I do?
+OK   | seed=113 | call=1 | judge=PASS | scope_overflow=False | q=My field is getting too wet, and I'm worried about my wheat.
+OK   | seed=113 | call=2 | judge=PASS | scope_overflow=False | q=My field is getting too wet, what can I do?
+DUPE | seed=113 | call=3 | q=My field is getting too wet, what can I do to fix it?
+OK   | seed=113 | call=4 | judge=PASS | scope_overflow=False | q=My field gets too wet after heavy rain, what can I do?
+DUPE | seed=113 | call=5 | q=My field gets too wet, what can I do?
+DUPE | seed=113 | call=6 | q=My field gets too wet after rain, what can I do to fix it?
+OK   | seed=113 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to fix waterlogged fields quickly?
+OK   | seed=113 | call=8 | judge=PASS | scope_overflow=False | q=My wheat field is getting too wet, and the plants are lookin
+OK   | seed=114 | call=1 | judge=PASS | scope_overflow=False | q=When should I put lime in my potato field?
+DUPE | seed=114 | call=2 | q=When should I add lime to my potato field?
+OK   | seed=114 | call=3 | judge=PASS | scope_overflow=False | q=How long should I wait after applying lime before planting p
+OK   | seed=114 | call=4 | judge=PASS | scope_overflow=False | q=Kya mera khet me lime lagane ka samay kya hai jaise ki aam p
+DUPE | seed=114 | call=5 | q=When should I put lime on my potato field?
+OK   | seed=114 | call=6 | judge=PASS | scope_overflow=False | q=Kya maine pottato ki seed mein lime lagane ka samay galat ka
+OK   | seed=114 | call=7 | judge=PASS | scope_overflow=False | q=How much lime should I use for my potato field?
+OK   | seed=115 | call=1 | judge=PASS | scope_overflow=False | q=I'm growing berseem, but I'm not sure if I need any growth r
+OK   | seed=115 | call=2 | judge=PASS | scope_overflow=False | q=I heard that berseem needs some special stuff to grow better
+OK   | seed=115 | call=3 | judge=PASS | scope_overflow=False | q=Is there a need to use any growth regulators for my berseem 
+DUPE | seed=115 | call=4 | q=I'm growing berseem, but I'm not sure if I need to use any g
+DUPE | seed=115 | call=5 | q=Do I need to use any growth regulators for my berseem crop?
+OK   | seed=115 | call=6 | judge=PASS | scope_overflow=False | q=Is there any special spray I need to use on my berseem crop 
+OK   | seed=115 | call=7 | judge=PASS | scope_overflow=False | q=What should I do to get more yield from my berseem crop?
+OK   | seed=116 | call=1 | judge=PASS | scope_overflow=False | q=How do I use SPIC Keerthi fertilizer for my paddy crop?
+DUPE | seed=116 | call=2 | q=How should I use SPIC Keerthi fertilizer for my paddy field?
+OK   | seed=116 | call=3 | judge=PASS | scope_overflow=False | q=How should I use SPIC Keerthi fertilizer in my paddy field?
+DUPE | seed=116 | call=4 | q=How do I use SPIC Keerthi fertilizer for my paddy field?
+DUPE | seed=116 | call=5 | q=How do I use SPIC Keerthi fertilizer for my paddy field?
+DUPE | seed=116 | call=6 | q=How much SPIC Keerthi should I use for my paddy field?
+DUPE | seed=116 | call=7 | q=How do I use SPIC Keerthi fertilizer for paddy?
+OK   | seed=116 | call=8 | judge=PASS | scope_overflow=False | q=My paddy plants are looking weak and not growing well, what 
+DUPE | seed=116 | call=9 | q=My paddy plants are looking weak and not growing well, what 
+OK   | seed=116 | call=10 | judge=PASS | scope_overflow=False | q=My paddy plants are not growing strong, what can I do?
+DUPE | seed=116 | call=11 | q=My paddy plants are not growing well, what can I do?
+DUPE | seed=116 | call=12 | q=My paddy crops are not growing well, what can I do?
+DUPE | seed=116 | call=13 | q=My paddy plants are looking weak and not growing well, what 
+OK   | seed=116 | call=14 | judge=PASS | scope_overflow=False | q=Mai paddy ke pahle kyun pata nahi kyun chhota ho raha hai, k
+OK   | seed=117 | call=1 | judge=PASS | scope_overflow=False | q=My cotton plants are getting damaged, and I think it's a typ
+OK   | seed=117 | call=2 | judge=PASS | scope_overflow=False | q=I'm seeing some bugs on my cotton plants, what could they be
+OK   | seed=117 | call=3 | judge=PASS | scope_overflow=False | q=What are the signs of weevil damage in my cotton plants and 
+OK   | seed=117 | call=4 | judge=PASS | scope_overflow=False | q=I saw some bugs on my cotton plants, what should I do?
+OK   | seed=117 | call=5 | judge=PASS | scope_overflow=False | q=My cotton plants are getting damaged, what could be the prob
+OK   | seed=118 | call=1 | judge=PASS | scope_overflow=False | q=My fodder maize is just 10-15 days old, and I'm worried abou
+OK   | seed=118 | call=2 | judge=PASS | scope_overflow=False | q=What can I do to stop the bugs from hurting my new maize cro
+OK   | seed=118 | call=3 | judge=PASS | scope_overflow=False | q=What can I do if my young maize plants are getting eaten by 
+OK   | seed=118 | call=4 | judge=PASS | scope_overflow=False | q=My maize plants are just starting to grow, what can I do to 
+OK   | seed=118 | call=5 | judge=PASS | scope_overflow=False | q=What can I do to stop insects from hurting my young maize cr
+OK   | seed=119 | call=1 | judge=PASS | scope_overflow=False | q=My potato plants are getting brown spots on the leaves, what
+DUPE | seed=119 | call=2 | q=My potato plants are getting brown spots on the leaves, what
+DUPE | seed=119 | call=3 | q=My potato plants have brown spots on the leaves, what can I 
+DUPE | seed=119 | call=4 | q=My potato plants are getting brown spots on the leaves, what
+DUPE | seed=119 | call=5 | q=My potato plants have brown spots on the leaves, what can I 
+OK   | seed=119 | call=6 | judge=PASS | scope_overflow=False | q=What does the early blight on my potato plants look like?
+OK   | seed=119 | call=7 | judge=PASS | scope_overflow=False | q=What should I do to stop my potato plants from getting early
+DUPE | seed=119 | call=8 | q=My potato plants have brown spots on the leaves, what can I 
+OK   | seed=119 | call=9 | judge=PASS | scope_overflow=False | q=My potato leaves have brown spots and look dry, what can I d
+OK   | seed=119 | call=10 | judge=PASS | scope_overflow=False | q=My potato leaves have brown spots that look like bulls' eyes
+OK   | seed=120 | call=1 | judge=PASS | scope_overflow=False | q=My paddy plants have yellowish lines on the leaves, and some
+OK   | seed=120 | call=2 | judge=PASS | scope_overflow=False | q=My paddy plants are getting yellow spots on the leaves, what
+DUPE | seed=120 | call=3 | q=My paddy plants are getting sick, and the leaves are turning
+DUPE | seed=120 | call=4 | q=My paddy plants are getting yellow spots on the leaves, what
+DUPE | seed=120 | call=5 | q=My paddy plants are getting yellow spots on the leaves, what
+OK   | seed=120 | call=6 | judge=PASS | scope_overflow=False | q=How do I stop the yellow stripes on my paddy leaves?
+OK   | seed=120 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to stop bacterial leaf blight in my basmati ri
+OK   | seed=120 | call=8 | judge=PASS | scope_overflow=False | q=My paddy plants are getting yellow stripes on the leaves, wh
+OK   | seed=121 | call=1 | judge=PASS | scope_overflow=False | q=My tubewell isn't working, and I can't water my wheat. What 
+DUPE | seed=121 | call=2 | q=My tubewell isn't working, and I can't water my wheat. What 
+OK   | seed=121 | call=3 | judge=PASS | scope_overflow=False | q=My tubewell isn't working, and I need to water my wheat. Wha
+OK   | seed=121 | call=4 | judge=PASS | scope_overflow=False | q=My wheat is at the tillering stage, but my tubewell broke do
+DUPE | seed=121 | call=5 | q=My tubewell isn't working, and I can't water my wheat. What 
+OK   | seed=121 | call=6 | judge=PASS | scope_overflow=False | q=My tubewell isn't working, and my wheat is at the flowering 
+DUPE | seed=121 | call=7 | q=What can I do if my tubewell breaks down and I can't water m
+OK   | seed=121 | call=8 | judge=PASS | scope_overflow=False | q=My wheat is looking weak and the leaves are getting dry, wha
+OK   | seed=122 | call=1 | judge=PASS | scope_overflow=False | q=My wheat plants are getting yellow leaves, what's going on?
+DUPE | seed=122 | call=2 | q=My wheat plants are turning yellow, what's going on?
+OK   | seed=122 | call=3 | judge=PASS | scope_overflow=False | q=My wheat plants are looking sick, and the leaves are turning
+DUPE | seed=122 | call=4 | q=My wheat plants are looking sick, and the leaves are turning
+OK   | seed=122 | call=5 | judge=PASS | scope_overflow=False | q=My wheat leaves are turning yellow, what's causing it and ho
+OK   | seed=122 | call=6 | judge=PASS | scope_overflow=False | q=My wheat plants are looking pale, and the older leaves are t
+OK   | seed=122 | call=7 | judge=PASS | scope_overflow=False | q=How do I fix yellow leaves on my wheat crop?
+OK   | seed=123 | call=1 | judge=PASS | scope_overflow=False | q=How much fertilizer should I use for my wheat crop, and when
+OK   | seed=123 | call=2 | judge=PASS | scope_overflow=False | q=What fertilizers should I use for my wheat crop and when?
+OK   | seed=123 | call=3 | judge=PASS | scope_overflow=False | q=What's the best way to apply fertilizers for my wheat crop?
+JUDGE_RETRY | seed=123 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer claims that 'you should not apply any fertilizers' after harvesting wheat, which is not explicitly stated in the seed answer. The seed answer focuses on fertilizer application during the growing season, not post-harvest.", "The generated answer introduces new advice about 'cleaning the field' and 'preparing it for the next crop,' which is not mentioned in the seed answer."] | q=What should I do with the fertilizers after harvesting wheat
+OK   | seed=123 | call=5 | judge=PASS | scope_overflow=False | q=What fertilizers should I use for my wheat crop?
+DUPE | seed=123 | call=6 | q=How much zinc should I use for my wheat crop and when?
+DUPE | seed=123 | call=7 | q=What's the best way to apply fertilizers for wheat in Haryan
+OK   | seed=123 | call=8 | judge=PASS | scope_overflow=False | q=My wheat plants are looking weak and the leaves are getting 
+OK   | seed=124 | call=1 | judge=PASS | scope_overflow=False | q=My wheat crop isn't growing well in Yamunanagar. What can I 
+OK   | seed=124 | call=2 | judge=PASS | scope_overflow=False | q=What can I do to help my wheat grow better in Yamunanagar?
+DUPE | seed=124 | call=3 | q=What can I do to make my wheat grow better in Yamunanagar?
+OK   | seed=124 | call=4 | judge=PASS | scope_overflow=False | q=What should I do to make my wheat grow better after harvest?
+DUPE | seed=124 | call=5 | q=My wheat isn't growing well in Yamunanagar. What can I do?
+OK   | seed=124 | call=6 | judge=PASS | scope_overflow=False | q=How do I make sure the wheat plants get enough nutrients in 
+DUPE | seed=124 | call=7 | q=What should I do to help my wheat grow better?
+OK   | seed=124 | call=8 | judge=PASS | scope_overflow=False | q=My wheat plants are looking weak and not growing well, what 
+OK   | seed=125 | call=1 | judge=PASS | scope_overflow=False | q=Is there a ban on growing Pro Agro 6444 paddy seeds?
+DUPE | seed=125 | call=2 | q=Is there a ban on growing Pro Agro 6444 paddy seeds in Uttar
+OK   | seed=125 | call=3 | judge=PASS | scope_overflow=False | q=Kya Pro Agro 6444 dhan ka bhan koi jagah par hain?
+OK   | seed=125 | call=4 | judge=PASS | scope_overflow=False | q=Kya Pro Agro 6444 jharna varieti ka koi rok hai? Kya main is
+SKIP | seed=125 | call=5 | (null or filter)
+OK   | seed=125 | call=6 | judge=PASS | scope_overflow=False | q=Kya Pro Agro 6444 jannat paddy ke liye koi paani ki sambhavn
+SKIP | seed=125 | call=7 | (null or filter)
+OK   | seed=125 | call=8 | judge=PASS | scope_overflow=False | q=Kya Pro Agro 6444 jannat wali chawal ki seed ban ki hai kya?
+OK   | seed=126 | call=1 | judge=PASS | scope_overflow=False | q=My chilli plants are getting damaged, and I see little worms
+OK   | seed=126 | call=2 | judge=PASS | scope_overflow=False | q=I see little worms eating my chilli plants, what's causing t
+OK   | seed=126 | call=3 | judge=PASS | scope_overflow=False | q=I'm seeing worms in my chilli plants, but the helpline said 
+OK   | seed=126 | call=4 | judge=PASS | scope_overflow=False | q=My chilli plants are getting damaged by worms, what can I do
+DUPE | seed=126 | call=5 | q=I'm seeing worms in my chilli plants. What's causing this an
+OK   | seed=126 | call=6 | judge=PASS | scope_overflow=False | q=I saw some worms eating the tips of my chilli plants, what c
+OK   | seed=127 | call=1 | judge=PASS | scope_overflow=False | q=How much sulphur should I use for my cotton crop?
+DUPE | seed=127 | call=2 | q=How much sulphur should I use for my cotton crop?
+OK   | seed=127 | call=3 | judge=PASS | scope_overflow=False | q=How much sulphur do I need to give to my cotton crop?
+OK   | seed=127 | call=4 | judge=PASS | scope_overflow=False | q=Kya kisi cotton ka kheta me kis tarah ka sulphur lagaana cha
+DUPE | seed=127 | call=5 | q=How much sulphur should I use for my cotton crop?
+DUPE | seed=127 | call=6 | q=How much sulphur do I need to apply for my cotton crop?
+OK   | seed=127 | call=7 | judge=PASS | scope_overflow=False | q=How much sulphur do I get when I apply 150 kg SSP for hybrid
+OK   | seed=127 | call=8 | judge=PASS | scope_overflow=False | q=My cotton plants are getting some yellow spots on the leaves
+OK   | seed=128 | call=1 | judge=PASS | scope_overflow=False | q=My wheat plants are getting some kind of disease, what can I
+OK   | seed=128 | call=2 | judge=PASS | scope_overflow=False | q=My wheat plants have some strange spots on the leaves, what 
+DUPE | seed=128 | call=3 | q=My wheat plants have some yellow patches on the leaves, what
+OK   | seed=128 | call=4 | judge=PASS | scope_overflow=False | q=What can I do if my wheat crop is getting sick with rust and
+OK   | seed=128 | call=5 | judge=PASS | scope_overflow=False | q=My wheat plants are getting sick. What can I do to stop the 
+DUPE | seed=128 | call=6 | q=My wheat plants have some white stuff on the leaves, what ca
+OK   | seed=128 | call=7 | judge=PASS | scope_overflow=False | q=What should I do if my wheat crop has diseases?
+OK   | seed=129 | call=1 | judge=PASS | scope_overflow=False | q=My mustard plants are getting damaged by tiny bugs, what can
+OK   | seed=129 | call=2 | judge=PASS | scope_overflow=False | q=My mustard plants are getting lots of aphids, what can I do?
+OK   | seed=129 | call=3 | judge=PASS | scope_overflow=False | q=How do I know when to spray for aphids in my mustard crop?
+DUPE | seed=129 | call=4 | q=My mustard plants are getting lots of aphids, what can I do?
+DUPE | seed=129 | call=5 | q=My mustard plants are getting lots of aphids, what can I do?
+OK   | seed=129 | call=6 | judge=PASS | scope_overflow=False | q=My mustard plants have a lot of tiny green bugs on them, wha
+OK   | seed=129 | call=7 | judge=PASS | scope_overflow=False | q=What can I do if I see aphids on my mustard plants?
+OK   | seed=130 | call=1 | judge=PASS | scope_overflow=False | q=My paddy plants are really short, what can I do to fix it?
+OK   | seed=130 | call=2 | judge=PASS | scope_overflow=False | q=My paddy plants are too short, what can I do about it in Pun
+OK   | seed=130 | call=3 | judge=PASS | scope_overflow=False | q=My paddy plants are not growing properly, what can I do?
+DUPE | seed=130 | call=4 | q=My paddy plants are really short, what can I do to fix it?
+OK   | seed=130 | call=5 | judge=PASS | scope_overflow=False | q=My paddy plants are not growing well and are really short. W
+DUPE | seed=130 | call=6 | q=My paddy plants are short and weak, what can I do about it?
+OK   | seed=130 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to fix the dwarf plants in my paddy field?
+OK   | seed=131 | call=1 | judge=PASS | scope_overflow=False | q=How much rice does Pusa Basmati 1692 give per acre?
+DUPE | seed=131 | call=2 | q=How much paddy does Pusa Basmati 1692 give per acre?
+DUPE | seed=131 | call=3 | q=How much rice does Pusa Basmati 1692 give per acre?
+OK   | seed=131 | call=4 | judge=PASS | scope_overflow=False | q=Kya pata hai kya Pusa Basmati 1692 ka ek acre ke halat mein 
+DUPE | seed=131 | call=5 | q=How much paddy does Pusa Basmati 1692 give per acre?
+DUPE | seed=131 | call=6 | q=How much does Pusa Basmati 1692 give per acre?
+OK   | seed=131 | call=7 | judge=PASS | scope_overflow=False | q=How much can I expect to get from one acre of Pusa Basmati 1
+OK   | seed=131 | call=8 | judge=PASS | scope_overflow=False | q=My Pusa Basmati 1692 plants are not growing well, what could
+OK   | seed=131 | call=9 | judge=PASS | scope_overflow=False | q=Kya Pusa Basmati 1692 ka phal 1 acre ke liye kamaal hai?
+OK   | seed=132 | call=1 | judge=PASS | scope_overflow=False | q=My berseem crop is getting some kind of disease, and the ste
+OK   | seed=132 | call=2 | judge=PASS | scope_overflow=False | q=My berseem crop is getting sick, what can I do to stop it?
+OK   | seed=132 | call=3 | judge=PASS | scope_overflow=False | q=My berseem crop is getting some white stuff on the stems, wh
+DUPE | seed=132 | call=4 | q=My berseem crop is getting sick, and the stems are rotting. 
+OK   | seed=132 | call=5 | judge=PASS | scope_overflow=False | q=My berseem crop has stem rot, what can I do to fix it?
+OK   | seed=132 | call=6 | judge=PASS | scope_overflow=False | q=How can I tell if my berseem is affected by stem rot, and wh
+OK   | seed=133 | call=1 | judge=PASS | scope_overflow=False | q=My onions are getting choked by weeds even before they come 
+OK   | seed=133 | call=2 | judge=PASS | scope_overflow=False | q=How can I stop weeds from growing before my onions come up?
+DUPE | seed=133 | call=3 | q=How can I stop weeds from growing before the onions come up?
+DUPE | seed=133 | call=4 | q=How can I stop weeds from growing before the onions come up?
+DUPE | seed=133 | call=5 | q=How can I stop weeds from growing before the onions come up?
+OK   | seed=133 | call=6 | judge=PASS | scope_overflow=False | q=What can I do to stop weeds from growing before the onion pl
+DUPE | seed=133 | call=7 | q=What can I do to stop weeds from growing before my onions co
+DUPE | seed=133 | call=8 | q=My onions are getting choked by weeds even before they come 
+DUPE | seed=133 | call=9 | q=My onions are getting choked by weeds even before they come 
+OK   | seed=133 | call=10 | judge=PASS | scope_overflow=False | q=My onion plants are not growing well, and there are a lot of
+OK   | seed=133 | call=11 | judge=PASS | scope_overflow=False | q=My onion plants are not growing well, and I see a lot of wee
+OK   | seed=134 | call=1 | judge=PASS | scope_overflow=False | q=I'm growing potatoes, and my leaves are looking yellow and s
+OK   | seed=134 | call=2 | judge=PASS | scope_overflow=False | q=What can I do if my potato plants are looking sick and not g
+OK   | seed=134 | call=3 | judge=PASS | scope_overflow=False | q=How can I fix yellow leaves on my potato plants?
+DUPE | seed=134 | call=4 | q=What can I do if my potato plants are showing yellow leaves 
+OK   | seed=134 | call=5 | judge=PASS | scope_overflow=False | q=How do I spray leaves for potatoes? What do I use?
+DUPE | seed=134 | call=6 | q=How do I fix yellow leaves on my potato plants?
+OK   | seed=134 | call=7 | judge=PASS | scope_overflow=False | q=How can I improve the yield of my potato crop with foliar sp
+OK   | seed=135 | call=1 | judge=PASS | scope_overflow=False | q=How much Paraquat Dichloride should I use to kill weeds in m
+DUPE | seed=135 | call=2 | q=How much Paraquat Dichloride should I use for weeds in my pa
+DUPE | seed=135 | call=3 | q=How much Paraquat Dichloride should I use for weeds in my pa
+DUPE | seed=135 | call=4 | q=How much paraquat should I use for weeds in my paddy field?
+DUPE | seed=135 | call=5 | q=How much paraquat should I use for weeds in my paddy field?
+OK   | seed=135 | call=6 | judge=PASS | scope_overflow=False | q=Kya paddy me badim ki nishani lagane ke liye paraquat dichlo
+DUPE | seed=135 | call=7 | q=How much Paraquat Dichloride do I need to use for weeds in m
+OK   | seed=135 | call=8 | judge=PASS | scope_overflow=False | q=My paddy field has a lot of weeds, what can I do?
+OK   | seed=135 | call=9 | judge=PASS | scope_overflow=False | q=My paddy field has a lot of weeds, what can I use to get rid
+DUPE | seed=135 | call=10 | q=My paddy fields have a lot of weeds, what can I do?
+DUPE | seed=135 | call=11 | q=My paddy field has a lot of weeds, what can I use to get rid
+OK   | seed=135 | call=12 | judge=PASS | scope_overflow=False | q=My paddy field has a lot of weeds growing, how much Paraquat
+OK   | seed=136 | call=1 | judge=PASS | scope_overflow=False | q=My mustard plants are getting some kind of leaf disease, wha
+DUPE | seed=136 | call=2 | q=My mustard plants are getting some kind of mildew, what can 
+OK   | seed=136 | call=3 | judge=PASS | scope_overflow=False | q=Kya mujhe kisi chhoti bimari ke karan hatheli ke pata buri n
+JUDGE_RETRY | seed=136 | retry=1/3 | conf=high | scope_overflow=False | issues=["The GENERATED ANSWER contains claims not present in the SEED ANSWER, such as 'gandhak bimari' (sulfur disease), which is not mentioned in the seed answer.", "The answer mentions 'kheer ke jharna' (milk residue) which is not part of the seed answer and is not relevant to the question."] | q=Kya mujhe gobi sarson ke phale me kis tarah ki bimari ho sak
+OK   | seed=136 | call=5 | judge=PASS | scope_overflow=False | q=Mujhe pata nahi kyun, par mera gobhi sarson ke pankh kai pat
+OK   | seed=136 | call=6 | judge=PASS | scope_overflow=False | q=Kya mujhe downy mildew ke ilaj ke liye kuch alag chiz karna 
+OK   | seed=136 | call=7 | judge=PASS | scope_overflow=False | q=What should I do if my mustard crop is getting downy mildew?
+OK   | seed=137 | call=1 | judge=PASS | scope_overflow=False | q=Where can I find spare parts for my paddy seed drum machine?
+OK   | seed=137 | call=2 | judge=PASS | scope_overflow=False | q=Where do I get parts for the seed drum on my paddy planter?
+DUPE | seed=137 | call=3 | q=Where can I get the parts for my paddy seed drum machine?
+DUPE | seed=137 | call=4 | q=Where can I find parts for the seed drum on my paddy seeder?
+DUPE | seed=137 | call=5 | q=Where do I get parts for my paddy seed drum?
+DUPE | seed=137 | call=6 | q=Where can I get the parts for the seed drum on my paddy plan
+DUPE | seed=137 | call=7 | q=Where do I get the parts I need for my paddy seed drum?
+DUPE | seed=137 | call=8 | q=Where can I get the parts for my paddy seed drum machine?
+OK   | seed=138 | call=1 | judge=PASS | scope_overflow=False | q=I want to grow Basmati rice, but I don't know which new vari
+OK   | seed=138 | call=2 | judge=PASS | scope_overflow=False | q=I'm thinking of growing Basmati rice. Are there any new type
+OK   | seed=138 | call=3 | judge=PASS | scope_overflow=False | q=Which Basmati rice varieties are good for growing in Punjab 
+OK   | seed=138 | call=4 | judge=PASS | scope_overflow=False | q=What are the best Basmati rice options for my farm, and how 
+OK   | seed=138 | call=5 | judge=PASS | scope_overflow=False | q=What are the best new Basmati rice varieties I can grow in P
+OK   | seed=139 | call=1 | judge=PASS | scope_overflow=False | q=How much wheat seed should I use per acre?
+SKIP | seed=139 | call=2 | (null or filter)
+DUPE | seed=139 | call=3 | q=How much wheat seed should I use per acre?
+DUPE | seed=139 | call=4 | q=How much wheat seed should I use per acre for good growth?
+DUPE | seed=139 | call=5 | q=How much wheat seed should I use per acre?
+OK   | seed=139 | call=6 | judge=PASS | scope_overflow=False | q=How much wheat seed should I use per acre if I'm planting in
+DUPE | seed=139 | call=7 | q=How much wheat seed should I use per acre?
+OK   | seed=139 | call=8 | judge=PASS | scope_overflow=False | q=Mera chawal ki seed kitani maangti hai?
+DUPE | seed=139 | call=9 | q=How much wheat seed should I use per acre for good growth?
+OK   | seed=139 | call=10 | judge=PASS | scope_overflow=False | q=My wheat plants are looking weak and not growing well, what 
+OK   | seed=139 | call=11 | judge=PASS | scope_overflow=False | q=My wheat crop is looking weak, what could be the problem?
+OK   | seed=140 | call=1 | judge=PASS | scope_overflow=False | q=My paddy seedlings are getting wet every morning after I wat
+OK   | seed=140 | call=2 | judge=PASS | scope_overflow=False | q=If the paddy nursery stays wet overnight, will it hurt the b
+DUPE | seed=140 | call=3 | q=If the paddy nursery stays wet all night, will it hurt the b
+OK   | seed=140 | call=4 | judge=PASS | scope_overflow=False | q=My paddy seedlings are getting too much water in the nursery
+OK   | seed=140 | call=5 | judge=PASS | scope_overflow=False | q=If the paddy nursery stays wet all night after watering, wil
+OK   | seed=140 | call=6 | judge=PASS | scope_overflow=False | q=If the paddy nursery stays wet all night, is that bad for th
+OK   | seed=141 | call=1 | judge=PASS | scope_overflow=False | q=Kya mere wheat ka seed kis mahine kya karna chahiye Banda di
+OK   | seed=141 | call=2 | judge=PASS | scope_overflow=False | q=When should I plant wheat in Banda district, UP?
+OK   | seed=141 | call=3 | judge=PASS | scope_overflow=False | q=Kya main kharif phasal ke baad wheat ka kheti kar sakti hu? 
+OK   | seed=141 | call=4 | judge=PASS | scope_overflow=False | q=Kya main apne kheta mein jhiri dhan ka boondh 25 December ta
+DUPE | seed=141 | call=5 | q=When should I plant wheat in Banda district of UP?
+OK   | seed=141 | call=6 | judge=PASS | scope_overflow=False | q=Kya agar main November ke 25th ke baad bhi gandum bhoor bhej
+OK   | seed=142 | call=1 | judge=PASS | scope_overflow=False | q=Do I need to use a sticker when I spray bispyribac sodium on
+OK   | seed=142 | call=2 | judge=PASS | scope_overflow=False | q=Kya paddy mein bispyribac sodium ka istemal karne ke baad st
+DUPE | seed=142 | call=3 | q=Do I really need to use a sticker with bispyribac sodium whe
+DUPE | seed=142 | call=4 | q=Kya paddy mein bispyribac sodium ka istemal karne mein stick
+DUPE | seed=142 | call=5 | q=Do I need to use a sticker when spraying bispyribac sodium o
+DUPE | seed=142 | call=6 | q=Do I really need to use a sticker when I spray bispyribac so
+DUPE | seed=142 | call=7 | q=Do I need to add a sticker when I use Bispyribac Sodium in m
+OK   | seed=142 | call=8 | judge=PASS | scope_overflow=False | q=I've heard that you need to add something to the herbicide w
+OK   | seed=142 | call=9 | judge=PASS | scope_overflow=False | q=Kya bispyribac sodium ka istemal karne mein sticker lagana z
+OK   | seed=142 | call=10 | judge=PASS | scope_overflow=False | q=Kya bispyribac sodium ka upyog karte samay sticker lagana ja
+OK   | seed=143 | call=1 | judge=PASS | scope_overflow=False | q=How much DAP should I use when preparing the paddy nursery?
+OK   | seed=143 | call=2 | judge=PASS | scope_overflow=False | q=How much DAP should I use when I'm setting up my paddy nurse
+OK   | seed=143 | call=3 | judge=PASS | scope_overflow=False | q=How much DAP should I use for my paddy nursery?
+DUPE | seed=143 | call=4 | q=How much DAP should I use in my paddy nursery bed?
+DUPE | seed=143 | call=5 | q=How much DAP should I use when sowing paddy in the nursery?
+DUPE | seed=143 | call=6 | q=How much DAP should I use for my paddy nursery bed?
+DUPE | seed=143 | call=7 | q=How much DAP should I use in my paddy nursery?
+OK   | seed=143 | call=8 | judge=PASS | scope_overflow=False | q=My paddy seedlings are not growing strong, what can I do?
+OK   | seed=143 | call=9 | judge=PASS | scope_overflow=False | q=My paddy seedlings are not growing strong, what could be the
+OK   | seed=144 | call=1 | judge=PASS | scope_overflow=False | q=My wheat crop is getting damaged by some worms, what can I d
+OK   | seed=144 | call=2 | judge=PASS | scope_overflow=False | q=What can I do if my wheat is getting eaten by little green w
+OK   | seed=144 | call=3 | judge=PASS | scope_overflow=False | q=My wheat crop has some small green bugs eating the leaves, w
+OK   | seed=144 | call=4 | judge=PASS | scope_overflow=False | q=How do I tell if my wheat has armyworms and what can I do to
+DUPE | seed=144 | call=5 | q=My wheat plants are getting damaged by little worms, what ca
+OK   | seed=144 | call=6 | judge=PASS | scope_overflow=False | q=How can I tell if there are caterpillars eating my wheat pla
+JUDGE_RETRY | seed=145 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer contains the claim that 'Paraquat dichloride 24% SL at 800 ml/acre' is used for 'very high weeds', which is not explicitly present in the seed answer. The seed answer mentions Paraquat dichloride 24% SL at 800 ml/acre but specifies it is for 'low weed emergence' and to avoid potato foliage.", "The generated answer mentions '20-30 days after planting' for 'earthing up', but the seed answer specifies '20–30 DAP and 40–45 DAP' for earthing up, which is not fully captured in the generated answer."] | q=ਮੈਂ ਕਣਕ ਦੀ ਫਸਲ ਵਿੱਚ ਘਾਹ ਦੀਆਂ ਸਮੱਸਿਆਵਾਂ ਨੂੰ ਕਿਵੇਂ ਸੰਭਾਲਾਂ?
+OK   | seed=145 | call=2 | judge=PASS | scope_overflow=False | q=ਮੇਰੀ ਕਣਕ ਦੀ ਫਸਲ ਵਿੱਚ ਬੀਜ ਲਗਾਉਣ ਤੋਂ ਬਾਅਦ ਕਦੋਂ ਖਰਪਤ ਕਰਨਾ ਚਾਹੀਦ
+DUPE | seed=145 | call=3 | q=ਮੈਂ ਕਣਕ ਦੀ ਫਸਲ ਵਿੱਚ ਜੰਗਲੀ ਘਾਸ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦਾ ਹਾਂ?
+DUPE | seed=145 | call=4 | q=ਮੈਂ ਕਣਕ ਦੇ ਖੇਤ ਵਿੱਚ ਜੰਗਲੀ ਜੜ੍ਹਾਂ ਦੇ ਮੁਕਾਬਲੇ ਲਈ ਕੀ ਕਰ ਸਕਦਾ ਹਾ
+DUPE | seed=145 | call=5 | q=ਮੈਂ ਕਣਕ ਦੀ ਫਸਲ ਲਈ ਕਦੇ ਬੀਜ ਸਕਦਾ ਹਾਂ?
+DUPE | seed=145 | call=6 | q=ਕਣਕ ਵਿੱਚ ਜੰਗਲੀ ਪੌਦੇ ਕਿਵੇਂ ਖਤਮ ਕਰੀਏ?
+DUPE | seed=145 | call=7 | q=ਮੈਂ ਕਣਕ ਦੀ ਫਸਲ ਵਿੱਚ ਕਿਹੜੀਆਂ ਕਾਰਵਾਈਆਂ ਕਰ ਸਕਦਾ ਹਾਂ?
+DUPE | seed=145 | call=8 | q=ਮੇਰੀ ਕਣਕ ਦੀਆਂ ਪੱਤੀਆਂ ਪੀਲੀਆਂ ਹੋ ਰਹੀਆਂ ਹਨ, ਮੈਂ ਕੀ ਕਰ ਸਕਦਾ ਹਾਂ?
+OK   | seed=146 | call=1 | judge=PASS | scope_overflow=False | q=I'm growing paddy, and I'm not sure when the panicle starts 
+OK   | seed=146 | call=2 | judge=PASS | scope_overflow=False | q=How long after sowing does the paddy start forming panicles,
+OK   | seed=146 | call=3 | judge=PASS | scope_overflow=False | q=What should I do for my paddy crop when the panicle starts f
+OK   | seed=146 | call=4 | judge=PASS | scope_overflow=False | q=When do the rice plants start forming the panicles, and what
+OK   | seed=146 | call=5 | judge=PASS | scope_overflow=False | q=When does the paddy start making its panicle, and what shoul
+OK   | seed=147 | call=1 | judge=PASS | scope_overflow=False | q=I heard about some cotton seeds like Ankur 3028 and MRC 7017
+OK   | seed=147 | call=2 | judge=PASS | scope_overflow=False | q=I've heard of Ankur 3028 and MRC 7017 cotton seeds, but I'm 
+OK   | seed=147 | call=3 | judge=PASS | scope_overflow=False | q=Is MRC 6301 a good cotton variety to grow?
+OK   | seed=147 | call=4 | judge=PASS | scope_overflow=False | q=Are the Ankur 3028 and MRC 6301 cotton varieties good for fa
+OK   | seed=147 | call=5 | judge=PASS | scope_overflow=False | q=What's good and bad about Ankur 3028 and MRC 7017 cotton see
+OK   | seed=148 | call=1 | judge=PASS | scope_overflow=False | q=My wheat plants are showing some yellow patches on the leave
+OK   | seed=148 | call=2 | judge=PASS | scope_overflow=False | q=My wheat is not growing well, and the leaves are turning ora
+DUPE | seed=148 | call=3 | q=My wheat crop is not growing well, and the leaves are turnin
+DUPE | seed=148 | call=4 | q=My wheat crop is not growing properly, and the leaves are tu
+OK   | seed=148 | call=5 | judge=PASS | scope_overflow=False | q=My wheat plants are showing yellow spots, and the grains are
+OK   | seed=148 | call=6 | judge=PASS | scope_overflow=False | q=My wheat plants have yellow spots on the middle leaves, what
+OK   | seed=148 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to fix boron deficiency in my wheat field and 
+OK   | seed=149 | call=1 | judge=PASS | scope_overflow=False | q=Is it safe to use fipronil on my paddy plants that are 10 to
+DUPE | seed=149 | call=2 | q=Is it safe to use fipronil on my paddy crop when it's only 1
+DUPE | seed=149 | call=3 | q=Is it safe to spray fipronil on my paddy plants that are 10 
+OK   | seed=149 | call=4 | judge=PASS | scope_overflow=False | q=Kya mere 10-15 din ka chawal ka badan chhota hai, tab fipron
+OK   | seed=149 | call=5 | judge=PASS | scope_overflow=False | q=Is it safe to use fipronil on my 10-day-old paddy plants?
+DUPE | seed=149 | call=6 | q=Is it safe to use fipronil on my paddy plants when they're j
+OK   | seed=149 | call=7 | judge=PASS | scope_overflow=False | q=What should I do if I want to use fipronil on my paddy crop?
+OK   | seed=149 | call=8 | judge=PASS | scope_overflow=False | q=My paddy seedlings are getting damaged, could fipronil help?
+OK   | seed=150 | call=1 | judge=PASS | scope_overflow=False | q=My bell pepper plants are getting sick, and the leaves are c
+OK   | seed=150 | call=2 | judge=PASS | scope_overflow=False | q=My bell peppers have curled leaves, what can I do about it?
+DUPE | seed=150 | call=3 | q=My bell peppers have curled leaves, what can I do?
+OK   | seed=150 | call=4 | judge=PASS | scope_overflow=False | q=My bell pepper plants are looking sick, the leaves are curle
+DUPE | seed=150 | call=5 | q=My bell peppers have curling leaves, what can I do?
+DUPE | seed=150 | call=6 | q=My bell pepper plants have curled leaves and the growth is r
+OK   | seed=150 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to stop leaf curl in my bell peppers?
+DUPE | seed=150 | call=8 | q=My bell pepper leaves are curling and looking all messed up,
+DUPE | seed=150 | call=9 | q=My bell pepper leaves are curling and getting smaller, what 
+DUPE | seed=150 | call=10 | q=My bell pepper plants have leaves that are curling and getti
+DUPE | seed=150 | call=11 | q=My bell pepper leaves are curling and getting small, what ca
+DUPE | seed=150 | call=12 | q=My bell pepper leaves are curling and getting smaller, what 
+DUPE | seed=150 | call=13 | q=My bell pepper leaves are curling and getting small, what ca
+OK   | seed=151 | call=1 | judge=PASS | scope_overflow=False | q=I've heard about using wood ash for wheat. Can I use it, and
+OK   | seed=151 | call=2 | judge=PASS | scope_overflow=False | q=Is it okay to use wood ash on my wheat field? What all does 
+OK   | seed=151 | call=3 | judge=PASS | scope_overflow=False | q=Can I use wood ash for my wheat crop? What's good about it a
+OK   | seed=151 | call=4 | judge=PASS | scope_overflow=False | q=Is it good to use wood ash on my wheat field? How do I use i
+DUPE | seed=151 | call=5 | q=Can I use wood ash on my wheat crop? What's good about it an
+DUPE | seed=151 | call=6 | q=Can I use wood ash on my wheat crop? What's it good for?
+OK   | seed=151 | call=7 | judge=PASS | scope_overflow=False | q=How can I use wood ash in my wheat field?
+OK   | seed=152 | call=1 | judge=PASS | scope_overflow=False | q=My chilli plants are getting sick, and the fruits are turnin
+OK   | seed=152 | call=2 | judge=PASS | scope_overflow=False | q=My chilli plants are getting sick, what's wrong and how do I
+DUPE | seed=152 | call=3 | q=My chilli plants are getting sick, and the fruits are turnin
+OK   | seed=152 | call=4 | judge=PASS | scope_overflow=False | q=My chilli plants are getting some kind of fungus, what can I
+DUPE | seed=152 | call=5 | q=My chilli plants are getting sick. What's wrong and how do I
+OK   | seed=152 | call=6 | judge=PASS | scope_overflow=False | q=My chilli plants have some dark spots on the fruits, and the
+OK   | seed=152 | call=7 | judge=PASS | scope_overflow=False | q=What should I do if my chilli plants are getting sick with f
+OK   | seed=153 | call=1 | judge=PASS | scope_overflow=False | q=What's the deal with this KRH-2 paddy seed? I heard it's goo
+OK   | seed=153 | call=2 | judge=PASS | scope_overflow=False | q=What's special about the KRH-2 rice seed and where can it be
+OK   | seed=153 | call=3 | judge=PASS | scope_overflow=False | q=Is KRH-2 a good paddy variety for my farm in Tamil Nadu?
+DUPE | seed=153 | call=4 | q=Is KRH-2 a good paddy variety to grow in my field in Tamil N
+OK   | seed=153 | call=5 | judge=PASS | scope_overflow=False | q=What's special about the KRH-2 paddy variety?
+DUPE | seed=153 | call=6 | q=Is KRH-2 a good paddy variety for my farm in Tamil Nadu?
+OK   | seed=153 | call=7 | judge=PASS | scope_overflow=False | q=What should I do if I want to grow KRH-2 paddy?
+OK   | seed=154 | call=1 | judge=PASS | scope_overflow=False | q=I want to try sowing paddy directly in the field instead of 
+OK   | seed=154 | call=2 | judge=PASS | scope_overflow=False | q=Can I plant paddy seeds directly in the field instead of usi
+OK   | seed=154 | call=3 | judge=PASS | scope_overflow=False | q=Is it possible to grow rice without transplanting seedlings,
+OK   | seed=154 | call=4 | judge=PASS | scope_overflow=False | q=Is there a way to plant paddy without using a nursery? What 
+OK   | seed=154 | call=5 | judge=PASS | scope_overflow=False | q=How do I sow paddy directly without using seedlings?
+OK   | seed=155 | call=1 | judge=PASS | scope_overflow=False | q=My pea plants are getting some kind of disease, what could i
+JUDGE_RETRY | seed=155 | retry=1/3 | conf=high | scope_overflow=False | issues=["The answer includes a recommendation to 'avoid planting peas after crops like brinjal or cauliflower' which is part of the seed answer's white rot management strategy, not blight management. This introduces a new management strategy not directly related to blight.", "The answer includes 'Burn any leftover plant parts after harvest' which is part of the white rot management strategy in the seed answer, not blight management. This introduces a new management strategy not directly related to blight."] | q=My pea plants are getting some kind of disease, what could i
+OK   | seed=155 | call=3 | judge=PASS | scope_overflow=False | q=My pea plants are getting some kind of disease, what could i
+OK   | seed=155 | call=4 | judge=PASS | scope_overflow=False | q=Mai kheera ke kheta me kuch problem ho rahi hai, kya kare?
+OK   | seed=155 | call=5 | judge=PASS | scope_overflow=False | q=My pea plants are getting sick, what's going on?
+JUDGE_RETRY | seed=155 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer includes information about 'powdery mildew' and 'Sulphur 80% WP' which are not directly related to the question about dark spots on leaves. This introduces new facts not explicitly mentioned in the seed answer in the context of dark spots.", "The generated answer mentions 'avoid planting peas after certain crops like brinjal or cauliflower' which is part of the white rot management strategy in the seed answer, but this is not directly relevant to the question about dark spots."] | q=My pea plants have some dark spots on the leaves, what could
+JUDGE_RETRY | seed=155 | retry=2/3 | conf=high | scope_overflow=False | issues=['The generated answer includes a recommendation to treat seeds with Pseudomonas fluorescens, which is mentioned in the seed answer but only in the context of Wilt, root rot, and collar rot, not blight. This is an addition not explicitly tied to blight control in the seed answer.', "The generated answer mentions 'keeping the field clean' and 'avoiding planting peas after crops like brinjal or cauliflower,' which are not explicitly mentioned in the seed answer as specific measures for blight control."] | q=What can I do to stop the blight in my pea plants?
+OK   | seed=155 | call=8 | judge=PASS | scope_overflow=False | q=My pea plants are getting brown spots on the leaves, what's 
+OK   | seed=156 | call=1 | judge=PASS | scope_overflow=False | q=How far apart should I plant my potato seeds?
+DUPE | seed=156 | call=2 | q=How far apart should I plant my potato seeds?
+DUPE | seed=156 | call=3 | q=How far apart should I plant my potato seeds?
+OK   | seed=156 | call=4 | judge=PASS | scope_overflow=False | q=Kya mera aayat ke liye khoon chakki ke beech kitna jaga rakh
+DUPE | seed=156 | call=5 | q=How far apart should I plant potato seeds?
+OK   | seed=156 | call=6 | judge=PASS | scope_overflow=False | q=How far apart should I plant potato seeds in the field?
+DUPE | seed=156 | call=7 | q=How far apart should I plant potato plants?
+OK   | seed=156 | call=8 | judge=PASS | scope_overflow=False | q=My potato plants are looking crowded, what should I do?
+OK   | seed=156 | call=9 | judge=PASS | scope_overflow=False | q=My potato plants are looking too crowded, what's the right w
+OK   | seed=157 | call=1 | judge=PASS | scope_overflow=False | q=My cotton plants aren't doing great, and I'm worried about t
+OK   | seed=157 | call=2 | judge=PASS | scope_overflow=False | q=What can I do to make my cotton better and keep the water un
+DUPE | seed=157 | call=3 | q=What can I do to make my cotton grow better and not harm the
+DUPE | seed=157 | call=4 | q=What can I do to make my cotton plants healthier and not hur
+OK   | seed=157 | call=5 | judge=PASS | scope_overflow=False | q=How can I grow better cotton and keep the water under my fie
+DUPE | seed=157 | call=6 | q=What can I do to make my cotton plants healthier without hur
+DUPE | seed=157 | call=7 | q=What can I do to grow better cotton and keep the water under
+OK   | seed=157 | call=8 | judge=PASS | scope_overflow=False | q=My cotton plants are not growing strong, what can I do?
+OK   | seed=157 | call=9 | judge=PASS | scope_overflow=False | q=My cotton plants are looking weak and the leaves are getting
+OK   | seed=158 | call=1 | judge=PASS | scope_overflow=False | q=My paddy plants are showing yellow leaves, what can I do?
+OK   | seed=158 | call=2 | judge=PASS | scope_overflow=False | q=My paddy plants have yellow leaves, what's causing it and ho
+DUPE | seed=158 | call=3 | q=My paddy plants are getting yellow leaves, what can I do?
+DUPE | seed=158 | call=4 | q=My paddy plants are getting yellow leaves, what can I do?
+OK   | seed=158 | call=5 | judge=PASS | scope_overflow=False | q=My paddy plants have yellow leaves, what's wrong?
+OK   | seed=158 | call=6 | judge=PASS | scope_overflow=False | q=My paddy plants have yellow leaves with green veins, what ca
+OK   | seed=158 | call=7 | judge=PASS | scope_overflow=False | q=How do I fix iron deficiency in my paddy field?
+OK   | seed=159 | call=1 | judge=PASS | scope_overflow=False | q=My pea plants are getting damaged by the cold, what can I do
+OK   | seed=159 | call=2 | judge=PASS | scope_overflow=False | q=How can I keep my pea plants safe from frost?
+DUPE | seed=159 | call=3 | q=How can I keep my pea plants safe from frost?
+DUPE | seed=159 | call=4 | q=My pea plants are getting damaged by the cold, what can I do
+DUPE | seed=159 | call=5 | q=How can I protect my pea plants from frost?
+OK   | seed=159 | call=6 | judge=PASS | scope_overflow=False | q=How can I stop my pea plants from getting damaged by frost?
+OK   | seed=159 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to protect my pea plants from frost?
+DUPE | seed=159 | call=8 | q=My pea plants are getting damaged in the cold, what can I do
+DUPE | seed=159 | call=9 | q=My pea plants are getting damaged in the cold, what can I do
+OK   | seed=159 | call=10 | judge=PASS | scope_overflow=False | q=My pea plants are getting damaged in the early morning frost
+OK   | seed=160 | call=1 | judge=PASS | scope_overflow=False | q=My wheat is not looking good, what can I do to make the grai
+OK   | seed=160 | call=2 | judge=PASS | scope_overflow=False | q=What can I do to make my wheat grains better in quality in U
+DUPE | seed=160 | call=3 | q=What can I do to get better quality wheat grains in my farm 
+OK   | seed=160 | call=4 | judge=PASS | scope_overflow=False | q=What can I do to make my wheat grains look better and have m
+OK   | seed=160 | call=5 | judge=PASS | scope_overflow=False | q=What can I do to get better wheat grains in Uttar Pradesh?
+DUPE | seed=160 | call=6 | q=What can I do to make my wheat grains look better and have m
+DUPE | seed=160 | call=7 | q=What should I do to make my wheat grains better quality?
+OK   | seed=160 | call=8 | judge=PASS | scope_overflow=False | q=My wheat crops are getting yellow leaves, what can I do?
+OK   | seed=161 | call=1 | judge=PASS | scope_overflow=False | q=My paddy plants are getting yellow in the middle, what's goi
+OK   | seed=161 | call=2 | judge=PASS | scope_overflow=False | q=My paddy plants have yellow leaves in the middle, what's cau
+OK   | seed=161 | call=3 | judge=PASS | scope_overflow=False | q=My paddy plants are showing yellow leaves in the middle, wha
+OK   | seed=161 | call=4 | judge=PASS | scope_overflow=False | q=My paddy plants have yellow leaves in the middle, what's cau
+DUPE | seed=161 | call=5 | q=My paddy plants have yellow leaves in the middle, what's cau
+DUPE | seed=161 | call=6 | q=My paddy plants have yellow leaves in the middle, what's cau
+OK   | seed=161 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to stop dead heart in my paddy field?
+OK   | seed=162 | call=1 | judge=PASS | scope_overflow=False | q=My berseem crop is getting white stuff on the leaves and ste
+OK   | seed=162 | call=2 | judge=PASS | scope_overflow=False | q=My berseem crop has white patches on the leaves and stems, w
+OK   | seed=162 | call=3 | judge=PASS | scope_overflow=False | q=My berseem plants have white stuff on the stems, what's goin
+DUPE | seed=162 | call=4 | q=My berseem crop is getting white stuff on the leaves, what's
+OK   | seed=162 | call=5 | judge=PASS | scope_overflow=False | q=Why are the leaves on my berseem crop turning white? What ca
+DUPE | seed=162 | call=6 | q=My berseem crop has white stuff on the stems, what's going o
+OK   | seed=162 | call=7 | judge=PASS | scope_overflow=False | q=What can I do if my berseem crop has white stuff on the stem
+OK   | seed=163 | call=1 | judge=PASS | scope_overflow=False | q=My pea plants are not growing well, and the leaves are getti
+OK   | seed=163 | call=2 | judge=PASS | scope_overflow=False | q=My pea plants are getting sick, what's going on with their r
+DUPE | seed=163 | call=3 | q=My pea plants are not growing well, and some are dying. What
+OK   | seed=163 | call=4 | judge=PASS | scope_overflow=False | q=My pea plants are getting weak and the roots look bad, what'
+OK   | seed=163 | call=5 | judge=PASS | scope_overflow=False | q=My pea plants are getting sick, what's going on and how do I
+OK   | seed=163 | call=6 | judge=PASS | scope_overflow=False | q=My pea plants are getting sick from the roots, what's causin
+JUDGE_RETRY | seed=164 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer contains the claim 'Chlorpyriphos 1.5% DP 10 kg pr ek acre chhaapna chahiye' which is present in the seed answer, but the phrasing is slightly different. However, the term 'chhaapna' (to spray) is not explicitly used in the seed answer, which may be considered a paraphrasing rather than a new fact.", "The generated answer mentions 'kheer aur uchhe jharna ko hatane se bharat ke badan ko kam karna jayega' (removing weeds and tall grasses reduces grasshopper infestation), which is present in the seed answer, but the phrasing is different."] | q=Mera gandum ka badan kuch bhi kha raha hai, kya kare?
+OK   | seed=164 | call=2 | judge=PASS | scope_overflow=False | q=My wheat crop is being eaten by big bugs, what can I do?
+OK   | seed=164 | call=3 | judge=PASS | scope_overflow=False | q=Kya karo jab chakli (Tidda) chawal ke kheta me aajaye?
+JUDGE_RETRY | seed=164 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer introduces the claim that 'khane wale chakli ke khet mein aur chakli ke khet ke pichhe chakli ke khet mein' (in the eating grasshopper fields and behind the grasshopper fields) should be sprayed, which is not explicitly mentioned in the seed answer.", "The generated answer mentions 'khet ke kante par chakli ko nahi chhodna chahiye' (do not leave grasshoppers at the edges of the field), which is not explicitly present in the seed answer."] | q=Kya koi aisa tarika hai jo main kharab chakli ke baad kare, 
+OK   | seed=164 | call=5 | judge=PASS | scope_overflow=False | q=Mera gandum ka pata kyun pila raha hai? Kya karna chahiye?
+OK   | seed=164 | call=6 | judge=PASS | scope_overflow=False | q=Mujhe pata nahi kyun khare kheere ke badane me kuch chhote c
+OK   | seed=164 | call=7 | judge=PASS | scope_overflow=False | q=What should I do if grasshoppers are eating my wheat?
+OK   | seed=165 | call=1 | judge=PASS | scope_overflow=False | q=What's the Rasi-776 cotton variety like, and how do I grow i
+OK   | seed=165 | call=2 | judge=PASS | scope_overflow=False | q=What's the story with the Rasi-776 cotton seed? How do I gro
+OK   | seed=165 | call=3 | judge=PASS | scope_overflow=False | q=What cotton varieties are good for my farm, and when should 
+OK   | seed=165 | call=4 | judge=PASS | scope_overflow=False | q=What cotton variety should I plant if I'm sowing late, like 
+DUPE | seed=165 | call=5 | q=What's the Rasi-776 cotton variety like and how do I grow it
+OK   | seed=165 | call=6 | judge=PASS | scope_overflow=False | q=What's the best time to plant Rasi-776 cotton, and how long 
+OK   | seed=166 | call=1 | judge=PASS | scope_overflow=False | q=How long does it take for Basmati rice varieties 1847 and 17
+DUPE | seed=166 | call=2 | q=How long does it take for Basmati 1847 and 1718 to be ready 
+OK   | seed=166 | call=3 | judge=PASS | scope_overflow=False | q=How long does it take for Pusa Basmati 1847 and 1718 to grow
+DUPE | seed=166 | call=4 | q=How long does it take for Basmati rice 1847 and 1718 to grow
+DUPE | seed=166 | call=5 | q=How long does it take for Basmati 1847 and 1718 to be ready 
+DUPE | seed=166 | call=6 | q=How long does it take for Basmati 1847 and 1718 to be ready 
+DUPE | seed=166 | call=7 | q=How long does it take for Basmati rice 1847 and 1718 to be r
+OK   | seed=166 | call=8 | judge=PASS | scope_overflow=False | q=How long does it take for Basmati rice to grow after transpl
+OK   | seed=166 | call=9 | judge=PASS | scope_overflow=False | q=How long does it take for Basmati 1847 and 1718 to grow from
+OK   | seed=166 | call=10 | judge=PASS | scope_overflow=False | q=How long does it take for Basmati rice to be ready for harve
+OK   | seed=167 | call=1 | judge=PASS | scope_overflow=False | q=My wheat crop is getting eaten by some kind of caterpillar, 
+OK   | seed=167 | call=2 | judge=PASS | scope_overflow=False | q=My wheat is getting eaten by little worms, what can I do?
+JUDGE_RETRY | seed=167 | retry=1/3 | conf=high | scope_overflow=False | issues=["The GENERATED ANSWER mentions 'chawal ke khet mein' (rice fields) while the SEED ANSWER specifically refers to wheat crops. This is a factual inaccuracy not present in the seed.", "The GENERATED ANSWER includes 'Fipronil 0.3 G @ 7 kg/acre' which is not explicitly mentioned in the SEED ANSWER. The seed mentions 'Fipronil 0.3 G @ 7 kg/acre' but with a different context (mixed with 20 kg of moist sand before first irrigation), and the generated answer omits this critical detail, making it a new claim not fully grounded."] | q=Kya kuch karna chaheye agar chawal ke daane khane wale chhot
+OK   | seed=167 | call=4 | judge=PASS | scope_overflow=False | q=Kya koi aisa tarika hai jisse main gandh mein khane wale cat
+DUPE | seed=167 | call=5 | q=My wheat is getting eaten by little worms, what can I do?
+DUPE | seed=167 | call=6 | q=My wheat plants are getting eaten by little green worms, wha
+OK   | seed=167 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to control the grain-eating caterpillar in my 
+OK   | seed=167 | call=8 | judge=PASS | scope_overflow=False | q=My wheat plants are getting eaten from the edges, what can I
+OK   | seed=168 | call=1 | judge=PASS | scope_overflow=False | q=How much vermicompost should I use for my wheat field and wh
+DUPE | seed=168 | call=2 | q=How much vermicompost should I use for my wheat field, and w
+DUPE | seed=168 | call=3 | q=How much vermicompost should I use for my wheat field and wh
+DUPE | seed=168 | call=4 | q=How much vermicompost should I use for my wheat field, and w
+DUPE | seed=168 | call=5 | q=How much vermicompost should I use for my wheat field, and w
+DUPE | seed=168 | call=6 | q=How much vermicompost should I use for my wheat field and wh
+DUPE | seed=168 | call=7 | q=How much vermicompost should I use for my wheat field and wh
+OK   | seed=169 | call=1 | judge=PASS | scope_overflow=False | q=Where can I get the CSR 76 paddy seeds?
+OK   | seed=169 | call=2 | judge=PASS | scope_overflow=False | q=Where can I get good quality seeds for CSR 76 paddy?
+DUPE | seed=169 | call=3 | q=Where can I get the CSR 76 paddy seeds in my area?
+DUPE | seed=169 | call=4 | q=Where can I get the CSR 76 paddy seeds in my area?
+DUPE | seed=169 | call=5 | q=Where can I get the CSR 76 paddy seeds?
+DUPE | seed=169 | call=6 | q=Where can I get good quality CSR 76 paddy seeds in my area?
+DUPE | seed=169 | call=7 | q=Where can I get the CSR 76 paddy seeds?
+DUPE | seed=169 | call=8 | q=Where can I get the CSR 76 paddy seeds in my area?
+OK   | seed=170 | call=1 | judge=PASS | scope_overflow=False | q=My maize crop is getting yellow mold on the ears when it's a
+OK   | seed=170 | call=2 | judge=PASS | scope_overflow=False | q=My maize has a yellow fungus on it when it's almost ready, w
+OK   | seed=170 | call=3 | judge=PASS | scope_overflow=False | q=My maize has a yellow mold on it, what's causing it and how 
+OK   | seed=170 | call=4 | judge=PASS | scope_overflow=False | q=Mai khane wale jhinga mein pila rang ka kuch jam ho gaya hai
+OK   | seed=170 | call=5 | judge=PASS | scope_overflow=False | q=My maize has yellow mold on it. What's causing it and how to
+OK   | seed=171 | call=1 | judge=PASS | scope_overflow=False | q=Can I mix the insecticide with the fertilizer when I'm spray
+DUPE | seed=171 | call=2 | q=Can I mix the insecticide Profenophos with the NPK fertilize
+DUPE | seed=171 | call=3 | q=Can I mix the insecticide with the fertilizer when I spray m
+OK   | seed=171 | call=4 | judge=PASS | scope_overflow=False | q=Kya main paddy mein Profenophos insecticide ko NPK fertilize
+OK   | seed=171 | call=5 | judge=PASS | scope_overflow=False | q=Can I mix Profenophos with NPK fertilizer when spraying padd
+DUPE | seed=171 | call=6 | q=Can I mix the insecticide with the fertilizer when I'm growi
+DUPE | seed=171 | call=7 | q=Should I mix Profenophos with NPK fertilizer when spraying p
+OK   | seed=171 | call=8 | judge=PASS | scope_overflow=False | q=My paddy plants are getting yellow leaves, could mixing inse
+OK   | seed=171 | call=9 | judge=PASS | scope_overflow=False | q=My paddy plants are getting damaged by insects, can I mix th
+OK   | seed=172 | call=1 | judge=PASS | scope_overflow=False | q=My chilli plants are getting messed up by tiny bugs, what ca
+DUPE | seed=172 | call=2 | q=My chilli plants are getting messed up by tiny bugs, what ca
+OK   | seed=172 | call=3 | judge=PASS | scope_overflow=False | q=My chilli plants have yellowing leaves and some of the buds 
+OK   | seed=172 | call=4 | judge=PASS | scope_overflow=False | q=My chilli plants are getting damaged, and I see tiny bugs on
+DUPE | seed=172 | call=5 | q=My chilli plants are getting damaged by tiny bugs. What can 
+OK   | seed=172 | call=6 | judge=PASS | scope_overflow=False | q=My chilli plants have some tiny bugs on them, what can I do?
+OK   | seed=172 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to keep thrips from damaging my chilli plants?
+OK   | seed=173 | call=1 | judge=PASS | scope_overflow=False | q=How long should I keep the paddy seedlings in the nursery fo
+DUPE | seed=173 | call=2 | q=How long should I keep the paddy seedlings in the nursery fo
+OK   | seed=173 | call=3 | judge=PASS | scope_overflow=False | q=How long should I keep the paddy seedlings before transplant
+DUPE | seed=173 | call=4 | q=How long should I keep the paddy seedlings in the nursery fo
+OK   | seed=173 | call=5 | judge=PASS | scope_overflow=False | q=How long should the paddy nursery be for RNR 15048?
+DUPE | seed=173 | call=6 | q=How long should I keep the paddy seedlings in the nursery fo
+DUPE | seed=173 | call=7 | q=How long should I keep the paddy seedlings in the nursery fo
+OK   | seed=173 | call=8 | judge=PASS | scope_overflow=False | q=My paddy seedlings are looking weak, what could be the reaso
+DUPE | seed=173 | call=9 | q=My paddy seedlings are looking weak, what could be the probl
+DUPE | seed=173 | call=10 | q=My paddy seedlings are looking weak, what could be the reaso
+DUPE | seed=173 | call=11 | q=My paddy seedlings are looking weak, what could be the probl
+DUPE | seed=173 | call=12 | q=My paddy seedlings are looking weak, what could be the probl
+OK   | seed=173 | call=13 | judge=PASS | scope_overflow=False | q=My paddy seedlings are looking weak, what's wrong?
+OK   | seed=174 | call=1 | judge=PASS | scope_overflow=False | q=I heard about a mustard variety called MALI MS 102. What's s
+OK   | seed=174 | call=2 | judge=PASS | scope_overflow=False | q=What's the deal with the MALI MS 102 mustard seed? I've hear
+OK   | seed=174 | call=3 | judge=PASS | scope_overflow=False | q=Is MALI MS 102 a good mustard variety to grow?
+DUPE | seed=174 | call=4 | q=Is MALI MS 102 a good mustard variety to grow?
+OK   | seed=174 | call=5 | judge=PASS | scope_overflow=False | q=What's the Shivani mustard variety like?
+OK   | seed=174 | call=6 | judge=PASS | scope_overflow=False | q=What's special about the MALI MS 102 mustard seed?
+OK   | seed=175 | call=1 | judge=PASS | scope_overflow=False | q=My wheat plants are getting some kind of disease, and the he
+OK   | seed=175 | call=2 | judge=PASS | scope_overflow=False | q=My wheat plants have a weird black powder on them, what's ca
+OK   | seed=175 | call=3 | judge=PASS | scope_overflow=False | q=Mujhe pata nahi kyun, lekin mere ghee ke phool kuch kharaab 
+OK   | seed=175 | call=4 | judge=PASS | scope_overflow=False | q=My wheat plants have black powder coming out of the ears, wh
+OK   | seed=175 | call=5 | judge=PASS | scope_overflow=False | q=My wheat plants have a smut problem, how do I handle it?
+OK   | seed=176 | call=1 | judge=PASS | scope_overflow=False | q=My wheat plants are getting some kind of disease, and the le
+OK   | seed=176 | call=2 | judge=PASS | scope_overflow=False | q=My wheat plants are getting some kind of disease, what can I
+OK   | seed=176 | call=3 | judge=PASS | scope_overflow=False | q=My wheat plants have black stuff on the leaves, what can I d
+OK   | seed=176 | call=4 | judge=PASS | scope_overflow=False | q=Kya mere gandum ka bheek kaise rok sakte hain?
+OK   | seed=176 | call=5 | judge=PASS | scope_overflow=False | q=My wheat plants are getting sick. What can I do?
+OK   | seed=177 | call=1 | judge=PASS | scope_overflow=False | q=I heard about this Malviya-234 wheat variety. What's it like
+OK   | seed=177 | call=2 | judge=PASS | scope_overflow=False | q=What's the deal with Malviya-234 wheat? I've heard it's good
+OK   | seed=177 | call=3 | judge=PASS | scope_overflow=False | q=Is Malviya-234 a good wheat variety for late sowing?
+OK   | seed=177 | call=4 | judge=PASS | scope_overflow=False | q=Is Malviya-234 a good wheat variety for when I sow late afte
+OK   | seed=177 | call=5 | judge=PASS | scope_overflow=False | q=What's special about the Malviya-234 wheat variety?
+OK   | seed=178 | call=1 | judge=PASS | scope_overflow=False | q=My potato plants are growing too much green stuff, what can 
+OK   | seed=178 | call=2 | judge=PASS | scope_overflow=False | q=My potato plants are growing too much, how can I stop that?
+DUPE | seed=178 | call=3 | q=My potato plants are growing too much green stuff, how can I
+DUPE | seed=178 | call=4 | q=My potato plants are growing too much, how can I stop that?
+DUPE | seed=178 | call=5 | q=My potato plants are growing too much, how can I stop that?
+DUPE | seed=178 | call=6 | q=My potato plants are growing too much green stuff, how do I 
+OK   | seed=178 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to make my potato plants grow better?
+DUPE | seed=178 | call=8 | q=My potato plants are growing too much leaves, what can I do?
+DUPE | seed=178 | call=9 | q=My potato plants are growing too much leaves, what can I do?
+DUPE | seed=178 | call=10 | q=My potato plants are growing too much green stuff, what can 
+DUPE | seed=178 | call=11 | q=My potato plants are growing too much leaves, what can I do?
+DUPE | seed=178 | call=12 | q=My potato plants are growing too much green stuff, what can 
+DUPE | seed=178 | call=13 | q=My potato plants are growing too much green stuff, what can 
+OK   | seed=179 | call=1 | judge=PASS | scope_overflow=False | q=I'm growing chillies, and the flowers are falling off. What 
+OK   | seed=179 | call=2 | judge=PASS | scope_overflow=False | q=What can I do to stop my chilli plants from dropping flowers
+DUPE | seed=179 | call=3 | q=How can I stop my chilli plants from losing flowers in May a
+OK   | seed=179 | call=4 | judge=PASS | scope_overflow=False | q=Kya chilai ke khet me kisi tarah ka growth regulator ka iste
+OK   | seed=179 | call=5 | judge=PASS | scope_overflow=False | q=What growth regulators can I use for my chilli plants and ho
+OK   | seed=179 | call=6 | judge=PASS | scope_overflow=False | q=How do I use NAA for my chilli plants to stop the flowers fr
+OK   | seed=180 | call=1 | judge=PASS | scope_overflow=False | q=I’ve heard about Pusa Basmati 1847, but I’m not sure if it’s
+OK   | seed=180 | call=2 | judge=PASS | scope_overflow=False | q=Is Pusa Basmati 1847 a good rice variety to grow in my area?
+OK   | seed=180 | call=3 | judge=PASS | scope_overflow=False | q=Is Pusa Basmati 1847 good for growing in my area?
+DUPE | seed=180 | call=4 | q=Is Pusa Basmati 1847 a good rice variety to grow in my field
+OK   | seed=180 | call=5 | judge=PASS | scope_overflow=False | q=What's special about the Pusa Basmati 1847 rice variety?
+DUPE | seed=180 | call=6 | q=Is Pusa Basmati 1847 good for growing in my area?
+OK   | seed=180 | call=7 | judge=PASS | scope_overflow=False | q=Where can I grow Pusa Basmati 1847, and what are the best co
+OK   | seed=181 | call=1 | judge=PASS | scope_overflow=False | q=I want to transplant my gobhi sarson. When should I do it an
+DUPE | seed=181 | call=2 | q=When should I transplant my gobhi sarson, and how do I do it
+OK   | seed=181 | call=3 | judge=PASS | scope_overflow=False | q=Kya mera Gobhi Sarson ko pahle chhoti seedling banake badme 
+OK   | seed=181 | call=4 | judge=PASS | scope_overflow=False | q=When should I transplant my mustard seedlings, and how do I 
+DUPE | seed=181 | call=5 | q=When should I transplant my mustard plants in Punjab, and ho
+DUPE | seed=181 | call=6 | q=When should I transplant my gobhi sarson seedlings, and how 
+OK   | seed=181 | call=7 | judge=PASS | scope_overflow=False | q=How do I transplant Gobhi Sarson in Punjab for better yield?
+OK   | seed=181 | call=8 | judge=PASS | scope_overflow=False | q=My mustard plants are not growing well after transplanting, 
+OK   | seed=182 | call=1 | judge=PASS | scope_overflow=False | q=My potato plants are getting all black and wet, and I'm losi
+OK   | seed=182 | call=2 | judge=PASS | scope_overflow=False | q=My potato plants are getting sick and the leaves are turning
+OK   | seed=182 | call=3 | judge=PASS | scope_overflow=False | q=My potato plants are getting black spots on the leaves, what
+OK   | seed=182 | call=4 | judge=PASS | scope_overflow=False | q=My potato plants are getting all black and smelly, what can 
+DUPE | seed=182 | call=5 | q=My potato plants are getting sick, and the leaves are turnin
+DUPE | seed=182 | call=6 | q=My potato plants are getting black spots on the leaves, what
+OK   | seed=182 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to stop my potato crop from getting destroyed 
+OK   | seed=183 | call=1 | judge=PASS | scope_overflow=False | q=What is Panchagavya and how do I use it for my paddy crop?
+DUPE | seed=183 | call=2 | q=What is Panchagavya and how can I use it for my paddy fields
+OK   | seed=183 | call=3 | judge=PASS | scope_overflow=False | q=How do I make Panchagavya for my paddy field?
+OK   | seed=183 | call=4 | judge=PASS | scope_overflow=False | q=Kya panchagavya kya hota hai aur kaise use karte hai khet me
+DUPE | seed=183 | call=5 | q=What is Panchagavya and how do I use it for paddy farming?
+DUPE | seed=183 | call=6 | q=How do I make Panchagavya for my paddy fields?
+OK   | seed=183 | call=7 | judge=PASS | scope_overflow=False | q=How do I use Panchagavya in my paddy fields?
+OK   | seed=183 | call=8 | judge=PASS | scope_overflow=False | q=My paddy plants are looking weak, what can I do?
+OK   | seed=184 | call=1 | judge=PASS | scope_overflow=False | q=My wheat plants are getting damaged by insects, what can I d
+OK   | seed=184 | call=2 | judge=PASS | scope_overflow=False | q=What can I do to stop pests from ruining my wheat crop?
+OK   | seed=184 | call=3 | judge=PASS | scope_overflow=False | q=What can I do if termites are eating my wheat plants?
+DUPE | seed=184 | call=4 | q=What can I do if my wheat plants are getting attacked by ins
+DUPE | seed=184 | call=5 | q=What can I do to stop pests from hurting my wheat?
+DUPE | seed=184 | call=6 | q=What can I do if termites are eating my wheat plants?
+OK   | seed=184 | call=7 | judge=PASS | scope_overflow=False | q=What can I do if my wheat crop is being attacked by pests?
+OK   | seed=184 | call=8 | judge=PASS | scope_overflow=False | q=My wheat plants are getting dry and weak, what's causing it 
+OK   | seed=185 | call=1 | judge=PASS | scope_overflow=False | q=Where can I find seeds for Sona Mahsuri paddy, and what's sp
+OK   | seed=185 | call=2 | judge=PASS | scope_overflow=False | q=Where can I get real Sona Mahsuri rice seeds and what’s spec
+OK   | seed=185 | call=3 | judge=PASS | scope_overflow=False | q=Where can I get good quality seeds for Sona Mahsuri paddy, a
+DUPE | seed=185 | call=4 | q=Where can I get good quality Sona Mahsuri seeds and what sho
+DUPE | seed=185 | call=5 | q=Where can I find seeds for Sona Mahsuri paddy, and what’s sp
+DUPE | seed=185 | call=6 | q=Where can I get real Sona Mahsuri seeds and what's special a
+OK   | seed=185 | call=7 | judge=PASS | scope_overflow=False | q=Where can I buy good quality Sona Mahsuri seeds for my farm?
+OK   | seed=185 | call=8 | judge=PASS | scope_overflow=False | q=What are the features of Sona Mahsuri rice, and where can I 
+OK   | seed=186 | call=1 | judge=PASS | scope_overflow=False | q=Kya main Taramira kab bhi bhej sakta hoon?
+OK   | seed=186 | call=2 | judge=PASS | scope_overflow=False | q=Kab tak taramira ka beej dalein chahiye Punjab mein?
+JUDGE_RETRY | seed=186 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer contains the claim that Taramira can 'khareed sakta hai' (grow) 'aur bharat ke ghar mein padi hui megha ke saath' (with the moisture present in homes in India), which is not explicitly stated in the seed answer. This is an added claim not present in the original source.", "The generated answer contains the phrase 'phal ki kam ma'labat ho sakti hai' (reduced yield), which is a paraphrase of the seed answer's 'reduced yields due to unfavorable temperature conditions' but is still a paraphrase that is acceptable. However, the previous issue is a clear grounding violation."] | q=Kab tak Taramira ka bija bija sakta hai Punjab mein?
+OK   | seed=186 | call=4 | judge=PASS | scope_overflow=False | q=When should I plant taramira in Punjab?
+DUPE | seed=186 | call=5 | q=When should I plant taramira in Punjab?
+DUPE | seed=186 | call=6 | q=Kab tak taramira ka beej daalna chahiye Punjab mein?
+DUPE | seed=186 | call=7 | q=When should I sow taramira in Punjab?
+DUPE | seed=186 | call=8 | q=When should I plant taramira in Punjab?
+OK   | seed=186 | call=9 | judge=PASS | scope_overflow=False | q=Kya mera taramira ka seed late sowing karne se kuch problem 
+OK   | seed=186 | call=10 | judge=PASS | scope_overflow=False | q=When should I sow my taramira crop so it grows well?
+OK   | seed=187 | call=1 | judge=PASS | scope_overflow=False | q=How much DAP should I use for my basmati paddy nursery?
+DUPE | seed=187 | call=2 | q=How much DAP should I use for my basmati paddy nursery?
+DUPE | seed=187 | call=3 | q=How much DAP should I use for my basmati paddy nursery?
+DUPE | seed=187 | call=4 | q=How much DAP should I use for my basmati paddy nursery?
+DUPE | seed=187 | call=5 | q=How much DAP should I use for my basmati paddy nursery?
+DUPE | seed=187 | call=6 | q=How much DAP should I use for my basmati paddy nursery?
+DUPE | seed=187 | call=7 | q=How much DAP should I use in my basmati paddy nursery?
+OK   | seed=188 | call=1 | judge=PASS | scope_overflow=False | q=Can I mix Cartap Hydrochloride granules with urea when I'm t
+DUPE | seed=188 | call=2 | q=Can I mix cartap hydrochloride granules with urea when I'm t
+DUPE | seed=188 | call=3 | q=Can I mix cartap hydrochloride with urea when I'm trying to 
+OK   | seed=188 | call=4 | judge=PASS | scope_overflow=False | q=Kya main paddy mein stem borer ko control karne ke liye cart
+OK   | seed=188 | call=5 | judge=PASS | scope_overflow=False | q=Can I mix cartap hydrochloride granules with urea to kill st
+DUPE | seed=188 | call=6 | q=Can I mix Cartap Hydrochloride granules with urea when I'm t
+OK   | seed=188 | call=7 | judge=PASS | scope_overflow=False | q=What's the right way to use Cartap Hydrochloride for stem bo
+OK   | seed=188 | call=8 | judge=PASS | scope_overflow=False | q=My paddy plants are showing dry and wilting tillers, what co
+OK   | seed=189 | call=1 | judge=PASS | scope_overflow=False | q=What's the deal with cotton bolls opening? I've seen some th
+OK   | seed=189 | call=2 | judge=PASS | scope_overflow=False | q=What's the deal with cotton bolls opening? How does that wor
+OK   | seed=189 | call=3 | judge=PASS | scope_overflow=False | q=How do cotton bolls open, and what makes them open properly?
+DUPE | seed=189 | call=4 | q=How do cotton bolls open up, and what makes them do that?
+OK   | seed=189 | call=5 | judge=PASS | scope_overflow=False | q=How do cotton bolls open, and what causes them to do that?
+OK   | seed=189 | call=6 | judge=PASS | scope_overflow=False | q=What causes cotton bolls to open, and how does it happen?
+OK   | seed=190 | call=1 | judge=PASS | scope_overflow=False | q=My wheat crop is about 45 days old, and I see a lot of weeds
+OK   | seed=190 | call=2 | judge=PASS | scope_overflow=False | q=My wheat is around 45 days old, and I'm seeing a lot of weed
+DUPE | seed=190 | call=3 | q=My wheat is around 45 days old, and I'm seeing a lot of weed
+JUDGE_RETRY | seed=190 | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer introduces 'kuch khushkala chhaane wale varge' (some dry weeding methods) which is not explicitly mentioned in the seed answer.", "The generated answer mentions 'phalaris minor ke liye 20-25 din baad kuch dusha kharab karne wale dushy laga sakte hain' (you can apply some herbicides to destroy phalaris minor 20-25 days later), which includes specific herbicide names and application details not present in the seed answer."] | q=Mai 45 din baad ke gandum ke khet me kaisa chhaan karna chah
+OK   | seed=190 | call=5 | judge=PASS | scope_overflow=False | q=My wheat is 45 days old, and there's a lot of weeds. What ca
+OK   | seed=190 | call=6 | judge=PASS | scope_overflow=False | q=Mai 45 din baad ke gandum ke khet me kiski samasya hai? Kya 
+OK   | seed=190 | call=7 | judge=PASS | scope_overflow=False | q=What can I do to control weeds in my 45-day-old wheat crop?
+OK   | seed=191 | call=1 | judge=PASS | scope_overflow=False | q=Kya mere PBW 550 chawal ke khete mein koi herbidis ban hai?
+OK   | seed=191 | call=2 | judge=PASS | scope_overflow=False | q=What herbicides should I avoid when growing PBW 550 wheat?
+OK   | seed=191 | call=3 | judge=PASS | scope_overflow=False | q=Which weed killers should I avoid when growing PBW 550 wheat
+OK   | seed=191 | call=4 | judge=PASS | scope_overflow=False | q=Kya mera PBW 550 chawal ke khete mein koi herbid se chinta k
+OK   | seed=191 | call=5 | judge=PASS | scope_overflow=False | q=Which weed killers can't I use on PBW 550 wheat?
+OK   | seed=192 | call=1 | judge=PASS | scope_overflow=False | q=How deep should I plant the maize seeds for good fodder grow
+DUPE | seed=192 | call=2 | q=How deep should I plant the maize seeds for good fodder grow
+DUPE | seed=192 | call=3 | q=How deep should I plant maize seeds for good growth?
+DUPE | seed=192 | call=4 | q=How deep should I plant the maize seeds for good growth?
+DUPE | seed=192 | call=5 | q=How deep should I plant maize seeds for good fodder growth?
+DUPE | seed=192 | call=6 | q=How deep should I plant the maize seeds for good growth?
+DUPE | seed=192 | call=7 | q=How deep should I plant the maize seeds for good growth?
+OK   | seed=193 | call=1 | judge=PASS | scope_overflow=False | q=Is it safe to use Paclobutrazol 23% SC on my paddy crop?
+DUPE | seed=193 | call=2 | q=Is it okay to use Paclobutrazol 23% SC on my paddy crop?
+DUPE | seed=193 | call=3 | q=Is it okay to use Paclobutrazol 23% SC on paddy plants?
+DUPE | seed=193 | call=4 | q=Is it safe to use Paclobutrazol 23% SC on my paddy crop?
+DUPE | seed=193 | call=5 | q=Is it okay to use paclobutrazol 23% SC on paddy?
+OK   | seed=193 | call=6 | judge=PASS | scope_overflow=False | q=Kya paddy mein paclobutrazol 23% SC ka istemal kiya jata hai
+DUPE | seed=193 | call=7 | q=Is it okay to use Paclobutrazol 23% SC on my paddy crop?
+DUPE | seed=193 | call=8 | q=Is it safe to use Paclobutrazol 23% SC on my paddy crop?
+DUPE | seed=193 | call=9 | q=Is it safe to use Paclobutrazol 23% SC on my paddy crop?
+DUPE | seed=193 | call=10 | q=Is it okay to use Paclobutrazol 23% SC on my paddy crop?
+DUPE | seed=193 | call=11 | q=Is it safe to use Paclobutrazol 23% SC on my paddy crop?
+DUPE | seed=193 | call=12 | q=Is it safe to use Paclobutrazol 23% SC on my paddy crop?
+OK   | seed=194 | call=1 | judge=PASS | scope_overflow=False | q=What is waste decomposer and how can it help me with my padd
+OK   | seed=194 | call=2 | judge=PASS | scope_overflow=False | q=What is Pusa Decomposer and how do I use it for my paddy fie
+OK   | seed=194 | call=3 | judge=PASS | scope_overflow=False | q=How can I use the Pusa decomposer to break down paddy straw 
+OK   | seed=194 | call=4 | judge=PASS | scope_overflow=False | q=How can I use Pusa Decomposer for my paddy field?
+OK   | seed=194 | call=5 | judge=PASS | scope_overflow=False | q=What is pusa decomposer and how can it help with paddy straw
+OK   | seed=195 | call=1 | judge=PASS | scope_overflow=False | q=How can I check if the subsidies from the government have be
+OK   | seed=195 | call=2 | judge=PASS | scope_overflow=False | q=Mai apni kisan panjikaran number ke zariye apni subsidy ki k
+OK   | seed=195 | call=3 | judge=PASS | scope_overflow=False | q=How can I find out if the subsidies I applied for in Aligarh
+JUDGE_RETRY | seed=195 | retry=1/3 | conf=high | scope_overflow=False | issues=["The GENERATED ANSWER introduces new claims not present in the SEED ANSWER, such as 'kala rasta', 'chakkar', and 'samasya' which are not mentioned in the seed content.", "The GENERATED ANSWER suggests actions like 'parikshan karna hoga' (to conduct an examination) and 'kisi vikas kentra ke kisan sanchalak' (contacting a farmer coordinator at a development center), which are not explicitly mentioned in the SEED ANSWER."] | q=Kya meri khet me kho jane wale khadha chakkar ke liye kuch k
+OK   | seed=195 | call=5 | judge=PASS | scope_overflow=False | q=How can I check if the subsidies from the government have be
+JUDGE_RETRY | seed=195 | retry=1/3 | conf=high | scope_overflow=False | issues=["The GENERATED ANSWER introduces new claims not present in the SEED ANSWER, such as the recommendation to 'test the soil' and 'apply the correct fertilizer based on test results'. These are not mentioned in the SEED ANSWER, which focuses on government subsidies and grant tracking procedures.", 'The GENERATED ANSWER provides advice on soil testing and fertilizer application, which is outside the scope of the SEED ANSWER that only discusses subsidy and grant information.'] | q=Kya mere khet mein kuch kharaab ho raha hai? Kuch neela daud
+OK   | seed=195 | call=7 | judge=PASS | scope_overflow=False | q=How can I track if the subsidies from the government have be
+OK   | seed=196 | call=1 | judge=PASS | scope_overflow=False | q=My wheat plants are getting some kind of disease, and I can'
+OK   | seed=196 | call=2 | judge=PASS | scope_overflow=False | q=What pests and diseases harm my wheat crop and how can I man
+OK   | seed=196 | call=3 | judge=PASS | scope_overflow=False | q=What are the best ways to stop my wheat from getting rust?
+OK   | seed=196 | call=4 | judge=PASS | scope_overflow=False | q=What can I do to stop my wheat crops from getting damaged by
+OK   | seed=196 | call=5 | judge=PASS | scope_overflow=False | q=What are the common problems in my wheat crop and how can I 
+OK   | seed=197 | call=1 | judge=PASS | scope_overflow=False | q=My onion plants have tiny bugs on the leaves and some are tu
+OK   | seed=197 | call=2 | judge=PASS | scope_overflow=False | q=My onions are getting messed up by tiny bugs, what’s going o
+DUPE | seed=197 | call=3 | q=My onion plants have some tiny bugs on the leaves, and the l
+OK   | seed=197 | call=4 | judge=PASS | scope_overflow=False | q=My onions are getting messed up by tiny bugs, what can I do?
+OK   | seed=197 | call=5 | judge=PASS | scope_overflow=False | q=My onions are getting messed up by tiny bugs. What are they 
+OK   | seed=197 | call=6 | judge=PASS | scope_overflow=False | q=My onions have some tiny bugs on the leaves, what can I do a
+OK   | seed=198 | call=1 | judge=PASS | scope_overflow=False | q=My maize plants are not growing well, and the leaves are get
+OK   | seed=198 | call=2 | judge=PASS | scope_overflow=False | q=My maize plants are not growing well, and the leaves are loo
+DUPE | seed=198 | call=3 | q=My maize plants are not growing well, and the leaves are get
+DUPE | seed=198 | call=4 | q=My maize plants are not growing well, and the leaves are get
+OK   | seed=198 | call=5 | judge=PASS | scope_overflow=False | q=My maize plants are not growing well, and the leaves are tur
+OK   | seed=198 | call=6 | judge=PASS | scope_overflow=False | q=My maize plants are not growing well, and the old leaves are
+OK   | seed=198 | call=7 | judge=PASS | scope_overflow=False | q=What should I do to make sure my fodder maize gets enough ph
+OK   | seed=199 | call=1 | judge=PASS | scope_overflow=False | q=What biofertilizers can I use for my potato crop and how do 
+OK   | seed=199 | call=2 | judge=PASS | scope_overflow=False | q=How do I use biofertilizers for my potato crop?
+DUPE | seed=199 | call=3 | q=How do I use biofertilizers for my potato crop?
+OK   | seed=199 | call=4 | judge=PASS | scope_overflow=False | q=Kya mera aulad ke khet me biofertilizers lagaane chahiye, au
+DUPE | seed=199 | call=5 | q=What biofertilizers can I use for my potato crop and how do 
+DUPE | seed=199 | call=6 | q=How do I use biofertilizers for my potato crop?
+DUPE | seed=199 | call=7 | q=How do I use biofertilizers for my potato crop?
+OK   | seed=199 | call=8 | judge=PASS | scope_overflow=False | q=How can I use biofertilizers for my potato crop to help it g
+OK   | seed=199 | call=9 | judge=PASS | scope_overflow=False | q=My potato plants are not growing well, what can I do?

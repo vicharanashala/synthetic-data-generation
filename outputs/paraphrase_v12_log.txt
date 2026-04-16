@@ -2216,3 +2216,1349 @@ OK   | seed=137 | style=paraphrase_timing_focused | call=4 | focus=unknown | jud
 OK   | seed=137 | style=paraphrase_timing_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers in Tamil Nadu check spare parts availability 
 OK   | seed=137 | style=paraphrase_timing_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=When should farmers in Tamil Nadu ensure spare parts availab
 OK   | seed=137 | style=paraphrase_timing_focused | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=When are spare parts for paddy seed drums most crucial to ha
+OK   | seed=138 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers consider cultivating specific improved Basmat
+SKIP | seed=138 | style=paraphrase_formal | call=2
+OK   | seed=138 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a list of recently developed Basmati rice varieties
+OK   | seed=138 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the availability of new Basmati rice varieties in Punja
+SKIP | seed=138 | style=paraphrase_formal | call=5
+OK   | seed=138 | style=paraphrase_formal | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the bacterial blight resistance profiles of the new
+OK   | seed=138 | style=paraphrase_formal | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Which improved Basmati rice varieties are recommended for cu
+SKIP | seed=138 | style=paraphrase_short | call=1
+OK   | seed=138 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is a high-yielding Basmati rice variety for Punjab?
+OK   | seed=138 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is bacterial blight resistance present in new Basmati rice v
+OK   | seed=138 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does Punjab offer improved Basmati rice varieties with disea
+OK   | seed=138 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there improved Basmati rice varieties with disease resis
+OK   | seed=138 | style=paraphrase_short | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What Basmati rice varieties resist bacterial blight?
+OK   | seed=138 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Should the plants in my field show yellowing leaves and poor
+SKIP | seed=138 | style=paraphrase_problem_description | call=2
+SKIP | seed=138 | style=paraphrase_problem_description | call=3
+SKIP | seed=138 | style=paraphrase_problem_description | call=4
+OK   | seed=138 | style=paraphrase_problem_description | call=5 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Are the rice plants in my field showing yellowing leaves and
+SKIP | seed=138 | style=paraphrase_problem_description | call=6
+SKIP | seed=138 | style=paraphrase_problem_description | call=7
+JUDGE_RETRY | seed=138 | style=paraphrase_problem_description | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer claims the symptoms suggest 'bacterial blight' which is not explicitly stated in the seed answer. The seed answer only provides information about varieties and their resistance to bacterial blight, but does not directly link yellowing leaves and stunted growth to bacterial blight.", "The generated answer introduces a new claim about the cause of the symptoms ('bacterial blight') that is not explicitly present in the seed answer."] | q=When the rice plants show yellowing leaves and stunted growt
+JUDGE_RETRY | seed=138 | style=paraphrase_problem_description | retry=2/3 | conf=high | scope_overflow=False | issues=["The generated answer claims that the issue is 'bacterial blight' without any evidence or mention in the seed answer. The seed answer discusses disease resistance of varieties but does not state that bacterial blight is the cause of yellowing and spots in the user's rice plants.", "The generated answer recommends 'proper disease management practices' without specifying what those practices are, which is not explicitly mentioned in the seed answer."] | q=Why are my rice plants showing yellowing and spots, and many
+OK   | seed=138 | style=paraphrase_problem_description | call=10 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the rice plants in my field be suffering from a disease 
+SKIP | seed=138 | style=paraphrase_problem_description | call=11
+SKIP | seed=138 | style=paraphrase_problem_description | call=12
+OK   | seed=138 | style=paraphrase_problem_description | call=13 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Is the rice crop showing yellowing leaves and poor growth de
+SKIP | seed=138 | style=paraphrase_problem_description | call=14
+SKIP | seed=138 | style=paraphrase_problem_description | call=15
+SKIP | seed=138 | style=paraphrase_problem_description | call=16
+SKIP | seed=138 | style=paraphrase_problem_description | call=17
+SKIP | seed=138 | style=paraphrase_problem_description | call=18
+SKIP | seed=138 | style=paraphrase_problem_description | call=19
+ABANDON | seed=138 | style=paraphrase_problem_description | done=4/5
+SKIP | seed=138 | style=paraphrase_followup | call=1
+SKIP | seed=138 | style=paraphrase_followup | call=2
+SKIP | seed=138 | style=paraphrase_followup | call=3
+SKIP | seed=138 | style=paraphrase_followup | call=4
+SKIP | seed=138 | style=paraphrase_followup | call=5
+SKIP | seed=138 | style=paraphrase_followup | call=6
+ABANDON | seed=138 | style=paraphrase_followup | done=0/5
+DUPE | seed=138 | style=paraphrase_yes_no | q=Is bacterial blight resistance present in all the recommende
+OK   | seed=138 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is bacterial blight a concern for any of the listed Basmati 
+OK   | seed=138 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are all the new Basmati rice varieties resistant to bacteria
+OK   | seed=138 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does every listed Basmati rice variety in the seed answer ex
+OK   | seed=138 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers select disease-resistant Basmati rice varieti
+OK   | seed=138 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the best way to prevent bacterial blight in Basmati 
+OK   | seed=138 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is selecting disease-resistant Basmati rice varieties a prev
+OK   | seed=138 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does selecting disease-resistant Basmati rice varieties help
+OK   | seed=138 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there Basmati rice varieties that can help prevent bacte
+SKIP | seed=138 | style=paraphrase_cause | call=1
+OK   | seed=138 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes the availability of new Basmati rice varieties i
+SKIP | seed=138 | style=paraphrase_cause | call=3
+OK   | seed=138 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the choice of Basmati rice variety influence its resist
+OK   | seed=138 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the new Basmati rice varieties developed to address spec
+OK   | seed=138 | style=paraphrase_cause | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes the differences in bacterial blight resistance a
+OK   | seed=138 | style=paraphrase_cause | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Which factors prompted the introduction of new Basmati rice 
+OK   | seed=138 | style=paraphrase_quantity_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers consider the maturity duration of Pusa Basmat
+SKIP | seed=138 | style=paraphrase_quantity_focused | call=2
+OK   | seed=138 | style=paraphrase_quantity_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is 25-day-old seedlings required for better tillering in any
+SKIP | seed=138 | style=paraphrase_quantity_focused | call=4
+OK   | seed=138 | style=paraphrase_quantity_focused | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Are there any Basmati rice varieties with a yield of 19.0 qu
+OK   | seed=138 | style=paraphrase_quantity_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended seedling age for Pusa Basmati 1509?
+OK   | seed=138 | style=paraphrase_quantity_focused | call=7 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Which Basmati rice variety yields 19.0 quintals per acre?
+OK   | seed=138 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers in Punjab consider the maturity duration of B
+OK   | seed=138 | style=paraphrase_timing_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the maturity duration of the new improved Basmati ri
+OK   | seed=138 | style=paraphrase_timing_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a specific maturity period for the new Basmati rice
+SKIP | seed=138 | style=paraphrase_timing_focused | call=4
+SKIP | seed=138 | style=paraphrase_timing_focused | call=5
+OK   | seed=138 | style=paraphrase_timing_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the days required for different Basmati rice variet
+OK   | seed=138 | style=paraphrase_timing_focused | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Which Basmati rice varieties mature within 100 days after tr
+SKIP | seed=139 | style=paraphrase_formal | call=1
+SKIP | seed=139 | style=paraphrase_formal | call=2
+SKIP | seed=139 | style=paraphrase_formal | call=3
+SKIP | seed=139 | style=paraphrase_formal | call=4
+OK   | seed=139 | style=paraphrase_formal | call=5 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Are there specific seed rates for wheat cultivation in Karna
+SKIP | seed=139 | style=paraphrase_formal | call=6
+SKIP | seed=139 | style=paraphrase_formal | call=7
+SKIP | seed=139 | style=paraphrase_formal | call=8
+SKIP | seed=139 | style=paraphrase_formal | call=9
+SKIP | seed=139 | style=paraphrase_formal | call=10
+SKIP | seed=139 | style=paraphrase_formal | call=11
+ABANDON | seed=139 | style=paraphrase_formal | done=1/5
+OK   | seed=139 | style=paraphrase_short | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Should wheat seed rate be 40 kg/acre for irrigated fields?
+OK   | seed=139 | style=paraphrase_short | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the seed rate for wheat in Karnataka?
+SKIP | seed=139 | style=paraphrase_short | call=3
+OK   | seed=139 | style=paraphrase_short | call=4 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Does seed rate vary for wheat in Karnataka?
+OK   | seed=139 | style=paraphrase_short | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Are seed rates different for wheat in Karnataka?
+DUPE | seed=139 | style=paraphrase_short | q=What seed rate is recommended for irrigated wheat in Karnata
+DUPE | seed=139 | style=paraphrase_short | q=Which seed rates are recommended for wheat in Karnataka?
+OK   | seed=139 | style=paraphrase_short | call=8 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=When to use 50 kg seed per acre for wheat?
+OK   | seed=139 | style=paraphrase_problem_description | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=The wheat plants are not growing well and appear sparse, wha
+SKIP | seed=139 | style=paraphrase_problem_description | call=2
+SKIP | seed=139 | style=paraphrase_problem_description | call=3
+JUDGE_RETRY | seed=139 | style=paraphrase_problem_description | retry=1/3 | conf=high | scope_overflow=False | issues=['The generated answer claims that the wheat crop has sparse plants and uneven growth, which is not mentioned in the seed answer.', "The generated answer adds a new claim about the crop's condition (sparse plants and uneven growth) that is not present in the seed answer."] | q=Does the wheat crop have sparse plants and uneven growth?
+SKIP | seed=139 | style=paraphrase_problem_description | call=5 | (judge-retry)
+JUDGE_ABANDON | seed=139 | style=paraphrase_problem_description | conf=high | scope_overflow=False | issues=['The generated answer claims that the wheat crop has sparse plants and uneven growth, which is not mentioned in the seed answer.', "The generated answer adds a new claim about the crop's condition (sparse plants and uneven growth) that is not present in the seed answer."] | q=Does the wheat crop have sparse plants and uneven growth?
+SKIP | seed=139 | style=paraphrase_problem_description | call=6
+SKIP | seed=139 | style=paraphrase_problem_description | call=7
+OK   | seed=139 | style=paraphrase_problem_description | call=8 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=When the wheat crop looks sparse and uneven, what seed rate 
+SKIP | seed=139 | style=paraphrase_problem_description | call=9
+SKIP | seed=139 | style=paraphrase_problem_description | call=10
+SKIP | seed=139 | style=paraphrase_problem_description | call=11
+SKIP | seed=139 | style=paraphrase_problem_description | call=12
+SKIP | seed=139 | style=paraphrase_problem_description | call=13
+SKIP | seed=139 | style=paraphrase_problem_description | call=14
+ABANDON | seed=139 | style=paraphrase_problem_description | done=2/5
+SKIP | seed=139 | style=paraphrase_followup | call=1
+SKIP | seed=139 | style=paraphrase_followup | call=2
+JUDGE_RETRY | seed=139 | style=paraphrase_followup | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer claims that 'row spacing of 20–23 cm is maintained across all wheat cultivation scenarios in Karnataka,' which is not explicitly stated in the seed answer. The seed answer specifies that the 20–23 cm spacing is used under certain conditions (irrigated/timely sown, irrigated late-sown, rainfed timely sown), but does not state that it is required for all conditions."] | q=Is the row spacing of 20–23 cm required for all wheat sowing
+SKIP | seed=139 | style=paraphrase_followup | call=4 | (judge-retry)
+JUDGE_ABANDON | seed=139 | style=paraphrase_followup | conf=high | scope_overflow=False | issues=["The generated answer claims that 'row spacing of 20–23 cm is maintained across all wheat cultivation scenarios in Karnataka,' which is not explicitly stated in the seed answer. The seed answer specifies that the 20–23 cm spacing is used under certain conditions (irrigated/timely sown, irrigated late-sown, rainfed timely sown), but does not state that it is required for all conditions."] | q=Is the row spacing of 20–23 cm required for all wheat sowing
+OK   | seed=139 | style=paraphrase_followup | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Are the seed rates different for timely and late sowing?
+SKIP | seed=139 | style=paraphrase_followup | call=6
+OK   | seed=139 | style=paraphrase_followup | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Which row spacing is recommended for irrigated wheat in Karn
+OK   | seed=139 | style=paraphrase_followup | call=8 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=When is the higher seed rate of 50 kg per acre recommended f
+SKIP | seed=139 | style=paraphrase_followup | call=9
+OK   | seed=139 | style=paraphrase_followup | call=10 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Can the irrigation method affect the recommended seed rate f
+SKIP | seed=139 | style=paraphrase_followup | call=11
+OK   | seed=139 | style=paraphrase_followup | call=12 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the application timing for wheat seed rates in Karna
+OK   | seed=139 | style=paraphrase_yes_no | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Should the seed rate for irrigated wheat be 40 kg per acre?
+OK   | seed=139 | style=paraphrase_yes_no | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Is 40 kg per acre the recommended seed rate for irrigated wh
+SKIP | seed=139 | style=paraphrase_yes_no | call=3
+OK   | seed=139 | style=paraphrase_yes_no | call=4 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Does the seed rate for rainfed wheat in Karnataka require mo
+OK   | seed=139 | style=paraphrase_preventive | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Should seed rate and spacing be adjusted to prevent low whea
+OK   | seed=139 | style=paraphrase_preventive | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended seed rate and spacing for preventing
+DUPE | seed=139 | style=paraphrase_preventive | q=Is there a recommended seed rate and spacing for preventing 
+OK   | seed=139 | style=paraphrase_preventive | call=4 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Does selecting the right seed rate prevent low wheat yield?
+OK   | seed=139 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there ways to prevent poor wheat growth in Karnataka?
+OK   | seed=139 | style=paraphrase_preventive | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What preventive steps can be taken to ensure healthy wheat c
+SKIP | seed=139 | style=paraphrase_cause | call=1
+OK   | seed=139 | style=paraphrase_cause | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What causes variations in wheat seed rates for Karnataka's d
+SKIP | seed=139 | style=paraphrase_cause | call=3
+SKIP | seed=139 | style=paraphrase_cause | call=4
+OK   | seed=139 | style=paraphrase_cause | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Are seed rates for wheat different based on farming conditio
+SKIP | seed=139 | style=paraphrase_cause | call=6
+OK   | seed=139 | style=paraphrase_cause | call=7 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Which factors cause variations in wheat seed rates for irrig
+SKIP | seed=139 | style=paraphrase_cause | call=8
+SKIP | seed=139 | style=paraphrase_cause | call=9
+OK   | seed=139 | style=paraphrase_cause | call=10 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Can the variation in wheat seed rates be attributed to diffe
+SKIP | seed=139 | style=paraphrase_cause | call=11
+OK   | seed=139 | style=paraphrase_cause | call=12 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the primary factor influencing the recommended seed 
+OK   | seed=139 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Should the seed rate for irrigated timely sown wheat be 40 k
+SKIP | seed=139 | style=paraphrase_quantity_focused | call=2
+DUPE | seed=139 | style=paraphrase_quantity_focused | q=Is the seed rate for irrigated timely sown wheat 40 kg per a
+DUPE | seed=139 | style=paraphrase_quantity_focused | q=Does the seed rate for irrigated wheat in Karnataka require 
+OK   | seed=139 | style=paraphrase_quantity_focused | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Are 40 kg of seed per acre recommended for wheat in Karnatak
+DUPE | seed=139 | style=paraphrase_quantity_focused | q=What is the row spacing recommended for irrigated late-sown 
+OK   | seed=139 | style=paraphrase_quantity_focused | call=7 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Which seed rate is recommended for irrigated late-sown wheat
+OK   | seed=139 | style=paraphrase_quantity_focused | call=8 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=When should 40 kg of wheat seed be used per acre?
+OK   | seed=139 | style=paraphrase_quantity_focused | call=9 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Why is 40 kg of wheat seed per acre recommended for irrigate
+SKIP | seed=139 | style=paraphrase_timing_focused | call=1
+SKIP | seed=139 | style=paraphrase_timing_focused | call=2
+OK   | seed=139 | style=paraphrase_timing_focused | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Is the seed rate for wheat in Karnataka different for timely
+SKIP | seed=139 | style=paraphrase_timing_focused | call=4
+OK   | seed=139 | style=paraphrase_timing_focused | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Are there specific seed rates for wheat depending on sowing 
+OK   | seed=139 | style=paraphrase_timing_focused | call=6 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=What is the recommended seed rate for wheat in Karnataka whe
+OK   | seed=139 | style=paraphrase_timing_focused | call=7 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Which sowing conditions determine the seed rate for wheat in
+OK   | seed=139 | style=paraphrase_timing_focused | call=8 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=When should a seed rate of 50 kg per acre be used for wheat 
+OK   | seed=140 | style=paraphrase_formal | call=1 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Should prolonged waterlogging in paddy nurseries after irrig
+OK   | seed=140 | style=paraphrase_formal | call=2 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=What are the implications of prolonged water stagnation in p
+SKIP | seed=140 | style=paraphrase_formal | call=3
+OK   | seed=140 | style=paraphrase_formal | call=4 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Does prolonged waterlogging in paddy nurseries post-irrigati
+OK   | seed=140 | style=paraphrase_formal | call=5 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Are there potential harms to seedlings if water remains in t
+OK   | seed=140 | style=paraphrase_formal | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the implications of prolonged waterlogging in paddy
+OK   | seed=140 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should paddy nursery water be drained promptly?
+OK   | seed=140 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the effect of standing water on paddy seedlings?
+OK   | seed=140 | style=paraphrase_short | call=3 | focus=soil_condition | judge=PASS | scope_overflow=False | q=Is immediate drainage required for paddy nursery waterloggin
+OK   | seed=140 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does prolonged waterlogging in paddy nurseries harm seedling
+OK   | seed=140 | style=paraphrase_short | call=5 | focus=soil_condition | judge=PASS | scope_overflow=False | q=Are prolonged waterlogged conditions harmful to paddy seedli
+OK   | seed=140 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Should I be concerned if water stays in the paddy nursery ov
+OK   | seed=140 | style=paraphrase_problem_description | call=2 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=What is causing the yellowing and weak growth in my paddy se
+OK   | seed=140 | style=paraphrase_problem_description | call=3 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Is the paddy seedling's yellowing leaves and weak roots due 
+OK   | seed=140 | style=paraphrase_problem_description | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the water remaining in the nursery the next morning cau
+OK   | seed=140 | style=paraphrase_problem_description | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the paddy seedlings showing yellow leaves and weak roots
+OK   | seed=140 | style=paraphrase_followup | call=1 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Should irrigation be applied during morning hours instead of
+OK   | seed=140 | style=paraphrase_followup | call=2 | focus=pathogen_name | judge=PASS | scope_overflow=False | q=What is the name of the pathogens that cause damping-off dis
+OK   | seed=140 | style=paraphrase_followup | call=3 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Is yellowing of leaves a common symptom of waterlogging in p
+OK   | seed=140 | style=paraphrase_followup | call=4 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Does applying irrigation in the morning instead of the eveni
+OK   | seed=140 | style=paraphrase_followup | call=5 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Are there specific times when irrigation should be done to p
+OK   | seed=140 | style=paraphrase_yes_no | call=1 | focus=soil_condition | judge=PASS | scope_overflow=False | q=Should proper drainage be ensured in paddy nurseries to prev
+OK   | seed=140 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does waterlogging in paddy nurseries lead to oxygen deprivat
+OK   | seed=140 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is using raised bed nursery systems recommended for paddy nu
+OK   | seed=140 | style=paraphrase_preventive | call=1 | focus=soil_condition | judge=PASS | scope_overflow=False | q=Should farmers ensure proper drainage in paddy nurseries to 
+SKIP | seed=140 | style=paraphrase_preventive | call=2
+OK   | seed=140 | style=paraphrase_preventive | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Is maintaining the correct seed rate in paddy nurseries a pr
+OK   | seed=140 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does proper land leveling in paddy nurseries help prevent wa
+SKIP | seed=140 | style=paraphrase_preventive | call=5
+OK   | seed=140 | style=paraphrase_preventive | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What steps can be taken to prevent waterlogging in paddy nur
+OK   | seed=140 | style=paraphrase_preventive | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Which practices can prevent waterlogging in paddy nurseries?
+DUPE | seed=140 | style=paraphrase_cause | q=Why does prolonged waterlogging in paddy nurseries harm seed
+OK   | seed=140 | style=paraphrase_cause | call=2 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=What causes seedling damage in paddy nurseries when water re
+OK   | seed=140 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is prolonged waterlogging in paddy nurseries harmful due to 
+OK   | seed=140 | style=paraphrase_cause | call=4 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Does prolonged waterlogging after irrigation cause harm to p
+OK   | seed=140 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are prolonged waterlogging conditions in paddy nurseries har
+OK   | seed=140 | style=paraphrase_cause | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes seedlings in paddy nurseries to develop root rot
+OK   | seed=140 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Should the seed rate for paddy nurseries be maintained at 12
+OK   | seed=140 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended seed rate for paddy nursery area acc
+OK   | seed=140 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Is the seed rate of 12 to 14 kg per acre recommended for pad
+OK   | seed=140 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Does maintaining a seed rate of 12 to 14 kg per acre in the 
+SKIP | seed=140 | style=paraphrase_quantity_focused | call=5
+OK   | seed=140 | style=paraphrase_quantity_focused | call=6 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended seed rate for paddy nursery areas?
+OK   | seed=140 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When is the best time to irrigate the paddy nursery to preve
+DUPE | seed=140 | style=paraphrase_timing_focused | q=What is the recommended time to irrigate the paddy nursery t
+OK   | seed=140 | style=paraphrase_timing_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is it advisable to irrigate paddy nurseries in the morning t
+OK   | seed=140 | style=paraphrase_timing_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does irrigating the paddy nursery in the morning hours (6-8 
+OK   | seed=140 | style=paraphrase_timing_focused | call=5 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Are paddy seedlings harmed if irrigation is done in the even
+OK   | seed=140 | style=paraphrase_timing_focused | call=6 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=When should irrigation be scheduled in paddy nurseries to mi
+OK   | seed=141 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should the sowing of wheat in Banda district of Uttar Prades
+OK   | seed=141 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the optimal sowing period for wheat in Banda distric
+OK   | seed=141 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a yield reduction associated with delayed wheat sow
+OK   | seed=141 | style=paraphrase_formal | call=4 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Does the optimal sowing window for wheat in Banda district o
+OK   | seed=141 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific sowing periods for wheat in Banda distric
+OK   | seed=141 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should wheat be sown in Banda district before 25th November?
+OK   | seed=141 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the optimal wheat sowing window in Banda district?
+OK   | seed=141 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is delayed wheat sowing possible in Banda district?
+OK   | seed=141 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does sowing wheat after 25th November in Banda district redu
+OK   | seed=141 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific dates for wheat sowing in Banda?
+OK   | seed=141 | style=paraphrase_problem_description | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should I plant wheat now if my kharif crops are taking longe
+OK   | seed=141 | style=paraphrase_problem_description | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is causing the wheat plants to appear weak and not grow
+SKIP | seed=141 | style=paraphrase_problem_description | call=3
+OK   | seed=141 | style=paraphrase_problem_description | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the wheat in my field not grow properly and have low yi
+OK   | seed=141 | style=paraphrase_problem_description | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the wheat plants not growing well because of late sowing
+OK   | seed=141 | style=paraphrase_problem_description | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What if the wheat plants are not growing properly and the yi
+SKIP | seed=141 | style=paraphrase_followup | call=1
+SKIP | seed=141 | style=paraphrase_followup | call=2
+SKIP | seed=141 | style=paraphrase_followup | call=3
+SKIP | seed=141 | style=paraphrase_followup | call=4
+SKIP | seed=141 | style=paraphrase_followup | call=5
+OK   | seed=141 | style=paraphrase_followup | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the percentage of yield loss for each day of delay b
+SKIP | seed=141 | style=paraphrase_followup | call=7
+OK   | seed=141 | style=paraphrase_followup | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=When should wheat be sown in Banda district to avoid yield l
+OK   | seed=141 | style=paraphrase_followup | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is the optimal sowing window for wheat in Banda district
+OK   | seed=141 | style=paraphrase_followup | call=10 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the sowing of wheat be done beyond 25th November in Band
+SKIP | seed=141 | style=paraphrase_followup | call=11
+OK   | seed=141 | style=paraphrase_followup | call=12 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the latest sowing date for wheat in Banda district i
+DUPE | seed=141 | style=paraphrase_yes_no | q=Should wheat be sown after 25th November in Banda district?
+SKIP | seed=141 | style=paraphrase_yes_no | call=2
+OK   | seed=141 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is it possible to sow wheat in Banda district after 25th Nov
+OK   | seed=141 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the sowing window for wheat in Banda district close by 
+DUPE | seed=141 | style=paraphrase_yes_no | q=Is the optimal sowing window for wheat in Banda district bet
+SKIP | seed=141 | style=paraphrase_yes_no | call=6
+OK   | seed=141 | style=paraphrase_yes_no | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Can wheat be sown until 20th December in Banda district?
+OK   | seed=141 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers in Banda district plan timely harvesting of p
+OK   | seed=141 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the best way to prevent yield loss in wheat due to d
+OK   | seed=141 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a way to ensure timely wheat sowing in Banda distri
+OK   | seed=141 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does proper field preparation help in preventing yield loss 
+OK   | seed=141 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there ways to prevent yield loss when sowing wheat late?
+OK   | seed=141 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should wheat sowing in Banda district be scheduled within th
+OK   | seed=141 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes the yield reduction in wheat when sowing is dela
+OK   | seed=141 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the reduction in wheat yield due to delayed sowing in Ban
+OK   | seed=141 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the timing of wheat sowing affect yield in Banda distri
+OK   | seed=141 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the sowing times for wheat in Banda district determined 
+OK   | seed=141 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Should wheat be sown during the optimal window to achieve a 
+DUPE | seed=141 | style=paraphrase_quantity_focused | q=What is the optimal sowing window duration for wheat in Band
+OK   | seed=141 | style=paraphrase_quantity_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the optimal sowing window for wheat in Banda district 25 
+OK   | seed=141 | style=paraphrase_quantity_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does delayed sowing beyond 25th November reduce wheat yield 
+SKIP | seed=141 | style=paraphrase_quantity_focused | call=5
+DUPE | seed=141 | style=paraphrase_quantity_focused | q=What is the optimal sowing window for wheat in Banda distric
+OK   | seed=141 | style=paraphrase_quantity_focused | call=7 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Which sowing period is recommended for wheat in Banda distri
+SKIP | seed=141 | style=paraphrase_quantity_focused | call=8
+OK   | seed=141 | style=paraphrase_quantity_focused | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is the yield potential reduced by 1-1.5% for each day of
+DUPE | seed=141 | style=paraphrase_timing_focused | q=Should wheat be sown between 1st November and 25th November 
+OK   | seed=141 | style=paraphrase_timing_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the ideal timeframe for sowing wheat in Banda distri
+DUPE | seed=141 | style=paraphrase_timing_focused | q=Is there a latest recommended sowing date for wheat in Banda
+DUPE | seed=141 | style=paraphrase_timing_focused | q=Does the sowing window for wheat in Banda district close by 
+DUPE | seed=141 | style=paraphrase_timing_focused | q=Are there specific dates for sowing wheat in Banda district?
+OK   | seed=141 | style=paraphrase_timing_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the latest date to sow wheat in Banda district of Ut
+OK   | seed=141 | style=paraphrase_timing_focused | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Which period is considered the optimal sowing window for whe
+OK   | seed=141 | style=paraphrase_timing_focused | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=When should wheat be sown in Banda district to ensure optima
+DUPE | seed=141 | style=paraphrase_timing_focused | q=Why is the optimal sowing window for wheat in Banda district
+SKIP | seed=141 | style=paraphrase_timing_focused | call=10
+OK   | seed=141 | style=paraphrase_timing_focused | call=11 | focus=unknown | judge=PASS | scope_overflow=False | q=Should wheat be sown in Banda district during a specific tim
+SKIP | seed=142 | style=paraphrase_formal | call=1
+SKIP | seed=142 | style=paraphrase_formal | call=2
+OK   | seed=142 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is the use of a sticker or adjuvant recommended for Bisp
+OK   | seed=142 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the use of a sticker be considered mandatory when applyi
+OK   | seed=142 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should a sticker be used when applying bispyribac sodium in 
+OK   | seed=142 | style=paraphrase_formal | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the necessity of using a sticker with Bispyribac Sod
+DUPE | seed=142 | style=paraphrase_formal | q=Is the use of a sticker mandatory when applying bispyribac s
+OK   | seed=142 | style=paraphrase_formal | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the application of Bispyribac Sodium 10% SC in paddy cr
+OK   | seed=142 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Which conditions require a sticker with bispyribac sodium?
+OK   | seed=142 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When is a sticker required for bispyribac sodium in paddy?
+OK   | seed=142 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is a sticker not mandatory for bispyribac sodium in padd
+OK   | seed=142 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can a sticker be omitted when using bispyribac sodium in pad
+DUPE | seed=142 | style=paraphrase_short | q=Should a sticker be used with bispyribac sodium in paddy?
+OK   | seed=142 | style=paraphrase_short | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What is recommended for Bispyribac Sodium application under 
+OK   | seed=142 | style=paraphrase_problem_description | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=The weeds in my paddy are not being controlled effectively a
+OK   | seed=142 | style=paraphrase_problem_description | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When weeds in my paddy field are not dying even after applyi
+OK   | seed=142 | style=paraphrase_problem_description | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why are weeds still growing after applying Bispyribac Sodium
+SKIP | seed=142 | style=paraphrase_problem_description | call=4
+OK   | seed=142 | style=paraphrase_problem_description | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Weeds are not being controlled. Should apply Bispyribac Sodi
+SKIP | seed=142 | style=paraphrase_problem_description | call=6
+OK   | seed=142 | style=paraphrase_problem_description | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the herbicide not sticking to the weeds even after sprayi
+SKIP | seed=142 | style=paraphrase_followup | call=1
+OK   | seed=142 | style=paraphrase_followup | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When should Bispyribac Sodium 10% SC be applied in paddy cro
+OK   | seed=142 | style=paraphrase_followup | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is Bispyribac Sodium applied 15-20 days after transplant
+OK   | seed=142 | style=paraphrase_followup | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can I skip using a sticker if the weeds have thin waxy coati
+SKIP | seed=142 | style=paraphrase_followup | call=5
+SKIP | seed=142 | style=paraphrase_followup | call=6
+OK   | seed=142 | style=paraphrase_followup | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a specific type of nozzle recommended for applying 
+OK   | seed=142 | style=paraphrase_followup | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the use of a sticker with Bispyribac Sodium depend on t
+DUPE | seed=142 | style=paraphrase_yes_no | q=Is a sticker required when applying Bispyribac Sodium in pad
+OK   | seed=142 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is it optimal to apply Bispyribac Sodium during early mornin
+SKIP | seed=142 | style=paraphrase_yes_no | call=3
+OK   | seed=142 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can a sticker be omitted when applying Bispyribac Sodium 10%
+SKIP | seed=142 | style=paraphrase_yes_no | call=5
+SKIP | seed=142 | style=paraphrase_yes_no | call=6
+OK   | seed=142 | style=paraphrase_yes_no | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Is it mandatory to use a sticker with Bispyribac Sodium in p
+OK   | seed=142 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Which practices can prevent the need for additional stickers
+OK   | seed=142 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When should preventive measures be taken to ensure effective
+OK   | seed=142 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is maintaining a 2-3 cm water level important when apply
+OK   | seed=142 | style=paraphrase_preventive | call=4 | focus=application_timing | judge=PASS | scope_overflow=False | q=Can maintaining optimal water levels and applying bispyribac
+OK   | seed=142 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers maintain specific water levels when applying 
+OK   | seed=142 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Which conditions necessitate the use of a sticker with Bispy
+OK   | seed=142 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When is the use of a sticker recommended for bispyribac sodi
+OK   | seed=142 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is a sticker not mandatory for Bispyribac Sodium in padd
+OK   | seed=142 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the necessity of using a sticker with bispyribac sodium 
+DUPE | seed=142 | style=paraphrase_cause | q=Should a sticker be used with Bispyribac Sodium in paddy?
+OK   | seed=142 | style=paraphrase_cause | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the reason for recommending stickers with Bispyribac
+OK   | seed=142 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Which quantity of Bispyribac Sodium 10% SC is recommended fo
+OK   | seed=142 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=When applying Bispyribac Sodium 10% SC in paddy, what is the
+OK   | seed=142 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Why is the dosage of Bispyribac Sodium 10% SC set at 80 ml/a
+OK   | seed=142 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Can you clarify the recommended dosage of Bispyribac Sodium 
+OK   | seed=142 | style=paraphrase_quantity_focused | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Should Bispyribac Sodium 10% SC be applied at 80 ml per acre
+OK   | seed=142 | style=paraphrase_timing_focused | call=1 | focus=application_timing | judge=PASS | scope_overflow=False | q=Which crop growth stage is optimal for applying Bispyribac S
+SKIP | seed=142 | style=paraphrase_timing_focused | call=2
+DUPE | seed=142 | style=paraphrase_timing_focused | q=When should Bispyribac Sodium 10% SC be applied in paddy cro
+OK   | seed=142 | style=paraphrase_timing_focused | call=4 | focus=application_timing | judge=PASS | scope_overflow=False | q=Can Bispyribac Sodium 10% SC be applied during specific grow
+OK   | seed=142 | style=paraphrase_timing_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers wait 78 days after applying Bispyribac Sodium
+OK   | seed=142 | style=paraphrase_timing_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended duration to maintain water level in 
+OK   | seed=142 | style=paraphrase_timing_focused | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Bispyribac Sodium application required to be completed a 
+OK   | seed=143 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific guidelines for the application of Di-Ammo
+SKIP | seed=143 | style=paraphrase_formal | call=2
+OK   | seed=143 | style=paraphrase_formal | call=3 | focus=application_method | judge=PASS | scope_overflow=False | q=Which application method is recommended for Di-Ammonium Phos
+SKIP | seed=143 | style=paraphrase_formal | call=4
+SKIP | seed=143 | style=paraphrase_formal | call=5
+OK   | seed=143 | style=paraphrase_formal | call=6 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Can the optimal application rate of Di-Ammonium Phosphate (D
+SKIP | seed=143 | style=paraphrase_formal | call=7
+OK   | seed=143 | style=paraphrase_formal | call=8 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended application rate of Di-Ammonium Phos
+OK   | seed=143 | style=paraphrase_formal | call=9 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Is there a specific recommended dosage of DAP for paddy nurs
+OK   | seed=143 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are 10-15 kg DAP per 1000 sqm recommended for paddy nurserie
+OK   | seed=143 | style=paraphrase_short | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the DAP application rate for paddy nurseries?
+OK   | seed=143 | style=paraphrase_short | call=3 | focus=application_method | judge=PASS | scope_overflow=False | q=Which DAP application method ensures proper distribution in 
+SKIP | seed=143 | style=paraphrase_short | call=4
+OK   | seed=143 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is DAP applied at 10-15 kg per 1000 sqm for paddy nurser
+OK   | seed=143 | style=paraphrase_short | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Can DAP be applied 2-3 days before paddy nursery sowing?
+SKIP | seed=143 | style=paraphrase_problem_description | call=1
+OK   | seed=143 | style=paraphrase_problem_description | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What if the seedlings are weak and not growing properly?
+OK   | seed=143 | style=paraphrase_problem_description | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=The seedlings in my nursery are weak and not growing properl
+OK   | seed=143 | style=paraphrase_problem_description | call=4 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=When I notice brown spots on paddy leaves and weak seedlings
+SKIP | seed=143 | style=paraphrase_problem_description | call=5
+OK   | seed=143 | style=paraphrase_problem_description | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the paddy seedlings in my nursery be stunted because of 
+SKIP | seed=143 | style=paraphrase_problem_description | call=7
+OK   | seed=143 | style=paraphrase_problem_description | call=8 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=What is the issue if paddy seedlings show weak growth and ye
+SKIP | seed=143 | style=paraphrase_followup | call=1
+OK   | seed=143 | style=paraphrase_followup | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended method for applying DAP to paddy nur
+OK   | seed=143 | style=paraphrase_followup | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Which method is recommended for applying DAP in paddy nurser
+OK   | seed=143 | style=paraphrase_followup | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When should I sow paddy seeds after applying DAP to the nurs
+SKIP | seed=143 | style=paraphrase_followup | call=5
+OK   | seed=143 | style=paraphrase_followup | call=6 | focus=application_method | judge=PASS | scope_overflow=False | q=Can the application method of DAP in paddy nurseries be adju
+SKIP | seed=143 | style=paraphrase_followup | call=7
+OK   | seed=143 | style=paraphrase_followup | call=8 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=What is the symptom of zinc deficiency in paddy nurseries?
+OK   | seed=143 | style=paraphrase_yes_no | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are paddy seeds treated with DAP directly during nursery sow
+SKIP | seed=143 | style=paraphrase_yes_no | call=2
+OK   | seed=143 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Should organic manure be applied before DAP in paddy nurseri
+OK   | seed=143 | style=paraphrase_yes_no | call=4 | focus=application_timing | judge=PASS | scope_overflow=False | q=Is DAP applied 2-3 days before sowing in paddy nurseries?
+OK   | seed=143 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there cultural practices to prevent poor paddy seedling 
+SKIP | seed=143 | style=paraphrase_preventive | call=2
+OK   | seed=143 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Which practices can prevent poor seedling establishment in p
+OK   | seed=143 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When preparing paddy nurseries, what preventive measures can
+OK   | seed=143 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is proper spacing and timing important for paddy nursery
+OK   | seed=143 | style=paraphrase_preventive | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Can proper green manure integration prevent nutrient deficie
+OK   | seed=143 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the recommended DAP quantities for paddy nurseries deter
+OK   | seed=143 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes the need for Di-Ammonium Phosphate (DAP) in padd
+OK   | seed=143 | style=paraphrase_cause | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Which factors necessitate the specific DAP application rate 
+OK   | seed=143 | style=paraphrase_cause | call=4 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=When is the recommended DAP application rate determined for 
+OK   | seed=143 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is 10-15 kg of DAP per 1000 square meters recommended fo
+DUPE | seed=143 | style=paraphrase_quantity_focused | q=What is the recommended DAP quantity for paddy nurseries?
+OK   | seed=143 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended DAP quantity for a standard 25 squar
+OK   | seed=143 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Which quantity of DAP should be mixed into the soil for padd
+OK   | seed=143 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=When applying DAP to paddy nurseries, what is the recommende
+OK   | seed=143 | style=paraphrase_quantity_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is 10-15 kg of DAP recommended for paddy nurseries?
+OK   | seed=143 | style=paraphrase_quantity_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Can 10-15 kg of DAP per 1000 square meters be applied to pad
+OK   | seed=143 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific timing guidelines for applying DAP before
+OK   | seed=143 | style=paraphrase_timing_focused | call=2 | focus=application_timing | judge=PASS | scope_overflow=False | q=What is the optimal time to apply DAP before sowing paddy nu
+OK   | seed=143 | style=paraphrase_timing_focused | call=3 | focus=application_timing | judge=PASS | scope_overflow=False | q=Which timing is recommended for applying urea to paddy nurse
+DUPE | seed=143 | style=paraphrase_timing_focused | q=When should DAP be mixed into the soil for paddy nursery pre
+DUPE | seed=143 | style=paraphrase_timing_focused | q=Why is DAP applied 2-3 days before paddy nursery sowing?
+OK   | seed=143 | style=paraphrase_timing_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Can DAP be applied 2-3 days before paddy nursery sowing as p
+OK   | seed=143 | style=paraphrase_timing_focused | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Should DAP be applied 2-3 days prior to paddy seed sowing in
+OK   | seed=144 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Which measures are recommended for controlling caterpillar a
+OK   | seed=144 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When addressing the control of caterpillar sucking insects i
+OK   | seed=144 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is chemical control of aphids in wheat crops recommended
+OK   | seed=144 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can effective management strategies be implemented to contro
+OK   | seed=144 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers implement specific measures to control caterp
+SKIP | seed=144 | style=paraphrase_short | call=1
+OK   | seed=144 | style=paraphrase_short | call=2 | focus=application_timing | judge=PASS | scope_overflow=False | q=When to apply insecticides for armyworm in wheat?
+SKIP | seed=144 | style=paraphrase_short | call=3
+SKIP | seed=144 | style=paraphrase_short | call=4
+OK   | seed=144 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers use Chlorantraniliprole for armyworm in wheat
+OK   | seed=144 | style=paraphrase_short | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What is control method for aphids in wheat?
+OK   | seed=144 | style=paraphrase_short | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Chlorantraniliprole 18.5% SC recommended for armyworm in 
+OK   | seed=144 | style=paraphrase_short | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Does aphid infestation in wheat cause yield reduction?
+OK   | seed=144 | style=paraphrase_problem_description | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Which pests are causing chewed leaves and curled young plant
+SKIP | seed=144 | style=paraphrase_problem_description | call=2
+OK   | seed=144 | style=paraphrase_problem_description | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why are the wheat leaves appearing ragged with chewed edges 
+OK   | seed=144 | style=paraphrase_problem_description | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can you help identify why my wheat leaves are appearing ragg
+OK   | seed=144 | style=paraphrase_problem_description | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should the leaves be torn and have a ragged look, with small
+OK   | seed=144 | style=paraphrase_problem_description | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the issue with my wheat plants showing chewed leaves
+SKIP | seed=144 | style=paraphrase_followup | call=1
+SKIP | seed=144 | style=paraphrase_followup | call=2
+SKIP | seed=144 | style=paraphrase_followup | call=3
+SKIP | seed=144 | style=paraphrase_followup | call=4
+OK   | seed=144 | style=paraphrase_followup | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should the pheromone trap lures be replaced more frequently 
+OK   | seed=144 | style=paraphrase_followup | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended time of day to apply chemical contro
+SKIP | seed=144 | style=paraphrase_followup | call=7
+OK   | seed=144 | style=paraphrase_followup | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the honeydew excretion from aphids in wheat crops lead 
+SKIP | seed=144 | style=paraphrase_followup | call=9
+SKIP | seed=144 | style=paraphrase_followup | call=10
+SKIP | seed=144 | style=paraphrase_followup | call=11
+JUDGE_RETRY | seed=144 | style=paraphrase_followup | retry=1/3 | conf=high | scope_overflow=False | issues=['The generated answer claims that insecticides should be applied in the late evening for aphid control, but this specific timing is not mentioned in the seed answer. The seed answer only mentions that chemical control should be applied if ETL is crossed, preferably in the late evening, without specifying that this is the best time for aphid control specifically.', 'The generated answer adds claims about aphids being more active during cooler parts of the day and about reducing evaporation and minimizing harm to beneficial insects, which are not explicitly stated in the seed answer.'] | q=When is the best time to apply insecticides for controlling 
+SKIP | seed=144 | style=paraphrase_followup | call=13 | (judge-retry)
+JUDGE_ABANDON | seed=144 | style=paraphrase_followup | conf=high | scope_overflow=False | issues=['The generated answer claims that insecticides should be applied in the late evening for aphid control, but this specific timing is not mentioned in the seed answer. The seed answer only mentions that chemical control should be applied if ETL is crossed, preferably in the late evening, without specifying that this is the best time for aphid control specifically.', 'The generated answer adds claims about aphids being more active during cooler parts of the day and about reducing evaporation and minimizing harm to beneficial insects, which are not explicitly stated in the seed answer.'] | q=When is the best time to apply insecticides for controlling 
+SKIP | seed=144 | style=paraphrase_followup | call=14
+SKIP | seed=144 | style=paraphrase_followup | call=15
+ABANDON | seed=144 | style=paraphrase_followup | done=3/5
+OK   | seed=144 | style=paraphrase_yes_no | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the use of pheromone traps recommended for monitoring arm
+OK   | seed=144 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When monitoring armyworm in wheat, is the use of pheromone t
+SKIP | seed=144 | style=paraphrase_yes_no | call=3
+OK   | seed=144 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can pheromone traps be used to monitor armyworm activity in 
+OK   | seed=144 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Which cultural practices can help prevent armyworm and sucki
+OK   | seed=144 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When should farmers implement cultural practices to prevent 
+OK   | seed=144 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is growing a barrier crop like mustard recommended for p
+OK   | seed=144 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can farmers prevent armyworm and aphid infestations in wheat
+OK   | seed=144 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers use barrier crops to prevent armyworm infesta
+OK   | seed=144 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Which factors contribute to the infestation of caterpillar s
+JUDGE_RETRY | seed=144 | style=paraphrase_cause | retry=1/3 | conf=high | scope_overflow=False | issues=['The generated answer includes information about aphids and jassids, which are not mentioned in the question. This introduces new topics not asked about in the question, which may be considered scope overflow depending on interpretation.', "The generated answer contains claims about 'honeydew excretion and virus transmission' and 'leaf curling and stunting' that are not explicitly present in the seed answer. These are paraphrased but not directly stated in the seed."] | q=When do armyworm infestations in wheat crops lead to severe 
+OK   | seed=144 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why do jassids cause leaf curling and stunting in wheat crop
+OK   | seed=144 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can you explain why armyworm infestation leads to ragged lea
+OK   | seed=144 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers be concerned about caterpillar damage in whea
+OK   | seed=144 | style=paraphrase_cause | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the environmental trigger for jassid infestation in 
+OK   | seed=144 | style=paraphrase_quantity_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Which rate of pheromone traps is recommended for monitoring 
+OK   | seed=144 | style=paraphrase_quantity_focused | call=2 | focus=application_timing | judge=PASS | scope_overflow=False | q=When is the correct time to apply Imidacloprid 17.8 SL, and 
+OK   | seed=144 | style=paraphrase_quantity_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is it necessary to replace the lure in pheromone traps e
+SKIP | seed=144 | style=paraphrase_quantity_focused | call=4
+SKIP | seed=144 | style=paraphrase_quantity_focused | call=5
+OK   | seed=144 | style=paraphrase_quantity_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended rate for installing pheromone traps 
+OK   | seed=144 | style=paraphrase_quantity_focused | call=7 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Is 4 to 5 pheromone traps per acre recommended for monitorin
+SKIP | seed=144 | style=paraphrase_timing_focused | call=1
+SKIP | seed=144 | style=paraphrase_timing_focused | call=2
+OK   | seed=144 | style=paraphrase_timing_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=When should wheat be sown to avoid peak infestation of pests
+OK   | seed=144 | style=paraphrase_timing_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the farmer determine the optimal time for scouting aphid
+SKIP | seed=144 | style=paraphrase_timing_focused | call=5
+SKIP | seed=144 | style=paraphrase_timing_focused | call=6
+SKIP | seed=144 | style=paraphrase_timing_focused | call=7
+SKIP | seed=144 | style=paraphrase_timing_focused | call=8
+SKIP | seed=144 | style=paraphrase_timing_focused | call=9
+OK   | seed=144 | style=paraphrase_timing_focused | call=10 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the optimal time for sowing wheat to prevent pest in
+SKIP | seed=144 | style=paraphrase_timing_focused | call=11
+OK   | seed=144 | style=paraphrase_timing_focused | call=12 | focus=unknown | judge=PASS | scope_overflow=False | q=When is the optimal time to scout for aphid and jassid infes
+OK   | seed=144 | style=paraphrase_timing_focused | call=13 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is sowing wheat in the first fortnight of November recom
+OK   | seed=145 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is integrated weed management crucial for potato cultiva
+OK   | seed=145 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the optimal timing for implementing integrated weed 
+OK   | seed=145 | style=paraphrase_formal | call=3 | focus=application_timing | judge=PASS | scope_overflow=False | q=Should the timing of weed management practices be adjusted b
+OK   | seed=145 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended integrated weed management strategy 
+DUPE | seed=145 | style=paraphrase_formal | q=Is integrated weed management necessary for potato cultivati
+OK   | seed=145 | style=paraphrase_formal | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the timing of herbicide application and cultural practi
+OK   | seed=145 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Why use Metribuzin 70% WP for potato weeds?
+OK   | seed=145 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Can Metribuzin 70% WP control potato weeds?
+SKIP | seed=145 | style=paraphrase_short | call=3
+OK   | seed=145 | style=paraphrase_short | call=4 | focus=application_timing | judge=PASS | scope_overflow=False | q=What is the correct time for potato weed management?
+OK   | seed=145 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Metribuzin 70% WP applied 3-5 days after planting?
+OK   | seed=145 | style=paraphrase_short | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Does Paraquat 24% SL require 100-day PHI?
+OK   | seed=145 | style=paraphrase_problem_description | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Why are weeds in my potato field affecting crop growth?
+OK   | seed=145 | style=paraphrase_problem_description | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Can weeds in my field be hindering crop growth?
+OK   | seed=145 | style=paraphrase_problem_description | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Should I address the dense weeds emerging in my potato field
+OK   | seed=145 | style=paraphrase_problem_description | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the best way to control weeds in my potato field whe
+OK   | seed=145 | style=paraphrase_problem_description | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a lot of weeds growing in the field, making it hard
+SKIP | seed=145 | style=paraphrase_followup | call=1
+OK   | seed=145 | style=paraphrase_followup | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Can you clarify the optimal timing for applying Metribuzin 7
+OK   | seed=145 | style=paraphrase_followup | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Metribuzin 70% WP be applied before or after weed eme
+OK   | seed=145 | style=paraphrase_followup | call=4 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended dosage of Metribuzin 70% WP for pota
+OK   | seed=145 | style=paraphrase_followup | call=5 | focus=application_method | judge=PASS | scope_overflow=False | q=Is the application method for Metribuzin 70% WP different fo
+SKIP | seed=145 | style=paraphrase_followup | call=6
+OK   | seed=145 | style=paraphrase_followup | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the timings for earthing up during potato cultivation sp
+OK   | seed=145 | style=paraphrase_yes_no | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Integrated Weed Management (IWM) recommended for potato w
+SKIP | seed=145 | style=paraphrase_yes_no | call=2
+SKIP | seed=145 | style=paraphrase_yes_no | call=3
+OK   | seed=145 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Metribuzin 70% WP suitable for pre-emergence weed control
+OK   | seed=145 | style=paraphrase_yes_no | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Paraquat dichloride 24% SL used for post-emergence weed c
+DUPE | seed=145 | style=paraphrase_preventive | q=Why is integrated weed management essential for wheat cultiv
+SKIP | seed=145 | style=paraphrase_preventive | call=2
+OK   | seed=145 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Should earthing up be done at specific intervals to prevent 
+OK   | seed=145 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended cultural practice to prevent weed co
+OK   | seed=145 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a way to prevent weeds in potato crops?
+JUDGE_RETRY | seed=145 | style=paraphrase_preventive | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer claims that earthing up 'reduces weed competition by covering emerging weeds with soil while improving root zone aeration' — this specific mechanism of action is not explicitly mentioned in the seed answer.", "The generated answer states that earthing up 'ensures better weed management without chemical inputs' — this is a new claim not present in the seed answer, which emphasizes the combination of earthing up with herbicides and manual weeding."] | q=Does earthing up help prevent weed growth in potato crops?
+OK   | seed=145 | style=paraphrase_preventive | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there cultural practices to prevent weed competition in 
+SKIP | seed=145 | style=paraphrase_preventive | call=8
+OK   | seed=145 | style=paraphrase_preventive | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=Which cultural practices help prevent weed infestation in wh
+OK   | seed=145 | style=paraphrase_cause | call=1 | focus=application_timing | judge=PASS | scope_overflow=False | q=Why is weed competition critical for potato yield during ear
+OK   | seed=145 | style=paraphrase_cause | call=2 | focus=application_timing | judge=PASS | scope_overflow=False | q=Can intense competition from weeds during early potato growt
+OK   | seed=145 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Should weed management be prioritized during potato cultivat
+OK   | seed=145 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the primary reason for effective weed management in 
+OK   | seed=145 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Is weed competition the main cause of low potato yields?
+OK   | seed=145 | style=paraphrase_quantity_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is 300 g/acre of Metribuzin 70% WP recommended for potat
+SKIP | seed=145 | style=paraphrase_quantity_focused | call=2
+OK   | seed=145 | style=paraphrase_quantity_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Metribuzin 70% WP be diluted in 300–400 litres of wat
+DUPE | seed=145 | style=paraphrase_quantity_focused | q=What is the dosage of Metribuzin 70% WP for potato weed mana
+OK   | seed=145 | style=paraphrase_quantity_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Is 300-400 litres of water used for diluting Metribuzin 70% 
+OK   | seed=145 | style=paraphrase_quantity_focused | call=6 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Does Metribuzin 70% WP require 300–400 litres of water per a
+SKIP | seed=145 | style=paraphrase_quantity_focused | call=7
+DUPE | seed=145 | style=paraphrase_quantity_focused | q=What is the recommended dosage of Metribuzin 70% WP for weed
+OK   | seed=145 | style=paraphrase_quantity_focused | call=9 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Which herbicide dosage is recommended for pre-emergence weed
+SKIP | seed=145 | style=paraphrase_timing_focused | call=1
+OK   | seed=145 | style=paraphrase_timing_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the second earthing up be performed at 45 DAP for potato
+SKIP | seed=145 | style=paraphrase_timing_focused | call=3
+OK   | seed=145 | style=paraphrase_timing_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the optimal timing for applying Metribuzin 70% WP in
+SKIP | seed=145 | style=paraphrase_timing_focused | call=5
+OK   | seed=145 | style=paraphrase_timing_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the application of Metribuzin 70% WP after planting req
+OK   | seed=145 | style=paraphrase_timing_focused | call=7 | focus=application_timing | judge=PASS | scope_overflow=False | q=Are there specific growth stages when earthing up should be 
+OK   | seed=145 | style=paraphrase_timing_focused | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the optimal timing for earthing up in potato cultiva
+OK   | seed=146 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is panicle initiation a critical phase in paddy cultivat
+OK   | seed=146 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Can you explain the timing of panicle initiation in paddy an
+OK   | seed=146 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers apply nitrogen fertilizer during the panicle 
+OK   | seed=146 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the timeline and key management strategies during pa
+SKIP | seed=146 | style=paraphrase_formal | call=5
+OK   | seed=146 | style=paraphrase_formal | call=6 | focus=application_timing | judge=PASS | scope_overflow=False | q=Does panicle initiation in paddy occur at a specific time af
+OK   | seed=146 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is panicle initiation critical in paddy?
+SKIP | seed=146 | style=paraphrase_short | call=2
+OK   | seed=146 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Should nitrogen fertilizer be applied during paddy panicle i
+OK   | seed=146 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is panicle initiation timing in paddy?
+OK   | seed=146 | style=paraphrase_short | call=5 | focus=application_timing | judge=PASS | scope_overflow=False | q=Is panicle initiation in paddy around 100 days after sowing?
+OK   | seed=146 | style=paraphrase_short | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Does applying nitrogen fertilizer at panicle initiation impr
+SKIP | seed=146 | style=paraphrase_problem_description | call=1
+SKIP | seed=146 | style=paraphrase_problem_description | call=2
+SKIP | seed=146 | style=paraphrase_problem_description | call=3
+SKIP | seed=146 | style=paraphrase_problem_description | call=4
+SKIP | seed=146 | style=paraphrase_problem_description | call=5
+SKIP | seed=146 | style=paraphrase_problem_description | call=6
+ABANDON | seed=146 | style=paraphrase_problem_description | done=0/5
+OK   | seed=146 | style=paraphrase_followup | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When should the second split of nitrogen fertilizer be appli
+SKIP | seed=146 | style=paraphrase_followup | call=2
+OK   | seed=146 | style=paraphrase_followup | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Should the water level be maintained at 5-7 cm during panicl
+OK   | seed=146 | style=paraphrase_followup | call=4 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=What is the recommended irrigation method during panicle ini
+OK   | seed=146 | style=paraphrase_followup | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Is the dosage of nitrogen fertilizer at panicle initiation 2
+SKIP | seed=146 | style=paraphrase_followup | call=6
+SKIP | seed=146 | style=paraphrase_followup | call=7
+OK   | seed=146 | style=paraphrase_followup | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the resistance level of ADT 43 variety to blast dise
+SKIP | seed=146 | style=paraphrase_yes_no | call=1
+DUPE | seed=146 | style=paraphrase_yes_no | q=Can the second split of nitrogen fertilizer be applied durin
+OK   | seed=146 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Should the second split of nitrogen fertilizer be applied at
+OK   | seed=146 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is applying the second split of nitrogen fertilizer recommen
+OK   | seed=146 | style=paraphrase_yes_no | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Is it recommended to use farm-saved seeds for more than 2-3 
+OK   | seed=146 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is selecting certified seeds and maintaining optimal spa
+OK   | seed=146 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Can proper seed selection and spacing prevent yield loss dur
+OK   | seed=146 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers prioritize using certified seeds and proper s
+SKIP | seed=146 | style=paraphrase_preventive | call=4
+OK   | seed=146 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a way to prevent yield loss during panicle initiati
+OK   | seed=146 | style=paraphrase_preventive | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Does selecting certified seeds and proper spacing help preve
+OK   | seed=146 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is panicle initiation a critical stage in paddy cultivat
+OK   | seed=146 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Can water stress during panicle initiation reduce paddy yiel
+OK   | seed=146 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Should consistent water supply be maintained during panicle 
+OK   | seed=146 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the effect of insufficient water supply during panic
+OK   | seed=146 | style=paraphrase_cause | call=5 | focus=pathogen_name | judge=PASS | scope_overflow=False | q=Is panicle initiation caused by the plant's transition to re
+SKIP | seed=146 | style=paraphrase_quantity_focused | call=1
+SKIP | seed=146 | style=paraphrase_quantity_focused | call=2
+OK   | seed=146 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Should the seed rate for transplanting nurseries in paddy be
+SKIP | seed=146 | style=paraphrase_quantity_focused | call=4
+OK   | seed=146 | style=paraphrase_quantity_focused | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Is the seed rate for direct seeding in paddy 20-25 kg per he
+OK   | seed=146 | style=paraphrase_quantity_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the panicle initiation stage require a specific water d
+OK   | seed=146 | style=paraphrase_quantity_focused | call=7 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Are 30-35 kg per hectare the recommended seed rates for tran
+OK   | seed=146 | style=paraphrase_quantity_focused | call=8 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the seed rate for transplanting nurseries in paddy c
+SKIP | seed=146 | style=paraphrase_timing_focused | call=1
+SKIP | seed=146 | style=paraphrase_timing_focused | call=2
+DUPE | seed=146 | style=paraphrase_timing_focused | q=When should the second split of nitrogen fertilizer be appli
+OK   | seed=146 | style=paraphrase_timing_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the panicle initiation timing for ADT 43 variety in 
+SKIP | seed=146 | style=paraphrase_timing_focused | call=5
+DUPE | seed=146 | style=paraphrase_timing_focused | q=Does the second split of nitrogen fertilizer application occ
+OK   | seed=146 | style=paraphrase_timing_focused | call=7 | focus=application_timing | judge=PASS | scope_overflow=False | q=Are there specific days after sowing when panicle initiation
+DUPE | seed=146 | style=paraphrase_timing_focused | q=When should the second split of nitrogen fertilizer be appli
+SKIP | seed=146 | style=paraphrase_timing_focused | call=9
+SKIP | seed=146 | style=paraphrase_timing_focused | call=10
+SKIP | seed=146 | style=paraphrase_timing_focused | call=11
+OK   | seed=146 | style=paraphrase_timing_focused | call=12 | focus=application_timing | judge=PASS | scope_overflow=False | q=Can panicle initiation in paddy be scheduled during a specif
+SKIP | seed=146 | style=paraphrase_timing_focused | call=13
+OK   | seed=146 | style=paraphrase_timing_focused | call=14 | focus=application_timing | judge=PASS | scope_overflow=False | q=What is the typical time period for panicle initiation in pa
+OK   | seed=146 | style=paraphrase_timing_focused | call=15 | focus=application_timing | judge=PASS | scope_overflow=False | q=Is panicle initiation in paddy generally observed within a s
+SKIP | seed=147 | style=paraphrase_formal | call=1
+OK   | seed=147 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers prioritize specific Bt cotton hybrids over An
+OK   | seed=147 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended approach for selecting Bt cotton hyb
+SKIP | seed=147 | style=paraphrase_formal | call=4
+OK   | seed=147 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Does Ankur 3028, MRC 7017, and MRC 6301 cotton varieties exh
+OK   | seed=147 | style=paraphrase_formal | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the characteristics and performance of Ankur 3028, MRC 7
+OK   | seed=147 | style=paraphrase_formal | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the key characteristics and yield performance of th
+OK   | seed=147 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Can Ankur 3028 and MRC 7017 Bt cotton hybrids be recommended
+SKIP | seed=147 | style=paraphrase_short | call=2
+OK   | seed=147 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the yield of MRC 6301 cotton variety?
+OK   | seed=147 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is MRC 6301 a high-yielding Bt cotton hybrid?
+OK   | seed=147 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Does Ankur 3028 resist bollworms?
+SKIP | seed=147 | style=paraphrase_short | call=6
+SKIP | seed=147 | style=paraphrase_short | call=7
+JUDGE_RETRY | seed=147 | style=paraphrase_short | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer claims that 'Ankur 3028' is resistant to bollworms, but the seed answer only mentions that 'Ankur series hybrids such as 3228 BG II and 3244 BG II' are better alternatives, not 3028 specifically. This is an ungrounded claim.", "The generated answer mentions 'MRC 6301 Bt' as resistant to bollworms, which is partially grounded (the seed mentions it is resistant to spotted and American bollworm), but the claim is made without the full context of the seed answer, which also states that MRC 6301 Bt is 'not recommended by PAU'."] | q=Which Bt cotton hybrids resist bollworms?
+OK   | seed=147 | style=paraphrase_short | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=When is the optimal sowing period for Ankur 3028 and MRC 701
+SKIP | seed=147 | style=paraphrase_problem_description | call=1
+SKIP | seed=147 | style=paraphrase_problem_description | call=2
+SKIP | seed=147 | style=paraphrase_problem_description | call=3
+JUDGE_RETRY | seed=147 | style=paraphrase_problem_description | retry=1/3 | conf=high | scope_overflow=False | issues=["The claim that the variety 'may lack vigor and optimal boll size' is not explicitly stated in the seed answer. The seed answer mentions that the variety has 'strong plant vigor' and 'big bolls', so this is an ungrounded claim.", "The recommendation to 'switch to recommended Bt hybrids like MRC 7301 BG II' is not explicitly stated in the seed answer. The seed answer mentions MRC 7301 BG II as a variety that is 'not recommended by PAU', so this is an ungrounded recommendation."] | q=Is my cotton crop showing weak plant growth and small bolls 
+SKIP | seed=147 | style=paraphrase_problem_description | call=5 | (judge-retry)
+JUDGE_ABANDON | seed=147 | style=paraphrase_problem_description | conf=high | scope_overflow=False | issues=["The claim that the variety 'may lack vigor and optimal boll size' is not explicitly stated in the seed answer. The seed answer mentions that the variety has 'strong plant vigor' and 'big bolls', so this is an ungrounded claim.", "The recommendation to 'switch to recommended Bt hybrids like MRC 7301 BG II' is not explicitly stated in the seed answer. The seed answer mentions MRC 7301 BG II as a variety that is 'not recommended by PAU', so this is an ungrounded recommendation."] | q=Is my cotton crop showing weak plant growth and small bolls 
+OK   | seed=147 | style=paraphrase_problem_description | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the cotton plants showing weak growth and small bolls de
+JUDGE_RETRY | seed=147 | style=paraphrase_problem_description | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer introduces the recommendation to 'consult the nearest KVK' and 'purchase certified seeds from authorized dealers' without these specific suggestions being explicitly present in the seed answer.", "The generated answer makes a general claim about 'improving performance' without specifying how or why, which is not directly supported by the seed answer."] | q=What if the cotton plants have weak growth and damaged bolls
+SKIP | seed=147 | style=paraphrase_problem_description | call=8 | (judge-retry)
+JUDGE_ABANDON | seed=147 | style=paraphrase_problem_description | conf=high | scope_overflow=False | issues=["The generated answer introduces the recommendation to 'consult the nearest KVK' and 'purchase certified seeds from authorized dealers' without these specific suggestions being explicitly present in the seed answer.", "The generated answer makes a general claim about 'improving performance' without specifying how or why, which is not directly supported by the seed answer."] | q=What if the cotton plants have weak growth and damaged bolls
+OK   | seed=147 | style=paraphrase_problem_description | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=When the cotton plants show stunted growth and low boll form
+SKIP | seed=147 | style=paraphrase_problem_description | call=10
+OK   | seed=147 | style=paraphrase_problem_description | call=11 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the cotton plants in my field have small bolls and low y
+SKIP | seed=147 | style=paraphrase_problem_description | call=12
+OK   | seed=147 | style=paraphrase_problem_description | call=13 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the best way to improve cotton yield and pest resist
+SKIP | seed=147 | style=paraphrase_problem_description | call=14
+DUPE | seed=147 | style=paraphrase_problem_description | q=Does the cotton crop have weak growth and small bolls despit
+SKIP | seed=147 | style=paraphrase_problem_description | call=16
+OK   | seed=147 | style=paraphrase_problem_description | call=17 | focus=unknown | judge=PASS | scope_overflow=False | q=What should I do if my cotton plants are not growing properl
+OK   | seed=147 | style=paraphrase_followup | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When is the best time to sow Ankur 3028 and MRC 7017 cotton 
+SKIP | seed=147 | style=paraphrase_followup | call=2
+SKIP | seed=147 | style=paraphrase_followup | call=3
+SKIP | seed=147 | style=paraphrase_followup | call=4
+SKIP | seed=147 | style=paraphrase_followup | call=5
+SKIP | seed=147 | style=paraphrase_followup | call=6
+SKIP | seed=147 | style=paraphrase_followup | call=7
+ABANDON | seed=147 | style=paraphrase_followup | done=1/5
+OK   | seed=147 | style=paraphrase_yes_no | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Ankur 3028 recommended by Punjab Agricultural University?
+OK   | seed=147 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers avoid planting Ankur 3028 and MRC 7017 due to
+OK   | seed=147 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is purchasing certified seeds recommended for cotton cultiva
+OK   | seed=147 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Can farmers prevent lower yields and pest susceptibility in 
+OK   | seed=147 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers avoid certain cotton varieties to prevent low
+OK   | seed=147 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the best way to prevent poor germination and low yie
+OK   | seed=147 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is ensuring seed quality through certified sources a prevent
+OK   | seed=147 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Does selecting certified seeds help prevent poor germination
+SKIP | seed=147 | style=paraphrase_cause | call=1
+OK   | seed=147 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers avoid Ankur 3028 and MRC 7017 Bt cotton hybri
+OK   | seed=147 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the reason behind the non-recommendation of Ankur 30
+OK   | seed=147 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the Ankur 3028 cotton variety not recommended due to its 
+OK   | seed=147 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the performance of Ankur 3028 and MRC 7017 cotton varie
+JUDGE_RETRY | seed=147 | style=paraphrase_cause | retry=1/3 | conf=high | scope_overflow=False | issues=["The claim that Ankur 3028 and MRC 7017 have a 'narrower resistance profile against pests compared to newer Bt hybrids' is not explicitly stated in the seed answer. The seed answer mentions that they are not recommended by PAU and that better alternatives exist, but it does not directly compare their resistance spectrum.", "The claim that they 'lack the enhanced genetic improvements in newer hybrids' is an interpretation not explicitly stated in the seed answer."] | q=Are the performance limitations of Ankur 3028 and MRC 7017 c
+OK   | seed=147 | style=paraphrase_cause | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=What factors lead to the recommendation against older Ankur 
+OK   | seed=147 | style=paraphrase_quantity_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Can you provide the yield of MRC 6301 Bt cotton hybrid?
+SKIP | seed=147 | style=paraphrase_quantity_focused | call=2
+OK   | seed=147 | style=paraphrase_quantity_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the boll size of MRC 6301 Bt cotton hybrid?
+OK   | seed=147 | style=paraphrase_quantity_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the average yield of MRC 6301 Bt cotton hybrid 10.0 q/acr
+OK   | seed=147 | style=paraphrase_quantity_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Does MRC 6301 Bt cotton have an average yield of 10.0 q/acre
+SKIP | seed=147 | style=paraphrase_quantity_focused | call=6
+DUPE | seed=147 | style=paraphrase_quantity_focused | q=What is the average yield of MRC 6301 Bt cotton?
+OK   | seed=147 | style=paraphrase_quantity_focused | call=8 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Which quantity of seed cotton yield is associated with MRC 6
+OK   | seed=147 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Can Ankur 3028 and MRC 7017 cotton varieties be sown during 
+DUPE | seed=147 | style=paraphrase_timing_focused | q=Should Ankur 3028 and MRC 7017 cotton varieties be sown duri
+OK   | seed=147 | style=paraphrase_timing_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the optimal sowing time for Ankur 3028 and MRC 7017 
+DUPE | seed=147 | style=paraphrase_timing_focused | q=Is there an optimal time for sowing Ankur 3028 and MRC 7017 
+SKIP | seed=147 | style=paraphrase_timing_focused | call=5
+SKIP | seed=147 | style=paraphrase_timing_focused | call=6
+DUPE | seed=147 | style=paraphrase_timing_focused | q=What is the recommended sowing time for Ankur 3028 and MRC 7
+OK   | seed=147 | style=paraphrase_timing_focused | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Which months are recommended for sowing Ankur 3028 and MRC 7
+DUPE | seed=147 | style=paraphrase_timing_focused | q=When is the optimal sowing time for Ankur 3028 and MRC 7017 
+OK   | seed=147 | style=paraphrase_timing_focused | call=10 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is the sowing period for Ankur 3028 and MRC 7017 cotton 
+DUPE | seed=147 | style=paraphrase_timing_focused | q=Can you specify the optimal sowing time for Ankur 3028 and M
+DUPE | seed=147 | style=paraphrase_timing_focused | q=Should cotton varieties Ankur 3028 and MRC 7017 be sown duri
+DUPE | seed=147 | style=paraphrase_timing_focused | q=What is the recommended sowing time for Ankur 3028 and MRC 7
+DUPE | seed=147 | style=paraphrase_timing_focused | q=When is the optimal time to sow Ankur 3028 and MRC 7017 cott
+DUPE | seed=147 | style=paraphrase_timing_focused | q=When is the optimal time to sow Ankur 3028 and MRC 7017 cott
+OK   | seed=147 | style=paraphrase_timing_focused | call=16 | focus=unknown | judge=PASS | scope_overflow=False | q=Are Ankur 3028 and MRC 7017 suitable for sowing during April
+OK   | seed=148 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there effective strategies to mitigate boron deficiency 
+OK   | seed=148 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What measures are recommended to mitigate boron deficiency i
+OK   | seed=148 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Which measures are recommended to mitigate boron deficiency 
+OK   | seed=148 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When should boron deficiency in wheat be addressed, and what
+OK   | seed=148 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is boron deficiency a concern in wheat cultivation, and 
+OK   | seed=148 | style=paraphrase_short | call=1 | focus=application_method | judge=PASS | scope_overflow=False | q=Are borax and foliar sprays effective for wheat boron defici
+OK   | seed=148 | style=paraphrase_short | call=2 | focus=application_method | judge=PASS | scope_overflow=False | q=What foliar spray concentration corrects wheat boron deficie
+OK   | seed=148 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Which boron source is recommended for wheat deficiency?
+SKIP | seed=148 | style=paraphrase_short | call=4
+OK   | seed=148 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why apply borax for wheat boron deficiency?
+OK   | seed=148 | style=paraphrase_short | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Can borax be applied to correct boron deficiency in wheat?
+OK   | seed=148 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Are the middle leaves of young wheat plants showing yellow p
+OK   | seed=148 | style=paraphrase_problem_description | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What if my wheat plants have orange patches on middle leaves
+OK   | seed=148 | style=paraphrase_problem_description | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Which crops show yellow patches on middle leaves and misshap
+OK   | seed=148 | style=paraphrase_problem_description | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When young wheat plants show chlorotic patches on middle lea
+OK   | seed=148 | style=paraphrase_problem_description | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why are the middle leaves of my wheat seedlings showing yell
+DUPE | seed=148 | style=paraphrase_followup | q=How should borax be applied to correct boron deficiency in w
+OK   | seed=148 | style=paraphrase_followup | call=2 | focus=application_method | judge=PASS | scope_overflow=False | q=What is the correct application method for borax to treat Bo
+SKIP | seed=148 | style=paraphrase_followup | call=3
+SKIP | seed=148 | style=paraphrase_followup | call=4
+OK   | seed=148 | style=paraphrase_followup | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Why is the dosage of borax 4-6 kg per acre?
+SKIP | seed=148 | style=paraphrase_followup | call=6
+SKIP | seed=148 | style=paraphrase_followup | call=7
+OK   | seed=148 | style=paraphrase_followup | call=8 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=What is the specific symptom observed on the middle leaves o
+SKIP | seed=148 | style=paraphrase_followup | call=9
+OK   | seed=148 | style=paraphrase_followup | call=10 | focus=unknown | judge=PASS | scope_overflow=False | q=Does borax application help in addressing Boron deficiency i
+OK   | seed=148 | style=paraphrase_followup | call=11 | focus=soil_condition | judge=PASS | scope_overflow=False | q=Are there specific soil conditions where Boron deficiency in
+OK   | seed=148 | style=paraphrase_yes_no | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is borax application recommended for correcting Boron defici
+OK   | seed=148 | style=paraphrase_yes_no | call=2 | focus=application_method | judge=PASS | scope_overflow=False | q=Can foliar sprays of boron be used to correct deficiency dur
+SKIP | seed=148 | style=paraphrase_yes_no | call=3
+DUPE | seed=148 | style=paraphrase_yes_no | q=Can foliar sprays of boron be used to correct Boron deficien
+SKIP | seed=148 | style=paraphrase_yes_no | call=5
+DUPE | seed=148 | style=paraphrase_yes_no | q=Can foliar sprays of boron be used to address Boron deficien
+DUPE | seed=148 | style=paraphrase_yes_no | q=Should borax be applied to correct boron deficiency in wheat
+OK   | seed=148 | style=paraphrase_yes_no | call=8 | focus=application_method | judge=PASS | scope_overflow=False | q=Can foliar sprays of boron be used to address deficiency in 
+OK   | seed=148 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there cultural practices to prevent Boron deficiency in 
+OK   | seed=148 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What steps can be taken to prevent boron deficiency in wheat
+OK   | seed=148 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Which practices can prevent Boron deficiency in wheat?
+OK   | seed=148 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When should I apply borax to prevent Boron deficiency in whe
+SKIP | seed=148 | style=paraphrase_preventive | call=5
+OK   | seed=148 | style=paraphrase_preventive | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Can I prevent Boron deficiency in wheat through soil prepara
+SKIP | seed=148 | style=paraphrase_cause | call=1
+SKIP | seed=148 | style=paraphrase_cause | call=2
+OK   | seed=148 | style=paraphrase_cause | call=3 | focus=soil_condition | judge=PASS | scope_overflow=False | q=Which soil types are most prone to causing Boron deficiency 
+OK   | seed=148 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When does boron deficiency in wheat occur, and why does it l
+OK   | seed=148 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why does Boron deficiency occur in wheat?
+OK   | seed=148 | style=paraphrase_cause | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Can boron deficiency in wheat lead to reproductive structure
+SKIP | seed=148 | style=paraphrase_cause | call=7
+SKIP | seed=148 | style=paraphrase_cause | call=8
+SKIP | seed=148 | style=paraphrase_cause | call=9
+OK   | seed=148 | style=paraphrase_cause | call=10 | focus=soil_condition | judge=PASS | scope_overflow=False | q=Does Boron deficiency in wheat occur due to specific soil ty
+OK   | seed=148 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Are 4–6 kg of borax per acre recommended for wheat?
+OK   | seed=148 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended application rate of borax for addres
+OK   | seed=148 | style=paraphrase_quantity_focused | call=3 | focus=application_method | judge=PASS | scope_overflow=False | q=Which concentration of boron is recommended for foliar spray
+OK   | seed=148 | style=paraphrase_quantity_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When should borax be applied to wheat fields for boron defic
+OK   | seed=148 | style=paraphrase_quantity_focused | call=5 | focus=application_method | judge=PASS | scope_overflow=False | q=Why is a 0.2–0.4% boron foliar spray recommended for wheat?
+OK   | seed=148 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific times during the wheat growth cycle when 
+SKIP | seed=148 | style=paraphrase_timing_focused | call=2
+OK   | seed=148 | style=paraphrase_timing_focused | call=3 | focus=application_timing | judge=PASS | scope_overflow=False | q=Which stage is optimal for applying borax to correct Boron d
+OK   | seed=148 | style=paraphrase_timing_focused | call=4 | focus=application_method | judge=PASS | scope_overflow=False | q=When should foliar sprays of boron be applied for wheat affe
+OK   | seed=148 | style=paraphrase_timing_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why should boron sprays be applied during crop growth?
+OK   | seed=148 | style=paraphrase_timing_focused | call=6 | focus=application_timing | judge=PASS | scope_overflow=False | q=Can boron deficiency in wheat be addressed with foliar spray
+OK   | seed=149 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the application of Fipronil recommended for paddy crops a
+SKIP | seed=149 | style=paraphrase_formal | call=2
+OK   | seed=149 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific guidelines for the application of Fiproni
+SKIP | seed=149 | style=paraphrase_formal | call=4
+OK   | seed=149 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Which guidelines apply for Fipronil use on 10–15-day-old pad
+SKIP | seed=149 | style=paraphrase_formal | call=6
+OK   | seed=149 | style=paraphrase_formal | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is Fipronil not recommended for application on 10–15-day
+OK   | seed=149 | style=paraphrase_formal | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the application of Fipronil permissible on paddy crops ag
+OK   | seed=149 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Fipronil recommended for 10-15-day-old paddy?
+OK   | seed=149 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does Fipronil application on 10-15-day-old paddy crops have 
+OK   | seed=149 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are ETL guidelines available for stem borer in paddy?
+SKIP | seed=149 | style=paraphrase_short | call=4
+OK   | seed=149 | style=paraphrase_short | call=5 | focus=chemical_name | judge=PASS | scope_overflow=False | q=Which pesticide should not be used on 10-15-day-old paddy?
+SKIP | seed=149 | style=paraphrase_short | call=6
+DUPE | seed=149 | style=paraphrase_short | q=Why is Fipronil not recommended for 10–15-day-old paddy crop
+SKIP | seed=149 | style=paraphrase_short | call=8
+OK   | seed=149 | style=paraphrase_short | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Fipronil be applied on 10-15-day-old paddy?
+SKIP | seed=149 | style=paraphrase_problem_description | call=1
+SKIP | seed=149 | style=paraphrase_problem_description | call=2
+OK   | seed=149 | style=paraphrase_problem_description | call=3 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Are the young paddy plants showing yellowing and stunted gro
+SKIP | seed=149 | style=paraphrase_problem_description | call=4
+SKIP | seed=149 | style=paraphrase_problem_description | call=5
+SKIP | seed=149 | style=paraphrase_problem_description | call=6
+OK   | seed=149 | style=paraphrase_problem_description | call=7 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Why are the young paddy plants showing stunted growth and ye
+SKIP | seed=149 | style=paraphrase_problem_description | call=8
+SKIP | seed=149 | style=paraphrase_problem_description | call=9
+OK   | seed=149 | style=paraphrase_problem_description | call=10 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=What is causing wilting and damage in my paddy seedlings?
+OK   | seed=149 | style=paraphrase_problem_description | call=11 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a way to manage pests damaging young paddy seedling
+SKIP | seed=149 | style=paraphrase_problem_description | call=12
+SKIP | seed=149 | style=paraphrase_problem_description | call=13
+OK   | seed=149 | style=paraphrase_problem_description | call=14 | focus=unknown | judge=PASS | scope_overflow=False | q=What if paddy seedlings are weak and some leaves have small 
+OK   | seed=149 | style=paraphrase_followup | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the ETL threshold for stem borer in paddy nurseries?
+SKIP | seed=149 | style=paraphrase_followup | call=2
+OK   | seed=149 | style=paraphrase_followup | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Are there specific dosage guidelines for Cartap hydrochlorid
+OK   | seed=149 | style=paraphrase_followup | call=4 | focus=application_method | judge=PASS | scope_overflow=False | q=What are the recommended application methods for Fipronil on
+SKIP | seed=149 | style=paraphrase_followup | call=5
+OK   | seed=149 | style=paraphrase_followup | call=6 | focus=application_timing | judge=PASS | scope_overflow=False | q=When is the appropriate time to apply Fipronil on paddy crop
+SKIP | seed=149 | style=paraphrase_followup | call=7
+OK   | seed=149 | style=paraphrase_followup | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Can stem borer infestation in the nursery be controlled with
+SKIP | seed=149 | style=paraphrase_yes_no | call=1
+OK   | seed=149 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Fipronil recommended for use in the nursery stage of padd
+OK   | seed=149 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is checking the ETL recommended before applying pesticides o
+OK   | seed=149 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Fipronil registered for use on paddy crops during the nur
+OK   | seed=149 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=How can stem borer infestation in paddy nurseries be prevent
+OK   | seed=149 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does checking ETL help prevent stem borer infestation in pad
+OK   | seed=149 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there preventive measures to protect paddy seedlings fro
+OK   | seed=149 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What steps can farmers take to prevent stem borer infestatio
+SKIP | seed=149 | style=paraphrase_preventive | call=5
+OK   | seed=149 | style=paraphrase_preventive | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=When should preventive measures be taken for stem borers in 
+OK   | seed=149 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the application of Fipronil on 10-15-day-old paddy crops 
+OK   | seed=149 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the vulnerability of young paddy seedlings to stem bore
+OK   | seed=149 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are stem borer infestations in paddy nurseries a reason to a
+OK   | seed=149 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes the restriction on using Fipronil for 10–15-day-
+OK   | seed=149 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Which pests cause damage to young paddy crops?
+OK   | seed=149 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Is 400–600 ml of Fipronil 5% SC per acre in 200 liters of wa
+OK   | seed=149 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Does Fipronil 5% SC require 400–600 ml per acre when applied
+OK   | seed=149 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Are Cartap hydrochloride 50% SP required at 400g per acre wh
+SKIP | seed=149 | style=paraphrase_quantity_focused | call=4
+OK   | seed=149 | style=paraphrase_quantity_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Which ETL value indicates the need to apply pesticides for s
+OK   | seed=149 | style=paraphrase_quantity_focused | call=6 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=When applying Cartap hydrochloride 50% SP, how much water is
+OK   | seed=149 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When is Fipronil recommended for application in paddy crops?
+SKIP | seed=149 | style=paraphrase_timing_focused | call=2
+OK   | seed=149 | style=paraphrase_timing_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are farmers advised to check the ETL before applying Fiproni
+SKIP | seed=149 | style=paraphrase_timing_focused | call=4
+SKIP | seed=149 | style=paraphrase_timing_focused | call=5
+OK   | seed=149 | style=paraphrase_timing_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=When should farmers check the ETL for stem borer before appl
+SKIP | seed=149 | style=paraphrase_timing_focused | call=7
+OK   | seed=149 | style=paraphrase_timing_focused | call=8 | focus=application_timing | judge=PASS | scope_overflow=False | q=At what growth stage is Fipronil recommended for paddy crops
+OK   | seed=149 | style=paraphrase_timing_focused | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Fipronil be applied on paddy crops during the nursery
+OK   | seed=150 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should integrated management strategies be employed to contr
+OK   | seed=150 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the recommended control strategies for managing lea
+OK   | seed=150 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a recommended protocol for managing leaf curl disea
+OK   | seed=150 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the implementation of integrated management strategies 
+OK   | seed=150 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there effective control measures for leaf curl disease i
+OK   | seed=150 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should pyriproxyfen 10 EC be used for leaf curl control?
+SKIP | seed=150 | style=paraphrase_short | call=2
+OK   | seed=150 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is pyriproxyfen 10 EC effective for whitefly control?
+OK   | seed=150 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does pyriproxyfen 10 EC control whiteflies in bell pepper?
+DUPE | seed=150 | style=paraphrase_short | q=Are there effective measures to control leaf curl in bell pe
+OK   | seed=150 | style=paraphrase_short | call=6 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=What seed treatment controls viral infection in bell pepper?
+OK   | seed=150 | style=paraphrase_short | call=7 | focus=chemical_name | judge=PASS | scope_overflow=False | q=Which insecticide controls whitefly for leaf curl?
+OK   | seed=150 | style=paraphrase_problem_description | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should I be concerned about my bell peppers showing curled, 
+OK   | seed=150 | style=paraphrase_problem_description | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is causing the leaves to curl and plants to grow stunte
+OK   | seed=150 | style=paraphrase_problem_description | call=3 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Is the leaves curling and becoming deformed, with stunted gr
+OK   | seed=150 | style=paraphrase_problem_description | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the crop show curled, deformed leaves and stunted growt
+OK   | seed=150 | style=paraphrase_problem_description | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the leaves curling and becoming deformed? Are plants gro
+OK   | seed=150 | style=paraphrase_followup | call=1 | focus=application_timing | judge=PASS | scope_overflow=False | q=Should the seeds be soaked in Trisodium orthriphosphate solu
+OK   | seed=150 | style=paraphrase_followup | call=2 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=What is the recommended chemical for seed treatment in bell 
+OK   | seed=150 | style=paraphrase_followup | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is pyriproxyfen 10 EC effective for controlling whiteflies i
+OK   | seed=150 | style=paraphrase_followup | call=4 | focus=pathogen_name | judge=PASS | scope_overflow=False | q=Does Trisodium orthriphosphate effectively prevent seed-born
+SKIP | seed=150 | style=paraphrase_followup | call=5
+OK   | seed=150 | style=paraphrase_followup | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended insecticide for controlling whitefli
+SKIP | seed=150 | style=paraphrase_yes_no | call=1
+OK   | seed=150 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the use of chemical pesticides the primary method for con
+DUPE | seed=150 | style=paraphrase_yes_no | q=Is pyriproxyfen 10 EC recommended for controlling whiteflies
+OK   | seed=150 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is pyriproxyfen 10 EC recommended for whitefly control in be
+OK   | seed=150 | style=paraphrase_yes_no | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are insecticidal sprays effective against whiteflies in bell
+OK   | seed=150 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers use resistant hybrid varieties to prevent lea
+OK   | seed=150 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the best way to prevent leaf curl disease in bell pe
+OK   | seed=150 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is planting border crops an effective preventive measure aga
+SKIP | seed=150 | style=paraphrase_preventive | call=4
+OK   | seed=150 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there ways to protect bell pepper plants from leaf curl 
+OK   | seed=150 | style=paraphrase_preventive | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What cultural practices can prevent leaf curl disease in bel
+OK   | seed=150 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should whitefly control be emphasized to prevent leaf curl d
+OK   | seed=150 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the primary cause of leaf curl in bell pepper plants
+OK   | seed=150 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the transmission of leaf curl disease in bell pepper prim
+OK   | seed=150 | style=paraphrase_cause | call=4 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Does the presence of whiteflies directly contribute to leaf 
+OK   | seed=150 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are whiteflies the main cause of leaf curl disease in bell p
+OK   | seed=150 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Should seeds be soaked in a specific concentration of Trisod
+OK   | seed=150 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended dosage of pyriproxyfen 10 EC for con
+OK   | seed=150 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Is 160 ml of pyriproxyfen 10 EC per acre recommended for whi
+OK   | seed=150 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Does 160 ml pyriproxyfen 10 EC in 100 litres of water per ac
+OK   | seed=150 | style=paraphrase_quantity_focused | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Are 160 ml of pyriproxyfen 10 EC sprayed per acre?
+OK   | seed=150 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should insecticidal sprays for whitefly control be applied d
+SKIP | seed=150 | style=paraphrase_timing_focused | call=2
+OK   | seed=150 | style=paraphrase_timing_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=When should nursery beds be covered with nylon net or straw 
+OK   | seed=150 | style=paraphrase_timing_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does spraying insecticides during the nursery stage help con
+OK   | seed=150 | style=paraphrase_timing_focused | call=5 | focus=application_timing | judge=PASS | scope_overflow=False | q=Are seeds treated before sowing to control leaf curl in bell
+DUPE | seed=150 | style=paraphrase_timing_focused | q=When should nursery beds be covered with nylon net or straw 
+OK   | seed=150 | style=paraphrase_timing_focused | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=When should insecticides be sprayed to control whitefly in b
+OK   | seed=151 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the efficacy of wood ash as a soil amendment for whe
+OK   | seed=151 | style=paraphrase_formal | call=2 | focus=application_method | judge=PASS | scope_overflow=False | q=Which benefits and application methods are associated with t
+OK   | seed=151 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=When should wood ash be applied to wheat crops for pest and 
+OK   | seed=151 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is wood ash considered a viable soil amendment for wheat
+OK   | seed=151 | style=paraphrase_formal | call=5 | focus=application_method | judge=PASS | scope_overflow=False | q=Is wood ash suitable for application on wheat crops? What ar
+OK   | seed=151 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the benefits of using wood ash on wheat?
+SKIP | seed=151 | style=paraphrase_short | call=2
+OK   | seed=151 | style=paraphrase_short | call=3 | focus=application_timing | judge=PASS | scope_overflow=False | q=When to apply wood ash for pest control in wheat?
+OK   | seed=151 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Why use wood ash for wheat crops?
+OK   | seed=151 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Can wood ash control wheat pests?
+OK   | seed=151 | style=paraphrase_short | call=6 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Should wood ash be used for wheat seed treatment?
+SKIP | seed=151 | style=paraphrase_problem_description | call=1
+OK   | seed=151 | style=paraphrase_problem_description | call=2 | focus=application_timing | judge=PASS | scope_overflow=False | q=Which method can be used to protect wheat seeds from pests a
+OK   | seed=151 | style=paraphrase_problem_description | call=3 | focus=application_timing | judge=PASS | scope_overflow=False | q=When seeds are being attacked by pests and show signs of rot
+OK   | seed=151 | style=paraphrase_problem_description | call=4 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Why are my wheat plants showing signs of pest damage and fun
+SKIP | seed=151 | style=paraphrase_problem_description | call=5
+OK   | seed=151 | style=paraphrase_problem_description | call=6 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Should I apply wood ash to my wheat field if the leaves have
+OK   | seed=151 | style=paraphrase_problem_description | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the white powdery coating on wheat leaves and insect
+OK   | seed=151 | style=paraphrase_followup | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the correct method to apply wood ash for treating po
+OK   | seed=151 | style=paraphrase_followup | call=2 | focus=application_method | judge=PASS | scope_overflow=False | q=Which application method is recommended for using wood ash t
+OK   | seed=151 | style=paraphrase_followup | call=3 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=When should wood ash be applied for seed treatment in wheat 
+SKIP | seed=151 | style=paraphrase_followup | call=4
+OK   | seed=151 | style=paraphrase_followup | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Can you tell me how much wood ash is used with turmeric for 
+OK   | seed=151 | style=paraphrase_followup | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Should wood ash be used to manage powdery mildew on wheat?
+OK   | seed=151 | style=paraphrase_yes_no | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is wood ash primarily used as a fertilizer for wheat?
+OK   | seed=151 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Which of the following is wood ash primarily used for in whe
+DUPE | seed=151 | style=paraphrase_yes_no | q=Is wood ash primarily used as a fertilizer for wheat?
+OK   | seed=151 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can wood ash be used as a complete fertilizer for wheat?
+OK   | seed=151 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the preventive measures to protect wheat crops usin
+OK   | seed=151 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Which cultural practices can prevent pests and diseases in w
+OK   | seed=151 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=When should wood ash be used to prevent pests in wheat culti
+OK   | seed=151 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is dusting seeds with wood ash recommended for wheat cul
+OK   | seed=151 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Can wood ash help prevent wheat crop diseases?
+OK   | seed=151 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes wood ash to enhance wheat crop health?
+OK   | seed=151 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Which factors make wood ash effective against seed-borne pes
+JUDGE_RETRY | seed=151 | style=paraphrase_cause | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer introduces new claims not explicitly present in the seed answer, such as 'potassium and calcium in wood ash strengthen plant cell walls' and 'trace minerals like zinc and boron further support plant vigor.' These specific mechanisms and benefits are not directly mentioned in the seed answer.", "The generated answer mentions 'physical deterrence' of pests, which is not explicitly stated in the seed answer."] | q=When does wood ash effectively protect wheat crops from pest
+OK   | seed=151 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is wood ash used as a protective measure for wheat crops
+OK   | seed=151 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Can wood ash protect wheat crops from pests? Why?
+DUPE | seed=151 | style=paraphrase_cause | q=Should wood ash be used to prevent fungal infections in whea
+OK   | seed=151 | style=paraphrase_cause | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the reason wood ash acts as a protective agent for w
+OK   | seed=151 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the quantity of wood ash required for treating powde
+OK   | seed=151 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Which quantity of wood ash is recommended for mixing with tu
+OK   | seed=151 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=When using wood ash for powdery mildew treatment, how much w
+OK   | seed=151 | style=paraphrase_quantity_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is 8 kg of wood ash recommended for powdery mildew treat
+OK   | seed=151 | style=paraphrase_quantity_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Can 8 kg wood ash be used with turmeric for powdery mildew?
+OK   | seed=151 | style=paraphrase_timing_focused | call=1 | focus=application_timing | judge=PASS | scope_overflow=False | q=What is the optimal time to apply wood ash to wheat crops?
+OK   | seed=151 | style=paraphrase_timing_focused | call=2 | focus=application_timing | judge=PASS | scope_overflow=False | q=Which stages of wheat cultivation require wood ash applicati
+OK   | seed=151 | style=paraphrase_timing_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=When is wood ash application recommended for wheat crops?
+DUPE | seed=151 | style=paraphrase_timing_focused | q=When should wood ash be applied to wheat crops for pest prot
+SKIP | seed=151 | style=paraphrase_timing_focused | call=5
+OK   | seed=151 | style=paraphrase_timing_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Should wood ash be applied to wheat during the standing crop
+OK   | seed=151 | style=paraphrase_timing_focused | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended timing for applying wood ash in whea
+OK   | seed=152 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should the common fungal diseases affecting chilli crops and
+OK   | seed=152 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the effective management strategy for fungal disease
+OK   | seed=152 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a comprehensive overview of the fungal diseases aff
+SKIP | seed=152 | style=paraphrase_formal | call=4
+SKIP | seed=152 | style=paraphrase_formal | call=5
+OK   | seed=152 | style=paraphrase_formal | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What safety measures should be observed when applying chemic
+OK   | seed=152 | style=paraphrase_formal | call=7 | focus=pathogen_name | judge=PASS | scope_overflow=False | q=Which fungal pathogens commonly afflict chilli crops, and wh
+OK   | seed=152 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Tebuconazole 25% EC be used for chilli fungal disease
+SKIP | seed=152 | style=paraphrase_short | call=2
+OK   | seed=152 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Tebuconazole 25% EC effective for chilli fruit rot?
+OK   | seed=152 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does Tebuconazole 25% EC control chilli fungal diseases?
+OK   | seed=152 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are dieback and fruit rot in chilli controlled with Tebucona
+OK   | seed=152 | style=paraphrase_short | call=6 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the Tebuconazole dosage for chilli fungal diseases?
+OK   | seed=152 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Should the tips of fruit-bearing branches drying and dark sp
+OK   | seed=152 | style=paraphrase_problem_description | call=2 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=What is causing the fruit tips to dry and dark spots to form
+OK   | seed=152 | style=paraphrase_problem_description | call=3 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Is the fruit having dark spots and branches drying after rip
+OK   | seed=152 | style=paraphrase_problem_description | call=4 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Does the chilli crop have drying fruit tips and dark spots w
+OK   | seed=152 | style=paraphrase_problem_description | call=5 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Are the tips of my chilli fruits drying and dark spots appea
+SKIP | seed=152 | style=paraphrase_followup | call=1
+OK   | seed=152 | style=paraphrase_followup | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended application timing for fungicide spr
+SKIP | seed=152 | style=paraphrase_followup | call=3
+SKIP | seed=152 | style=paraphrase_followup | call=4
+SKIP | seed=152 | style=paraphrase_followup | call=5
+OK   | seed=152 | style=paraphrase_followup | call=6 | focus=pathogen_name | judge=PASS | scope_overflow=False | q=What are the specific pathogens causing dieback and fruit ro
+OK   | seed=152 | style=paraphrase_followup | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Which application timing is recommended for fungicides to co
+OK   | seed=152 | style=paraphrase_followup | call=8 | focus=pathogen_name | judge=PASS | scope_overflow=False | q=When do the black pinheads of the fungus appear on the affec
+OK   | seed=152 | style=paraphrase_followup | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=Why are fungicides applied at 10-day intervals for chilli cr
+OK   | seed=152 | style=paraphrase_yes_no | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Tebuconazole 25% EC be used for controlling dieback a
+OK   | seed=152 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended application interval for Tebuconazol
+OK   | seed=152 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Tebuconazole 25% EC recommended for both dieback and wet 
+OK   | seed=152 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers implement regular field monitoring and hygien
+SKIP | seed=152 | style=paraphrase_preventive | call=2
+OK   | seed=152 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a way to prevent fungal diseases in chilli crops th
+OK   | seed=152 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does regular field monitoring help prevent fungal diseases i
+SKIP | seed=152 | style=paraphrase_preventive | call=5
+OK   | seed=152 | style=paraphrase_preventive | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What cultural practices can be adopted to prevent fungal dis
+OK   | seed=152 | style=paraphrase_preventive | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Which cultural practices can help prevent fungal diseases in
+OK   | seed=152 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should heavy rains contribute to the severity of wet rot in 
+SKIP | seed=152 | style=paraphrase_cause | call=2
+OK   | seed=152 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is heavy rain a contributing factor to wet rot in chilli cro
+OK   | seed=152 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does heavy rainfall contribute to the development of wet rot
+OK   | seed=152 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are heavy rains and specific fungi the main causes of chilli
+OK   | seed=152 | style=paraphrase_cause | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes the severity of wet rot in chilli crops during c
+OK   | seed=152 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Should Tebuconazole 25% EC be applied at a specific dosage f
+OK   | seed=152 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended dosage of Tebuconazole 25% EC for co
+OK   | seed=152 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Is the recommended dosage of Tebuconazole 25% EC for chilli 
+OK   | seed=152 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Does the application of fungicides for chilli crop diseases 
+OK   | seed=152 | style=paraphrase_quantity_focused | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Are 200 ml of Tebuconazole 25% EC used per acre for chilli d
+OK   | seed=152 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should chilli crops be sprayed for fungal diseases in early 
+OK   | seed=152 | style=paraphrase_timing_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the optimal time to start fungicide application for 
+OK   | seed=152 | style=paraphrase_timing_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the application of fungicides for chilli crop fungal dise
+OK   | seed=152 | style=paraphrase_timing_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When is the optimal time to start fungicide sprays for contr
+OK   | seed=152 | style=paraphrase_timing_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific times to apply fungicides for chilli dise
+OK   | seed=153 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the key characteristics and agronomic traits of the
+OK   | seed=153 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Which characteristics and cultivation details define the KRH
+OK   | seed=153 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=When considering the cultivation of KRH-2 hybrid paddy, what
+SKIP | seed=153 | style=paraphrase_formal | call=4
+OK   | seed=153 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Can you describe the characteristics of KRH-2 hybrid paddy?
+OK   | seed=153 | style=paraphrase_formal | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers consider KRH-2 hybrid paddy variety for culti
+OK   | seed=153 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What are KRH-2 hybrid paddy's key traits?
+OK   | seed=153 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Which regions suit KRH-2 paddy cultivation?
+OK   | seed=153 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=When does KRH-2 mature after transplanting?
+OK   | seed=153 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is KRH-2 suitable for Tamil Nadu?
+OK   | seed=153 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Can KRH-2 paddy grow in Tamil Nadu?
+OK   | seed=153 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=The plants are wilting and the leaves are turning yellow, es
+SKIP | seed=153 | style=paraphrase_problem_description | call=2
+SKIP | seed=153 | style=paraphrase_problem_description | call=3
+SKIP | seed=153 | style=paraphrase_problem_description | call=4
+JUDGE_RETRY | seed=153 | style=paraphrase_problem_description | retry=1/3 | conf=high | scope_overflow=False | issues=["The claim that 'plants may show weak stems and poor grain development' is not explicitly mentioned in the seed answer.", "The management advice about 'use 4-5 kg hybrid seeds per acre' and 'maintain 20x15 cm spacing' is present in the seed answer, but the diagnosis of weak stems and poor grain fill is not."] | q=Can the plants in my field have weak stems and poor grain fi
+SKIP | seed=153 | style=paraphrase_problem_description | call=6 | (judge-retry)
+JUDGE_ABANDON | seed=153 | style=paraphrase_problem_description | conf=high | scope_overflow=False | issues=["The claim that 'plants may show weak stems and poor grain development' is not explicitly mentioned in the seed answer.", "The management advice about 'use 4-5 kg hybrid seeds per acre' and 'maintain 20x15 cm spacing' is present in the seed answer, but the diagnosis of weak stems and poor grain fill is not."] | q=Can the plants in my field have weak stems and poor grain fi
+SKIP | seed=153 | style=paraphrase_problem_description | call=7
+SKIP | seed=153 | style=paraphrase_problem_description | call=8
+ABANDON | seed=153 | style=paraphrase_problem_description | done=1/5
+OK   | seed=153 | style=paraphrase_followup | call=1 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=What is the recommended irrigation method for KRH-2 hybrid p
+OK   | seed=153 | style=paraphrase_followup | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Which crop duration is recommended for KRH-2 hybrid paddy?
+SKIP | seed=153 | style=paraphrase_followup | call=3
+SKIP | seed=153 | style=paraphrase_followup | call=4
+SKIP | seed=153 | style=paraphrase_followup | call=5
+SKIP | seed=153 | style=paraphrase_followup | call=6
+SKIP | seed=153 | style=paraphrase_followup | call=7
+OK   | seed=153 | style=paraphrase_followup | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Is KRH-2 resistant to blast and bacterial leaf blight?
+SKIP | seed=153 | style=paraphrase_followup | call=9
+OK   | seed=153 | style=paraphrase_followup | call=10 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific water management practices recommended fo
+OK   | seed=153 | style=paraphrase_followup | call=11 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the crop duration of the KRH-2 hybrid paddy variety?
+SKIP | seed=153 | style=paraphrase_yes_no | call=1
+SKIP | seed=153 | style=paraphrase_yes_no | call=2
+SKIP | seed=153 | style=paraphrase_yes_no | call=3
+OK   | seed=153 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is KRH-2 hybrid paddy variety salt-tolerant?
+SKIP | seed=153 | style=paraphrase_yes_no | call=5
+OK   | seed=153 | style=paraphrase_yes_no | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers use certified seeds for KRH-2 hybrid paddy?
+SKIP | seed=153 | style=paraphrase_yes_no | call=7
+SKIP | seed=153 | style=paraphrase_yes_no | call=8
+SKIP | seed=153 | style=paraphrase_yes_no | call=9
+SKIP | seed=153 | style=paraphrase_yes_no | call=10
+OK   | seed=153 | style=paraphrase_yes_no | call=11 | focus=unknown | judge=PASS | scope_overflow=False | q=Is KRH-2 suitable for lowland paddy cultivation?
+OK   | seed=153 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What cultural practices can prevent poor growth in KRH-2 hyb
+OK   | seed=153 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Which practices can help prevent issues with KRH-2 hybrid pa
+OK   | seed=153 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=When cultivating KRH-2 hybrid paddy, what preventive practic
+OK   | seed=153 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is maintaining proper spacing crucial for KRH-2 hybrid p
+OK   | seed=153 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Can you prevent diseases in KRH-2 paddy by using certified s
+OK   | seed=153 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes KRH-2 hybrid paddy to perform well in Tamil Nadu
+SKIP | seed=153 | style=paraphrase_cause | call=2
+OK   | seed=153 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=When is the KRH-2 hybrid paddy variety cultivated, and what 
+OK   | seed=153 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is KRH-2 recommended for cultivation during the Kharif s
+SKIP | seed=153 | style=paraphrase_cause | call=5
+OK   | seed=153 | style=paraphrase_cause | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers in Tamil Nadu prioritize KRH-2 for Kharif cul
+SKIP | seed=153 | style=paraphrase_cause | call=7
+SKIP | seed=153 | style=paraphrase_cause | call=8
+SKIP | seed=153 | style=paraphrase_cause | call=9
+OK   | seed=153 | style=paraphrase_cause | call=10 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the characteristics of KRH-2 hybrid paddy variety determ
+DUPE | seed=153 | style=paraphrase_quantity_focused | q=What is the crop duration for KRH-2 hybrid paddy variety?
+OK   | seed=153 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Which seed rate is recommended for KRH-2 hybrid paddy variet
+SKIP | seed=153 | style=paraphrase_quantity_focused | call=3
+SKIP | seed=153 | style=paraphrase_quantity_focused | call=4
+OK   | seed=153 | style=paraphrase_quantity_focused | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Can 4-5 kg per acre be used for KRH-2 seed nursery?
+SKIP | seed=153 | style=paraphrase_quantity_focused | call=6
+SKIP | seed=153 | style=paraphrase_quantity_focused | call=7
+SKIP | seed=153 | style=paraphrase_quantity_focused | call=8
+OK   | seed=153 | style=paraphrase_quantity_focused | call=9 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Does KRH-2 require a specific seed rate for nursery raising?
+SKIP | seed=153 | style=paraphrase_quantity_focused | call=10
+DUPE | seed=153 | style=paraphrase_quantity_focused | q=What is the crop duration of KRH-2 hybrid paddy variety?
+DUPE | seed=153 | style=paraphrase_quantity_focused | q=Which is the recommended seed rate for cultivating KRH-2 hyb
+OK   | seed=153 | style=paraphrase_quantity_focused | call=13 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=When should 4-5 kg per acre be used for KRH-2 hybrid paddy c
+SKIP | seed=153 | style=paraphrase_quantity_focused | call=14
+SKIP | seed=153 | style=paraphrase_quantity_focused | call=15
+OK   | seed=153 | style=paraphrase_quantity_focused | call=16 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers plan for a 120–125 day crop duration when cul
+SKIP | seed=153 | style=paraphrase_timing_focused | call=1
+DUPE | seed=153 | style=paraphrase_timing_focused | q=Which season is recommended for cultivating KRH-2 hybrid pad
+OK   | seed=153 | style=paraphrase_timing_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=When is KRH-2 hybrid paddy cultivated and what is its growth
+OK   | seed=153 | style=paraphrase_timing_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is the Kharif season recommended for cultivating KRH-2 h
+OK   | seed=153 | style=paraphrase_timing_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Can KRH-2 hybrid paddy be planted during the Kharif season?
+OK   | seed=153 | style=paraphrase_timing_focused | call=6 | focus=application_timing | judge=PASS | scope_overflow=False | q=Should alternate wetting and drying (AWD) be implemented dur
+SKIP | seed=153 | style=paraphrase_timing_focused | call=7
+SKIP | seed=153 | style=paraphrase_timing_focused | call=8
+SKIP | seed=153 | style=paraphrase_timing_focused | call=9
+OK   | seed=153 | style=paraphrase_timing_focused | call=10 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific timing considerations for cultivating KRH
+OK   | seed=154 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the key considerations for implementing direct seed
+OK   | seed=154 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What constitutes the practice of direct seeding in paddy cul
+SKIP | seed=154 | style=paraphrase_formal | call=3
+SKIP | seed=154 | style=paraphrase_formal | call=4
+OK   | seed=154 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there guidelines for direct seeding of paddy in Uttar Pr
+OK   | seed=154 | style=paraphrase_formal | call=6 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What are the recommended seed rates and treatment methods fo
+OK   | seed=154 | style=paraphrase_formal | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Which information is available regarding the direct seeding 
+OK   | seed=154 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should direct seeding of paddy use specific varieties?
+OK   | seed=154 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is direct-seeded rice?
+OK   | seed=154 | style=paraphrase_short | call=3 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Is Carbendazim 50% WP recommended for paddy seed treatment?
+OK   | seed=154 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does direct seeding suit Uttar Pradesh?
+OK   | seed=154 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are Narendra 118 and Narendra 97 suitable for direct seeding
+OK   | seed=154 | style=paraphrase_problem_description | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=The paddy plants are not growing evenly, and weeds are sprea
+SKIP | seed=154 | style=paraphrase_problem_description | call=2
+OK   | seed=154 | style=paraphrase_problem_description | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the field experiencing poor weed control and uneven plant
+OK   | seed=154 | style=paraphrase_problem_description | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the field have uneven plant growth and poor germination
+OK   | seed=154 | style=paraphrase_problem_description | call=5 | focus=application_timing | judge=PASS | scope_overflow=False | q=Are the paddy seeds not germinating after sowing?
+JUDGE_RETRY | seed=154 | style=paraphrase_problem_description | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer claims that the uneven growth and weed overtake is 'likely due to poor weed competition,' which is not explicitly stated in the seed answer.", 'The generated answer omits the detailed recommendations from the seed answer, such as seed treatment with Carbendazim, sowing methods, and water management practices.'] | q=What should I do if weeds are overtaking my paddy field and 
+SKIP | seed=154 | style=paraphrase_problem_description | call=7 | (judge-retry)
+JUDGE_ABANDON | seed=154 | style=paraphrase_problem_description | conf=high | scope_overflow=False | issues=["The generated answer claims that the uneven growth and weed overtake is 'likely due to poor weed competition,' which is not explicitly stated in the seed answer.", 'The generated answer omits the detailed recommendations from the seed answer, such as seed treatment with Carbendazim, sowing methods, and water management practices.'] | q=What should I do if weeds are overtaking my paddy field and 
+SKIP | seed=154 | style=paraphrase_problem_description | call=8
+OK   | seed=154 | style=paraphrase_problem_description | call=9 | focus=application_timing | judge=PASS | scope_overflow=False | q=Why are the paddy plants growing unevenly and not establishi
+OK   | seed=154 | style=paraphrase_followup | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Should I treat paddy seeds with Carbendazim 50% WP before di
+OK   | seed=154 | style=paraphrase_followup | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended chemical treatment for paddy seeds b
+SKIP | seed=154 | style=paraphrase_followup | call=3
+OK   | seed=154 | style=paraphrase_followup | call=4 | focus=application_method | judge=PASS | scope_overflow=False | q=Does the application method for Carbendazim 50% WP differ wh
+SKIP | seed=154 | style=paraphrase_followup | call=5
+SKIP | seed=154 | style=paraphrase_followup | call=6
+OK   | seed=154 | style=paraphrase_followup | call=7 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Which fungicide is recommended for seed treatment in direct 
+SKIP | seed=154 | style=paraphrase_followup | call=8
+OK   | seed=154 | style=paraphrase_followup | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is Narendra 118 recommended for direct seeding in Uttar 
+OK   | seed=154 | style=paraphrase_yes_no | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should seeds be treated with Carbendazim 50% WP before direc
+OK   | seed=154 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is direct seeding of paddy suitable for Uttar Pradesh?
+OK   | seed=154 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is it recommended to use certified seeds for direct seeding 
+OK   | seed=154 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers focus on specific seed varieties to reduce we
+OK   | seed=154 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the method to prevent weed competition in direct-see
+OK   | seed=154 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is using certified seeds a preventive measure against pests 
+OK   | seed=154 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does proper spacing in direct-seeded paddy help in weed mana
+OK   | seed=154 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there steps to prevent pests in direct-seeded paddy?
+OK   | seed=154 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should direct seeding of paddy be adopted in Uttar Pradesh d
+SKIP | seed=154 | style=paraphrase_cause | call=2
+OK   | seed=154 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is direct seeding of paddy adopted to reduce water and labor
+OK   | seed=154 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does early sowing of paddy help in reducing pest and disease
+OK   | seed=154 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there reasons why direct seeding of paddy is preferred i
+OK   | seed=154 | style=paraphrase_cause | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes the recommendation for early sowing of direct-se
+OK   | seed=154 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Should the seed rate for direct seeding of paddy be 16-20 kg
+OK   | seed=154 | style=paraphrase_quantity_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the water saving percentage achieved by direct-seede
+SKIP | seed=154 | style=paraphrase_quantity_focused | call=3
+OK   | seed=154 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Does direct seeding of paddy require a specific seed rate?
+OK   | seed=154 | style=paraphrase_quantity_focused | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Are 16-20 kg of seeds used per acre for direct paddy sowing?
+DUPE | seed=154 | style=paraphrase_quantity_focused | q=What is the recommended soaking time for paddy seeds before 
+OK   | seed=154 | style=paraphrase_quantity_focused | call=7 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Which quantity of Carbendazim 50% WP is recommended for seed
+OK   | seed=154 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should paddy be directly seeded in May-June?
+OK   | seed=154 | style=paraphrase_timing_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended sowing window for direct-seeded padd
+OK   | seed=154 | style=paraphrase_timing_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a specific time frame recommended for direct seedin
+OK   | seed=154 | style=paraphrase_timing_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does direct seeding of paddy require specific timing to avoi
+OK   | seed=154 | style=paraphrase_timing_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific months recommended for sowing paddy throu
+SKIP | seed=155 | style=paraphrase_formal | call=1
+JUDGE_RETRY | seed=155 | style=paraphrase_formal | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer includes information about 'wilt, root rot, and collar rot' and 'Pseudomonas fluorescens' which are not directly related to 'blight disease' as asked in the question. This introduces new content not explicitly mentioned in the seed answer.", "The generated answer includes information about 'Rewari weed' and 'white rot (Sclerotinia sclerotiorum)' which are not directly related to 'blight disease' and were not explicitly mentioned in the seed answer."] | q=Why is integrated management essential for controlling bligh
+SKIP | seed=155 | style=paraphrase_formal | call=3 | (judge-retry)
+JUDGE_ABANDON | seed=155 | style=paraphrase_formal | conf=high | scope_overflow=False | issues=["The generated answer includes information about 'wilt, root rot, and collar rot' and 'Pseudomonas fluorescens' which are not directly related to 'blight disease' as asked in the question. This introduces new content not explicitly mentioned in the seed answer.", "The generated answer includes information about 'Rewari weed' and 'white rot (Sclerotinia sclerotiorum)' which are not directly related to 'blight disease' and were not explicitly mentioned in the seed answer."] | q=Why is integrated management essential for controlling bligh
+SKIP | seed=155 | style=paraphrase_formal | call=4
+JUDGE_RETRY | seed=155 | style=paraphrase_formal | retry=1/3 | conf=high | scope_overflow=False | issues=['The answer includes management strategies for powdery mildew (Sulphur 80% WP spray), rust (Rewari weed removal), and white rot (burning plant debris), which were not mentioned in the question about blight disease. This introduces additional content not directly related to blight control.', 'The answer includes a seed treatment with Pseudomonas fluorescens, which is mentioned in the seed answer but in the context of Wilt, root rot, and collar rot, not blight disease.'] | q=What is the effective method for controlling blight disease 
+OK   | seed=155 | style=paraphrase_formal | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the recommended integrated management strategies fo
+SKIP | seed=155 | style=paraphrase_formal | call=7
+SKIP | seed=155 | style=paraphrase_formal | call=8
+SKIP | seed=155 | style=paraphrase_formal | call=9
+OK   | seed=155 | style=paraphrase_formal | call=10 | focus=unknown | judge=PASS | scope_overflow=False | q=Which integrated management strategies are effective for con
+OK   | seed=155 | style=paraphrase_formal | call=11 | focus=pathogen_name | judge=PASS | scope_overflow=False | q=When addressing the control of blight disease in pea crops, 
+OK   | seed=155 | style=paraphrase_formal | call=12 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the integrated management strategies for controllin
+SKIP | seed=155 | style=paraphrase_formal | call=13
+SKIP | seed=155 | style=paraphrase_formal | call=14
+SKIP | seed=155 | style=paraphrase_formal | call=15
+SKIP | seed=155 | style=paraphrase_formal | call=16
+SKIP | seed=155 | style=paraphrase_formal | call=17
+SKIP | seed=155 | style=paraphrase_formal | call=18
+ABANDON | seed=155 | style=paraphrase_formal | done=4/5
+OK   | seed=155 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When to spray Sulphur 80% WP for powdery mildew?
+OK   | seed=155 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is planting tall crops recommended for blight control in
+OK   | seed=155 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Can tall plants reduce blight in pea crops?
+OK   | seed=155 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Sulphur 80% WP be used for pea powdery mildew?
+OK   | seed=155 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the control method for pea blight?
+SKIP | seed=155 | style=paraphrase_problem_description | call=1
+SKIP | seed=155 | style=paraphrase_problem_description | call=2
+SKIP | seed=155 | style=paraphrase_problem_description | call=3
+SKIP | seed=155 | style=paraphrase_problem_description | call=4
+SKIP | seed=155 | style=paraphrase_problem_description | call=5
+SKIP | seed=155 | style=paraphrase_problem_description | call=6
+ABANDON | seed=155 | style=paraphrase_problem_description | done=0/5
+JUDGE_RETRY | seed=155 | style=paraphrase_followup | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer includes the claim that the combination 'reduces the risk of resistance development,' which is not mentioned in the seed answer.", "The generated answer includes the claim that the application should be done 'during the active growth stages when symptoms first appear,' which is not explicitly stated in the seed answer."] | q=When should the combination of Sulphur 80% WP and Mancozeb 7
+SKIP | seed=155 | style=paraphrase_followup | call=2 | (judge-retry)
+JUDGE_ABANDON | seed=155 | style=paraphrase_followup | conf=high | scope_overflow=False | issues=["The generated answer includes the claim that the combination 'reduces the risk of resistance development,' which is not mentioned in the seed answer.", "The generated answer includes the claim that the application should be done 'during the active growth stages when symptoms first appear,' which is not explicitly stated in the seed answer."] | q=When should the combination of Sulphur 80% WP and Mancozeb 7
+OK   | seed=155 | style=paraphrase_followup | call=3 | focus=application_method | judge=PASS | scope_overflow=False | q=Can you explain the correct application method for spraying 
+OK   | seed=155 | style=paraphrase_followup | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers treat pea seeds with Pseudomonas fluorescens 
+OK   | seed=155 | style=paraphrase_followup | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the dosage of Sulphur 80% WP for controlling powdery
+OK   | seed=155 | style=paraphrase_followup | call=6 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Is seed treatment with Pseudomonas fluorescens effective for
+SKIP | seed=155 | style=paraphrase_followup | call=7
+OK   | seed=155 | style=paraphrase_followup | call=8 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Are the symptoms of foot rot in pea crops characterized by p
+SKIP | seed=155 | style=paraphrase_yes_no | call=1
+SKIP | seed=155 | style=paraphrase_yes_no | call=2
+SKIP | seed=155 | style=paraphrase_yes_no | call=3
+OK   | seed=155 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers in Punjab prioritize blight disease managemen
+SKIP | seed=155 | style=paraphrase_yes_no | call=5
+SKIP | seed=155 | style=paraphrase_yes_no | call=6
+OK   | seed=155 | style=paraphrase_yes_no | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Does planting tall crops as a barrier help in managing bligh
+OK   | seed=155 | style=paraphrase_yes_no | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Is planting tall crops recommended as part of blight control
+OK   | seed=155 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When should tall crops be planted to prevent blight in pea f
+OK   | seed=155 | style=paraphrase_preventive | call=2 | focus=crop_rotation_duration | judge=PASS | scope_overflow=False | q=Why is crop rotation important for preventing pea crop disea
+OK   | seed=155 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Can planting tall crops help prevent blight in pea fields?
+SKIP | seed=155 | style=paraphrase_preventive | call=4
+OK   | seed=155 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the best way to prevent blight disease in pea crops 
+DUPE | seed=155 | style=paraphrase_preventive | q=Is planting tall crops as a barrier effective in preventing 
+DUPE | seed=155 | style=paraphrase_preventive | q=Does planting tall crops as a barrier help prevent blight in
+JUDGE_RETRY | seed=155 | style=paraphrase_preventive | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer mentions 'planting tall crops as a barrier to reduce air-borne inoculum spread' which is present in the seed answer, but the seed answer specifically refers to 'Plantation of tall plant crops as a barrier for air-borne inoculum' in the context of powdery mildew, not blight. This may be an incorrect association.", "The generated answer mentions 'rotating with non-susceptible crops like tomato or chilli' which is present in the seed answer, but it is specifically mentioned in the context of White rot, not blight. This may be an incorrect association."] | q=Are there cultural practices to prevent blight in pea crops?
+OK   | seed=155 | style=paraphrase_preventive | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=What cultural practices can prevent blight disease in pea cr
+OK   | seed=155 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When do environmental conditions favor the development of bl
+OK   | seed=155 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Why does blight disease occur in pea crops under certain con
+OK   | seed=155 | style=paraphrase_cause | call=3 | focus=pathogen_name | judge=PASS | scope_overflow=False | q=Can the occurrence of blight disease in pea crops be attribu
+OK   | seed=155 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers be concerned about humid conditions under the
+OK   | seed=155 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes blight disease in pea crops?
+OK   | seed=155 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=When should 600 g of Sulphur 80% WP in 200 litres of water p
+OK   | seed=155 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Why is 600g of Sulphur 80% WP mixed with 200 litres of water
+OK   | seed=155 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Can 600 g of Sulphur 80% WP in 200 litres of water per acre 
+OK   | seed=155 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Should Sulphur 80% WP be applied for powdery mildew in pea c
+OK   | seed=155 | style=paraphrase_quantity_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended amount of Sulphur 80% WP for treatin
+OK   | seed=155 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When should Sulphur 80% WP be applied for controlling powder
+SKIP | seed=155 | style=paraphrase_timing_focused | call=2
+SKIP | seed=155 | style=paraphrase_timing_focused | call=3
+OK   | seed=155 | style=paraphrase_timing_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers apply specific management practices during th
+SKIP | seed=155 | style=paraphrase_timing_focused | call=5
+OK   | seed=155 | style=paraphrase_timing_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Is White rot management particularly critical during the flo
+OK   | seed=155 | style=paraphrase_timing_focused | call=7 | focus=application_timing | judge=PASS | scope_overflow=False | q=Does the timing of white rot management strategies vary depe
+SKIP | seed=155 | style=paraphrase_timing_focused | call=8
+OK   | seed=155 | style=paraphrase_timing_focused | call=9 | focus=application_timing | judge=PASS | scope_overflow=False | q=What is the optimal time to apply integrated management stra
+OK   | seed=156 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a recommended planting distance for potato cultivat
+OK   | seed=156 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the recommended planting distance for potatoes vary bas
+OK   | seed=156 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific guidelines for planting distances in pota
+OK   | seed=156 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the recommended planting distances for potato culti
+DUPE | seed=156 | style=paraphrase_formal | q=Which planting distances are recommended for potato cultivat
+OK   | seed=156 | style=paraphrase_formal | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=When should the planting distance be adjusted in potato cult
+SKIP | seed=156 | style=paraphrase_short | call=1
+OK   | seed=156 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does potato planting require 60 cm row spacing?
+OK   | seed=156 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are potato rows spaced 60 cm apart?
+OK   | seed=156 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is optimal potato row and plant spacing?
+OK   | seed=156 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Which spacing is best for potato planting?
+OK   | seed=156 | style=paraphrase_short | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=When adjusting potato spacing for variety?
+OK   | seed=156 | style=paraphrase_problem_description | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is my potato crop suffering from poor growth due to overcrow
+OK   | seed=156 | style=paraphrase_problem_description | call=2 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Does the potato field show signs of overcrowding and reduced
+OK   | seed=156 | style=paraphrase_problem_description | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=The potato plants are growing too close together and have we
+SKIP | seed=156 | style=paraphrase_problem_description | call=4
+SKIP | seed=156 | style=paraphrase_problem_description | call=5
+OK   | seed=156 | style=paraphrase_problem_description | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=When the potato plants are too close together, leading to po
+OK   | seed=156 | style=paraphrase_problem_description | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Why are the potato plants in my field growing poorly with li
+SKIP | seed=156 | style=paraphrase_followup | call=1
+SKIP | seed=156 | style=paraphrase_followup | call=2
+SKIP | seed=156 | style=paraphrase_followup | call=3
+SKIP | seed=156 | style=paraphrase_followup | call=4
+SKIP | seed=156 | style=paraphrase_followup | call=5
+OK   | seed=156 | style=paraphrase_followup | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=When should the spacing between potato plants be adjusted?
+SKIP | seed=156 | style=paraphrase_followup | call=7
+OK   | seed=156 | style=paraphrase_followup | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Can maintaining proper spacing between potato plants help in
+SKIP | seed=156 | style=paraphrase_followup | call=9
+SKIP | seed=156 | style=paraphrase_followup | call=10
+SKIP | seed=156 | style=paraphrase_followup | call=11
+SKIP | seed=156 | style=paraphrase_followup | call=12
+SKIP | seed=156 | style=paraphrase_followup | call=13
+SKIP | seed=156 | style=paraphrase_followup | call=14
+ABANDON | seed=156 | style=paraphrase_followup | done=2/5
+OK   | seed=156 | style=paraphrase_yes_no | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the planting distance be adjusted based on the potato va
+OK   | seed=156 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does potato planting spacing vary according to the variety?
+OK   | seed=156 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are spacing adjustments necessary for different potato varie
+OK   | seed=156 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is maintaining proper row and plant spacing effective in pre
+OK   | seed=156 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does proper row and plant spacing prevent disease and ensure
+OK   | seed=156 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=How can proper spacing in potato fields help prevent disease
+OK   | seed=156 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the preventive measures to reduce disease in potato
+OK   | seed=156 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Which steps can prevent potato diseases through proper spaci
+OK   | seed=156 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the recommended potato planting distance influenced by fa
+OK   | seed=156 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the recommended planting distance in potato cultivation
+OK   | seed=156 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the spacing requirements for potato planting influenced 
+OK   | seed=156 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes the need for specific planting distances in pota
+OK   | seed=156 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Which factors influence the recommended potato planting dist
+SKIP | seed=156 | style=paraphrase_quantity_focused | call=1
+OK   | seed=156 | style=paraphrase_quantity_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the row-to-row spacing for potatoes require 50-60 cm?
+OK   | seed=156 | style=paraphrase_quantity_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the plant-to-plant spacing requirements for potatoes 15-
+OK   | seed=156 | style=paraphrase_quantity_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended row-to-row spacing for potato planti
+DUPE | seed=156 | style=paraphrase_quantity_focused | q=Which row-to-row spacing is recommended for potato planting?
+OK   | seed=156 | style=paraphrase_quantity_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=When planting potatoes, what is the recommended plant-to-pla
+OK   | seed=156 | style=paraphrase_quantity_focused | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is 60 cm row spacing recommended for potato planting?
+SKIP | seed=156 | style=paraphrase_timing_focused | call=1
+SKIP | seed=156 | style=paraphrase_timing_focused | call=2
+SKIP | seed=156 | style=paraphrase_timing_focused | call=3
+SKIP | seed=156 | style=paraphrase_timing_focused | call=4
+SKIP | seed=156 | style=paraphrase_timing_focused | call=5
+SKIP | seed=156 | style=paraphrase_timing_focused | call=6
+ABANDON | seed=156 | style=paraphrase_timing_focused | done=0/5
+OK   | seed=157 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there integrated strategies to enhance cotton crop quali
+OK   | seed=157 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What measures can be implemented to enhance cotton crop qual
+OK   | seed=157 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Which fertilization practices are recommended for different 
+OK   | seed=157 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What measures should be implemented to enhance cotton crop q
+OK   | seed=157 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is it important to balance cotton crop quality with grou
+OK   | seed=157 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are balanced fertilization and soil testing effective for co
+OK   | seed=157 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What balanced fertilization practices improve cotton quality
+OK   | seed=157 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Which fertilizers are recommended for hybrid/B.T. cotton?
+OK   | seed=157 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When should soil testing be done for cotton?
+SKIP | seed=157 | style=paraphrase_short | call=5
+OK   | seed=157 | style=paraphrase_short | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Can seaweed extract enhance cotton yield?
+OK   | seed=157 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Are the cotton plants showing yellowing leaves and stunted g
+OK   | seed=157 | style=paraphrase_problem_description | call=2 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=What if the cotton plants are not growing well and the nearb
+JUDGE_RETRY | seed=157 | style=paraphrase_problem_description | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer claims that 'yellowing leaves and stunted growth' indicate nutrient imbalances, but this specific information is not explicitly mentioned in the seed answer.", "The generated answer mentions 'balanced fertilizers as per recommendations' without specifying which ones, which is a generalization not directly supported by the seed answer."] | q=Which symptoms indicate that my cotton plants are not gettin
+OK   | seed=157 | style=paraphrase_problem_description | call=4 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=When the cotton plants have weak growth and the nearby water
+OK   | seed=157 | style=paraphrase_problem_description | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why are my cotton plants not growing well and the water arou
+SKIP | seed=157 | style=paraphrase_problem_description | call=6
+SKIP | seed=157 | style=paraphrase_problem_description | call=7
+OK   | seed=157 | style=paraphrase_problem_description | call=8 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=What is the yellowing of cotton leaves and poor boll develop
+OK   | seed=157 | style=paraphrase_followup | call=1 | focus=application_method | judge=PASS | scope_overflow=False | q=Are there specific timing guidelines for applying foliar spr
+SKIP | seed=157 | style=paraphrase_followup | call=2
+OK   | seed=157 | style=paraphrase_followup | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Which fertilizer quantities are recommended for wool-type co
+SKIP | seed=157 | style=paraphrase_followup | call=4
+OK   | seed=157 | style=paraphrase_followup | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is 75 kg urea recommended for wool-type cotton?
+OK   | seed=157 | style=paraphrase_followup | call=6 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Can you explain the recommended urea dosage for wool-type co
+OK   | seed=157 | style=paraphrase_followup | call=7 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Should I use drip irrigation for cotton to improve water use
+SKIP | seed=157 | style=paraphrase_yes_no | call=1
+SKIP | seed=157 | style=paraphrase_yes_no | call=2
+SKIP | seed=157 | style=paraphrase_yes_no | call=3
+OK   | seed=157 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is green manuring recommended for improving soil health in c
+SKIP | seed=157 | style=paraphrase_yes_no | call=5
+OK   | seed=157 | style=paraphrase_yes_no | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Can fertilizers be applied before heavy rain to prevent nutr
+OK   | seed=157 | style=paraphrase_yes_no | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Should green manuring be practiced before cotton sowing?
+OK   | seed=157 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=How can I prevent nutrient leaching and maintain soil health
+OK   | seed=157 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What practices can prevent groundwater contamination while p
+OK   | seed=157 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Which practices can I adopt to prevent groundwater contamina
+OK   | seed=157 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=How can I prevent soil degradation and nutrient imbalance in
+OK   | seed=157 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is soil testing important for preventing nutrient leachi
+OK   | seed=157 | style=paraphrase_cause | call=1 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Are excessive chemical fertilizers and improper irrigation t
+OK   | seed=157 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes nutrient leaching into groundwater when growing 
+OK   | seed=157 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Which factors cause nutrient leaching into groundwater durin
+OK   | seed=157 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When does groundwater contamination occur in cotton farming?
+OK   | seed=157 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why does overuse of chemical fertilizers harm groundwater?
+OK   | seed=157 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Are 35 kg nitrogen and 12 kg phosphorus per acre recommended
+SKIP | seed=157 | style=paraphrase_quantity_focused | call=2
+OK   | seed=157 | style=paraphrase_quantity_focused | call=3 | focus=application_method | judge=PASS | scope_overflow=False | q=Which foliar spray quantity is recommended for cotton at the
+OK   | seed=157 | style=paraphrase_quantity_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When should 2.5% urea be sprayed on cotton crops?
+SKIP | seed=157 | style=paraphrase_quantity_focused | call=5
+OK   | seed=157 | style=paraphrase_quantity_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Can you specify the volume of seaweed extract to apply durin
+SKIP | seed=157 | style=paraphrase_quantity_focused | call=7
+OK   | seed=157 | style=paraphrase_quantity_focused | call=8 | focus=application_method | judge=PASS | scope_overflow=False | q=What is the recommended concentration of urea for foliar spr
+OK   | seed=157 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific timing guidelines for soil testing and fo
+OK   | seed=157 | style=paraphrase_timing_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended timing for soil testing to ensure op
+OK   | seed=157 | style=paraphrase_timing_focused | call=3 | focus=application_timing | judge=PASS | scope_overflow=False | q=Which growth stages require foliar sprays for cotton crop im
+OK   | seed=157 | style=paraphrase_timing_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When should soil testing be conducted for optimal cotton cro
+OK   | seed=157 | style=paraphrase_timing_focused | call=5 | focus=application_timing | judge=PASS | scope_overflow=False | q=Why is soil testing done before sowing and during the crop c
+SKIP | seed=158 | style=paraphrase_formal | call=1
+SKIP | seed=158 | style=paraphrase_formal | call=2
+SKIP | seed=158 | style=paraphrase_formal | call=3
+OK   | seed=158 | style=paraphrase_formal | call=4 | focus=application_method | judge=PASS | scope_overflow=False | q=Are there specific soil application and foliar spray protoco
+OK   | seed=158 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the methods for controlling iron deficiency in padd
+SKIP | seed=158 | style=paraphrase_formal | call=6
+OK   | seed=158 | style=paraphrase_formal | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=When addressing iron deficiency in paddy and basmati rice, w
+OK   | seed=158 | style=paraphrase_formal | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is Safeda disease observed in paddy and basmati rice, an
+OK   | seed=158 | style=paraphrase_formal | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=Can effective control measures for iron deficiency in paddy 
+OK   | seed=158 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the control measure for iron deficiency in paddy?
+OK   | seed=158 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is ferrous sulphate effective for paddy iron deficiency?
+OK   | seed=158 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Does Safeda disease indicate iron deficiency in paddy?
+DUPE | seed=158 | style=paraphrase_short | q=Are ferrous sulphate applications effective for paddy iron d
+OK   | seed=158 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What controls iron deficiency in paddy?
+OK   | seed=158 | style=paraphrase_short | call=6 | focus=application_method | judge=PASS | scope_overflow=False | q=Which foliar spray ratio controls iron deficiency in paddy?
+OK   | seed=158 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=What is causing yellowing between the leaf veins and thin, p
+OK   | seed=158 | style=paraphrase_problem_description | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the new rice plant leaves turning yellow with green veins
+OK   | seed=158 | style=paraphrase_problem_description | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the young leaves of my paddy plants turning yellow betw
+OK   | seed=158 | style=paraphrase_problem_description | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the leaves turning yellow with green veins and appearing
+OK   | seed=158 | style=paraphrase_problem_description | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What if the new leaves of my paddy plants are yellow with gr
+OK   | seed=158 | style=paraphrase_followup | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended dosage of ferrous sulphate for folia
+OK   | seed=158 | style=paraphrase_followup | call=2 | focus=application_method | judge=PASS | scope_overflow=False | q=Is soil application of ferrous sulphate more effective than 
+OK   | seed=158 | style=paraphrase_followup | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Does ferrous sulphate effectively address iron deficiency in
+OK   | seed=158 | style=paraphrase_followup | call=4 | focus=application_method | judge=PASS | scope_overflow=False | q=Are there any specific safety measures to follow while handl
+DUPE | seed=158 | style=paraphrase_followup | q=What are the symptoms of iron deficiency in paddy and basmat
+DUPE | seed=158 | style=paraphrase_followup | q=Which dosage of ferrous sulphate is recommended for foliar a
+SKIP | seed=158 | style=paraphrase_followup | call=7
+OK   | seed=158 | style=paraphrase_followup | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Why does Safeda disease occur in paddy fields?
+OK   | seed=158 | style=paraphrase_yes_no | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Can foliar application of ferrous sulphate be used to rapidl
+SKIP | seed=158 | style=paraphrase_yes_no | call=2
+OK   | seed=158 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the seed answer recommend using gloves when handling fe
+OK   | seed=158 | style=paraphrase_yes_no | call=4 | focus=application_method | judge=PASS | scope_overflow=False | q=Are foliar sprays recommended for partial areas affected by 
+SKIP | seed=158 | style=paraphrase_preventive | call=1
+OK   | seed=158 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a way to prevent iron deficiency in paddy and basma
+OK   | seed=158 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Does soil testing help prevent iron deficiency in paddy and 
+SKIP | seed=158 | style=paraphrase_preventive | call=4
+OK   | seed=158 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What steps can be taken to prevent iron deficiency in paddy 
+OK   | seed=158 | style=paraphrase_preventive | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Which cultural practice helps prevent iron deficiency in pad
+OK   | seed=158 | style=paraphrase_preventive | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=When should soil application of ferrous sulphate be done to 
+OK   | seed=158 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the primary cause of iron deficiency in paddy and ba
+OK   | seed=158 | style=paraphrase_cause | call=2 | focus=pathogen_name | judge=PASS | scope_overflow=False | q=Is iron deficiency in paddy and basmati rice primarily cause
+OK   | seed=158 | style=paraphrase_cause | call=3 | focus=soil_condition | judge=PASS | scope_overflow=False | q=Does the occurrence of iron deficiency in paddy and basmati 
+OK   | seed=158 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Are alkaline and calcareous soils the primary cause of iron 
+OK   | seed=158 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes iron deficiency in paddy and basmati rice?
+OK   | seed=158 | style=paraphrase_quantity_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended amount of ferrous sulphate for folia
+OK   | seed=158 | style=paraphrase_quantity_focused | call=2 | focus=application_method | judge=PASS | scope_overflow=False | q=Is the foliar spray dosage for iron deficiency in paddy spec
+JUDGE_RETRY | seed=158 | style=paraphrase_quantity_focused | retry=1/3 | conf=high | scope_overflow=False | issues=["The claim that '8 kg urea' is required per acre for foliar application of ferrous sulphate is not explicitly stated in the seed answer. The seed answer mentions '1.6-2 kg ferrous sulphate with 8 kg urea or 1 kg quick lime per acre in 400 liters of water' as a general recommendation, but it does not specifically state that 8 kg urea is required for foliar application. The generated answer adds this specific claim, which is not explicitly present in the seed."] | q=Does the foliar application of ferrous sulphate require 8 kg
+OK   | seed=158 | style=paraphrase_quantity_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Are 4 g ferrous sulphate and 20 g urea mixed with water reco
+OK   | seed=158 | style=paraphrase_quantity_focused | call=5 | focus=application_method | judge=PASS | scope_overflow=False | q=What is the amount of ferrous sulphate used in foliar sprays
+OK   | seed=158 | style=paraphrase_quantity_focused | call=6 | focus=application_method | judge=PASS | scope_overflow=False | q=Which foliar spray mixture is recommended for iron deficienc
+OK   | seed=158 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When is ferrous sulphate application recommended for iron de
+OK   | seed=158 | style=paraphrase_timing_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is iron deficiency in paddy/basmati controlled during the nu
+OK   | seed=158 | style=paraphrase_timing_focused | call=3 | focus=application_timing | judge=PASS | scope_overflow=False | q=Does iron deficiency in paddy/basmati require control measur
+OK   | seed=158 | style=paraphrase_timing_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the control measures for iron deficiency in paddy most e
+OK   | seed=158 | style=paraphrase_timing_focused | call=5 | focus=application_timing | judge=PASS | scope_overflow=False | q=What is the best time to apply ferrous sulphate for iron def

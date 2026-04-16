@@ -2031,3 +2031,1141 @@ OK   | seed=31 | style=paraphrase_timing_focused | call=6 | focus=unknown | judg
 DUPE | seed=31 | style=paraphrase_timing_focused | q=What is the recommended timing for sowing the nursery before
 SKIP | seed=31 | style=paraphrase_timing_focused | call=8
 OK   | seed=31 | style=paraphrase_timing_focused | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=When should the nursery for Gobhi Sarson be prepared in Punj
+OK   | seed=32 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the recommended measures for managing late blight i
+SKIP | seed=32 | style=paraphrase_formal | call=2
+OK   | seed=32 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Can you outline the recommended chemical control measures fo
+OK   | seed=32 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Should effective measures be implemented to manage late blig
+OK   | seed=32 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended approach for managing late blight in
+DUPE | seed=32 | style=paraphrase_formal | q=Is there a recommended approach for managing late blight in 
+OK   | seed=32 | style=paraphrase_formal | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the late blight disease in potatoes necessitate specifi
+SKIP | seed=32 | style=paraphrase_short | call=1
+SKIP | seed=32 | style=paraphrase_short | call=2
+OK   | seed=32 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Can resistant potato varieties manage late blight?
+OK   | seed=32 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Propineb 70% WP be used for late blight in potatoes?
+OK   | seed=32 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What is a chemical solution for potato late blight?
+SKIP | seed=32 | style=paraphrase_short | call=6
+OK   | seed=32 | style=paraphrase_short | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Does chemical control manage late blight in potatoes?
+OK   | seed=32 | style=paraphrase_short | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Are chemical sprays recommended for late blight in potatoes?
+SKIP | seed=32 | style=paraphrase_problem_description | call=1
+OK   | seed=32 | style=paraphrase_problem_description | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Why are the potato leaves developing black patches with a wh
+OK   | seed=32 | style=paraphrase_problem_description | call=3 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Can the leaves with water-soaked spots and black patches alo
+OK   | seed=32 | style=paraphrase_problem_description | call=4 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Should I be concerned about water-soaked spots on my potato 
+OK   | seed=32 | style=paraphrase_problem_description | call=5 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=What is the problem when potato leaves have dark spots and a
+OK   | seed=32 | style=paraphrase_problem_description | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a problem with my potato plants? The leaves have bl
+OK   | seed=32 | style=paraphrase_followup | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When should the chemical sprays be applied for effective con
+OK   | seed=32 | style=paraphrase_followup | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is the first week of November recommended for spraying f
+OK   | seed=32 | style=paraphrase_followup | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Can you explain why the first week of November is recommende
+SKIP | seed=32 | style=paraphrase_followup | call=4
+OK   | seed=32 | style=paraphrase_followup | call=5 | focus=application_timing | judge=PASS | scope_overflow=False | q=What is the best time to apply the spray for late blight pre
+SKIP | seed=32 | style=paraphrase_followup | call=6
+SKIP | seed=32 | style=paraphrase_followup | call=7
+OK   | seed=32 | style=paraphrase_followup | call=8 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Are water-soaked spots on potato leaves a definitive sign of
+OK   | seed=32 | style=paraphrase_yes_no | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the use of resistant potato varieties recommended for con
+OK   | seed=32 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Why are resistant potato varieties recommended for managing 
+OK   | seed=32 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Can resistant potato varieties like Kufri Chipsona-1 be used
+SKIP | seed=32 | style=paraphrase_preventive | call=1
+SKIP | seed=32 | style=paraphrase_preventive | call=2
+OK   | seed=32 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Can proper soil management and crop selection help prevent l
+OK   | seed=32 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers use specific potato varieties to prevent late
+OK   | seed=32 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the best way to prevent late blight in potatoes usin
+OK   | seed=32 | style=paraphrase_preventive | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a way to prevent late blight in potatoes through so
+OK   | seed=32 | style=paraphrase_preventive | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Does using healthy tubers and high ridge culture prevent lat
+OK   | seed=32 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When does late blight disease in potatoes become a critical 
+OK   | seed=32 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Why does late blight in potatoes occur despite preventive me
+OK   | seed=32 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the primary cause of late blight in potato crops be attr
+OK   | seed=32 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers in Punjab prioritize using disease-free seed 
+OK   | seed=32 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes late blight in potatoes according to the seed an
+OK   | seed=32 | style=paraphrase_quantity_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When should Propineb 70% WP, Mancozeb 75% WP, or Chlorothalo
+OK   | seed=32 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Why is 500–700 g per acre of Propineb 70% WP, Mancozeb 75% W
+OK   | seed=32 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Can you suggest the dosage for Copper oxychloride 50% WP to 
+OK   | seed=32 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Should the farmer apply Propineb 70% WP at 500-700 g per acr
+OK   | seed=32 | style=paraphrase_quantity_focused | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the dosage for Propineb 70% WP in potato late blight
+OK   | seed=32 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When should the spray be applied to prevent late blight in p
+SKIP | seed=32 | style=paraphrase_timing_focused | call=2
+OK   | seed=32 | style=paraphrase_timing_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the occurrence of late blight in potatoes be predicted u
+SKIP | seed=32 | style=paraphrase_timing_focused | call=4
+OK   | seed=32 | style=paraphrase_timing_focused | call=5 | focus=application_timing | judge=PASS | scope_overflow=False | q=What is the recommended time to apply fungicides for late bl
+OK   | seed=32 | style=paraphrase_timing_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a predicted time window for late blight occurrence 
+OK   | seed=32 | style=paraphrase_timing_focused | call=7 | focus=application_timing | judge=PASS | scope_overflow=False | q=When is the optimal time to apply preventive sprays for late
+OK   | seed=33 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is Panchagavya employed in organic paddy cultivation and
+OK   | seed=33 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Can you explain the composition and application of Panchagav
+OK   | seed=33 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Panchagavya (Kayakalpam) be employed in organic paddy
+DUPE | seed=33 | style=paraphrase_formal | q=What is the composition and application methodology of Panch
+OK   | seed=33 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Panchagavya a viable organic input for paddy cultivation?
+OK   | seed=33 | style=paraphrase_formal | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the inclusion of jaggery in Panchagavya preparation enh
+OK   | seed=33 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is Panchagavya used in organic paddy?
+OK   | seed=33 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Can Panchagavya enhance paddy growth?
+SKIP | seed=33 | style=paraphrase_short | call=3
+OK   | seed=33 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is Panchagavya and its application in organic paddy?
+SKIP | seed=33 | style=paraphrase_short | call=5
+OK   | seed=33 | style=paraphrase_short | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Does Panchagavya improve paddy yield in organic farming?
+OK   | seed=33 | style=paraphrase_short | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Are Panchagavya applications effective for organic paddy?
+SKIP | seed=33 | style=paraphrase_problem_description | call=1
+SKIP | seed=33 | style=paraphrase_problem_description | call=2
+OK   | seed=33 | style=paraphrase_problem_description | call=3 | focus=application_method | judge=PASS | scope_overflow=False | q=Should I use a foliar spray to improve plant growth and vigo
+SKIP | seed=33 | style=paraphrase_problem_description | call=4
+OK   | seed=33 | style=paraphrase_problem_description | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the seedling growth weak and slow?
+SKIP | seed=33 | style=paraphrase_problem_description | call=6
+OK   | seed=33 | style=paraphrase_problem_description | call=7 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Are the seedlings weak and yellowing, with poor growth?
+SKIP | seed=33 | style=paraphrase_problem_description | call=8
+OK   | seed=33 | style=paraphrase_problem_description | call=9 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Which symptoms indicate the need for organic soil enrichment
+OK   | seed=33 | style=paraphrase_problem_description | call=10 | focus=unknown | judge=PASS | scope_overflow=False | q=When the paddy plants appear weak and grow slowly, what shou
+OK   | seed=33 | style=paraphrase_followup | call=1 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=What is the recommended dosage for Panchagavya seed treatmen
+OK   | seed=33 | style=paraphrase_followup | call=2 | focus=application_method | judge=PASS | scope_overflow=False | q=Can you explain the recommended timing for applying Panchaga
+SKIP | seed=33 | style=paraphrase_followup | call=3
+OK   | seed=33 | style=paraphrase_followup | call=4 | focus=application_method | judge=PASS | scope_overflow=False | q=What is the recommended dosage for applying Panchagavya as a
+OK   | seed=33 | style=paraphrase_followup | call=5 | focus=application_method | judge=PASS | scope_overflow=False | q=Is 3% the correct dosage for Panchagavya foliar spray in pad
+SKIP | seed=33 | style=paraphrase_followup | call=6
+SKIP | seed=33 | style=paraphrase_followup | call=7
+SKIP | seed=33 | style=paraphrase_followup | call=8
+DUPE | seed=33 | style=paraphrase_followup | q=Which concentration of Panchagavya is recommended for seed t
+OK   | seed=33 | style=paraphrase_followup | call=10 | focus=unknown | judge=PASS | scope_overflow=False | q=When should Panchagavya be applied during paddy cultivation?
+SKIP | seed=33 | style=paraphrase_yes_no | call=1
+OK   | seed=33 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Panchagavya considered a traditional organic formulation 
+OK   | seed=33 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Panchagavya be used as a standalone pesticide substit
+SKIP | seed=33 | style=paraphrase_yes_no | call=4
+OK   | seed=33 | style=paraphrase_yes_no | call=5 | focus=application_method | judge=PASS | scope_overflow=False | q=Is Panchagavya applied as a foliar spray in organic paddy fa
+OK   | seed=33 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is Panchagavya used in organic paddy cultivation for pre
+OK   | seed=33 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Can cultural practices in organic paddy farming prevent dise
+OK   | seed=33 | style=paraphrase_preventive | call=3 | focus=application_method | judge=PASS | scope_overflow=False | q=Should farmers apply Panchagavya as a foliar spray to enhanc
+SKIP | seed=33 | style=paraphrase_preventive | call=4
+OK   | seed=33 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Panchagavya used to prevent paddy crop diseases?
+OK   | seed=33 | style=paraphrase_preventive | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Does using Panchagavya enhance plant immunity to prevent dis
+DUPE | seed=33 | style=paraphrase_cause | q=Why is Panchagavya used in organic paddy cultivation?
+OK   | seed=33 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the effectiveness of Panchagavya in organic paddy cultiv
+OK   | seed=33 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Panchagavya be used to enhance disease resistance in 
+OK   | seed=33 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the causal mechanism behind Panchagavya's effectiven
+OK   | seed=33 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Panchagavya effective in boosting paddy growth because it
+OK   | seed=33 | style=paraphrase_cause | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the microbial activity in Panchagavya enhance soil fert
+OK   | seed=33 | style=paraphrase_quantity_focused | call=1 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Why is 1% Panchagavya solution used for seed treatment in or
+OK   | seed=33 | style=paraphrase_quantity_focused | call=2 | focus=application_method | judge=PASS | scope_overflow=False | q=Can Panchagavya be applied as a foliar spray, and what is th
+OK   | seed=33 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Should paddy seeds be treated with Panchagavya, and what is 
+DUPE | seed=33 | style=paraphrase_quantity_focused | q=What is the recommended concentration for Panchagavya foliar
+OK   | seed=33 | style=paraphrase_quantity_focused | call=5 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Is 1% Panchagavya solution used for paddy seed treatment?
+OK   | seed=33 | style=paraphrase_quantity_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Does Panchagavya require a 15–30 day fermentation period?
+SKIP | seed=33 | style=paraphrase_timing_focused | call=1
+OK   | seed=33 | style=paraphrase_timing_focused | call=2 | focus=application_timing | judge=PASS | scope_overflow=False | q=Can Panchagavya be applied at specific growth stages for opt
+SKIP | seed=33 | style=paraphrase_timing_focused | call=3
+DUPE | seed=33 | style=paraphrase_timing_focused | q=What is the recommended timing for applying Panchagavya in o
+SKIP | seed=33 | style=paraphrase_timing_focused | call=5
+OK   | seed=33 | style=paraphrase_timing_focused | call=6 | focus=application_timing | judge=PASS | scope_overflow=False | q=Does Panchagavya need to be applied at specific growth stage
+OK   | seed=33 | style=paraphrase_timing_focused | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific timing windows for applying Panchagavya i
+OK   | seed=33 | style=paraphrase_timing_focused | call=8 | focus=application_method | judge=PASS | scope_overflow=False | q=What are the recommended timings for foliar sprays of Pancha
+DUPE | seed=33 | style=paraphrase_timing_focused | q=Which timings are recommended for foliar sprays of Panchagav
+DUPE | seed=33 | style=paraphrase_timing_focused | q=When is Panchagavya applied during organic paddy cultivation
+SKIP | seed=33 | style=paraphrase_timing_focused | call=11
+OK   | seed=33 | style=paraphrase_timing_focused | call=12 | focus=unknown | judge=PASS | scope_overflow=False | q=Can Panchagavya be applied at specific times during paddy gr
+OK   | seed=34 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the recommended practices for pest management in wh
+OK   | seed=34 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Should integrated pest management strategies be employed for
+OK   | seed=34 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended chemical control strategy for managi
+OK   | seed=34 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a comprehensive approach to managing pests in wheat
+OK   | seed=34 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the use of specific pesticides and cultural practices e
+OK   | seed=34 | style=paraphrase_short | call=1 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Can termite infestation in wheat be controlled with seed tre
+OK   | seed=34 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Chlorpyriphos 20% EC be used for termite control in w
+OK   | seed=34 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What is pink stem borer control in wheat?
+OK   | seed=34 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Chlorpyriphos 20% EC effective for termite control in whe
+SKIP | seed=34 | style=paraphrase_short | call=5
+OK   | seed=34 | style=paraphrase_short | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Are Chlorpyriphos 20% EC and Thiamethoxam 70% WS effective f
+OK   | seed=34 | style=paraphrase_problem_description | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Can you help with wheat plants that are drying up and have d
+OK   | seed=34 | style=paraphrase_problem_description | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Should I be worried about plants turning dry and leaves turn
+OK   | seed=34 | style=paraphrase_problem_description | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What is causing the young wheat plants to have dead central 
+OK   | seed=34 | style=paraphrase_problem_description | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the wheat crop showing plants that dry up and are easily 
+OK   | seed=34 | style=paraphrase_problem_description | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the wheat crop have plants that dry up and collapse eas
+OK   | seed=34 | style=paraphrase_followup | call=1 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Can you clarify the dosage requirements for seed treatment w
+OK   | seed=34 | style=paraphrase_followup | call=2 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Should Fipronil 0.30% GR be applied with moist sand before t
+OK   | seed=34 | style=paraphrase_followup | call=3 | focus=application_method | judge=PASS | scope_overflow=False | q=What is the application method for Fipronil 0.30% GR in whea
+SKIP | seed=34 | style=paraphrase_followup | call=4
+OK   | seed=34 | style=paraphrase_followup | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Does Fipronil 0.30% GR need a specific application rate?
+SKIP | seed=34 | style=paraphrase_followup | call=6
+OK   | seed=34 | style=paraphrase_followup | call=7 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=What are the recommended chemical options for seed treatment
+OK   | seed=34 | style=paraphrase_yes_no | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Can yellow sticky traps and bird perches be used to manage a
+SKIP | seed=34 | style=paraphrase_yes_no | call=2
+OK   | seed=34 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the use of yellow sticky traps recommended for aphid moni
+OK   | seed=34 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is deep summer ploughing effective against termite infestati
+SKIP | seed=34 | style=paraphrase_preventive | call=1
+JUDGE_RETRY | seed=34 | style=paraphrase_preventive | retry=1/3 | conf=high | scope_overflow=False | issues=["The answer omits the specific chemical treatments mentioned in the seed answer (Chlorpyriphos 20% EC, Thiamethoxam 70% WS, Fipronil 0.30% GR) and instead claims that the methods 'help minimize infestation risks without chemical interventions,' which is not supported by the seed answer. The seed explicitly mentions chemical treatments as effective solutions."] | q=Should wheat farmers focus on specific cultural practices to
+OK   | seed=34 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the best way to prevent termite infestation in wheat
+JUDGE_RETRY | seed=34 | style=paraphrase_preventive | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer includes 'Install yellow sticky traps (4-5 per acre) for monitoring and place bird perches (10 per acre) to encourage natural predators.' This information about aphid monitoring and bird perches is not related to termite prevention and is not present in the seed answer.", "The generated answer omits the seed answer's information about seed treatments (Chlorpyriphos 20% EC, Thiamethoxam 70% WS) and Fipronil 0.30% GR, which are specific to termite control."] | q=Is there a way to prevent termite infestation in wheat crops
+SKIP | seed=34 | style=paraphrase_preventive | call=5 | (judge-retry)
+JUDGE_ABANDON | seed=34 | style=paraphrase_preventive | conf=high | scope_overflow=False | issues=["The generated answer includes 'Install yellow sticky traps (4-5 per acre) for monitoring and place bird perches (10 per acre) to encourage natural predators.' This information about aphid monitoring and bird perches is not related to termite prevention and is not present in the seed answer.", "The generated answer omits the seed answer's information about seed treatments (Chlorpyriphos 20% EC, Thiamethoxam 70% WS) and Fipronil 0.30% GR, which are specific to termite control."] | q=Is there a way to prevent termite infestation in wheat crops
+OK   | seed=34 | style=paraphrase_preventive | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there cultural practices to prevent termite infestation 
+OK   | seed=34 | style=paraphrase_preventive | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=What cultural practices help prevent termite and aphid infes
+SKIP | seed=34 | style=paraphrase_preventive | call=8
+JUDGE_RETRY | seed=34 | style=paraphrase_preventive | retry=1/3 | conf=high | scope_overflow=False | issues=['The generated answer includes information about yellow sticky traps and bird perches for aphid management, which is not mentioned in the seed answer as part of termite prevention.', 'The generated answer includes information about neem cake application, which is present in the seed answer but is not explicitly tied to the timing of deep summer ploughing and farmyard manure in the seed.'] | q=When should deep summer ploughing and farmyard manure be app
+OK   | seed=34 | style=paraphrase_preventive | call=10 | focus=unknown | judge=PASS | scope_overflow=False | q=Why should farmers practice deep summer ploughing and apply 
+OK   | seed=34 | style=paraphrase_preventive | call=11 | focus=unknown | judge=PASS | scope_overflow=False | q=Can pests in wheat crops be prevented through cultural pract
+OK   | seed=34 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Can improper agricultural practices lead to termite infestat
+OK   | seed=34 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Should termite infestation in wheat be a concern, and what f
+OK   | seed=34 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes aphid infestation in wheat crops?
+OK   | seed=34 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the occurrence of termite infestation in wheat crops prim
+OK   | seed=34 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Does cloudy weather cause aphid outbreaks in wheat?
+OK   | seed=34 | style=paraphrase_quantity_focused | call=1 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Can Chlorpyriphos 20% EC be used for seed treatment in wheat
+SKIP | seed=34 | style=paraphrase_quantity_focused | call=2
+OK   | seed=34 | style=paraphrase_quantity_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended amount of neem cake for wheat cultiv
+OK   | seed=34 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Is Thiamethoxam 70% WS applied at 1.75 g/kg seed for wheat p
+SKIP | seed=34 | style=paraphrase_quantity_focused | call=5
+OK   | seed=34 | style=paraphrase_quantity_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Are 80 kg/acre of neem cake effective for termite control in
+OK   | seed=34 | style=paraphrase_quantity_focused | call=7 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=What is the recommended seed treatment quantity for Thiameth
+SKIP | seed=34 | style=paraphrase_timing_focused | call=1
+OK   | seed=34 | style=paraphrase_timing_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Quinalphos 25% EC be applied during the seedling stag
+OK   | seed=34 | style=paraphrase_timing_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended timing for spraying Quinalphos 25% E
+OK   | seed=34 | style=paraphrase_timing_focused | call=4 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Is Fipronil 0.30% GR application required before the first i
+SKIP | seed=34 | style=paraphrase_timing_focused | call=5
+OK   | seed=34 | style=paraphrase_timing_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Are pink stem borers a concern for wheat during the seedling
+SKIP | seed=34 | style=paraphrase_timing_focused | call=7
+SKIP | seed=34 | style=paraphrase_timing_focused | call=8
+DUPE | seed=34 | style=paraphrase_timing_focused | q=When should Quinalphos 25% EC be applied for pink stem borer
+SKIP | seed=34 | style=paraphrase_timing_focused | call=10
+SKIP | seed=34 | style=paraphrase_timing_focused | call=11
+SKIP | seed=34 | style=paraphrase_timing_focused | call=12
+ABANDON | seed=34 | style=paraphrase_timing_focused | done=4/5
+OK   | seed=35 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the recommended sources for obtaining Sona Mahsuri 
+OK   | seed=35 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Which sources provide authentic Sona Mahsuri paddy variety s
+OK   | seed=35 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=When is the Sona Mahsuri paddy variety suitable for cultivat
+SKIP | seed=35 | style=paraphrase_formal | call=4
+OK   | seed=35 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Can you provide information on the sources for obtaining Son
+SKIP | seed=35 | style=paraphrase_formal | call=6
+OK   | seed=35 | style=paraphrase_formal | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended protocol for sourcing and cultivatin
+OK   | seed=35 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What are Sona Mahsuri paddy seeds' key traits and sources?
+OK   | seed=35 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Which sources offer Sona Mahsuri paddy seeds?
+OK   | seed=35 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=When transplanting Sona Mahsuri, what spacing is required?
+OK   | seed=35 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Why choose Sona Mahsuri paddy variety?
+SKIP | seed=35 | style=paraphrase_short | call=5
+OK   | seed=35 | style=paraphrase_short | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Sona Mahsuri be planted in all districts?
+OK   | seed=35 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=What should I do if my paddy plants show signs of lodging an
+SKIP | seed=35 | style=paraphrase_problem_description | call=2
+SKIP | seed=35 | style=paraphrase_problem_description | call=3
+SKIP | seed=35 | style=paraphrase_problem_description | call=4
+SKIP | seed=35 | style=paraphrase_problem_description | call=5
+SKIP | seed=35 | style=paraphrase_problem_description | call=6
+OK   | seed=35 | style=paraphrase_problem_description | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the best way to ensure high-quality Sona Mahsuri pad
+SKIP | seed=35 | style=paraphrase_problem_description | call=8
+JUDGE_RETRY | seed=35 | style=paraphrase_problem_description | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer mentions 'moderate disease resistance' which is not explicitly stated in the seed answer. The seed answer mentions resistance to neck blast and tolerance to gall midge, but not 'moderate disease resistance' in general.", "The generated answer mentions 'use certified seeds with 80% germination' which is present in the seed answer, but the phrasing is slightly reworded. However, this is not a new claim."] | q=Does the paddy field show yellowing leaves and poor grain fi
+SKIP | seed=35 | style=paraphrase_problem_description | call=10 | (judge-retry)
+JUDGE_ABANDON | seed=35 | style=paraphrase_problem_description | conf=high | scope_overflow=False | issues=["The generated answer mentions 'moderate disease resistance' which is not explicitly stated in the seed answer. The seed answer mentions resistance to neck blast and tolerance to gall midge, but not 'moderate disease resistance' in general.", "The generated answer mentions 'use certified seeds with 80% germination' which is present in the seed answer, but the phrasing is slightly reworded. However, this is not a new claim."] | q=Does the paddy field show yellowing leaves and poor grain fi
+SKIP | seed=35 | style=paraphrase_problem_description | call=11
+SKIP | seed=35 | style=paraphrase_problem_description | call=12
+SKIP | seed=35 | style=paraphrase_problem_description | call=13
+SKIP | seed=35 | style=paraphrase_problem_description | call=14
+ABANDON | seed=35 | style=paraphrase_problem_description | done=2/5
+OK   | seed=35 | style=paraphrase_followup | call=1 | focus=application_timing | judge=PASS | scope_overflow=False | q=What is the recommended transplanting time for Sona Mahsuri 
+SKIP | seed=35 | style=paraphrase_followup | call=2
+OK   | seed=35 | style=paraphrase_followup | call=3 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=What irrigation methods are recommended for Sona Mahsuri pad
+SKIP | seed=35 | style=paraphrase_followup | call=4
+OK   | seed=35 | style=paraphrase_followup | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Can you explain the seed rate for Sona Mahsuri paddy?
+SKIP | seed=35 | style=paraphrase_followup | call=6
+SKIP | seed=35 | style=paraphrase_followup | call=7
+OK   | seed=35 | style=paraphrase_followup | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Which specific diseases is Sona Mahsuri paddy variety resist
+OK   | seed=35 | style=paraphrase_followup | call=9 | focus=pathogen_name | judge=PASS | scope_overflow=False | q=Does Sona Mahsuri have resistance to specific pathogens, and
+OK   | seed=35 | style=paraphrase_yes_no | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Sona Mahsuri recommended for cultivation in all districts
+SKIP | seed=35 | style=paraphrase_yes_no | call=2
+SKIP | seed=35 | style=paraphrase_yes_no | call=3
+OK   | seed=35 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is Sona Mahsuri not recommended for cultivation in Erode
+SKIP | seed=35 | style=paraphrase_yes_no | call=5
+OK   | seed=35 | style=paraphrase_yes_no | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers use Sona Mahsuri paddy variety as per TNAU re
+OK   | seed=35 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What preventive measures can be taken to ensure successful c
+OK   | seed=35 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Which practices ensure optimal growth of Sona Mahsuri paddy?
+OK   | seed=35 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=When should I select certified seeds for Sona Mahsuri to ens
+OK   | seed=35 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Why should farmers use certified seeds for Sona Mahsuri padd
+OK   | seed=35 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Can I prevent disease issues with Sona Mahsuri by selecting 
+OK   | seed=35 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes the need for integrated pest management in Sona 
+SKIP | seed=35 | style=paraphrase_cause | call=2
+OK   | seed=35 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=When is Sona Mahsuri paddy variety suitable for cultivation 
+SKIP | seed=35 | style=paraphrase_cause | call=4
+OK   | seed=35 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Can Sona Mahsuri paddy variety be grown in both irrigated an
+SKIP | seed=35 | style=paraphrase_cause | call=6
+OK   | seed=35 | style=paraphrase_cause | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the primary reason for recommending Sona Mahsuri pad
+SKIP | seed=35 | style=paraphrase_cause | call=8
+SKIP | seed=35 | style=paraphrase_cause | call=9
+OK   | seed=35 | style=paraphrase_cause | call=10 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the characteristics of Sona Mahsuri paddy variety determ
+OK   | seed=35 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended seed rate for Sona Mahsuri paddy in 
+DUPE | seed=35 | style=paraphrase_quantity_focused | q=Which seed rate is recommended for Sona Mahsuri paddy variet
+OK   | seed=35 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=When should Sona Mahsuri paddy seeds be transplanted and wha
+OK   | seed=35 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Why is the seed rate for Sona Mahsuri paddy recommended as 8
+OK   | seed=35 | style=paraphrase_quantity_focused | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Can I get the seed rate for Sona Mahsuri paddy variety?
+OK   | seed=35 | style=paraphrase_quantity_focused | call=6 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Should I use 8-10 kg/acre for Sona Mahsuri seed rate?
+OK   | seed=35 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When is the best time to plant Sona Mahsuri paddy variety?
+OK   | seed=35 | style=paraphrase_timing_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When should seedlings of Sona Mahsuri paddy be transplanted?
+DUPE | seed=35 | style=paraphrase_timing_focused | q=When should seedlings of Sona Mahsuri paddy be transplanted?
+SKIP | seed=35 | style=paraphrase_timing_focused | call=4
+SKIP | seed=35 | style=paraphrase_timing_focused | call=5
+OK   | seed=35 | style=paraphrase_timing_focused | call=6 | focus=application_timing | judge=PASS | scope_overflow=False | q=Should seedlings be transplanted at a specific growth stage,
+SKIP | seed=35 | style=paraphrase_timing_focused | call=7
+OK   | seed=35 | style=paraphrase_timing_focused | call=8 | focus=application_timing | judge=PASS | scope_overflow=False | q=Is Sona Mahsuri paddy variety transplanted at 20-25 days aft
+OK   | seed=35 | style=paraphrase_timing_focused | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=Does Sona Mahsuri paddy variety perform well in both Rabi an
+OK   | seed=36 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should the sowing of Taramira (Eruca sativa) be undertaken d
+OK   | seed=36 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Determine the optimal sowing period for Taramira (Eruca sati
+DUPE | seed=36 | style=paraphrase_formal | q=Is the optimal sowing period for Taramira (Eruca sativa) in 
+OK   | seed=36 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the optimal sowing period for Taramira (Eruca sativa) v
+OK   | seed=36 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific sowing periods recommended for Taramira (
+OK   | seed=36 | style=paraphrase_formal | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the risks of delaying sowing beyond October for Tar
+OK   | seed=36 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Taramira be sown in October?
+OK   | seed=36 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the optimal sowing window for Taramira in Punjab?
+OK   | seed=36 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is delayed sowing of Taramira in Punjab advisable?
+OK   | seed=36 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does October sowing suit Taramira in Punjab?
+OK   | seed=36 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are October sowing dates suitable for Taramira?
+OK   | seed=36 | style=paraphrase_problem_description | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should my Taramira plants be growing better if sown in early
+OK   | seed=36 | style=paraphrase_problem_description | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is causing my Taramira plants to have stunted growth an
+OK   | seed=36 | style=paraphrase_problem_description | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the crop not growing well due to sowing at the wrong time
+OK   | seed=36 | style=paraphrase_problem_description | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the crop not germinate well when sown in November?
+OK   | seed=36 | style=paraphrase_problem_description | call=5 | focus=application_timing | judge=PASS | scope_overflow=False | q=Are the plants not growing well after sowing in November?
+OK   | seed=36 | style=paraphrase_followup | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Taramira be sown in early November if October is unav
+JUDGE_RETRY | seed=36 | style=paraphrase_followup | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer claims the latest recommended date is 'early November', which is not present in the seed answer. The seed answer states that 'early November sowing may still be possible but is not recommended' and that the ideal period is 'early October to the end of October'.", "The generated answer introduces the claim that 'sowing beyond October increases risks of reduced yields due to unfavorable temperatures during reproductive stages', which is not explicitly stated in the seed answer."] | q=What is the latest recommended date for sowing Taramira in P
+OK   | seed=36 | style=paraphrase_followup | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the optimal sowing period for Taramira in Punjab from ear
+OK   | seed=36 | style=paraphrase_followup | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does sowing Taramira in early November affect its yield?
+OK   | seed=36 | style=paraphrase_followup | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there any risks if Taramira is sown after October?
+OK   | seed=36 | style=paraphrase_followup | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What factors determine the optimal sowing timing for Taramir
+DUPE | seed=36 | style=paraphrase_yes_no | q=Should Taramira be sown in October?
+OK   | seed=36 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is October the ideal sowing period for Taramira in Punjab?
+OK   | seed=36 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is sowing Taramira in early November recommended?
+OK   | seed=36 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does sowing Taramira in October ensure optimal yield in Punj
+OK   | seed=36 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers in Punjab ensure Taramira is sown within a sp
+OK   | seed=36 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the best method to prevent delayed growth in Taramir
+OK   | seed=36 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a specific sowing window to prevent cold stress in 
+OK   | seed=36 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does sowing Taramira in early October prevent yield loss due
+OK   | seed=36 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there steps to prevent poor Taramira growth?
+OK   | seed=36 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Taramira be sown in October, and what environmental f
+OK   | seed=36 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes delayed sowing of Taramira to result in reduced 
+OK   | seed=36 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the optimal sowing time for Taramira in Punjab linked to 
+OK   | seed=36 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the sowing time of Taramira in Punjab influence its gro
+JUDGE_RETRY | seed=36 | style=paraphrase_cause | retry=1/3 | conf=high | scope_overflow=False | issues=["The claim that October 'avoids peak pest activity' is not explicitly mentioned in the seed answer.", "The statement about 'reduced moisture' in early November is not explicitly stated in the seed answer."] | q=Are the temperature and moisture levels in October ideal for
+OK   | seed=36 | style=paraphrase_cause | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes the need to sow Taramira in October?
+SKIP | seed=36 | style=paraphrase_quantity_focused | call=1
+SKIP | seed=36 | style=paraphrase_quantity_focused | call=2
+SKIP | seed=36 | style=paraphrase_quantity_focused | call=3
+SKIP | seed=36 | style=paraphrase_quantity_focused | call=4
+SKIP | seed=36 | style=paraphrase_quantity_focused | call=5
+SKIP | seed=36 | style=paraphrase_quantity_focused | call=6
+ABANDON | seed=36 | style=paraphrase_quantity_focused | done=0/5
+OK   | seed=36 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Taramira be sown in early October or later in the mon
+OK   | seed=36 | style=paraphrase_timing_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the latest recommended sowing time for Taramira in P
+DUPE | seed=36 | style=paraphrase_timing_focused | q=Is sowing Taramira in November recommended?
+DUPE | seed=36 | style=paraphrase_timing_focused | q=Does sowing Taramira in early October ensure optimal growth 
+SKIP | seed=36 | style=paraphrase_timing_focused | call=5
+DUPE | seed=36 | style=paraphrase_timing_focused | q=What is the latest recommended date for sowing Taramira in P
+DUPE | seed=36 | style=paraphrase_timing_focused | q=When is the optimal sowing period for Taramira in Punjab?
+OK   | seed=36 | style=paraphrase_timing_focused | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=When is the optimal time to sow Taramira in Punjab to avoid 
+DUPE | seed=36 | style=paraphrase_timing_focused | q=Why is October the ideal sowing period for Taramira in Punja
+OK   | seed=36 | style=paraphrase_timing_focused | call=10 | focus=unknown | judge=PASS | scope_overflow=False | q=When is the best time to sow Taramira in Punjab?
+DUPE | seed=36 | style=paraphrase_timing_focused | q=Should Taramira be sown in October?
+DUPE | seed=36 | style=paraphrase_timing_focused | q=What is the optimal sowing period for Taramira in Punjab?
+OK   | seed=36 | style=paraphrase_timing_focused | call=13 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a specific period during the year when Taramira sho
+SKIP | seed=37 | style=paraphrase_formal | call=1
+SKIP | seed=37 | style=paraphrase_formal | call=2
+OK   | seed=37 | style=paraphrase_formal | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Does soil testing influence the recommended DAP application 
+OK   | seed=37 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific guidelines for Di-Ammonium Phosphate appl
+SKIP | seed=37 | style=paraphrase_formal | call=5
+SKIP | seed=37 | style=paraphrase_formal | call=6
+SKIP | seed=37 | style=paraphrase_formal | call=7
+OK   | seed=37 | style=paraphrase_formal | call=8 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Why is the recommended Di-Ammonium Phosphate (DAP) dose for 
+OK   | seed=37 | style=paraphrase_formal | call=9 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Can you outline the recommended DAP application rate and met
+OK   | seed=37 | style=paraphrase_formal | call=10 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Should the application of Di-Ammonium Phosphate (DAP) be con
+OK   | seed=37 | style=paraphrase_short | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended DAP dose for basmati paddy nursery?
+OK   | seed=37 | style=paraphrase_short | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Is 8-10 kg DAP per acre recommended for basmati nursery?
+OK   | seed=37 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Does DAP require pre-sowing application for basmati nursery?
+OK   | seed=37 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Are 8-10 kg DAP/acre recommended for basmati nursery?
+DUPE | seed=37 | style=paraphrase_short | q=What DAP dose is recommended for basmati paddy nursery?
+OK   | seed=37 | style=paraphrase_short | call=6 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Which DAP dose provides 1.4-1.8 kg nitrogen?
+OK   | seed=37 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=What is the issue with weak and yellowing paddy seedlings in
+SKIP | seed=37 | style=paraphrase_problem_description | call=2
+OK   | seed=37 | style=paraphrase_problem_description | call=3 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Does my basmati paddy nursery have yellowing seedlings and w
+OK   | seed=37 | style=paraphrase_problem_description | call=4 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Are the seedlings in my nursery showing yellowing and weak g
+OK   | seed=37 | style=paraphrase_problem_description | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What if the seedlings are weak and yellow?
+SKIP | seed=37 | style=paraphrase_problem_description | call=6
+OK   | seed=37 | style=paraphrase_problem_description | call=7 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=When the seedlings in the nursery start showing yellowing, w
+OK   | seed=37 | style=paraphrase_followup | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the correct method for applying DAP in basmati paddy
+SKIP | seed=37 | style=paraphrase_followup | call=2
+SKIP | seed=37 | style=paraphrase_followup | call=3
+OK   | seed=37 | style=paraphrase_followup | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific timing guidelines for applying DAP in bas
+SKIP | seed=37 | style=paraphrase_followup | call=5
+SKIP | seed=37 | style=paraphrase_followup | call=6
+OK   | seed=37 | style=paraphrase_followup | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=When should DAP be applied in the basmati paddy nursery?
+OK   | seed=37 | style=paraphrase_followup | call=8 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Why is yellowing a concern for basmati paddy nursery seedlin
+OK   | seed=37 | style=paraphrase_followup | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=Can you explain the proper method for applying DAP in the ba
+OK   | seed=37 | style=paraphrase_yes_no | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Should DAP be applied as a basal application in basmati nurs
+OK   | seed=37 | style=paraphrase_yes_no | call=2 | focus=application_timing | judge=PASS | scope_overflow=False | q=Is Di-Ammonium Phosphate (DAP) applied as a basal applicatio
+OK   | seed=37 | style=paraphrase_yes_no | call=3 | focus=application_timing | judge=PASS | scope_overflow=False | q=Does DAP need to be applied 1-2 days before sowing the basma
+OK   | seed=37 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What soil preparation and nutrient management practices prev
+OK   | seed=37 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a method to prevent weak basmati paddy seedlings in
+OK   | seed=37 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Does proper nursery bed preparation prevent poor seedling es
+OK   | seed=37 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Are proper soil preparation and nutrient management essentia
+OK   | seed=37 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What steps can be taken to prevent weak seedlings in basmati
+OK   | seed=37 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes the requirement for Di-Ammonium Phosphate (DAP) 
+OK   | seed=37 | style=paraphrase_cause | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Is the recommended DAP dose for basmati paddy nursery primar
+OK   | seed=37 | style=paraphrase_cause | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Does the recommended DAP dose for basmati paddy nursery depe
+OK   | seed=37 | style=paraphrase_cause | call=4 | focus=application_timing | judge=PASS | scope_overflow=False | q=Are the recommended DAP doses for basmati paddy nurseries de
+OK   | seed=37 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes the need for DAP in basmati paddy nurseries?
+DUPE | seed=37 | style=paraphrase_quantity_focused | q=What is the recommended DAP dose for basmati paddy nursery p
+DUPE | seed=37 | style=paraphrase_quantity_focused | q=Is 8-10 kg of DAP per acre recommended for basmati paddy nur
+SKIP | seed=37 | style=paraphrase_quantity_focused | call=3
+DUPE | seed=37 | style=paraphrase_quantity_focused | q=Are 8-10 kg of DAP per acre recommended for basmati paddy nu
+DUPE | seed=37 | style=paraphrase_quantity_focused | q=What is the DAP dose for basmati paddy nursery?
+SKIP | seed=37 | style=paraphrase_quantity_focused | call=6
+ABANDON | seed=37 | style=paraphrase_quantity_focused | done=0/5
+OK   | seed=37 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When should Di-Ammonium Phosphate (DAP) be applied for basma
+OK   | seed=37 | style=paraphrase_timing_focused | call=2 | focus=application_timing | judge=PASS | scope_overflow=False | q=Is DAP applied 1-2 days before sowing in basmati paddy nurse
+OK   | seed=37 | style=paraphrase_timing_focused | call=3 | focus=application_timing | judge=PASS | scope_overflow=False | q=Does applying Di-Ammonium Phosphate (DAP) 1-2 days before so
+DUPE | seed=37 | style=paraphrase_timing_focused | q=Are there specific timing guidelines for applying DAP before
+OK   | seed=37 | style=paraphrase_timing_focused | call=5 | focus=application_timing | judge=PASS | scope_overflow=False | q=What is the recommended timing for applying urea as a top dr
+DUPE | seed=37 | style=paraphrase_timing_focused | q=Which timing is recommended for applying urea as a top dress
+DUPE | seed=37 | style=paraphrase_timing_focused | q=When should Di-Ammonium Phosphate (DAP) be applied for basma
+DUPE | seed=37 | style=paraphrase_timing_focused | q=When should Di-Ammonium Phosphate (DAP) be applied for basma
+SKIP | seed=37 | style=paraphrase_timing_focused | call=9
+OK   | seed=37 | style=paraphrase_timing_focused | call=10 | focus=application_timing | judge=PASS | scope_overflow=False | q=Should DAP be applied before or after sowing the basmati pad
+SKIP | seed=38 | style=paraphrase_formal | call=1
+OK   | seed=38 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the implications of mixing Cartap Hydrochloride gra
+OK   | seed=38 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Which application procedures are recommended for Cartap Hydr
+SKIP | seed=38 | style=paraphrase_formal | call=4
+SKIP | seed=38 | style=paraphrase_formal | call=5
+OK   | seed=38 | style=paraphrase_formal | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended Pre-Harvest Interval (PHI) for Carta
+OK   | seed=38 | style=paraphrase_formal | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Cartap Hydrochloride granules be combined with urea f
+DUPE | seed=38 | style=paraphrase_formal | q=What is the recommended application protocol for Cartap Hydr
+OK   | seed=38 | style=paraphrase_formal | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=Is it advisable to combine Cartap Hydrochloride granules wit
+OK   | seed=38 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are Cartap Hydrochloride granules and urea compatible for st
+OK   | seed=38 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What happens if Cartap Hydrochloride granules are mixed with
+OK   | seed=38 | style=paraphrase_short | call=3 | focus=application_method | judge=PASS | scope_overflow=False | q=Which application method is recommended for Cartap Hydrochlo
+OK   | seed=38 | style=paraphrase_short | call=4 | focus=application_timing | judge=PASS | scope_overflow=False | q=When to apply Cartap Hydrochloride for stem borer control?
+OK   | seed=38 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why shouldn't Cartap Hydrochloride granules mix with urea?
+OK   | seed=38 | style=paraphrase_problem_description | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the paddy plants showing dead hearts and white ears?
+OK   | seed=38 | style=paraphrase_problem_description | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What if the paddy plants show dead hearts and white ears wit
+OK   | seed=38 | style=paraphrase_problem_description | call=3 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Which symptoms indicate stem borer infestation in paddy fiel
+OK   | seed=38 | style=paraphrase_problem_description | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When I see dead hearts and white ears in my paddy field, wha
+OK   | seed=38 | style=paraphrase_problem_description | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why are some paddy plants turning dry and having dead parts?
+OK   | seed=38 | style=paraphrase_followup | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=How should Cartap Hydrochloride granules be applied in the f
+OK   | seed=38 | style=paraphrase_followup | call=2 | focus=application_method | judge=PASS | scope_overflow=False | q=What is the correct application method for Cartap Hydrochlor
+OK   | seed=38 | style=paraphrase_followup | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Which application timing is recommended for Cartap Hydrochlo
+DUPE | seed=38 | style=paraphrase_followup | q=When should Cartap Hydrochloride granules be applied for eff
+OK   | seed=38 | style=paraphrase_followup | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Why is the dosage of Cartap Hydrochloride 4% G 18.75 kg per 
+SKIP | seed=38 | style=paraphrase_followup | call=6
+OK   | seed=38 | style=paraphrase_followup | call=7 | focus=application_timing | judge=PASS | scope_overflow=False | q=When is the optimal time to apply Cartap Hydrochloride granu
+OK   | seed=38 | style=paraphrase_yes_no | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are Cartap Hydrochloride granules and urea intended for the 
+SKIP | seed=38 | style=paraphrase_yes_no | call=2
+OK   | seed=38 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Can Trichogramma japonicum egg cards be used as a biological
+SKIP | seed=38 | style=paraphrase_yes_no | call=4
+OK   | seed=38 | style=paraphrase_yes_no | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why should Cartap Hydrochloride granules and urea not be mix
+OK   | seed=38 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=How can farmers prevent stem borer infestations in paddy cro
+OK   | seed=38 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What cultural practices can help prevent stem borer infestat
+DUPE | seed=38 | style=paraphrase_preventive | q=Which cultural practices can help prevent stem borer infesta
+OK   | seed=38 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When should farmers implement cultural practices to prevent 
+OK   | seed=38 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why avoid excessive nitrogen when growing paddy?
+OK   | seed=38 | style=paraphrase_preventive | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Can maintaining optimal plant spacing prevent stem borer inf
+OK   | seed=38 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are Cartap Hydrochloride granules and urea incompatible due 
+OK   | seed=38 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes reduced efficacy when Cartap Hydrochloride granu
+DUPE | seed=38 | style=paraphrase_cause | q=Why should Cartap Hydrochloride granules not be mixed with u
+OK   | seed=38 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When should Cartap Hydrochloride granules not be mixed with 
+DUPE | seed=38 | style=paraphrase_cause | q=Why shouldn't Cartap Hydrochloride granules be mixed with ur
+OK   | seed=38 | style=paraphrase_cause | call=6 | focus=application_method | judge=PASS | scope_overflow=False | q=Can the incompatible application methods of Cartap Hydrochlo
+OK   | seed=38 | style=paraphrase_cause | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Cartap Hydrochloride granules and urea be combined fo
+OK   | seed=38 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Are Cartap Hydrochloride granules applied at a specific dosa
+OK   | seed=38 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended dosage of Cartap Hydrochloride 4% gr
+DUPE | seed=38 | style=paraphrase_quantity_focused | q=Which dosage of Cartap Hydrochloride 4% G is recommended for
+OK   | seed=38 | style=paraphrase_quantity_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When should Cartap Hydrochloride 4% G be applied per hectare
+OK   | seed=38 | style=paraphrase_quantity_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is 18.75 kg per hectare recommended for Cartap Hydrochlo
+OK   | seed=38 | style=paraphrase_quantity_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Can Cartap Hydrochloride 4% granules be applied at 18.75 kg 
+OK   | seed=38 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are Cartap Hydrochloride granules effective when applied dur
+DUPE | seed=38 | style=paraphrase_timing_focused | q=What is the recommended timing for applying Cartap Hydrochlo
+OK   | seed=38 | style=paraphrase_timing_focused | call=3 | focus=application_timing | judge=PASS | scope_overflow=False | q=Which growth stage is optimal for applying Cartap Hydrochlor
+DUPE | seed=38 | style=paraphrase_timing_focused | q=When should Cartap Hydrochloride granules be applied for eff
+OK   | seed=38 | style=paraphrase_timing_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why should Cartap Hydrochloride be applied during the tiller
+OK   | seed=38 | style=paraphrase_timing_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Can Cartap Hydrochloride granules be applied during early mo
+OK   | seed=38 | style=paraphrase_timing_focused | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Should Cartap Hydrochloride granules be applied during the t
+OK   | seed=39 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When does boll opening occur in cotton cultivation, and what
+OK   | seed=39 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the physiological processes and management practice
+OK   | seed=39 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the hormonal regulation of boll opening in cotton be exp
+OK   | seed=39 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers implement specific crop management practices 
+OK   | seed=39 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the proper method for boll opening in cotton?
+OK   | seed=39 | style=paraphrase_short | call=1 | focus=application_timing | judge=PASS | scope_overflow=False | q=When to apply boll openers?
+OK   | seed=39 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is ethylene crucial for cotton boll opening?
+OK   | seed=39 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Can ethylene aid cotton boll opening?
+OK   | seed=39 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Should ethylene-releasing products be used for cotton boll o
+OK   | seed=39 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What is boll opening in cotton?
+OK   | seed=39 | style=paraphrase_problem_description | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When the bolls remain closed and don't split open, what coul
+OK   | seed=39 | style=paraphrase_problem_description | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Why are the cotton bolls not opening properly and leaving li
+SKIP | seed=39 | style=paraphrase_problem_description | call=3
+OK   | seed=39 | style=paraphrase_problem_description | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Should the bolls be opening properly, but some remain closed
+OK   | seed=39 | style=paraphrase_problem_description | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What is causing cotton bolls to remain closed despite appear
+OK   | seed=39 | style=paraphrase_problem_description | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the cotton boll not opening properly despite the plants a
+SKIP | seed=39 | style=paraphrase_followup | call=1
+DUPE | seed=39 | style=paraphrase_followup | q=Why is ethylene important for cotton boll opening?
+SKIP | seed=39 | style=paraphrase_followup | call=3
+SKIP | seed=39 | style=paraphrase_followup | call=4
+OK   | seed=39 | style=paraphrase_followup | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the main hormone responsible for boll opening in cot
+OK   | seed=39 | style=paraphrase_followup | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Is ethylene the primary hormone responsible for cotton boll 
+SKIP | seed=39 | style=paraphrase_followup | call=7
+OK   | seed=39 | style=paraphrase_followup | call=8 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Are the symptoms of improper boll opening in cotton linked t
+DUPE | seed=39 | style=paraphrase_followup | q=What is the primary hormone responsible for cotton boll open
+SKIP | seed=39 | style=paraphrase_followup | call=10
+SKIP | seed=39 | style=paraphrase_followup | call=11
+SKIP | seed=39 | style=paraphrase_followup | call=12
+OK   | seed=39 | style=paraphrase_followup | call=13 | focus=unknown | judge=PASS | scope_overflow=False | q=Can you explain the role of ethylene in cotton boll opening?
+SKIP | seed=39 | style=paraphrase_followup | call=14
+OK   | seed=39 | style=paraphrase_followup | call=15 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the primary hormone involved in the boll opening pro
+DUPE | seed=39 | style=paraphrase_yes_no | q=Is ethylene the main hormone responsible for cotton boll ope
+DUPE | seed=39 | style=paraphrase_yes_no | q=Is ethylene the primary hormone responsible for boll opening
+OK   | seed=39 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Can moisture stress during cotton's sensitive stages lead to
+OK   | seed=39 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Should moisture stress be avoided during the cotton boll ope
+OK   | seed=39 | style=paraphrase_yes_no | call=5 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Is irrigation important for cotton boll opening?
+OK   | seed=39 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When should farmers focus on crop nutrition to prevent boll 
+OK   | seed=39 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is proper crop nutrition important for preventing boll o
+OK   | seed=39 | style=paraphrase_preventive | call=3 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Can proper irrigation practices prevent issues with cotton b
+DUPE | seed=39 | style=paraphrase_preventive | q=Should farmers focus on crop nutrition and irrigation to pre
+OK   | seed=39 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the proper way to prevent improper boll opening in c
+SKIP | seed=39 | style=paraphrase_preventive | call=6
+OK   | seed=39 | style=paraphrase_preventive | call=7 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Does proper crop nutrition and irrigation prevent improper b
+OK   | seed=39 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When does ethylene trigger boll opening in cotton?
+OK   | seed=39 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Why does cotton boll opening occur?
+OK   | seed=39 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the hormonal shifts in cotton bolls influence their open
+OK   | seed=39 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers avoid moisture stress during boll development
+OK   | seed=39 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes cotton bolls to open?
+SKIP | seed=39 | style=paraphrase_quantity_focused | call=1
+SKIP | seed=39 | style=paraphrase_quantity_focused | call=2
+SKIP | seed=39 | style=paraphrase_quantity_focused | call=3
+SKIP | seed=39 | style=paraphrase_quantity_focused | call=4
+SKIP | seed=39 | style=paraphrase_quantity_focused | call=5
+SKIP | seed=39 | style=paraphrase_quantity_focused | call=6
+ABANDON | seed=39 | style=paraphrase_quantity_focused | done=0/5
+OK   | seed=39 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When does boll opening in cotton typically occur during the 
+SKIP | seed=39 | style=paraphrase_timing_focused | call=2
+SKIP | seed=39 | style=paraphrase_timing_focused | call=3
+SKIP | seed=39 | style=paraphrase_timing_focused | call=4
+DUPE | seed=39 | style=paraphrase_timing_focused | q=What is the timing for boll opening in cotton?
+OK   | seed=39 | style=paraphrase_timing_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=When does ethylene production increase to initiate cotton bo
+OK   | seed=39 | style=paraphrase_timing_focused | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the peak bloom stage require specific management adjust
+DUPE | seed=39 | style=paraphrase_timing_focused | q=When does boll opening occur in the cotton growth cycle?
+DUPE | seed=39 | style=paraphrase_timing_focused | q=When does boll opening occur in cotton cultivation?
+DUPE | seed=39 | style=paraphrase_timing_focused | q=When does boll opening in cotton occur?
+DUPE | seed=39 | style=paraphrase_timing_focused | q=When does boll opening occur in the cotton growth cycle?
+OK   | seed=39 | style=paraphrase_timing_focused | call=12 | focus=unknown | judge=PASS | scope_overflow=False | q=Why should moisture stress be avoided during cotton blooming
+OK   | seed=39 | style=paraphrase_timing_focused | call=13 | focus=unknown | judge=PASS | scope_overflow=False | q=Can proper moisture and nutrition management during the matu
+SKIP | seed=40 | style=paraphrase_formal | call=1
+SKIP | seed=40 | style=paraphrase_formal | call=2
+OK   | seed=40 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is weed management critical for 45-day-old wheat crops i
+SKIP | seed=40 | style=paraphrase_formal | call=4
+SKIP | seed=40 | style=paraphrase_formal | call=5
+SKIP | seed=40 | style=paraphrase_formal | call=6
+SKIP | seed=40 | style=paraphrase_formal | call=7
+OK   | seed=40 | style=paraphrase_formal | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Does effective weed management at 45 days post-sowing in whe
+OK   | seed=40 | style=paraphrase_formal | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific weed management strategies for 45-day-old
+SKIP | seed=40 | style=paraphrase_formal | call=10
+OK   | seed=40 | style=paraphrase_formal | call=11 | focus=unknown | judge=PASS | scope_overflow=False | q=Which weed management strategies are recommended for a 45-da
+SKIP | seed=40 | style=paraphrase_formal | call=12
+OK   | seed=40 | style=paraphrase_formal | call=13 | focus=application_timing | judge=PASS | scope_overflow=False | q=Why is effective weed management critical for wheat crops at
+OK   | seed=40 | style=paraphrase_short | call=1 | focus=chemical_name | judge=PASS | scope_overflow=False | q=Which chemicals control weeds in 45-day-old wheat?
+SKIP | seed=40 | style=paraphrase_short | call=2
+OK   | seed=40 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is manual weeding recommended for 45-day-old wheat?
+OK   | seed=40 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can manual weeding control weeds in 45-day-old wheat?
+OK   | seed=40 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should manual weeding be done for 45-day-old wheat?
+OK   | seed=40 | style=paraphrase_short | call=6 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is Sulfosulfuron 75% WG application rate for wheat weed
+OK   | seed=40 | style=paraphrase_problem_description | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Which weeds are causing my wheat crop to have weak growth?
+OK   | seed=40 | style=paraphrase_problem_description | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When weeds are overtaking the wheat field and plants look st
+SKIP | seed=40 | style=paraphrase_problem_description | call=3
+OK   | seed=40 | style=paraphrase_problem_description | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the wheat plants be seen struggling with thick weed grow
+SKIP | seed=40 | style=paraphrase_problem_description | call=5
+OK   | seed=40 | style=paraphrase_problem_description | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the best way to control weeds overtaking my 45-day-o
+OK   | seed=40 | style=paraphrase_problem_description | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there excessive growth of weeds competing with wheat plan
+SKIP | seed=40 | style=paraphrase_followup | call=1
+SKIP | seed=40 | style=paraphrase_followup | call=2
+OK   | seed=40 | style=paraphrase_followup | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is Sulfosulfuron 75% WG recommended for controlling gras
+OK   | seed=40 | style=paraphrase_followup | call=4 | focus=application_timing | judge=PASS | scope_overflow=False | q=Can you explain the optimal timing for applying chemical wee
+JUDGE_RETRY | seed=40 | style=paraphrase_followup | retry=1/3 | conf=high | scope_overflow=False | issues=['The generated answer claims that Sulfosulfuron should be applied using a flat fan nozzle for even coverage, which is not explicitly stated in the seed answer. The seed answer only mentions that a flat fan nozzle should be used for spraying grassy weeds like Phalaris minor, but it does not specifically state that Sulfosulfuron should be applied with a flat fan nozzle.', "The generated answer mentions 'uniform spraying is essential for effective weed control,' which is not explicitly stated in the seed answer."] | q=Should Sulfosulfuron be applied with a flat fan nozzle?
+OK   | seed=40 | style=paraphrase_followup | call=6 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended dosage for Sulfosulfuron 75% WG to c
+SKIP | seed=40 | style=paraphrase_followup | call=7
+OK   | seed=40 | style=paraphrase_followup | call=8 | focus=soil_condition | judge=PASS | scope_overflow=False | q=Does manual weeding need specific soil moisture conditions?
+SKIP | seed=40 | style=paraphrase_followup | call=9
+OK   | seed=40 | style=paraphrase_followup | call=10 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the chemical options for controlling weeds in 45-da
+SKIP | seed=40 | style=paraphrase_yes_no | call=1
+DUPE | seed=40 | style=paraphrase_yes_no | q=When is manual weeding recommended for 45-day-old wheat crop
+SKIP | seed=40 | style=paraphrase_yes_no | call=3
+OK   | seed=40 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can Pendimethalin 30% EC be used for weed control in wheat?
+OK   | seed=40 | style=paraphrase_yes_no | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should manual weeding be done at 45 days?
+OK   | seed=40 | style=paraphrase_yes_no | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Is manual weeding recommended for weed control in 45-day-old
+OK   | seed=40 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Which practices can prevent weed competition in wheat crops 
+OK   | seed=40 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When should manual weeding be performed to prevent weed comp
+OK   | seed=40 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is it important to remove weeds with their roots during 
+OK   | seed=40 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can weeds in wheat crops be prevented through cultural pract
+OK   | seed=40 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should wheat farmers perform manual weeding to prevent weed 
+OK   | seed=40 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Which factors contribute to weed competition in 45-day-old w
+OK   | seed=40 | style=paraphrase_cause | call=2 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=When do weeds in wheat crops most significantly impact yield
+OK   | seed=40 | style=paraphrase_cause | call=3 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Why do weeds pose a significant threat to 45-day-old wheat c
+OK   | seed=40 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can weeds in 45-day-old wheat crops reduce yield due to reso
+OK   | seed=40 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should weeds be controlled in 45-day-old wheat crops?
+OK   | seed=40 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Which dosage of Sulfosulfuron 75% WG is recommended for cont
+OK   | seed=40 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=When applying Sulfosulfuron 75% WG for grassy weeds in wheat
+OK   | seed=40 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Why is 200–240 litres of water per acre used for spraying he
+OK   | seed=40 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Can Sulfosulfuron 75% WG be applied at 13–14 g per acre for 
+DUPE | seed=40 | style=paraphrase_quantity_focused | q=Should 200–240 litres of water be used per acre when sprayin
+OK   | seed=40 | style=paraphrase_quantity_focused | call=6 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended application rate for Pendimethalin 3
+OK   | seed=40 | style=paraphrase_timing_focused | call=1 | focus=application_timing | judge=PASS | scope_overflow=False | q=Which stage of wheat growth requires critical weed managemen
+OK   | seed=40 | style=paraphrase_timing_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When is the best time to perform manual weeding in wheat cro
+OK   | seed=40 | style=paraphrase_timing_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is weed management crucial at the 45-day stage of wheat 
+SKIP | seed=40 | style=paraphrase_timing_focused | call=4
+OK   | seed=40 | style=paraphrase_timing_focused | call=5 | focus=application_timing | judge=PASS | scope_overflow=False | q=Should manual weeding be done at a specific time after sowin
+OK   | seed=40 | style=paraphrase_timing_focused | call=6 | focus=application_timing | judge=PASS | scope_overflow=False | q=What is the critical weed competition phase for wheat in ter
+OK   | seed=41 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the use of specific herbicides restricted for PBW 550 whe
+OK   | seed=41 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the use of sulfonylurea-based herbicides pose risks to 
+OK   | seed=41 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific herbicides recommended for use on PBW 550
+OK   | seed=41 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What herbicides are contraindicated for application on PBW 5
+SKIP | seed=41 | style=paraphrase_formal | call=5
+OK   | seed=41 | style=paraphrase_formal | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=When applying herbicides to PBW 550 wheat varieties, what pr
+OK   | seed=41 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is sulfosulfuron-based herbicide banned for PBW 550 wheat?
+OK   | seed=41 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does sulfosulfuron-based herbicide harm PBW 550 wheat?
+OK   | seed=41 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are safe herbicides available for PBW 550?
+OK   | seed=41 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What herbicides are banned for PBW 550 wheat?
+DUPE | seed=41 | style=paraphrase_short | q=Which herbicides are banned for PBW 550 wheat?
+OK   | seed=41 | style=paraphrase_short | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=When to avoid sulfosulfuron-based herbicides on PBW 550?
+OK   | seed=41 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Is my wheat showing stunted growth and yellowing leaves?
+OK   | seed=41 | style=paraphrase_problem_description | call=2 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Does the wheat field show stunted growth and yellowing leave
+DUPE | seed=41 | style=paraphrase_problem_description | q=Are the wheat plants showing stunted growth and yellowing le
+OK   | seed=41 | style=paraphrase_problem_description | call=4 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=What should I do if my wheat plants show stunted growth and 
+OK   | seed=41 | style=paraphrase_problem_description | call=5 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Which herbicides cause yellowing and stunted growth in my wh
+OK   | seed=41 | style=paraphrase_problem_description | call=6 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=When I notice stunted growth and yellowing leaves in my whea
+OK   | seed=41 | style=paraphrase_followup | call=1 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=What symptoms should farmers look for if they accidentally a
+SKIP | seed=41 | style=paraphrase_followup | call=2
+DUPE | seed=41 | style=paraphrase_followup | q=Are there specific application methods advised for herbicide
+OK   | seed=41 | style=paraphrase_followup | call=4 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the correct dosage for Clodinafop-propargyl 15% WP w
+OK   | seed=41 | style=paraphrase_followup | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Which safe herbicide can be used for PBW 550 and when?
+OK   | seed=41 | style=paraphrase_followup | call=6 | focus=application_timing | judge=PASS | scope_overflow=False | q=When is the optimal time to apply clodinafop-propargyl 15% W
+DUPE | seed=41 | style=paraphrase_followup | q=Why are sulfosulfuron-based herbicides banned for use on PBW
+OK   | seed=41 | style=paraphrase_followup | call=8 | focus=pathogen_name | judge=PASS | scope_overflow=False | q=Can leaf yellowing in PBW 550 wheat be caused by specific he
+OK   | seed=41 | style=paraphrase_yes_no | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is sulfosulfuron-based herbicide banned for use on PBW 550 w
+SKIP | seed=41 | style=paraphrase_yes_no | call=2
+OK   | seed=41 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are PBW 550 wheat varieties sensitive to sulfonylurea-based 
+DUPE | seed=41 | style=paraphrase_yes_no | q=Are sulfosulfuron-based herbicides allowed for PBW 550 wheat
+DUPE | seed=41 | style=paraphrase_yes_no | q=Is sulfosulfuron-based herbicide allowed for PBW 550 wheat?
+SKIP | seed=41 | style=paraphrase_yes_no | call=6
+OK   | seed=41 | style=paraphrase_yes_no | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is Metsulfuron-methyl not recommended for PBW 550 wheat 
+OK   | seed=41 | style=paraphrase_preventive | call=1 | focus=crop_rotation_duration | judge=PASS | scope_overflow=False | q=Is proper land preparation and crop rotation effective in pr
+OK   | seed=41 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does proper land preparation help prevent crop damage in PBW
+OK   | seed=41 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific seed selection practices to prevent weed 
+OK   | seed=41 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What cultural practices can prevent herbicide damage in PBW 
+OK   | seed=41 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Which practices prevent weed growth in PBW 550 wheat?
+OK   | seed=41 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the use of specific herbicides restricted on PBW 550 whea
+OK   | seed=41 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the sensitivity of PBW 550 wheat varieties to certain h
+OK   | seed=41 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific reasons why certain herbicides cause crop
+OK   | seed=41 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes herbicide damage in PBW 550 wheat varieties?
+OK   | seed=41 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Which herbicides are restricted for PBW 550 wheat and why?
+OK   | seed=41 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Is the optimal seed rate for PBW 550 wheat 100kg per hectare
+OK   | seed=41 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Does the optimal seed rate for PBW 550 and Unnat PBW 550 whe
+OK   | seed=41 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Are the seed rate recommendations for PBW 550 wheat varietie
+OK   | seed=41 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended seed rate for PBW 550 wheat varietie
+DUPE | seed=41 | style=paraphrase_quantity_focused | q=Which seed rate is recommended for PBW 550 wheat varieties?
+OK   | seed=41 | style=paraphrase_quantity_focused | call=6 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=When should the optimal seed rate be applied for PBW 550 and
+OK   | seed=41 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When is the optimal time to sow PBW 550 and Unnat PBW 550 wh
+OK   | seed=41 | style=paraphrase_timing_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the PBW 550 wheat variety require specific sowing perio
+OK   | seed=41 | style=paraphrase_timing_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are PBW 550 and Unnat PBW 550 wheat varieties suitable for s
+SKIP | seed=41 | style=paraphrase_timing_focused | call=4
+OK   | seed=41 | style=paraphrase_timing_focused | call=5 | focus=application_timing | judge=PASS | scope_overflow=False | q=Which herbicides are applied 30-35 days after sowing for PBW
+DUPE | seed=41 | style=paraphrase_timing_focused | q=When is the optimal time to sow PBW 550 and Unnat PBW 550 wh
+OK   | seed=41 | style=paraphrase_timing_focused | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is the sowing time for PBW 550 wheat varieties recommend
+OK   | seed=42 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the optimal seed sowing depth for fodder maize culti
+JUDGE_RETRY | seed=42 | style=paraphrase_formal | retry=1/3 | conf=high | scope_overflow=False | issues=['The generated answer includes additional details not directly related to the seed depth (e.g., row spacing, seed rate, sowing window, mixed cropping, no-tillage, and number of crops per year), which go beyond the scope of the question asking specifically about seed depth for optimal forage biomass production.'] | q=Is the recommended seed depth for planting fodder maize 3–5 
+SKIP | seed=42 | style=paraphrase_formal | call=3 | (judge-retry)
+JUDGE_ABANDON | seed=42 | style=paraphrase_formal | conf=high | scope_overflow=False | issues=['The generated answer includes additional details not directly related to the seed depth (e.g., row spacing, seed rate, sowing window, mixed cropping, no-tillage, and number of crops per year), which go beyond the scope of the question asking specifically about seed depth for optimal forage biomass production.'] | q=Is the recommended seed depth for planting fodder maize 3–5 
+OK   | seed=42 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the recommended practices for planting fodder maize
+DUPE | seed=42 | style=paraphrase_formal | q=What is the optimal seed planting depth for fodder maize to 
+SKIP | seed=42 | style=paraphrase_formal | call=6
+DUPE | seed=42 | style=paraphrase_formal | q=When cultivating fodder maize, what is the optimal seed dept
+OK   | seed=42 | style=paraphrase_formal | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is the recommended seed depth for fodder maize 3–5 cm?
+OK   | seed=42 | style=paraphrase_formal | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the optimal seed depth for fodder maize planting be spec
+OK   | seed=42 | style=paraphrase_formal | call=10 | focus=unknown | judge=PASS | scope_overflow=False | q=Should the seed depth and planting techniques for fodder mai
+OK   | seed=42 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended seed depth for fodder maize?
+DUPE | seed=42 | style=paraphrase_short | q=Is 3–5 cm the optimal seed depth for fodder maize?
+OK   | seed=42 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Does sowing between mid-April and mid-August reduce fall arm
+OK   | seed=42 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific seed depth guidelines for fodder maize?
+DUPE | seed=42 | style=paraphrase_short | q=What is the recommended seed depth for fodder maize?
+OK   | seed=42 | style=paraphrase_short | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Which row spacing is recommended for fodder maize?
+SKIP | seed=42 | style=paraphrase_short | call=7
+DUPE | seed=42 | style=paraphrase_short | q=Why is seed depth 3–5 cm recommended for fodder maize?
+OK   | seed=42 | style=paraphrase_short | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=Can fodder maize seeds be planted at 3-5 cm depth?
+DUPE | seed=42 | style=paraphrase_problem_description | q=What is the recommended seed depth for planting fodder maize
+OK   | seed=42 | style=paraphrase_problem_description | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the seed depth causing poor germination and weak plants?
+OK   | seed=42 | style=paraphrase_problem_description | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the maize crop show poor germination and weak seedlings
+OK   | seed=42 | style=paraphrase_problem_description | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the maize plants in my field showing weak growth and poo
+OK   | seed=42 | style=paraphrase_problem_description | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What if my maize plants are not growing well?
+SKIP | seed=42 | style=paraphrase_problem_description | call=6
+OK   | seed=42 | style=paraphrase_problem_description | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=When the maize plants are weak and have poor root developmen
+OK   | seed=42 | style=paraphrase_followup | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the optimal time window for sowing fodder maize to m
+SKIP | seed=42 | style=paraphrase_followup | call=2
+SKIP | seed=42 | style=paraphrase_followup | call=3
+SKIP | seed=42 | style=paraphrase_followup | call=4
+SKIP | seed=42 | style=paraphrase_followup | call=5
+SKIP | seed=42 | style=paraphrase_followup | call=6
+OK   | seed=42 | style=paraphrase_followup | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=When is the optimal time to sow fodder maize to minimize fal
+OK   | seed=42 | style=paraphrase_followup | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is sowing between mid-April and mid-August recommended f
+OK   | seed=42 | style=paraphrase_followup | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the sowing time for fodder maize be adjusted to reduce f
+OK   | seed=42 | style=paraphrase_followup | call=10 | focus=unknown | judge=PASS | scope_overflow=False | q=Should I use a seed-cum-fertilizer drill for planting fodder
+DUPE | seed=42 | style=paraphrase_yes_no | q=Is the recommended seed depth for fodder maize 3–5 cm?
+OK   | seed=42 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is a seed-cum-fertilizer drill recommended for sowing fodder
+OK   | seed=42 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the seed answer recommend using a seed-cum-fertilizer d
+OK   | seed=42 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Are seed-cum-fertilizer drills recommended for planting fodd
+OK   | seed=42 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the preventive measures to ensure optimal growth of
+OK   | seed=42 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a recommended sowing period to prevent fall armywor
+OK   | seed=42 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Does maintaining proper row spacing prevent poor plant stand
+OK   | seed=42 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific sowing time guidelines to prevent fall ar
+OK   | seed=42 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What sowing methods help prevent poor germination in fodder 
+OK   | seed=42 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes optimal forage biomass production in fodder maiz
+OK   | seed=42 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the recommended seed depth for fodder maize primarily due
+OK   | seed=42 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Does sowing fodder maize between mid-April and mid-August he
+OK   | seed=42 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the recommended seed depths for fodder maize related to 
+OK   | seed=42 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes proper germination and strong root development i
+OK   | seed=42 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended seed rate for fodder maize per acre?
+OK   | seed=42 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Is 15 kg of maize seed per acre recommended for fodder maize
+OK   | seed=42 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Does the seed rate for fodder maize mixed with cowpea requir
+OK   | seed=42 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Are 30 kg of seed per acre recommended for fodder maize plan
+DUPE | seed=42 | style=paraphrase_quantity_focused | q=What is the recommended seed depth for planting fodder maize
+OK   | seed=42 | style=paraphrase_quantity_focused | call=6 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Which quantity specifies the row spacing for fodder maize pl
+OK   | seed=42 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the optimal time for sowing fodder maize to achieve 
+OK   | seed=42 | style=paraphrase_timing_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a specific period during which fodder maize should 
+SKIP | seed=42 | style=paraphrase_timing_focused | call=3
+OK   | seed=42 | style=paraphrase_timing_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific months recommended for sowing fodder maiz
+OK   | seed=42 | style=paraphrase_timing_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the best time to sow maize for optimal fodder produc
+SKIP | seed=42 | style=paraphrase_timing_focused | call=6
+SKIP | seed=42 | style=paraphrase_timing_focused | call=7
+OK   | seed=42 | style=paraphrase_timing_focused | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=When should fodder maize be sown to minimize fall armyworm i
+OK   | seed=43 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there any official guidance regarding the application of 
+OK   | seed=43 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the use of Paclobutrazol 23% SC in paddy cultivation al
+OK   | seed=43 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific guidelines for the application of Paclobu
+OK   | seed=43 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the recommended applications of Paclobutrazol 23% S
+OK   | seed=43 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Which information is available regarding the use of Paclobut
+OK   | seed=43 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Paclobutrazol 23% SC recommended for paddy?
+OK   | seed=43 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does Paclobutrazol 23% SC apply to paddy?
+DUPE | seed=43 | style=paraphrase_short | q=Are paclobutrazol 23% SC recommended for paddy?
+OK   | seed=43 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is Paclobutrazol 23% SC's recommendation for paddy?
+OK   | seed=43 | style=paraphrase_short | call=5 | focus=chemical_name | judge=PASS | scope_overflow=False | q=Which chemical is not recommended for paddy?
+SKIP | seed=43 | style=paraphrase_short | call=6
+DUPE | seed=43 | style=paraphrase_short | q=Why is Paclobutrazol 23% SC not recommended for paddy?
+OK   | seed=43 | style=paraphrase_short | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Can Paclobutrazol 23% SC be used for paddy?
+SKIP | seed=43 | style=paraphrase_problem_description | call=1
+OK   | seed=43 | style=paraphrase_problem_description | call=2 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Does applying Paclobutrazol 23% SC to paddy cause stunted gr
+SKIP | seed=43 | style=paraphrase_problem_description | call=3
+OK   | seed=43 | style=paraphrase_problem_description | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What should I do if my paddy plants are not growing properly
+SKIP | seed=43 | style=paraphrase_problem_description | call=5
+SKIP | seed=43 | style=paraphrase_problem_description | call=6
+OK   | seed=43 | style=paraphrase_problem_description | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is my paddy not growing well after applying Paclobutrazo
+SKIP | seed=43 | style=paraphrase_problem_description | call=8
+SKIP | seed=43 | style=paraphrase_problem_description | call=9
+SKIP | seed=43 | style=paraphrase_problem_description | call=10
+SKIP | seed=43 | style=paraphrase_problem_description | call=11
+OK   | seed=43 | style=paraphrase_problem_description | call=12 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Does the paddy crop show signs of excessive growth or poor r
+SKIP | seed=43 | style=paraphrase_problem_description | call=13
+SKIP | seed=43 | style=paraphrase_problem_description | call=14
+SKIP | seed=43 | style=paraphrase_problem_description | call=15
+OK   | seed=43 | style=paraphrase_problem_description | call=16 | focus=unknown | judge=PASS | scope_overflow=False | q=When the crop growth is not as expected despite using growth
+OK   | seed=43 | style=paraphrase_followup | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Paclobutrazol 23% SC safe to apply during the tillering s
+SKIP | seed=43 | style=paraphrase_followup | call=2
+SKIP | seed=43 | style=paraphrase_followup | call=3
+OK   | seed=43 | style=paraphrase_followup | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the correct stages to apply Paclobutrazol 23% SC if
+SKIP | seed=43 | style=paraphrase_followup | call=5
+JUDGE_RETRY | seed=43 | style=paraphrase_followup | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer claims that 'specific application stages for paddy are not provided in the available information,' which is not explicitly stated in the seed answer. The seed answer only states that it is not listed or recommended for paddy, not that application stages are not provided.", "The generated answer adds the claim that 'Farmers should strictly follow the product label instructions for mango and perennial crops,' which is not explicitly stated in the seed answer. The seed answer only mentions that the product is registered for use on mango trees and similar perennial crops, not that farmers should follow those label instructions for paddy."] | q=When should Paclobutrazol 23% SC be applied for paddy, and w
+OK   | seed=43 | style=paraphrase_followup | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is it important to apply growth regulators at specific s
+OK   | seed=43 | style=paraphrase_followup | call=8 | focus=application_timing | judge=PASS | scope_overflow=False | q=Can Paclobutrazol 23% SC be applied during any growth stage 
+SKIP | seed=43 | style=paraphrase_followup | call=9
+SKIP | seed=43 | style=paraphrase_followup | call=10
+OK   | seed=43 | style=paraphrase_followup | call=11 | focus=application_method | judge=PASS | scope_overflow=False | q=Is there a specific application method recommended for Paclo
+DUPE | seed=43 | style=paraphrase_yes_no | q=Is Paclobutrazol 23% SC recommended for paddy cultivation?
+OK   | seed=43 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does Paclobutrazol 23% SC have official recommendations for 
+OK   | seed=43 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are farmers advised to use Paclobutrazol 23% SC for paddy cu
+DUPE | seed=43 | style=paraphrase_yes_no | q=Is Paclobutrazol 23% SC recommended for paddy cultivation?
+DUPE | seed=43 | style=paraphrase_yes_no | q=Is Paclobutrazol 23% SC approved for paddy use?
+OK   | seed=43 | style=paraphrase_yes_no | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Paclobutrazol 23% SC approved for use in paddy cultivatio
+OK   | seed=43 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a way to prevent paddy crop issues without using Pa
+OK   | seed=43 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does maintaining balanced nutrition, water, and pest managem
+OK   | seed=43 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there preventive measures to avoid reliance on unapprove
+OK   | seed=43 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What steps can farmers take to prevent issues when using gro
+OK   | seed=43 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Which practices can prevent paddy crop issues without using 
+OK   | seed=43 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Paclobutrazol 23% SC ineffective for paddy due to its reg
+OK   | seed=43 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does Paclobutrazol 23% SC's absence from paddy recommendatio
+OK   | seed=43 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific reasons why Paclobutrazol 23% SC is not r
+OK   | seed=43 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes the restriction of Paclobutrazol 23% SC use in p
+OK   | seed=43 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Which factors prevent Paclobutrazol 23% SC from being recomm
+SKIP | seed=43 | style=paraphrase_quantity_focused | call=1
+SKIP | seed=43 | style=paraphrase_quantity_focused | call=2
+SKIP | seed=43 | style=paraphrase_quantity_focused | call=3
+SKIP | seed=43 | style=paraphrase_quantity_focused | call=4
+SKIP | seed=43 | style=paraphrase_quantity_focused | call=5
+SKIP | seed=43 | style=paraphrase_quantity_focused | call=6
+ABANDON | seed=43 | style=paraphrase_quantity_focused | done=0/5
+SKIP | seed=43 | style=paraphrase_timing_focused | call=1
+OK   | seed=43 | style=paraphrase_timing_focused | call=2 | focus=application_timing | judge=PASS | scope_overflow=False | q=Does the use of Paclobutrazol 23% SC apply to any specific g
+DUPE | seed=43 | style=paraphrase_timing_focused | q=When is Paclobutrazol 23% SC recommended for use in paddy cu
+OK   | seed=43 | style=paraphrase_timing_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the appropriate timing for applying Paclobutrazol 23
+SKIP | seed=43 | style=paraphrase_timing_focused | call=5
+SKIP | seed=43 | style=paraphrase_timing_focused | call=6
+SKIP | seed=43 | style=paraphrase_timing_focused | call=7
+OK   | seed=43 | style=paraphrase_timing_focused | call=8 | focus=application_timing | judge=PASS | scope_overflow=False | q=Can Paclobutrazol 23% SC be applied during the early growth 
+OK   | seed=43 | style=paraphrase_timing_focused | call=9 | focus=application_timing | judge=PASS | scope_overflow=False | q=Should Paclobutrazol 23% SC be applied during any specific g
+OK   | seed=43 | style=paraphrase_timing_focused | call=10 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the correct timing for applying growth regulators in
+OK   | seed=44 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the role of waste decomposers in paddy cultivation?
+OK   | seed=44 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a detailed explanation regarding the utilization of
+SKIP | seed=44 | style=paraphrase_formal | call=3
+OK   | seed=44 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific guidelines for the application of Pusa De
+OK   | seed=44 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What is Pusa Decomposer and how is it used in paddy farming?
+OK   | seed=44 | style=paraphrase_formal | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Which microbial formulation is recommended for efficient dec
+OK   | seed=44 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What is Pusa Decomposer for paddy cultivation?
+OK   | seed=44 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Pusa Decomposer effective for paddy straw decomposition?
+OK   | seed=44 | style=paraphrase_short | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Does Pusa Decomposer require specific dosage for paddy?
+OK   | seed=44 | style=paraphrase_short | call=4 | focus=application_method | judge=PASS | scope_overflow=False | q=Are Pusa Decomposer application methods effective for paddy 
+DUPE | seed=44 | style=paraphrase_short | q=What is Pusa Decomposer for paddy?
+SKIP | seed=44 | style=paraphrase_short | call=6
+OK   | seed=44 | style=paraphrase_short | call=7 | focus=application_timing | judge=PASS | scope_overflow=False | q=When to apply Pusa Decomposer for paddy straw?
+OK   | seed=44 | style=paraphrase_problem_description | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the solution for slow decomposition of paddy straw a
+OK   | seed=44 | style=paraphrase_problem_description | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the paddy straw decomposing slowly after harvest, causing
+OK   | seed=44 | style=paraphrase_problem_description | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the field have leftover paddy straw that's not decompos
+OK   | seed=44 | style=paraphrase_problem_description | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the paddy straw residues not breaking down quickly, and 
+OK   | seed=44 | style=paraphrase_problem_description | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What can I do about paddy straw not decomposing and causing 
+OK   | seed=44 | style=paraphrase_followup | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended dosage of Pusa Decomposer for paddy 
+OK   | seed=44 | style=paraphrase_followup | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=How is Pusa Decomposer prepared and applied for effective pa
+OK   | seed=44 | style=paraphrase_followup | call=3 | focus=application_method | judge=PASS | scope_overflow=False | q=Does the application method of Pusa Decomposer require any s
+OK   | seed=44 | style=paraphrase_followup | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific timing guidelines for applying Pusa Decom
+DUPE | seed=44 | style=paraphrase_followup | q=What is Pusa Decomposer and how does it help paddy farming?
+OK   | seed=44 | style=paraphrase_followup | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Which microbial formulation is recommended for paddy straw d
+OK   | seed=44 | style=paraphrase_yes_no | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is waste decomposer an eco-friendly alternative to crop resi
+OK   | seed=44 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is Pusa Decomposer a microbial technology developed for padd
+DUPE | seed=44 | style=paraphrase_yes_no | q=Is Pusa Decomposer an eco-friendly alternative to crop resid
+OK   | seed=44 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Are microbial decomposers effective in reducing chemical fer
+OK   | seed=44 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the method to prevent soil degradation in paddy fiel
+OK   | seed=44 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a method to prevent paddy straw burning through org
+OK   | seed=44 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Does using Pusa Decomposer help prevent paddy straw burning?
+OK   | seed=44 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there cultural practices to prevent paddy straw burning 
+OK   | seed=44 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What steps can paddy farmers take to prevent crop residue bu
+SKIP | seed=44 | style=paraphrase_cause | call=1
+OK   | seed=44 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the use of Pusa Decomposer effective in accelerating padd
+OK   | seed=44 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the use of Pusa Decomposer address the issue of paddy s
+OK   | seed=44 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Are waste decomposers used in paddy cultivation to address t
+OK   | seed=44 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes the need for waste decomposers in paddy farming?
+OK   | seed=44 | style=paraphrase_cause | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Which microbial agents are responsible for the decomposition
+DUPE | seed=44 | style=paraphrase_quantity_focused | q=What is the recommended dosage of Pusa Decomposer for paddy 
+OK   | seed=44 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Is the recommended dosage of Pusa Decomposer 5 litres per 10
+OK   | seed=44 | style=paraphrase_quantity_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=How long does it take for Pusa Decomposer to decompose paddy
+OK   | seed=44 | style=paraphrase_quantity_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Are 5 litres of decomposer solution recommended per 10 quint
+DUPE | seed=44 | style=paraphrase_quantity_focused | q=What is the dosage of Pusa Decomposer for paddy fields?
+OK   | seed=44 | style=paraphrase_quantity_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Which duration is required for the Pusa Decomposer solution 
+OK   | seed=44 | style=paraphrase_quantity_focused | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=When is the Pusa Decomposer solution applied per hectare?
+OK   | seed=44 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=When is the Pusa Decomposer solution applied during paddy cu
+OK   | seed=44 | style=paraphrase_timing_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the Pusa Decomposer solution ready for use after ten days
+OK   | seed=44 | style=paraphrase_timing_focused | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the application of Pusa Decomposer enable timely sowing
+DUPE | seed=44 | style=paraphrase_timing_focused | q=Are the Pusa Decomposer solution ready for use after ten day
+SKIP | seed=44 | style=paraphrase_timing_focused | call=5
+OK   | seed=44 | style=paraphrase_timing_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Which timing is recommended for preparing the Pusa Decompose
+OK   | seed=44 | style=paraphrase_timing_focused | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=When should the next crop be sown after applying Pusa Decomp
+SKIP | seed=45 | style=paraphrase_formal | call=1
+OK   | seed=45 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Can farmers in Uttar Pradesh access and track subsidy grant 
+OK   | seed=45 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers in Uttar Pradesh conduct soil testing before 
+OK   | seed=45 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the procedure for tracking agricultural subsidy and 
+OK   | seed=45 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a method to verify the details and status of subsid
+OK   | seed=45 | style=paraphrase_formal | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What procedures are recommended for soil testing to avail fe
+OK   | seed=45 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Why track subsidy payments via the Uttar Pradesh portal?
+OK   | seed=45 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Can I check subsidy details online?
+OK   | seed=45 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers in Uttar Pradesh get soil tests for fertilize
+OK   | seed=45 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the process to check subsidy progress in UP?
+OK   | seed=45 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there an online portal to track subsidy payments in Uttar
+SKIP | seed=45 | style=paraphrase_problem_description | call=1
+SKIP | seed=45 | style=paraphrase_problem_description | call=2
+SKIP | seed=45 | style=paraphrase_problem_description | call=3
+OK   | seed=45 | style=paraphrase_problem_description | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the issue with my subsidy not appearing in my accoun
+SKIP | seed=45 | style=paraphrase_problem_description | call=5
+SKIP | seed=45 | style=paraphrase_problem_description | call=6
+SKIP | seed=45 | style=paraphrase_problem_description | call=7
+OK   | seed=45 | style=paraphrase_problem_description | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=What if my soil test results show low nitrogen levels and I 
+SKIP | seed=45 | style=paraphrase_problem_description | call=9
+SKIP | seed=45 | style=paraphrase_problem_description | call=10
+SKIP | seed=45 | style=paraphrase_problem_description | call=11
+OK   | seed=45 | style=paraphrase_problem_description | call=12 | focus=unknown | judge=PASS | scope_overflow=False | q=Can I track the progress of my subsidy payment?
+SKIP | seed=45 | style=paraphrase_problem_description | call=13
+SKIP | seed=45 | style=paraphrase_problem_description | call=14
+SKIP | seed=45 | style=paraphrase_problem_description | call=15
+SKIP | seed=45 | style=paraphrase_problem_description | call=16
+SKIP | seed=45 | style=paraphrase_problem_description | call=17
+SKIP | seed=45 | style=paraphrase_problem_description | call=18
+ABANDON | seed=45 | style=paraphrase_problem_description | done=3/5
+OK   | seed=45 | style=paraphrase_followup | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is soil testing recommended for fertilizer subsidies in 
+OK   | seed=45 | style=paraphrase_followup | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Can you explain how the Direct Benefit Transfer (DBT) system
+OK   | seed=45 | style=paraphrase_followup | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers in Aligarh get soil testing done before apply
+OK   | seed=45 | style=paraphrase_followup | call=4 | focus=application_method | judge=PASS | scope_overflow=False | q=What is the recommended application method for fertilizers i
+OK   | seed=45 | style=paraphrase_followup | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Is soil testing required for fertilizer subsidies?
+SKIP | seed=45 | style=paraphrase_yes_no | call=1
+OK   | seed=45 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Can farmers access subsidy details without a farmer registra
+OK   | seed=45 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers get soil testing done for fertilizer subsidie
+OK   | seed=45 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Is a farmer registration number required to check subsidy de
+SKIP | seed=45 | style=paraphrase_preventive | call=1
+SKIP | seed=45 | style=paraphrase_preventive | call=2
+OK   | seed=45 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers in Uttar Pradesh take any preventive steps to
+OK   | seed=45 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the preventive measure to avoid excessive fertilizer
+SKIP | seed=45 | style=paraphrase_preventive | call=5
+SKIP | seed=45 | style=paraphrase_preventive | call=6
+SKIP | seed=45 | style=paraphrase_preventive | call=7
+SKIP | seed=45 | style=paraphrase_preventive | call=8
+OK   | seed=45 | style=paraphrase_preventive | call=9 | focus=unknown | judge=PASS | scope_overflow=False | q=Which steps can farmers take to prevent delays in subsidy pa
+SKIP | seed=45 | style=paraphrase_preventive | call=10
+SKIP | seed=45 | style=paraphrase_preventive | call=11
+OK   | seed=45 | style=paraphrase_preventive | call=12 | focus=unknown | judge=PASS | scope_overflow=False | q=Can farmers in Uttar Pradesh prevent delays in subsidy disbu
+SKIP | seed=45 | style=paraphrase_preventive | call=13
+SKIP | seed=45 | style=paraphrase_preventive | call=14
+OK   | seed=45 | style=paraphrase_preventive | call=15 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a way to prevent delays in subsidy tracking by main
+OK   | seed=45 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Why was the online subsidy tracking system introduced in Utt
+SKIP | seed=45 | style=paraphrase_cause | call=2
+OK   | seed=45 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers in Aligarh district ensure they have a valid 
+OK   | seed=45 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the reason behind implementing the online subsidy tr
+OK   | seed=45 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a reason farmers in Aligarh need to track subsidy p
+JUDGE_RETRY | seed=45 | style=paraphrase_cause | retry=1/3 | conf=high | scope_overflow=False | issues=["The claim that 'the Uttar Pradesh government mandates soil test-based fertilizer recommendations' is not explicitly stated in the seed answer.", "The statement 'making soil testing a critical step in the subsidy application process' introduces a new claim not present in the seed answer."] | q=Does soil testing influence fertilizer subsidy eligibility i
+OK   | seed=45 | style=paraphrase_cause | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the online subsidy tracking systems in Uttar Pradesh imp
+SKIP | seed=45 | style=paraphrase_quantity_focused | call=1
+SKIP | seed=45 | style=paraphrase_quantity_focused | call=2
+SKIP | seed=45 | style=paraphrase_quantity_focused | call=3
+SKIP | seed=45 | style=paraphrase_quantity_focused | call=4
+SKIP | seed=45 | style=paraphrase_quantity_focused | call=5
+SKIP | seed=45 | style=paraphrase_quantity_focused | call=6
+ABANDON | seed=45 | style=paraphrase_quantity_focused | done=0/5
+SKIP | seed=45 | style=paraphrase_timing_focused | call=1
+SKIP | seed=45 | style=paraphrase_timing_focused | call=2
+SKIP | seed=45 | style=paraphrase_timing_focused | call=3
+SKIP | seed=45 | style=paraphrase_timing_focused | call=4
+SKIP | seed=45 | style=paraphrase_timing_focused | call=5
+SKIP | seed=45 | style=paraphrase_timing_focused | call=6
+ABANDON | seed=45 | style=paraphrase_timing_focused | done=0/5
+OK   | seed=46 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific plant protection measures for wheat culti
+SKIP | seed=46 | style=paraphrase_formal | call=2
+OK   | seed=46 | style=paraphrase_formal | call=3 | focus=chemical_name | judge=PASS | scope_overflow=False | q=Which chemical control measures are recommended for termite 
+OK   | seed=46 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the effective strategies for managing pests and dis
+OK   | seed=46 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is effective plant protection necessary for wheat crops?
+SKIP | seed=46 | style=paraphrase_formal | call=6
+OK   | seed=46 | style=paraphrase_formal | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Should integrated pest management strategies be employed for
+OK   | seed=46 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there chemical options for termite control in wheat?
+OK   | seed=46 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the primary detection method for Karnal Bunt in whea
+OK   | seed=46 | style=paraphrase_short | call=3 | focus=chemical_name | judge=PASS | scope_overflow=False | q=Which chemicals control termites in wheat?
+OK   | seed=46 | style=paraphrase_short | call=4 | focus=application_timing | judge=PASS | scope_overflow=False | q=When to apply Chlorpyrifos for termite control in wheat?
+OK   | seed=46 | style=paraphrase_short | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is Karnal bunt hard to detect in wheat?
+JUDGE_RETRY | seed=46 | style=paraphrase_problem_description | retry=1/3 | conf=high | scope_overflow=False | issues=["The claim that 'wheat shows yellow stripes on leaves and white ears' is not explicitly present in the seed answer. The seed answer describes symptoms of yellow rust (yellow stripes on leaves) and termite damage (white ears), but it does not state that the wheat is currently showing both symptoms simultaneously.", 'The generated answer combines two separate issues (yellow rust and termite damage) without confirming that both are present in the current scenario, which may not be fully grounded in the seed answer.'] | q=Are the wheat leaves showing yellow stripes and some plants 
+OK   | seed=46 | style=paraphrase_problem_description | call=2 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=What if the wheat plants have yellow stripes on leaves and s
+OK   | seed=46 | style=paraphrase_problem_description | call=3 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Which pests cause yellowing and stunted growth in wheat fiel
+OK   | seed=46 | style=paraphrase_problem_description | call=4 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=When some grains in the wheat spike turn discolored and the 
+JUDGE_RETRY | seed=46 | style=paraphrase_problem_description | retry=1/3 | conf=high | scope_overflow=False | issues=["The claim that 'termite damage' is a cause of yellow stripes and drying plants is not explicitly mentioned in the seed answer. The seed answer mentions termites causing plant drying but does not directly link them to yellow stripes.", "The recommendation to 'spray Propiconazole 25% EC @ 200 ml/acre' is grounded in the seed, but the recommendation to 'spray Thiamethoxam 30% FS @ 1.32 kg/40 kg seeds' is not explicitly mentioned in the seed answer as a treatment for yellow stripes or plant drying."] | q=Why are my wheat leaves showing yellow stripes and some plan
+OK   | seed=46 | style=paraphrase_problem_description | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Can you help? My wheat leaves have yellow stripes and pustul
+OK   | seed=46 | style=paraphrase_problem_description | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Should wheat leaves show yellow stripes and some grains turn
+OK   | seed=46 | style=paraphrase_followup | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the correct dosage of Propiconazole 25% EC for wheat
+OK   | seed=46 | style=paraphrase_followup | call=2 | focus=crop_rotation_duration | judge=PASS | scope_overflow=False | q=What is the recommended crop rotation duration to manage ter
+OK   | seed=46 | style=paraphrase_followup | call=3 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Which symptom details help in distinguishing Karnal Bunt fro
+SKIP | seed=46 | style=paraphrase_followup | call=4
+SKIP | seed=46 | style=paraphrase_followup | call=5
+SKIP | seed=46 | style=paraphrase_followup | call=6
+OK   | seed=46 | style=paraphrase_followup | call=7 | focus=seed_treatment | judge=PASS | scope_overflow=False | q=Should Chlorpyrifos be applied as a seed treatment or direct
+OK   | seed=46 | style=paraphrase_followup | call=8 | focus=application_method | judge=PASS | scope_overflow=False | q=What is the correct application method for Propiconazole 25%
+OK   | seed=46 | style=paraphrase_yes_no | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is deep summer ploughing recommended for termite control in 
+OK   | seed=46 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the recommended chemical approach for managing yello
+SKIP | seed=46 | style=paraphrase_yes_no | call=3
+SKIP | seed=46 | style=paraphrase_yes_no | call=4
+SKIP | seed=46 | style=paraphrase_yes_no | call=5
+OK   | seed=46 | style=paraphrase_yes_no | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Is the pre-harvest interval for Propiconazole 25% EC 30 days
+OK   | seed=46 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific soil preparation techniques to prevent wh
+OK   | seed=46 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What cultural practices can be adopted to prevent wheat rust
+OK   | seed=46 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Which cultural practices can help prevent disease spread in 
+OK   | seed=46 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When should farmers implement soil management practices to p
+OK   | seed=46 | style=paraphrase_preventive | call=5 | focus=soil_condition | judge=PASS | scope_overflow=False | q=Why is proper land leveling and drainage important in wheat 
+OK   | seed=46 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Are the conditions for Karnal Bunt development primarily lin
+OK   | seed=46 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=What environmental factors promote the development of yellow
+OK   | seed=46 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Which environmental conditions contribute to the spread of y
+OK   | seed=46 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When does Karnal Bunt develop rapidly in wheat fields?
+OK   | seed=46 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why does yellow rust develop in wheat?
+OK   | seed=46 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Are 200 ml of Propiconazole 25% EC applied per acre for whea
+OK   | seed=46 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended dosage of Thiram 75% WS for wheat, a
+OK   | seed=46 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Which quantity of Propiconazole 25% EC is recommended for wh
+OK   | seed=46 | style=paraphrase_quantity_focused | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=When should Thiamethoxam 30% FS be applied to wheat seeds?
+OK   | seed=46 | style=paraphrase_quantity_focused | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Why is Thiram 75% WS applied at 10–12 g per acre?
+OK   | seed=46 | style=paraphrase_timing_focused | call=1 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=When should irrigation be avoided in wheat to manage disease
+OK   | seed=46 | style=paraphrase_timing_focused | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When is the optimal time to sow wheat to manage pests and di
+SKIP | seed=46 | style=paraphrase_timing_focused | call=3
+OK   | seed=46 | style=paraphrase_timing_focused | call=4 | focus=application_timing | judge=PASS | scope_overflow=False | q=When is the optimal time to apply Thiram 75% WS for wheat di
+OK   | seed=46 | style=paraphrase_timing_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Why apply Propiconazole 25% EC 30 days before harvest in whe
+SKIP | seed=46 | style=paraphrase_timing_focused | call=6
+SKIP | seed=46 | style=paraphrase_timing_focused | call=7
+OK   | seed=46 | style=paraphrase_timing_focused | call=8 | focus=pathogen_name | judge=PASS | scope_overflow=False | q=When should deep summer ploughing be done to manage nematode
+OK   | seed=47 | style=paraphrase_formal | call=1 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Is mite infestation a significant threat to onion crops, and
+OK   | seed=47 | style=paraphrase_formal | call=2 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Does the infestation of mites in onion crops pose significan
+OK   | seed=47 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific biological control agents recommended for
+OK   | seed=47 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the key mite species affecting onion crops and the 
+DUPE | seed=47 | style=paraphrase_formal | q=Which mite species affect onion crops and what management st
+SKIP | seed=47 | style=paraphrase_formal | call=6
+OK   | seed=47 | style=paraphrase_formal | call=7 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Why is mite infestation a significant issue in onion cultiva
+OK   | seed=47 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is red spider mite damage in onions manageable?
+SKIP | seed=47 | style=paraphrase_short | call=2
+OK   | seed=47 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Are Red spider mites manageable with water sprays?
+OK   | seed=47 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What cultural control reduces mite levels in onion crops?
+SKIP | seed=47 | style=paraphrase_short | call=5
+OK   | seed=47 | style=paraphrase_short | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=When to use water spray for Red spider mites?
+OK   | seed=47 | style=paraphrase_short | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Why do bulb mites harm onion crops?
+OK   | seed=47 | style=paraphrase_problem_description | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a problem with my onion plants showing stippled lea
+JUDGE_RETRY | seed=47 | style=paraphrase_problem_description | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer introduces 'ladybugs' and 'lacewings' as natural predators, which are not explicitly mentioned in the seed answer. The seed answer lists 'green lacewings (Mallada basalis and Chrysoperla zastrowi sillemi)' and 'ladybird beetle (Oligota spp.)', but not 'ladybugs' or 'lacewings' as general terms.", "The generated answer omits specific details about the Red spider mite's symptoms (e.g., stippling, webbing, bleaching, and leaf fall) that were explicitly mentioned in the seed answer."] | q=Does the onion crop have leaves with small dots, webbing, an
+SKIP | seed=47 | style=paraphrase_problem_description | call=3 | (judge-retry)
+JUDGE_ABANDON | seed=47 | style=paraphrase_problem_description | conf=high | scope_overflow=False | issues=["The generated answer introduces 'ladybugs' and 'lacewings' as natural predators, which are not explicitly mentioned in the seed answer. The seed answer lists 'green lacewings (Mallada basalis and Chrysoperla zastrowi sillemi)' and 'ladybird beetle (Oligota spp.)', but not 'ladybugs' or 'lacewings' as general terms.", "The generated answer omits specific details about the Red spider mite's symptoms (e.g., stippling, webbing, bleaching, and leaf fall) that were explicitly mentioned in the seed answer."] | q=Does the onion crop have leaves with small dots, webbing, an
+OK   | seed=47 | style=paraphrase_problem_description | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What if the onion leaves have tiny white dots and webbing, a
+OK   | seed=47 | style=paraphrase_problem_description | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Which pests cause onion leaves to have tiny dots and webbing
+OK   | seed=47 | style=paraphrase_problem_description | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=When I notice silken webbing on onion leaves and patches of 
+OK   | seed=47 | style=paraphrase_problem_description | call=7 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Why are the onion leaves turning yellow with small white spo
+SKIP | seed=47 | style=paraphrase_followup | call=1
+OK   | seed=47 | style=paraphrase_followup | call=2 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Does flood irrigation effectively reduce mite populations in
+SKIP | seed=47 | style=paraphrase_followup | call=3
+OK   | seed=47 | style=paraphrase_followup | call=4 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=What are the specific symptoms observed on onion leaves due 
+SKIP | seed=47 | style=paraphrase_followup | call=5
+SKIP | seed=47 | style=paraphrase_followup | call=6
+SKIP | seed=47 | style=paraphrase_followup | call=7
+OK   | seed=47 | style=paraphrase_followup | call=8 | focus=application_method | judge=PASS | scope_overflow=False | q=Can you explain the application method for using water spray
+SKIP | seed=47 | style=paraphrase_followup | call=9
+SKIP | seed=47 | style=paraphrase_followup | call=10
+SKIP | seed=47 | style=paraphrase_followup | call=11
+SKIP | seed=47 | style=paraphrase_followup | call=12
+SKIP | seed=47 | style=paraphrase_followup | call=13
+SKIP | seed=47 | style=paraphrase_followup | call=14
+ABANDON | seed=47 | style=paraphrase_followup | done=3/5
+OK   | seed=47 | style=paraphrase_yes_no | call=1 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Is flood irrigation recommended for managing mite infestatio
+OK   | seed=47 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the seed answer recommend conserving natural enemies to
+OK   | seed=47 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is biological control recommended for managing all three mit
+OK   | seed=47 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Is there a way to prevent mite infestation in onion crops th
+OK   | seed=47 | style=paraphrase_preventive | call=2 | focus=crop_rotation_duration | judge=PASS | scope_overflow=False | q=Does using border crops and crop rotation prevent mite infes
+OK   | seed=47 | style=paraphrase_preventive | call=3 | focus=crop_rotation_duration | judge=PASS | scope_overflow=False | q=Are there specific crop rotation strategies to prevent mite 
+OK   | seed=47 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the cultural practices to prevent mite infestation 
+OK   | seed=47 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Which cultural practices help prevent mite infestations in o
+OK   | seed=47 | style=paraphrase_cause | call=1 | focus=pathogen_name | judge=PASS | scope_overflow=False | q=Is bulb mite infestation in onions primarily caused by physi
+OK   | seed=47 | style=paraphrase_cause | call=2 | focus=pathogen_name | judge=PASS | scope_overflow=False | q=Does the presence of bulb mites in onion crops primarily res
+OK   | seed=47 | style=paraphrase_cause | call=3 | focus=pathogen_name | judge=PASS | scope_overflow=False | q=Are bulb mite infestations in onion crops primarily caused b
+SKIP | seed=47 | style=paraphrase_cause | call=4
+OK   | seed=47 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Which factors lead to mite infestations in onion crops?
+OK   | seed=47 | style=paraphrase_cause | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=When do bulb mites typically infest onion bulbs and what fac
+SKIP | seed=47 | style=paraphrase_quantity_focused | call=1
+SKIP | seed=47 | style=paraphrase_quantity_focused | call=2
+SKIP | seed=47 | style=paraphrase_quantity_focused | call=3
+SKIP | seed=47 | style=paraphrase_quantity_focused | call=4
+SKIP | seed=47 | style=paraphrase_quantity_focused | call=5
+SKIP | seed=47 | style=paraphrase_quantity_focused | call=6
+ABANDON | seed=47 | style=paraphrase_quantity_focused | done=0/5
+SKIP | seed=47 | style=paraphrase_timing_focused | call=1
+OK   | seed=47 | style=paraphrase_timing_focused | call=2 | focus=irrigation_method | judge=PASS | scope_overflow=False | q=Does flood irrigation help in managing mite infestations in 
+SKIP | seed=47 | style=paraphrase_timing_focused | call=3
+SKIP | seed=47 | style=paraphrase_timing_focused | call=4
+SKIP | seed=47 | style=paraphrase_timing_focused | call=5
+SKIP | seed=47 | style=paraphrase_timing_focused | call=6
+SKIP | seed=47 | style=paraphrase_timing_focused | call=7
+SKIP | seed=47 | style=paraphrase_timing_focused | call=8
+ABANDON | seed=47 | style=paraphrase_timing_focused | done=1/5
+OK   | seed=48 | style=paraphrase_formal | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the diagnostic indicators and management practices 
+OK   | seed=48 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Are there specific visual indicators and management strategi
+OK   | seed=48 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What are the methods for diagnosing and mitigating phosphoru
+OK   | seed=48 | style=paraphrase_formal | call=4 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Which visual symptoms and management strategies are associat
+OK   | seed=48 | style=paraphrase_formal | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=When should phosphorus and potassium deficiencies in fodder 
+OK   | seed=48 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Does phosphorus deficiency in fodder maize show purplish lea
+OK   | seed=48 | style=paraphrase_short | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Are phosphorus and potassium deficiencies in fodder maize ma
+OK   | seed=48 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What fertilizers manage phosphorus and potassium in fodder m
+DUPE | seed=48 | style=paraphrase_short | q=Which fertilizers manage phosphorus and potassium in fodder 
+OK   | seed=48 | style=paraphrase_short | call=5 | focus=application_timing | judge=PASS | scope_overflow=False | q=When to apply phosphorus and potassium for fodder maize?
+OK   | seed=48 | style=paraphrase_short | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Why apply farmyard manure for phosphorus and potassium in fo
+OK   | seed=48 | style=paraphrase_problem_description | call=1 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Does my fodder maize have stunted growth and purplish older 
+OK   | seed=48 | style=paraphrase_problem_description | call=2 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Are the older leaves of my fodder maize showing stunted grow
+OK   | seed=48 | style=paraphrase_problem_description | call=3 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=What should I do if my fodder maize plants show stunted grow
+SKIP | seed=48 | style=paraphrase_problem_description | call=4
+OK   | seed=48 | style=paraphrase_problem_description | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=When older leaves show purple color and weak stalks, and mar
+SKIP | seed=48 | style=paraphrase_problem_description | call=6
+SKIP | seed=48 | style=paraphrase_problem_description | call=7
+OK   | seed=48 | style=paraphrase_problem_description | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Should I be concerned about the purplish discoloration on th
+OK   | seed=48 | style=paraphrase_followup | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Does purplish discoloration on older leaves of fodder maize 
+SKIP | seed=48 | style=paraphrase_followup | call=2
+SKIP | seed=48 | style=paraphrase_followup | call=3
+OK   | seed=48 | style=paraphrase_followup | call=4 | focus=application_method | judge=PASS | scope_overflow=False | q=Which application method is recommended for nitrogen fertili
+OK   | seed=48 | style=paraphrase_followup | call=5 | focus=application_timing | judge=PASS | scope_overflow=False | q=When should I apply the remaining nitrogen after sowing?
+OK   | seed=48 | style=paraphrase_followup | call=6 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Why is the dosage of SSP recommended at 100 kg per acre for 
+OK   | seed=48 | style=paraphrase_followup | call=7 | focus=symptom_detail | judge=PASS | scope_overflow=False | q=Can you explain the specific visual symptoms of phosphorus d
+OK   | seed=48 | style=paraphrase_yes_no | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Does applying 10 tonnes per acre of well-decomposed farmyard
+OK   | seed=48 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Can well-decomposed farmyard manure alone meet phosphorus an
+OK   | seed=48 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Can well-decomposed farmyard manure reduce the need for chem
+OK   | seed=48 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Does applying well-decomposed farmyard manure before land pr
+OK   | seed=48 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=How can I prevent phosphorus and potassium deficiencies in f
+OK   | seed=48 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=What steps can be taken to prevent phosphorus and potassium 
+OK   | seed=48 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Which practices can prevent phosphorus and potassium deficie
+OK   | seed=48 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=When should I prepare the soil to prevent phosphorus and pot
+JUDGE_RETRY | seed=48 | style=paraphrase_cause | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer introduces new claims not present in the seed answer, such as 'phosphorus is critical for cellular energy metabolism and root system development' and 'potassium deficiency... disrupting water regulation and structural integrity.' These are not explicitly mentioned in the seed answer.", "The generated answer also includes information about 'photosynthetic efficiency and drought tolerance' which is not directly stated in the seed answer."] | q=Does phosphorus deficiency in fodder maize primarily result 
+SKIP | seed=48 | style=paraphrase_cause | call=2 | (judge-retry)
+JUDGE_ABANDON | seed=48 | style=paraphrase_cause | conf=high | scope_overflow=False | issues=["The generated answer introduces new claims not present in the seed answer, such as 'phosphorus is critical for cellular energy metabolism and root system development' and 'potassium deficiency... disrupting water regulation and structural integrity.' These are not explicitly mentioned in the seed answer.", "The generated answer also includes information about 'photosynthetic efficiency and drought tolerance' which is not directly stated in the seed answer."] | q=Does phosphorus deficiency in fodder maize primarily result 
+SKIP | seed=48 | style=paraphrase_cause | call=3
+SKIP | seed=48 | style=paraphrase_cause | call=4
+OK   | seed=48 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=When do phosphorus and potassium deficiencies occur in fodde
+SKIP | seed=48 | style=paraphrase_cause | call=6
+OK   | seed=48 | style=paraphrase_cause | call=7 | focus=pathogen_name | judge=PASS | scope_overflow=False | q=Can phosphorus and potassium deficiencies in fodder maize be
+OK   | seed=48 | style=paraphrase_cause | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers apply farmyard manure to address phosphorus a
+SKIP | seed=48 | style=paraphrase_cause | call=9
+JUDGE_RETRY | seed=48 | style=paraphrase_cause | retry=1/3 | conf=high | scope_overflow=False | issues=["The generated answer claims that phosphorus and potassium deficiencies occur 'when soil lacks adequate levels of these nutrients,' which is an inferred cause not explicitly stated in the seed answer. The seed answer describes symptoms and management practices but does not directly state that the primary cause is 'insufficient soil nutrient levels.'"] | q=Is the occurrence of phosphorus and potassium deficiencies i
+JUDGE_RETRY | seed=48 | style=paraphrase_cause | retry=2/3 | conf=high | scope_overflow=False | issues=["The generated answer includes the claim that deficiencies 'impair physiological processes' and 'hinder nutrient uptake and photosynthetic efficiency,' which are not explicitly mentioned in the seed answer.", "The generated answer states that management involves 'organic and inorganic sources to replenish soil nutrients,' which is a generalization not explicitly stated in the seed answer."] | q=Does phosphorus and potassium deficiency in fodder maize aff
+OK   | seed=48 | style=paraphrase_cause | call=12 | focus=pathogen_name | judge=PASS | scope_overflow=False | q=Are phosphorus and potassium deficiencies in fodder maize pr
+SKIP | seed=48 | style=paraphrase_cause | call=13
+SKIP | seed=48 | style=paraphrase_cause | call=14
+OK   | seed=48 | style=paraphrase_cause | call=15 | focus=unknown | judge=PASS | scope_overflow=False | q=When do phosphorus and potassium deficiencies in fodder maiz
+OK   | seed=48 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Does 10 tonnes per acre of farmyard manure suffice for phosp
+SKIP | seed=48 | style=paraphrase_quantity_focused | call=2
+OK   | seed=48 | style=paraphrase_quantity_focused | call=3 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended DAP application rate for sandy loam 
+OK   | seed=48 | style=paraphrase_quantity_focused | call=4 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Which urea dosage is recommended per acre for fodder maize w
+OK   | seed=48 | style=paraphrase_quantity_focused | call=5 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=When applying urea for fodder maize, how much should be used
+OK   | seed=48 | style=paraphrase_quantity_focused | call=6 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Why is 15 kg urea per acre reduced when 35 kg DAP is applied
+OK   | seed=48 | style=paraphrase_timing_focused | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Does the timing of phosphorus and potassium fertilizer appli
+SKIP | seed=48 | style=paraphrase_timing_focused | call=2
+SKIP | seed=48 | style=paraphrase_timing_focused | call=3
+SKIP | seed=48 | style=paraphrase_timing_focused | call=4
+SKIP | seed=48 | style=paraphrase_timing_focused | call=5
+OK   | seed=48 | style=paraphrase_timing_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=Why should nitrogen be applied after 3-4 weeks in fodder mai
+OK   | seed=48 | style=paraphrase_timing_focused | call=7 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the remaining nitrogen be applied after 3-4 weeks of sow
+OK   | seed=48 | style=paraphrase_timing_focused | call=8 | focus=application_timing | judge=PASS | scope_overflow=False | q=Should phosphorus and potassium fertilizers be applied at sp
+SKIP | seed=48 | style=paraphrase_timing_focused | call=9
+OK   | seed=48 | style=paraphrase_timing_focused | call=10 | focus=unknown | judge=PASS | scope_overflow=False | q=When should fertilizers be applied for optimal phosphorus an
+OK   | seed=49 | style=paraphrase_formal | call=1 | focus=application_method | judge=PASS | scope_overflow=False | q=Which specific biofertilizers are recommended for potato cul
+OK   | seed=49 | style=paraphrase_formal | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When should biofertilizers be applied for potato cultivation
+OK   | seed=49 | style=paraphrase_formal | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is the integration of biofertilizers with organic manure
+OK   | seed=49 | style=paraphrase_formal | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can you outline the recommended biofertilizers and their app
+OK   | seed=49 | style=paraphrase_formal | call=5 | focus=application_method | judge=PASS | scope_overflow=False | q=Should specific biofertilizers be applied during potato cult
+OK   | seed=49 | style=paraphrase_short | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Which biofertilizers are used for potato cultivation?
+OK   | seed=49 | style=paraphrase_short | call=2 | focus=application_timing | judge=PASS | scope_overflow=False | q=When to apply consortium biofertilizer for potato fields?
+OK   | seed=49 | style=paraphrase_short | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why use biofertilizers for potato cultivation?
+OK   | seed=49 | style=paraphrase_short | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can consortium biofertilizer be applied to potato fields?
+DUPE | seed=49 | style=paraphrase_short | q=Should consortium biofertilizer be applied to potato fields?
+OK   | seed=49 | style=paraphrase_short | call=6 | focus=application_method | judge=PASS | scope_overflow=False | q=What is the application method for consortium biofertilizer 
+SKIP | seed=49 | style=paraphrase_problem_description | call=1
+OK   | seed=49 | style=paraphrase_problem_description | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When the potato plants show weak growth and poor tuber devel
+SKIP | seed=49 | style=paraphrase_problem_description | call=3
+SKIP | seed=49 | style=paraphrase_problem_description | call=4
+SKIP | seed=49 | style=paraphrase_problem_description | call=5
+SKIP | seed=49 | style=paraphrase_problem_description | call=6
+SKIP | seed=49 | style=paraphrase_problem_description | call=7
+SKIP | seed=49 | style=paraphrase_problem_description | call=8
+ABANDON | seed=49 | style=paraphrase_problem_description | done=1/5
+OK   | seed=49 | style=paraphrase_followup | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=What is the recommended dosage for applying consortium biofe
+OK   | seed=49 | style=paraphrase_followup | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When should Biozyme granules and liquid formulation be appli
+OK   | seed=49 | style=paraphrase_followup | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is the application timing of Biozyme important for potat
+SKIP | seed=49 | style=paraphrase_followup | call=4
+OK   | seed=49 | style=paraphrase_followup | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should the consortium biofertilizer be mixed with manure bef
+DUPE | seed=49 | style=paraphrase_followup | q=What is the recommended application method for consortium bi
+SKIP | seed=49 | style=paraphrase_followup | call=7
+OK   | seed=49 | style=paraphrase_followup | call=8 | focus=unknown | judge=PASS | scope_overflow=False | q=Does using biofertilizers improve soil structure for potato 
+SKIP | seed=49 | style=paraphrase_yes_no | call=1
+OK   | seed=49 | style=paraphrase_yes_no | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=Should biofertilizers be integrated with organic manures in 
+OK   | seed=49 | style=paraphrase_yes_no | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Is integrating biofertilizers with organic manures and reduc
+OK   | seed=49 | style=paraphrase_yes_no | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can Biozyme granules be applied during planting for potato c
+OK   | seed=49 | style=paraphrase_preventive | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Which cultural practices can prevent reliance on chemical fe
+OK   | seed=49 | style=paraphrase_preventive | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When should biofertilizers be integrated into potato farming
+OK   | seed=49 | style=paraphrase_preventive | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why is mixing consortium biofertilizer with manure recommend
+OK   | seed=49 | style=paraphrase_preventive | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can proper soil preparation with biofertilizers prevent nutr
+OK   | seed=49 | style=paraphrase_preventive | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should farmers use consortium biofertilizer and how?
+OK   | seed=49 | style=paraphrase_cause | call=1 | focus=unknown | judge=PASS | scope_overflow=False | q=Which factors contribute to the effectiveness of biofertiliz
+OK   | seed=49 | style=paraphrase_cause | call=2 | focus=unknown | judge=PASS | scope_overflow=False | q=When are specific biofertilizers recommended for potato cult
+OK   | seed=49 | style=paraphrase_cause | call=3 | focus=unknown | judge=PASS | scope_overflow=False | q=Why are Azotobacter, Bacillus, and Pseudomonas species recom
+OK   | seed=49 | style=paraphrase_cause | call=4 | focus=unknown | judge=PASS | scope_overflow=False | q=Can the effectiveness of biofertilizers in potato cultivatio
+OK   | seed=49 | style=paraphrase_cause | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=What causes biofertilizers to enhance potato growth?
+OK   | seed=49 | style=paraphrase_quantity_focused | call=1 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Which quantity of consortium biofertilizer is recommended fo
+OK   | seed=49 | style=paraphrase_quantity_focused | call=2 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=When should 8 kg of granule be applied per acre for potato c
+SKIP | seed=49 | style=paraphrase_quantity_focused | call=3
+DUPE | seed=49 | style=paraphrase_quantity_focused | q=Can 8 kg of Biozyme granule be applied per acre for potato c
+OK   | seed=49 | style=paraphrase_quantity_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should 4 kg of consortium biofertilizer be mixed with manure
+OK   | seed=49 | style=paraphrase_quantity_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=What is the amount of manure or soil required to mix with 4 
+OK   | seed=49 | style=paraphrase_quantity_focused | call=7 | focus=dosage_quantity | judge=PASS | scope_overflow=False | q=Is 4 kg of consortium biofertilizer applied per acre mixed w
+OK   | seed=49 | style=paraphrase_timing_focused | call=1 | focus=application_timing | judge=PASS | scope_overflow=False | q=Which stages of potato cultivation require biofertilizer app
+OK   | seed=49 | style=paraphrase_timing_focused | call=2 | focus=application_timing | judge=PASS | scope_overflow=False | q=When is the optimal time to apply Biozyme granules and liqui
+DUPE | seed=49 | style=paraphrase_timing_focused | q=When should Biozyme granules and liquid be applied during po
+JUDGE_RETRY | seed=49 | style=paraphrase_timing_focused | retry=1/3 | conf=high | scope_overflow=False | issues=['The generated answer introduces the application of Biozyme granules and liquid formulation, which are not mentioned in the seed answer in the context of consortium biofertilizer. This adds new information not present in the seed answer.'] | q=When should consortium biofertilizer be applied during potat
+OK   | seed=49 | style=paraphrase_timing_focused | call=5 | focus=unknown | judge=PASS | scope_overflow=False | q=Should biofertilizers be applied at specific stages of potat
+OK   | seed=49 | style=paraphrase_timing_focused | call=6 | focus=unknown | judge=PASS | scope_overflow=False | q=When should the consortium biofertilizer be applied during p
+DUPE | seed=49 | style=paraphrase_timing_focused | q=When should Biozyme granules and liquid formulation be appli
+OK   | seed=49 | style=paraphrase_timing_focused | call=8 | focus=application_timing | judge=PASS | scope_overflow=False | q=Does the application of Biozyme for potato cultivation depen
