@@ -1,0 +1,2016 @@
+[
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "What are the integrated management strategies for termite (deemak/geda) infestation in wheat crops in Uttar Pradesh?",
+    "turns_added": 2,
+    "total_turns": 3,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "What are the integrated management strategies for termite (deemak/geda) infestation in wheat crops in Uttar Pradesh?"
+      },
+      {
+        "role": "assistant",
+        "content": "Termites, referred to as deemak, geda, or dhais, pose significant threats to wheat crops in Uttar Pradesh, particularly in Basti district. Integrated management requires multifaceted approaches:\n\n1. **Cultural Practices**: Conduct deep summer ploughing (May-June) to disrupt termite colonies. Remove crop stubble, organic debris, and wood fragments. Maintain field sanitation, ensure optimal soil moisture via timely irrigation, and use well-decomposed farmyard manure. Crop rotation with non-host species is recommended.\n\n2. **Seed Treatment**: Treat wheat seeds with Chlorpyriphos 20% EC or thiomethoxam 30% FS at 3 ml per kg seed before sowing.\n\n3. **Soil Treatment**: Mix 1 kg/acre of Beauvaria bassiana 1.15% with 24-28 kg/acre of farmyard manure, allow it to ferment for 8-10 days in shade, and incorporate into soil prior to sowing.\n\n4. **Standing Crop Management**: Apply 1 litre/acre of Chlorpyrifos 20% EC with irrigation water during infestation.\n\n5. **Biological Control**: Utilize Beauveria bassiana and Metarhizium anisopliae as bio-control agents when termite populations are low. Encourage natural predators like birds and ants.\n\nSafety protocols include protective gear during pesticide application, strict adherence to dosages, and proper storage. Regular field monitoring, especially during dry spells, is critical. KVK experts provide localized recommendations for effective implementation."
+      },
+      {
+        "role": "user",
+        "content": "What is the correct dosage for Chlorpyrifos 20% EC when applied with irrigation water?"
+      },
+      {
+        "role": "assistant",
+        "content": "The correct dosage is 1 litre per acre of Chlorpyrifos 20% EC applied with irrigation water during infestation."
+      },
+      {
+        "role": "user",
+        "content": "What safety precautions should I take while applying Chlorpyrifos 20% EC?"
+      },
+      {
+        "role": "assistant",
+        "content": "Safety protocols include protective gear during pesticide application, strict adherence to dosages, and proper storage."
+      }
+    ],
+    "timestamp": "2026-04-16T11:10:40.430370+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Which integrated management strategies are effective for controlling termite (deemak/geda) infestation in wheat crops?",
+    "turns_added": 0,
+    "total_turns": 1,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Which integrated management strategies are effective for controlling termite (deemak/geda) infestation in wheat crops?"
+      },
+      {
+        "role": "assistant",
+        "content": "Integrated management of termite infestation in wheat involves multiple strategies: 1. Preventive cultural practices include deep summer ploughing (May-June) to expose colonies, removal of organic debris, maintaining field sanitation, optimal irrigation to avoid dry soil conditions, and using well-decomposed farmyard manure. 2. Seed treatment with Chlorpyriphos 20% EC or thiomethoxam 30% FS at 3 ml per kg seed is recommended. 3. Soil treatment at sowing involves mixing 1 kg/acre of Beauveria bassiana 1.15% with 24-28 kg/acre of farmyard manure, allowing it to ferment for 8-10 days before application. 4. For standing crops, 1 litre/acre of Chlorpyrifos 20% EC mixed with irrigation water is effective. 5. Biological control methods include encouraging natural predators like birds and ants, alongside biocontrol agents such as Beauveria bassiana and Metarhizium anisopliae. Safety measures require protective gear during pesticide application, strict adherence to dosages, and storage away from food sources. Regular monitoring during dry spells, particularly in October-November and February-March, is critical for early intervention. Local KVK experts can provide tailored recommendations."
+      }
+    ],
+    "timestamp": "2026-04-16T11:11:18.707495+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "When should regular field monitoring for termite infestation in wheat be conducted?",
+    "turns_added": 0,
+    "total_turns": 1,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "When should regular field monitoring for termite infestation in wheat be conducted?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular field monitoring for termite infestation in wheat should be prioritized during critical periods. These include: 1. October-November (sowing time) to assess early infestation risks, and 2. February-March (when soil moisture decreases) to detect active termite activity. Additionally, monitoring is essential during dry spells, as termites thrive in low-moisture conditions. Early detection enables timely intervention, minimizing yield losses. Local KVK experts can provide soil-specific recommendations for targeted management strategies."
+      }
+    ],
+    "timestamp": "2026-04-16T11:11:38.430966+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Why is integrated pest management essential for mitigating termite infestations in wheat cultivation?",
+    "turns_added": 2,
+    "total_turns": 3,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Why is integrated pest management essential for mitigating termite infestations in wheat cultivation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Integrated pest management is critical for addressing termite infestations in wheat due to their destructive impact on root systems and stems, leading to yield losses. Key strategies include: \n\n1. **Preventive Cultural Practices**: Conduct deep summer ploughing (May-June) to disrupt termite colonies, remove organic debris, maintain field sanitation, and ensure optimal soil moisture through irrigation. Use well-decomposed farmyard manure instead of fresh organic matter. \n\n2. **Seed Treatment**: Apply Chlorpyriphos 20% EC or thiomethoxam 30% FS at 3 ml per kg of seed before sowing to protect early crop establishment. \n\n3. **Soil Treatment**: Mix 1 kg/acre of Beauvaria bassiana 1.15% with 24–28 kg/acre of farmyard manure, allow it to ferment for 8–10 days, and incorporate into soil before sowing. \n\n4. **Standing Crop Treatment**: Spray 1 litre/acre of Chlorpyrifos 20% EC with irrigation water during infestation. \n\n5. **Biological Control**: Utilize natural enemies such as birds, ants, and beneficial fungi like Beauveria bassiana and Metarhizium anisopliae for low-termite-population scenarios. \n\nSafety measures include protective gear during pesticide application, strict adherence to dosage guidelines, and proper storage. Regular field monitoring, particularly during dry spells, is essential. In Basti district, critical periods for intervention are October-November (sowing) and February-March (low soil moisture). KVK experts provide localized recommendations."
+      },
+      {
+        "role": "user",
+        "content": "When should I apply these termite control measures in my wheat field?"
+      },
+      {
+        "role": "assistant",
+        "content": "In Basti district, critical periods for intervention are October-November (sowing) and February-March (low soil moisture). Regular field monitoring, particularly during dry spells, is essential."
+      },
+      {
+        "role": "user",
+        "content": "What's the correct dosage for Chlorpyrifos 20% EC when spraying for termite control?"
+      },
+      {
+        "role": "assistant",
+        "content": "The recommended dosage is 1 litre/acre of Chlorpyrifos 20% EC mixed with irrigation water during infestation."
+      }
+    ],
+    "timestamp": "2026-04-16T11:13:02.282842+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "What is the integrated management approach for termite infestation in wheat crops?",
+    "turns_added": 2,
+    "total_turns": 3,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "What is the integrated management approach for termite infestation in wheat crops?"
+      },
+      {
+        "role": "assistant",
+        "content": "The integrated management approach for termite infestation in wheat crops involves multiple strategies: 1. Preventive cultural practices include deep summer ploughing (May-June) to expose termite colonies, removal of crop stubble and organic debris, field sanitation, optimal irrigation to maintain soil moisture, and application of well-decomposed farmyard manure. 2. Seed treatment with Chlorpyriphos 20% EC or thiomethoxam 30% FS at 3 ml per kg seed is recommended prior to sowing. 3. Soil treatment at sowing involves mixing 1 kg per acre of Beauvaria bassiana 1.15% with 24–28 kg per acre of farm yard manure, allowing it to ferment for 8–10 days before application. 4. For standing crops, 1 litre per acre of Chlorpyrifos 20% EC mixed with irrigation water is advised. 5. Biological control methods include encouraging natural predators like birds and ants, along with bio-control agents such as Beauveria bassiana and Metarhizium anisopliae. Safety measures require protective clothing, strict adherence to dosages, and proper storage of pesticides. Regular field monitoring, particularly during dry spells, is critical. Key periods for intervention in Basti district include October-November (sowing) and February-March (soil moisture decline). KVK experts can provide site-specific guidance."
+      },
+      {
+        "role": "user",
+        "content": "How should I apply Chlorpyrifos 20% EC for standing crops?"
+      },
+      {
+        "role": "assistant",
+        "content": "For standing crops, 1 litre per acre of Chlorpyrifos 20% EC mixed with irrigation water is advised."
+      },
+      {
+        "role": "user",
+        "content": "How should I apply the Chlorpyrifos 20% EC mixture to the field?"
+      },
+      {
+        "role": "assistant",
+        "content": "For standing crops, 1 litre per acre of Chlorpyrifos 20% EC mixed with irrigation water is advised."
+      }
+    ],
+    "timestamp": "2026-04-16T11:13:13.539212+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "What is the solution for termite infestation in wheat?",
+    "turns_added": 1,
+    "total_turns": 2,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "What is the solution for termite infestation in wheat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Treat seeds with Chlorpyriphos 20% EC or thiomethoxam 30% FS at 3 ml/kg. Apply Chlorpyrifos 20% EC at 1 L/acre via irrigation. Use Beauvaria bassiana 1.15% mixed with farmyard manure. Practice deep ploughing and remove organic debris."
+      },
+      {
+        "role": "user",
+        "content": "How should I apply the Chlorpyrifos 20% EC to the seeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Treat the seeds by mixing them with Chlorpyriphos 20% EC or thiomethoxam 30% FS at a rate of 3 ml per kg of seeds."
+      }
+    ],
+    "timestamp": "2026-04-16T11:13:48.496322+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Which chemicals control termites in wheat?",
+    "turns_added": 0,
+    "total_turns": 1,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Which chemicals control termites in wheat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Treat seeds with Chlorpyriphos 20% EC or thiomethoxam 30% FS. Apply Chlorpyrifos 20% EC at 1L/acre during infestation. Use Beauvaria bassiana 1.15% in soil."
+      }
+    ],
+    "timestamp": "2026-04-16T11:14:36.224134+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "When to apply Beauvaria bassiana for termite control?",
+    "turns_added": 2,
+    "total_turns": 3,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "When to apply Beauvaria bassiana for termite control?"
+      },
+      {
+        "role": "assistant",
+        "content": "Apply before sowing by mixing 1 kg per acre with 24-28 kg farm yard manure, watering, and keeping in shade for 8-10 days."
+      },
+      {
+        "role": "user",
+        "content": "What is the correct method to apply the mixture after mixing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mix 1 kg per acre with 24-28 kg farm yard manure, watering, and keeping in shade for 8-10 days."
+      },
+      {
+        "role": "user",
+        "content": "At which crop growth stage should this treatment be applied?"
+      },
+      {
+        "role": "assistant",
+        "content": "Apply before sowing by mixing 1 kg per acre with 24-28 kg farm yard manure, watering, and keeping in shade for 8-10 days."
+      }
+    ],
+    "timestamp": "2026-04-16T11:15:01.401202+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Why treat wheat seeds with Chlorpyriphos 20% EC?",
+    "turns_added": 0,
+    "total_turns": 1,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Why treat wheat seeds with Chlorpyriphos 20% EC?"
+      },
+      {
+        "role": "assistant",
+        "content": "To protect early crop establishment by preventing termite damage during sowing. Apply 3 ml per kg seed before sowing."
+      }
+    ],
+    "timestamp": "2026-04-16T11:16:42.231241+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Can Chlorpyrifos 20% EC control termites in wheat?",
+    "turns_added": 1,
+    "total_turns": 2,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Can Chlorpyrifos 20% EC control termites in wheat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, apply 1 litre per acre of Chlorpyrifos 20% EC with irrigation water for termite control in standing wheat. It is also used to treat seeds at 3 ml per kg before sowing."
+      },
+      {
+        "role": "user",
+        "content": "How should I apply Chlorpyrifos 20% EC—through spraying or soil drench?"
+      },
+      {
+        "role": "assistant",
+        "content": "Apply 1 litre per acre of Chlorpyrifos 20% EC with irrigation water for termite control in standing wheat. It is also used to treat seeds at 3 ml per kg before sowing."
+      }
+    ],
+    "timestamp": "2026-04-16T11:17:39.480188+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "What if wheat plants are showing yellowing leaves and stunted growth, with tillers withering and plants easily pulled out?",
+    "turns_added": 3,
+    "total_turns": 4,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "What if wheat plants are showing yellowing leaves and stunted growth, with tillers withering and plants easily pulled out?"
+      },
+      {
+        "role": "assistant",
+        "content": "The wheat plants are likely infested by termites, which damage roots and stems, leading to yellowing, stunted growth, and easy uprooting. Treat seeds with Chlorpyriphos 20% EC or thiomethoxam 30% FS at 3 ml per kg before sowing. Apply Beauvaria bassiana 1.15% biopesticide mixed with farmyard manure before planting to control termite populations."
+      },
+      {
+        "role": "user",
+        "content": "How should I apply the Beauvaria bassiana biopesticide?"
+      },
+      {
+        "role": "assistant",
+        "content": "Apply Beauvaria bassiana 1.15% biopesticide mixed with farmyard manure before planting to control termite populations."
+      },
+      {
+        "role": "user",
+        "content": "What preventive measures can I take to avoid termite infestation in the future?"
+      },
+      {
+        "role": "assistant",
+        "content": "Treat seeds with Chlorpyriphos 20% EC or thiomethoxam 30% FS at 3 ml per kg before sowing. Apply Beauvaria bassiana 1.15% biopesticide mixed with farmyard manure before planting to control termite populations."
+      },
+      {
+        "role": "user",
+        "content": "What is the correct dosage for Chlorpyriphos 20% EC when treating seeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Treat seeds with Chlorpyriphos 20% EC or thiomethoxam 30% FS at 3 ml per kg before sowing."
+      }
+    ],
+    "timestamp": "2026-04-16T11:18:01.657893+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "When wheat plants show yellowing leaves and stunted growth, what should be done?",
+    "turns_added": 1,
+    "total_turns": 2,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "When wheat plants show yellowing leaves and stunted growth, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "Termites are likely the cause. Treat seeds with Chlorpyriphos 20% EC or thiomethoxam 30% FS before sowing. Apply Beauvaria bassiana 1.15% with farmyard manure to the soil before planting."
+      },
+      {
+        "role": "user",
+        "content": "How should I apply these treatments?"
+      },
+      {
+        "role": "assistant",
+        "content": "Treat seeds with Chlorpyriphos 20% EC or thiomethoxam 30% FS before sowing. Apply Beauvaria bassiana 1.15% with farmyard manure to the soil before planting."
+      }
+    ],
+    "timestamp": "2026-04-16T11:18:54.947725+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Why are my wheat plants yellowing and stunting, with patches drying up?",
+    "turns_added": 2,
+    "total_turns": 3,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Why are my wheat plants yellowing and stunting, with patches drying up?"
+      },
+      {
+        "role": "assistant",
+        "content": "The plants are likely affected by underground pests causing root damage. Treat seeds with Chlorpyriphos 20% EC or thiomethoxam 30% FS before sowing. Apply Beauvaria bassiana 1.15% with farmyard manure to the soil before planting."
+      },
+      {
+        "role": "user",
+        "content": "How should I apply Beauvaria bassiana with the farmyard manure?"
+      },
+      {
+        "role": "assistant",
+        "content": "Apply Beauvaria bassiana 1.15% by mixing it with farmyard manure and incorporating it into the soil before planting."
+      },
+      {
+        "role": "user",
+        "content": "When during the crop's growth stage should I apply Beauvaria bassiana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Apply Beauvaria bassiana 1.15% before planting by mixing it with farmyard manure and incorporating it into the soil."
+      }
+    ],
+    "timestamp": "2026-04-16T11:19:34.982107+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Can plants in my field be dying because roots are damaged?",
+    "turns_added": 1,
+    "total_turns": 2,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Can plants in my field be dying because roots are damaged?"
+      },
+      {
+        "role": "assistant",
+        "content": "Termites are damaging roots, causing plants to die. Treat seeds with Chlorpyriphos 20% EC or thiomethoxam 30% FS. Use Beauvaria bassiana 1.15% with farmyard manure in soil."
+      },
+      {
+        "role": "user",
+        "content": "How should I apply these treatments to my field?"
+      },
+      {
+        "role": "assistant",
+        "content": "Treat seeds with Chlorpyriphos 20% EC or thiomethoxam 30% FS before sowing. Apply Beauvaria bassiana 1.15% mixed with farmyard manure to the soil."
+      }
+    ],
+    "timestamp": "2026-04-16T11:19:59.138700+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "What is causing the wheat plants to turn yellow, grow stunted, and be easily pulled out of the soil?",
+    "turns_added": 0,
+    "total_turns": 1,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "What is causing the wheat plants to turn yellow, grow stunted, and be easily pulled out of the soil?"
+      },
+      {
+        "role": "assistant",
+        "content": "Termites are damaging the wheat crop, leading to yellowing leaves, stunted growth, and plants that can be easily uprooted. Treat seeds with Chlorpyriphos 20% EC or thiomethoxam 30% FS before sowing. Apply Chlorpyrifos 20% EC with irrigation water if infestation is observed."
+      }
+    ],
+    "timestamp": "2026-04-16T11:21:27.169340+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "What is the dosage of Chlorpyriphos 20% EC required for seed treatment in wheat?",
+    "turns_added": 2,
+    "total_turns": 3,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "What is the dosage of Chlorpyriphos 20% EC required for seed treatment in wheat?"
+      },
+      {
+        "role": "assistant",
+        "content": "The recommended dosage for Chlorpyriphos 20% EC in seed treatment is 3 ml per kg of wheat seed. This ensures effective protection against termites during early crop establishment. The seeds should be thoroughly mixed with the pesticide and dried in shade before sowing to maintain efficacy."
+      },
+      {
+        "role": "user",
+        "content": "How should I apply Chlorpyriphos 20% EC to the seeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "The seeds should be thoroughly mixed with the pesticide and dried in shade before sowing to maintain efficacy."
+      },
+      {
+        "role": "user",
+        "content": "At what stage of the wheat crop's growth should Chlorpyriphos 20% EC be applied?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chlorpyriphos 20% EC should be applied during the early crop establishment phase to ensure effective protection against termites."
+      }
+    ],
+    "timestamp": "2026-04-16T11:21:59.251199+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Why is the application method of mixing Beauvaria bassiana with farmyard manure and keeping it in shade for 8-10 days recommended for termite control?",
+    "turns_added": 2,
+    "total_turns": 3,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Why is the application method of mixing Beauvaria bassiana with farmyard manure and keeping it in shade for 8-10 days recommended for termite control?"
+      },
+      {
+        "role": "assistant",
+        "content": "This method ensures the biopesticide Beauvaria bassiana 1.15% effectively colonizes the soil and establishes a protective barrier against termites. By mixing it with decomposed farmyard manure and allowing it to rest in shade, the fungal spores activate and proliferate, enhancing their ability to infect termite colonies. This preparation before sowing ensures the biopesticide is evenly distributed in the soil, providing long-term suppression of termite activity while minimizing chemical dependency."
+      },
+      {
+        "role": "user",
+        "content": "When should this mixture be applied in relation to the crop's growth stages?"
+      },
+      {
+        "role": "assistant",
+        "content": "This preparation is recommended before sowing, ensuring the biopesticide is evenly distributed in the soil to provide long-term suppression of termite activity."
+      },
+      {
+        "role": "user",
+        "content": "What is the best way to apply this mixture to the soil?"
+      },
+      {
+        "role": "assistant",
+        "content": "This preparation is recommended before sowing, ensuring the biopesticide is evenly distributed in the soil to provide long-term suppression of termite activity."
+      }
+    ],
+    "timestamp": "2026-04-16T11:22:40.903460+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Can you describe the application method for Beauvaria bassiana in wheat fields?",
+    "turns_added": 0,
+    "total_turns": 1,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Can you describe the application method for Beauvaria bassiana in wheat fields?"
+      },
+      {
+        "role": "assistant",
+        "content": "Beauvaria bassiana 1.15% biopesticide is mixed with 24-28 kg farm yard manure per acre. Water is sprinkled on the mixture, which is then kept in shade for 8-10 days. After this period, the mixture is poured directly into the soil before sowing. This method ensures the biopesticide spreads effectively to target termites in the soil."
+      }
+    ],
+    "timestamp": "2026-04-16T11:24:16.199023+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "What soil conditions contribute to termite infestation in wheat?",
+    "turns_added": 2,
+    "total_turns": 3,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "What soil conditions contribute to termite infestation in wheat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Termites thrive in fields with high organic matter content, undecomposed crop residues, or proximity to trees and wooden structures. Dry soil conditions also exacerbate infestations, as termites prefer environments with low moisture. Proper irrigation to maintain optimal soil moisture and avoiding fresh organic matter application can reduce their population. Fields with excessive crop stubble or debris provide ideal habitats for termite colonies to establish and proliferate."
+      },
+      {
+        "role": "user",
+        "content": "How should I manage irrigation to prevent termites in my wheat field?"
+      },
+      {
+        "role": "assistant",
+        "content": "Proper irrigation to maintain optimal soil moisture can reduce termite populations, as dry conditions exacerbate infestations."
+      },
+      {
+        "role": "user",
+        "content": "What preventive measures can I take before planting to avoid termite infestation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Avoid applying fresh organic matter or crop residues before planting, and ensure proper irrigation to maintain optimal soil moisture levels, as dry conditions exacerbate termite infestations."
+      }
+    ],
+    "timestamp": "2026-04-16T11:24:26.890834+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Which periods require regular monitoring for termite infestation in wheat?",
+    "turns_added": 1,
+    "total_turns": 2,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Which periods require regular monitoring for termite infestation in wheat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular field monitoring is essential, especially during dry spells. In Basti district conditions, October-November (sowing time) and February-March (when soil moisture decreases) are critical periods. Early detection and immediate action prevent severe damage. Farmers should focus on these times to check for termite activity and take preventive measures like timely irrigation and pesticide application."
+      },
+      {
+        "role": "user",
+        "content": "When should the pesticide be applied during these critical periods?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesticide application should be done during the critical periods of October-November (sowing time) and February-March (when soil moisture decreases) as part of preventive measures."
+      }
+    ],
+    "timestamp": "2026-04-16T11:25:25.089714+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Is deep summer ploughing recommended for termite management in wheat?",
+    "turns_added": 0,
+    "total_turns": 1,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Is deep summer ploughing recommended for termite management in wheat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes. Deep summer ploughing (May-June) is recommended to expose termite colonies and galleries to heat and predators, as part of the integrated management strategy."
+      }
+    ],
+    "timestamp": "2026-04-16T11:26:13.155222+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Is wearing protective clothing necessary during the application of Chlorpyrifos 20% EC for termite control in wheat?",
+    "turns_added": 0,
+    "total_turns": 1,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Is wearing protective clothing necessary during the application of Chlorpyrifos 20% EC for termite control in wheat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes. Protective clothing, gloves, and masks should be worn during pesticide application. Hands and exposed body parts must be washed thoroughly after application."
+      }
+    ],
+    "timestamp": "2026-04-16T11:27:01.873266+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Can Beauvaria bassiana be used in soil treatment for termites?",
+    "turns_added": 1,
+    "total_turns": 2,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Can Beauvaria bassiana be used in soil treatment for termites?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes. Beauvaria bassiana 1.15% biopesticide is mixed with farm yard manure and applied to soil before sowing to control termites."
+      },
+      {
+        "role": "user",
+        "content": "How is the mixture applied to the soil?"
+      },
+      {
+        "role": "assistant",
+        "content": "Beauvaria bassiana 1.15% biopesticide is mixed with farm yard manure and applied to soil before sowing to control termites."
+      }
+    ],
+    "timestamp": "2026-04-16T11:27:26.585058+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "What are the preventive measures to avoid termite infestation in wheat?",
+    "turns_added": 0,
+    "total_turns": 1,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "What are the preventive measures to avoid termite infestation in wheat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prevent termite infestation in wheat by practicing deep summer ploughing (May-June) to expose colonies, removing crop stubble and organic debris, maintaining field sanitation, ensuring proper irrigation for optimal soil moisture, using well-decomposed farmyard manure, and rotating with non-host crops. These cultural practices reduce termite habitat and prevent damage."
+      }
+    ],
+    "timestamp": "2026-04-16T11:28:04.291118+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Which preventive measures can be taken to avoid termite infestation in wheat?",
+    "turns_added": 1,
+    "total_turns": 2,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Which preventive measures can be taken to avoid termite infestation in wheat?"
+      },
+      {
+        "role": "assistant",
+        "content": "To prevent termite infestation in wheat, implement deep summer ploughing (May-June) to expose colonies, remove crop stubble and organic debris, maintain field sanitation, ensure proper irrigation for optimal soil moisture, use well-decomposed farmyard manure, and practice crop rotation with non-host crops. Encourage natural predators like birds and ants, and apply biocontrol agents such as Beauveria bassiana when termite populations are low. KVK experts can provide tailored recommendations for effective management."
+      },
+      {
+        "role": "user",
+        "content": "When should Beauveria bassiana be applied for termite control in wheat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Apply Beauveria bassiana when termite populations are low, as mentioned in the preventive measures. KVK experts can provide tailored recommendations for effective management."
+      }
+    ],
+    "timestamp": "2026-04-16T11:29:59.707321+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "When should field sanitation be maintained to prevent termite infestation in wheat?",
+    "turns_added": 3,
+    "total_turns": 4,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "When should field sanitation be maintained to prevent termite infestation in wheat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Field sanitation should be maintained throughout the cultivation cycle to prevent termite infestation. This includes regularly cleaning field boundaries, removing crop stubble, wood pieces, and organic debris that attract termites. Proper sanitation reduces food sources and hiding places for termites, minimizing their population. Ensuring timely removal of affected plant parts and maintaining clean surroundings around the field are critical preventive measures."
+      },
+      {
+        "role": "user",
+        "content": "What are the specific methods for cleaning field boundaries and removing debris?"
+      },
+      {
+        "role": "assistant",
+        "content": "Field boundaries should be regularly cleaned by removing crop stubble, wood pieces, and organic debris that attract termites. This includes clearing all plant residues and maintaining clean surroundings around the field to eliminate food sources and hiding places for termites."
+      },
+      {
+        "role": "user",
+        "content": "How often should field sanitation practices be carried out?"
+      },
+      {
+        "role": "assistant",
+        "content": "Field sanitation should be maintained throughout the cultivation cycle, with regular cleaning of field boundaries and timely removal of debris. This includes ensuring clean surroundings around the field and eliminating food sources for termites continuously."
+      },
+      {
+        "role": "user",
+        "content": "What are the preventive measures before termite infestation occurs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Field sanitation should be maintained throughout the cultivation cycle to prevent termite infestation. This includes regularly cleaning field boundaries, removing crop stubble, wood pieces, and organic debris that attract termites. Proper sanitation reduces food sources and hiding places for termites, minimizing their population. Ensuring timely removal of affected plant parts and maintaining clean surroundings around the field are critical preventive measures."
+      }
+    ],
+    "timestamp": "2026-04-16T11:30:10.388915+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Why is maintaining field sanitation crucial for preventing termite infestation in wheat fields?",
+    "turns_added": 2,
+    "total_turns": 3,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Why is maintaining field sanitation crucial for preventing termite infestation in wheat fields?"
+      },
+      {
+        "role": "assistant",
+        "content": "Maintaining field sanitation is crucial as it involves removing crop stubble, wood pieces, and organic debris that attract termites. Cleaning field boundaries and eliminating undecomposed residues reduces termite food sources and nesting sites, thereby minimizing infestation risks. Proper sanitation disrupts termite colonies and prevents their proliferation, ensuring healthier wheat growth."
+      },
+      {
+        "role": "user",
+        "content": "How do I effectively clean the field boundaries and remove undecomposed residues?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cleaning field boundaries involves manually removing debris, wood pieces, and crop stubble from the edges of the wheat field. Undecomposed residues should be cleared by either burning or plowing them into the soil to prevent termite access to organic matter."
+      },
+      {
+        "role": "user",
+        "content": "What happens if field sanitation is not maintained in wheat fields?"
+      },
+      {
+        "role": "assistant",
+        "content": "Failure to maintain field sanitation increases termite infestation risks as crop stubble, wood pieces, and organic debris provide food sources and nesting sites for termites. This leads to larger termite colonies, greater crop damage, and compromised wheat growth due to unchecked proliferation of pests."
+      }
+    ],
+    "timestamp": "2026-04-16T11:30:31.404342+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Can I prevent termite infestations in wheat by managing field cleanliness and crop rotation?",
+    "turns_added": 0,
+    "total_turns": 1,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Can I prevent termite infestations in wheat by managing field cleanliness and crop rotation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes. Keep fields clean by removing crop stubble and organic debris. Rotate wheat with non-host crops to break termite life cycles. Avoid adding fresh organic matter. Maintain tidy field borders. Use well-decomposed farmyard manure. These steps reduce termite food sources and habitat."
+      }
+    ],
+    "timestamp": "2026-04-16T11:31:29.077696+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "What causes termite (deemak/geda) damage in wheat crops, and why is it more severe in certain conditions?",
+    "turns_added": 3,
+    "total_turns": 4,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "What causes termite (deemak/geda) damage in wheat crops, and why is it more severe in certain conditions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Termite damage in wheat crops occurs because worker termites feed on root systems and lower stems, disrupting water and nutrient uptake. This leads to yellowing leaves, stunted growth, and plants being easily pulled out. The damage intensifies in fields with high organic matter, undecomposed crop residues, or proximity to trees, as these provide food and shelter for termite colonies. Dry soil conditions also favor termite activity, worsening infestations."
+      },
+      {
+        "role": "user",
+        "content": "How does irrigation affect termite activity in wheat fields?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dry soil conditions favor termite activity, worsening infestations. Maintaining adequate soil moisture through proper irrigation can help reduce termite damage."
+      },
+      {
+        "role": "user",
+        "content": "What preventive measures can be taken before planting to reduce termite infestation in wheat fields?"
+      },
+      {
+        "role": "assistant",
+        "content": "To reduce termite infestation, manage organic matter by properly decomposing crop residues before planting, avoid leaving undecomposed materials in the field, and minimize proximity to tree lines or wooded areas that provide shelter for termites."
+      },
+      {
+        "role": "user",
+        "content": "What happens if termite infestation is left untreated in wheat crops?"
+      },
+      {
+        "role": "assistant",
+        "content": "If termite infestation is left untreated, it leads to yellowing leaves, stunted growth, and plants being easily pulled out. Severe infestations can cause significant yield loss as termites disrupt water and nutrient uptake by feeding on root systems and lower stems."
+      }
+    ],
+    "timestamp": "2026-04-16T11:31:38.021914+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Which factors contribute to termite infestation in wheat crops?",
+    "turns_added": 2,
+    "total_turns": 3,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Which factors contribute to termite infestation in wheat crops?"
+      },
+      {
+        "role": "assistant",
+        "content": "Termite infestation in wheat crops occurs due to high organic matter content, undecomposed crop residues, and proximity to trees or wooden structures that provide sustenance for their colonies. Dry soil conditions also favor their activity, as termites thrive in such environments. Their underground colonies attack root systems and lower stems, causing yellowing leaves, stunted growth, and plant wilting. Fields with poor sanitation, like those retaining crop stubble or organic debris, create ideal habitats for termite proliferation."
+      },
+      {
+        "role": "user",
+        "content": "What preventive measures can I take to avoid termite infestation in my wheat crops?"
+      },
+      {
+        "role": "assistant",
+        "content": "To prevent termite infestation, ensure proper field sanitation by removing crop stubble and organic debris after harvest. Avoid retaining undecomposed crop residues, and maintain proper irrigation to avoid excessively dry soil conditions. Also, reduce proximity to trees or wooden structures that may harbor termite colonies."
+      },
+      {
+        "role": "user",
+        "content": "What happens if termite infestation is left untreated in wheat crops?"
+      },
+      {
+        "role": "assistant",
+        "content": "If left untreated, termite infestation can cause continued damage to root systems and lower stems, leading to severe yellowing of leaves, stunted growth, and eventual plant wilting. Prolonged infestation may result in significant yield reduction or complete crop failure due to the termites' persistent attack on vital plant structures."
+      }
+    ],
+    "timestamp": "2026-04-16T11:31:56.395686+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "When do termite infestations in wheat crops become severe, and what environmental factors contribute to their population growth?",
+    "turns_added": 2,
+    "total_turns": 3,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "When do termite infestations in wheat crops become severe, and what environmental factors contribute to their population growth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Termite infestations in wheat crops become severe due to the presence of high organic matter content, undecomposed crop residues, or proximity to trees and wooden structures, which provide ideal habitats and food sources for termite colonies. Dry soil conditions further exacerbate their activity, as termites thrive in such environments. These factors enable termites to establish large underground colonies, leading to increased root and stem damage, yellowing leaves, stunted growth, and eventual plant wilting."
+      },
+      {
+        "role": "user",
+        "content": "What are the symptoms of termite infestation in wheat crops?"
+      },
+      {
+        "role": "assistant",
+        "content": "Termite infestations in wheat crops lead to increased root and stem damage, yellowing leaves, stunted growth, and eventual plant wilting."
+      },
+      {
+        "role": "user",
+        "content": "What preventive measures can be taken to avoid termite infestations in wheat crops?"
+      },
+      {
+        "role": "assistant",
+        "content": "To prevent termite infestations in wheat crops, avoid accumulating high organic matter content and undecomposed crop residues. Remove proximity to trees and wooden structures, and maintain adequate soil moisture to disrupt dry conditions that favor termite activity."
+      }
+    ],
+    "timestamp": "2026-04-16T11:32:11.057401+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Why do termites damage wheat crops in Uttar Pradesh?",
+    "turns_added": 2,
+    "total_turns": 3,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Why do termites damage wheat crops in Uttar Pradesh?"
+      },
+      {
+        "role": "assistant",
+        "content": "Termites damage wheat crops because they are attracted to high organic matter content in soil, undecomposed crop residues, and proximity to trees or wooden structures. These conditions provide food and habitat for termite colonies, which target wheat roots and lower stems. The pests thrive in dry soil, leading to yellowing leaves, stunted growth, and plant wilting as their feeding disrupts water and nutrient uptake. Fields with poor sanitation or leftover organic debris become ideal for termite proliferation, causing severe yield losses if not managed."
+      },
+      {
+        "role": "user",
+        "content": "What preventive measures can be taken before the problem occurs?"
+      },
+      {
+        "role": "assistant",
+        "content": "To prevent termite infestation, maintain field sanitation by removing undecomposed crop residues and organic debris. Avoid keeping wooden structures near fields, and ensure proper soil moisture management to discourage dry conditions that favor termites."
+      },
+      {
+        "role": "user",
+        "content": "How does irrigation affect termite infestation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Termites thrive in dry soil, so proper irrigation to maintain optimal soil moisture levels can help discourage their proliferation by making the environment less favorable for their survival."
+      }
+    ],
+    "timestamp": "2026-04-16T11:32:24.854865+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Can high organic matter in soil cause termite infestation in wheat?",
+    "turns_added": 2,
+    "total_turns": 3,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Can high organic matter in soil cause termite infestation in wheat?"
+      },
+      {
+        "role": "assistant",
+        "content": "High organic matter content in soil attracts termites, as they feed on decomposing plant material. Undecomposed crop residues and nearby wooden structures provide ideal conditions for termite colonies to thrive. Dry soil conditions further encourage their activity, leading to root and stem damage in wheat plants. This creates an environment where termites can establish large populations, causing yellowing leaves, stunted growth, and plant death."
+      },
+      {
+        "role": "user",
+        "content": "What preventive measures can I take to avoid termite infestation in my wheat field?"
+      },
+      {
+        "role": "assistant",
+        "content": "To prevent termite infestation, ensure crop residues are properly decomposed before incorporation into soil, avoid leaving undecomposed plant material, and manage soil moisture levels. Reducing excess organic matter and eliminating nearby wooden structures can also minimize termite attraction."
+      },
+      {
+        "role": "user",
+        "content": "How does irrigation affect termite activity in wheat fields?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dry soil conditions further encourage their activity, leading to root and stem damage in wheat plants. Managing soil moisture levels can help mitigate this."
+      }
+    ],
+    "timestamp": "2026-04-16T11:32:37.942816+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "What is the recommended dosage of Chlorpyrifos 20% EC for termite control in standing wheat crops?",
+    "turns_added": 1,
+    "total_turns": 2,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended dosage of Chlorpyrifos 20% EC for termite control in standing wheat crops?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 litre per acre of Chlorpyrifos 20% EC is recommended, mixed with irrigation water for application. It should be used when termite infestation is observed in the standing crop to control termites and weevils."
+      },
+      {
+        "role": "user",
+        "content": "How should Chlorpyrifos 20% EC be applied—through spraying or irrigation?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is recommended to mix 1 litre per acre of Chlorpyrifos 20% EC with irrigation water for application."
+      }
+    ],
+    "timestamp": "2026-04-16T11:34:16.566503+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "When should the biopesticide mixture be kept in shade before application?",
+    "turns_added": 0,
+    "total_turns": 1,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "When should the biopesticide mixture be kept in shade before application?"
+      },
+      {
+        "role": "assistant",
+        "content": "The biopesticide Beauvaria bassiana 1.15% should be mixed with 24–28 kg per acre of farm yard manure and kept in shade for 8–10 days before application."
+      }
+    ],
+    "timestamp": "2026-04-16T11:35:15.345521+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Why is 1 litre per acre of Chlorpyrifos 20% EC recommended for termite control in wheat?",
+    "turns_added": 1,
+    "total_turns": 2,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Why is 1 litre per acre of Chlorpyrifos 20% EC recommended for termite control in wheat?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 litre per acre of Chlorpyrifos 20% EC is recommended for termite control in standing wheat crops. It is mixed with irrigation water and applied when infestation is observed. This dosage ensures effective pest management during critical periods like February-March when soil moisture decreases."
+      },
+      {
+        "role": "user",
+        "content": "When exactly should I apply Chlorpyrifos 20% EC apart from February-March?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is applied when infestation is observed, with critical periods like February-March being key times due to decreasing soil moisture."
+      }
+    ],
+    "timestamp": "2026-04-16T11:36:29.878832+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Can 1 kg per acre of biopesticide Beauvaria bassiana 1.15% be used?",
+    "turns_added": 1,
+    "total_turns": 2,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Can 1 kg per acre of biopesticide Beauvaria bassiana 1.15% be used?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, 1 kg per acre of biopesticide Beauvaria bassiana 1.15% is mixed with 24–28 kg per acre of farm yard manure. Keep the mixture in shade for 8–10 days before applying to the soil before sowing."
+      },
+      {
+        "role": "user",
+        "content": "How long should the mixture be kept in shade before application?"
+      },
+      {
+        "role": "assistant",
+        "content": "The mixture should be kept in shade for 8–10 days before applying to the soil before sowing."
+      }
+    ],
+    "timestamp": "2026-04-16T11:37:56.231349+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Should 1 kg per acre of Beauvaria bassiana 1.15% be mixed with 24-28 kg farm yard manure before application?",
+    "turns_added": 2,
+    "total_turns": 3,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Should 1 kg per acre of Beauvaria bassiana 1.15% be mixed with 24-28 kg farm yard manure before application?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, 1 kg per acre of Beauvaria bassiana 1.15% should be mixed with 24–28 kg per acre of farm yard manure. The mixture is kept in shade for 8–10 days before being poured into the soil during last ploughing before sowing."
+      },
+      {
+        "role": "user",
+        "content": "How long after mixing the Beauvaria bassiana with farm yard manure should it be applied to the soil?"
+      },
+      {
+        "role": "assistant",
+        "content": "The mixture is kept in shade for 8–10 days before being poured into the soil during last ploughing before sowing."
+      },
+      {
+        "role": "user",
+        "content": "How should the mixture be applied to the soil?"
+      },
+      {
+        "role": "assistant",
+        "content": "The mixture is kept in shade for 8–10 days before being poured into the soil during last ploughing before sowing."
+      }
+    ],
+    "timestamp": "2026-04-16T11:38:15.078571+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "What are the critical periods for termite control in wheat crops in Basti district?",
+    "turns_added": 0,
+    "total_turns": 1,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "What are the critical periods for termite control in wheat crops in Basti district?"
+      },
+      {
+        "role": "assistant",
+        "content": "In Basti district, October-November (sowing time) and February-March (when soil moisture decreases) are critical periods for termite control in wheat crops."
+      }
+    ],
+    "timestamp": "2026-04-16T11:39:33.102274+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "When is the best time to monitor for termite infestation in wheat crops in Basti district?",
+    "turns_added": 1,
+    "total_turns": 2,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "When is the best time to monitor for termite infestation in wheat crops in Basti district?"
+      },
+      {
+        "role": "assistant",
+        "content": "In Basti district, regular field monitoring is essential during dry spells, particularly in October-November (sowing time) and February-March (when soil moisture decreases) to detect termite infestations early."
+      },
+      {
+        "role": "user",
+        "content": "What signs should I look for to confirm termites in my wheat field?"
+      },
+      {
+        "role": "assistant",
+        "content": "During monitoring periods, check for damaged wheat roots, visible termite trails in soil, or wilting plants that may indicate underground termite activity."
+      }
+    ],
+    "timestamp": "2026-04-16T11:39:55.582442+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Why is February-March a critical period for termite monitoring in wheat crops?",
+    "turns_added": 0,
+    "total_turns": 1,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Why is February-March a critical period for termite monitoring in wheat crops?"
+      },
+      {
+        "role": "assistant",
+        "content": "In Basti district conditions, February-March is a critical period for termite monitoring because soil moisture decreases during this time, increasing the risk of termite damage. Regular field monitoring is essential during dry spells to detect infestations early and take immediate action to prevent severe yield losses."
+      }
+    ],
+    "timestamp": "2026-04-16T11:40:48.953403+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Can termite control measures be applied during specific times of the year?",
+    "turns_added": 0,
+    "total_turns": 1,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Can termite control measures be applied during specific times of the year?"
+      },
+      {
+        "role": "assistant",
+        "content": "In Basti district, October-November (sowing time) and February-March (when soil moisture decreases) are critical periods for termite activity. Regular monitoring during these times helps prevent severe damage."
+      }
+    ],
+    "timestamp": "2026-04-16T11:41:29.219170+00:00"
+  },
+  {
+    "source_id": "6993e655a28413914bf02cd1",
+    "crop": "wheat",
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "domain": "pest",
+    "grounded": true,
+    "original_question": "Does the timing of termite control in wheat depend on specific periods in the growing season?",
+    "turns_added": 0,
+    "total_turns": 1,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Does the timing of termite control in wheat depend on specific periods in the growing season?"
+      },
+      {
+        "role": "assistant",
+        "content": "In Basti district, critical periods for termite control in wheat are October-November (sowing time) and February-March (when soil moisture decreases)."
+      }
+    ],
+    "timestamp": "2026-04-16T11:42:17.001534+00:00"
+  },
+  {
+    "source_id": "6974a1a1af17f554aa20831d",
+    "crop": "paddy",
+    "state": "Tamil Nadu",
+    "district": "Tiruvannamalai",
+    "domain": "plant protection",
+    "grounded": true,
+    "original_question": "What are the recommended management strategies for controlling Naavaai Poochi (Gundhi Bug) in paddy cultivation?",
+    "turns_added": 2,
+    "total_turns": 3,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "What are the recommended management strategies for controlling Naavaai Poochi (Gundhi Bug) in paddy cultivation?"
+      },
+      {
+        "role": "assistant",
+        "content": "1. Pest Identification and Description: Naavaai Poochi, scientifically known as *Leptocorisa acuta*, is a greenish-brown insect measuring 15-18 mm, characterized by a foul odor when disturbed. Nymphs are wingless and light green. Both life stages feed on developing rice grains, causing sap depletion.\n\n2. Damage Symptoms: Feeding activity results in chaffy, discolored, and shriveled grains, reducing yield by 20-30% during severe infestations. The pest's odor also degrades grain quality.\n\n3. Severity Assessment: Monitor fields from flowering to grain formation stages. Economic threshold levels are 5 bugs/100 ear heads at flowering and 16 bugs/100 ear heads during the milky stage to maturity.\n\n4. Control Measures: For severe infestations, apply chemical insecticides such as Malathion 50% EC (200 ml/acre), Imidacloprid 0.6% + Lambda-cyhalothrin 0.4% SL (120 ml/acre), or Dinotefuran 15% + Pymetrozine 45% WG (135 g/acre) in 200 liters of water. Apply during early morning or evening hours. Botanical methods include Neem seed kernel extract (5% @ 4 kg/acre). Cultural practices involve removing alternate host plants and draining water temporarily.\n\n5. Protective Measures: Use chemical-resistant gloves, long-sleeved clothing, face masks, and eyewear during pesticide application. Avoid spraying during flowering or windy conditions. Safely dispose of empty containers by crushing and burying them."
+      },
+      {
+        "role": "user",
+        "content": "At which specific growth stages should I apply these insecticides for maximum effectiveness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Apply insecticides during the flowering to grain formation stages of the rice crop, following economic threshold levels: 5 bugs/100 ear heads at flowering and 16 bugs/100 ear heads during the milky stage to maturity."
+      },
+      {
+        "role": "user",
+        "content": "What are the exact quantities of each insecticide to apply per acre?"
+      },
+      {
+        "role": "assistant",
+        "content": "For severe infestations, apply Malathion 50% EC at 200 ml/acre, Imidacloprid 0.6% + Lambda-cyhalothrin 0.4% SL at 120 ml/acre, or Dinotefuran 15% + Pymetrozine 45% WG at 135 g/acre in 200 liters of water."
+      }
+    ],
+    "timestamp": "2026-04-16T11:42:41.320279+00:00"
+  },
+  {
+    "source_id": "6974a1a1af17f554aa20831d",
+    "crop": "paddy",
+    "state": "Tamil Nadu",
+    "district": "Tiruvannamalai",
+    "domain": "plant protection",
+    "grounded": true,
+    "original_question": "Can you outline the integrated management strategies for controlling Gundhi Bug (Leptocorisa acuta) in paddy cultivation?",
+    "turns_added": 2,
+    "total_turns": 3,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Can you outline the integrated management strategies for controlling Gundhi Bug (Leptocorisa acuta) in paddy cultivation?"
+      },
+      {
+        "role": "assistant",
+        "content": "The management of Gundhi Bug (Leptocorisa acuta) in paddy fields involves the following strategies:\n\n1. **Pest Morphology and Behavior**: The adult bug is a slender, greenish-brown insect (15-18 mm) with prominent antennae, while nymphs are wingless and light green. Both stages feed on developing grains, emitting a foul odor when disturbed.\n\n2. **Damage Symptoms**: Feeding during the milky to dough stages causes chaffy grains, discoloration, shriveling, and reduced yield (20-30% in severe cases). The characteristic odor also degrades grain quality.\n\n3. **Monitoring and Thresholds**: Regular field inspections are required from flowering to grain formation. Economic thresholds are 5 bugs/100 ear heads at flowering and 16 bugs/100 ear heads during the milky stage to maturity.\n\n4. **Chemical Control**: For severe infestations, apply:\n   - Malathion 50% EC at 200 ml/acre in 200–240 L water\n   - Imidacloprid 0.6% + Lambda-cyhalothrin 0.4% SL at 120 ml/acre in 200 L water\n   - Dinotefuran 15% + Pymetrozine 45% WG at 135 g/acre in 200 L water\n   Applications should occur during early morning or evening to avoid disrupting pollination.\n\n5. **Botanical Methods**: Neem seed kernel extract at 5% (4 kg/acre) can be used as an alternative.\n\n6. **Cultural Practices**: Remove alternate hosts like grasses, avoid late planting, and temporarily drain water to reduce populations.\n\n7. **Safety Protocols**: Wear chemical-resistant gloves, long-sleeved clothing, and respirators during pesticide application. Wash thoroughly post-application and follow storage/disposal guidelines for pesticides."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the infestation is left untreated?"
+      },
+      {
+        "role": "assistant",
+        "content": "If left untreated, Gundhi Bug infestation during the milky to dough stages causes chaffy grains, discoloration, shriveling, and reduced yield (20-30% in severe cases). The characteristic odor emitted by the bugs also degrades grain quality."
+      },
+      {
+        "role": "user",
+        "content": "How should I apply the pesticides to control Gundhi Bug effectively?"
+      },
+      {
+        "role": "assistant",
+        "content": "For effective control, apply pesticides during early morning or evening to avoid disrupting pollination, as specified in the chemical control guidelines."
+      }
+    ],
+    "timestamp": "2026-04-16T11:43:21.755438+00:00"
+  },
+  {
+    "source_id": "6974a1a1af17f554aa20831d",
+    "crop": "paddy",
+    "state": "Tamil Nadu",
+    "district": "Tiruvannamalai",
+    "domain": "plant protection",
+    "grounded": true,
+    "original_question": "Does the Economic Threshold Level (ETL) for Gundhi Bug infestation in paddy fields vary during different growth stages?",
+    "turns_added": 1,
+    "total_turns": 2,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Does the Economic Threshold Level (ETL) for Gundhi Bug infestation in paddy fields vary during different growth stages?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Economic Threshold Level (ETL) for Gundhi Bug (Leptocorisa acuta) infestation in paddy fields is stage-specific. During the flowering stage, the ETL is 5 bugs per 100 ear heads. From the milky stage to grain maturity, the threshold increases to 16 bugs per 100 ear heads. Regular monitoring of fields is recommended from the flowering to grain formation stages to detect infestations. Exceeding these thresholds necessitates implementation of control measures to mitigate yield losses. The ETL values guide timely intervention, ensuring effective pest management while minimizing unnecessary pesticide applications."
+      },
+      {
+        "role": "user",
+        "content": "When should I start monitoring the fields for Gundhi Bug infestation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular monitoring of fields is recommended from the flowering to grain formation stages to detect infestations."
+      }
+    ],
+    "timestamp": "2026-04-16T11:44:29.315468+00:00"
+  },
+  {
+    "source_id": "6974a1a1af17f554aa20831d",
+    "crop": "paddy",
+    "state": "Tamil Nadu",
+    "district": "Tiruvannamalai",
+    "domain": "plant protection",
+    "grounded": true,
+    "original_question": "What are the damage symptoms caused by Naavaai Poochi (Gundhi Bug) in paddy fields?",
+    "turns_added": 1,
+    "total_turns": 2,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "What are the damage symptoms caused by Naavaai Poochi (Gundhi Bug) in paddy fields?"
+      },
+      {
+        "role": "assistant",
+        "content": "The damage symptoms caused by Naavaai Poochi (Gundhi Bug) in paddy fields include:\n\n1. Formation of chaffy or partially filled grains due to sap-sucking activity on developing grains during the milky stage.\n2. Discoloration, shriveling, and reduced weight of affected grains, leading to diminished grain quality and market value.\n3. Emission of a characteristic foul odor from the pest when disturbed, further degrading grain quality.\n4. Yield loss ranging from 20-30% in cases of heavy infestation during the milky stage of grain development.\n5. Panicle damage characterized by numerous empty or partially filled grains in severe infestations.\n\nThese symptoms are most pronounced during the milky to dough stages of grain formation, necessitating regular field monitoring during this period."
+      },
+      {
+        "role": "user",
+        "content": "What happens if Naavaai Poochi infestation is left untreated?"
+      },
+      {
+        "role": "assistant",
+        "content": "If left untreated, Naavaai Poochi infestation can lead to yield losses ranging from 20-30% during the milky stage of grain development, along with significant reduction in grain quality due to discoloration, shriveling, and reduced weight of affected grains. The characteristic foul odor from the pest when disturbed further degrades grain quality."
+      }
+    ],
+    "timestamp": "2026-04-16T11:44:41.068845+00:00"
+  },
+  {
+    "source_id": "6974a1a1af17f554aa20831d",
+    "crop": "paddy",
+    "state": "Tamil Nadu",
+    "district": "Tiruvannamalai",
+    "domain": "plant protection",
+    "grounded": true,
+    "original_question": "When implementing a comprehensive management strategy for Naavaai Poochi (Gundhi Bug) in paddy fields, what are the key components and protocols?",
+    "turns_added": 0,
+    "total_turns": 1,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "When implementing a comprehensive management strategy for Naavaai Poochi (Gundhi Bug) in paddy fields, what are the key components and protocols?"
+      },
+      {
+        "role": "assistant",
+        "content": "1. Pest Identification: Naavaai Poochi, or Rice Stink Bug (Leptocorisa acuta), is a greenish-brown insect measuring 15-18 mm with prominent antennae. Nymphs are wingless and light green. 2. Damage Symptoms: Feeding on milky-stage panicles causes chaffy grains, discoloration, shriveling, and yield loss of 20-30%. 3. Severity Assessment: Monitor fields from flowering to grain formation. Economic thresholds are 5 bugs/100 ear heads at flowering and 16 bugs/100 ear heads during milky stages. 4. Control Measures: For severe infestations, apply chemical insecticides such as Malathion 50% EC (200 ml/acre), Imidacloprid 0.6% + Lambda-cyhalothrin 0.4% SL (120 ml/acre), or Dinotefuran 15% + Pymetrozine 45% WG (135 g/acre) in 200 liters water. Apply during early morning or evening. 5. Botanical Methods: Use Neem seed kernel extract 5% (4 kg/acre). 6. Cultural Practices: Remove alternate hosts, avoid late planting, and temporarily drain water. 7. Safety Protocols: Wear chemical-resistant gloves, long-sleeved clothing, face masks, and eye protection. Avoid spraying during wind or flowering stages. Follow dosage instructions strictly."
+      }
+    ],
+    "timestamp": "2026-04-16T11:45:30.441872+00:00"
+  },
+  {
+    "source_id": "6974a1a1af17f554aa20831d",
+    "crop": "paddy",
+    "state": "Tamil Nadu",
+    "district": "Tiruvannamalai",
+    "domain": "plant protection",
+    "grounded": true,
+    "original_question": "Why use Malathion 50% EC for Gundhi Bug in paddy?",
+    "turns_added": 0,
+    "total_turns": 1,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Why use Malathion 50% EC for Gundhi Bug in paddy?"
+      },
+      {
+        "role": "assistant",
+        "content": "Malathion 50% EC at 200 ml/acre in 200–240 liters of water is recommended for severe infestations above the economic threshold level. Apply during early morning or evening when bugs are active."
+      }
+    ],
+    "timestamp": "2026-04-16T11:46:18.771073+00:00"
+  },
+  {
+    "source_id": "6974a1a1af17f554aa20831d",
+    "crop": "paddy",
+    "state": "Tamil Nadu",
+    "district": "Tiruvannamalai",
+    "domain": "plant protection",
+    "grounded": true,
+    "original_question": "Can Malathion 50% EC control Gundhi Bug in paddy?",
+    "turns_added": 1,
+    "total_turns": 2,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Can Malathion 50% EC control Gundhi Bug in paddy?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, apply Malathion 50% EC at 200 ml/acre in 200–240 liters of water during early morning or evening when bugs are active."
+      },
+      {
+        "role": "user",
+        "content": "How should I apply Malathion 50% EC to the paddy field?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, apply Malathion 50% EC at 200 ml/acre in 200–240 liters of water during early morning or evening when bugs are active."
+      }
+    ],
+    "timestamp": "2026-04-16T11:46:54.932242+00:00"
+  },
+  {
+    "source_id": "6974a1a1af17f554aa20831d",
+    "crop": "paddy",
+    "state": "Tamil Nadu",
+    "district": "Tiruvannamalai",
+    "domain": "plant protection",
+    "grounded": true,
+    "original_question": "Should Malathion 50% EC be used for Gundhi Bug control?",
+    "turns_added": 0,
+    "total_turns": 1,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Should Malathion 50% EC be used for Gundhi Bug control?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, apply Malathion 50% EC at 200 ml/acre in 200-240 liters of water during early morning or evening. Use when infestation exceeds 5 bugs/100 ear heads at flowering stage."
+      }
+    ],
+    "timestamp": "2026-04-16T11:47:33.002984+00:00"
+  },
+  {
+    "source_id": "6974a1a1af17f554aa20831d",
+    "crop": "paddy",
+    "state": "Tamil Nadu",
+    "district": "Tiruvannamalai",
+    "domain": "plant protection",
+    "grounded": true,
+    "original_question": "Does KKM dust control Gundhi Bug in paddy?",
+    "turns_added": 0,
+    "total_turns": 1,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Does KKM dust control Gundhi Bug in paddy?"
+      },
+      {
+        "role": "assistant",
+        "content": "KKM dust, containing 10% Acorus calamus rhizome powder and 90% fly ash, repels the rice ear head bug. Apply as per recommended guidelines for effective control."
+      }
+    ],
+    "timestamp": "2026-04-16T11:49:25.780738+00:00"
+  },
+  {
+    "source_id": "6974a1a1af17f554aa20831d",
+    "crop": "paddy",
+    "state": "Tamil Nadu",
+    "district": "Tiruvannamalai",
+    "domain": "plant protection",
+    "grounded": true,
+    "original_question": "Are chemical controls recommended for severe Gundhi Bug infestations?",
+    "turns_added": 0,
+    "total_turns": 1,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Are chemical controls recommended for severe Gundhi Bug infestations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, for severe infestations, Malathion 50% EC (200 ml/acre), Imidacloprid 0.6% + Lambda-cyhalothrin 0.4% SL (120 ml/acre), and Dinotefuran 15% + Pymetrozine 45% WG (135 g/acre) are recommended. Apply during early morning or evening when bugs are active."
+      }
+    ],
+    "timestamp": "2026-04-16T11:49:50.945203+00:00"
+  },
+  {
+    "source_id": "6974a1a1af17f554aa20831d",
+    "crop": "paddy",
+    "state": "Tamil Nadu",
+    "district": "Tiruvannamalai",
+    "domain": "plant protection",
+    "grounded": true,
+    "original_question": "Why are the rice grains in my field appearing chaffy and discolored with a foul smell?",
+    "turns_added": 0,
+    "total_turns": 1,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Why are the rice grains in my field appearing chaffy and discolored with a foul smell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The problem is caused by Gundhi Bug, leading to chaffy, discolored grains and a foul odor. Apply Malathion 50% EC at 200 ml/acre or use Neem seed kernel extract 5% @4 kg/acre. Spray during early morning or evening when bugs are active."
+      }
+    ],
+    "timestamp": "2026-04-16T11:51:32.721590+00:00"
+  },
+  {
+    "source_id": "6974a1a1af17f554aa20831d",
+    "crop": "paddy",
+    "state": "Tamil Nadu",
+    "district": "Tiruvannamalai",
+    "domain": "plant protection",
+    "grounded": true,
+    "original_question": "Can the rice grains be shriveled and discolored with empty pockets in the panicles?",
+    "turns_added": 1,
+    "total_turns": 2,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Can the rice grains be shriveled and discolored with empty pockets in the panicles?"
+      },
+      {
+        "role": "assistant",
+        "content": "The shriveled, discolored grains with empty pockets indicate Gundhi Bug infestation. Apply Malathion 50% EC at 200 ml/acre during early morning or evening. Use KKM dust formulation to repel the pest."
+      },
+      {
+        "role": "user",
+        "content": "How should I apply Malathion 50% EC and KKM dust?"
+      },
+      {
+        "role": "assistant",
+        "content": "Apply Malathion 50% EC at 200 ml/acre during early morning or evening. Use KKM dust formulation to repel the pest."
+      }
+    ],
+    "timestamp": "2026-04-16T11:52:24.289588+00:00"
+  },
+  {
+    "source_id": "6974a1a1af17f554aa20831d",
+    "crop": "paddy",
+    "state": "Tamil Nadu",
+    "district": "Tiruvannamalai",
+    "domain": "plant protection",
+    "grounded": true,
+    "original_question": "What is the issue with my paddy field when grains are discolored, shriveled, and emit a foul smell?",
+    "turns_added": 1,
+    "total_turns": 2,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "What is the issue with my paddy field when grains are discolored, shriveled, and emit a foul smell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The pest is Gundhi Bug, causing discolored, shriveled grains and a foul odor. Apply Malathion 50% EC at 200 ml/acre or Imidacloprid 06% + Lambda-cyhalothrin 04% SL at 120 ml/acre during early morning or evening. Use KKM dust formulation to repel the pest."
+      },
+      {
+        "role": "user",
+        "content": "What is the correct method to apply the chemicals?"
+      },
+      {
+        "role": "assistant",
+        "content": "Apply Malathion 50% EC or the combination insecticide during early morning or evening. Use KKM dust formulation to repel the pest."
+      }
+    ],
+    "timestamp": "2026-04-16T11:53:05.823529+00:00"
+  },
+  {
+    "source_id": "6974a1a1af17f554aa20831d",
+    "crop": "paddy",
+    "state": "Tamil Nadu",
+    "district": "Tiruvannamalai",
+    "domain": "plant protection",
+    "grounded": true,
+    "original_question": "Is the rice in my field having empty grains and a bad smell?",
+    "turns_added": 1,
+    "total_turns": 2,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Is the rice in my field having empty grains and a bad smell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The pest causes empty grains and a foul smell. Spray Malathion 50% EC at 200 ml/acre. Use neem seed kernel extract 5% @ 4 kg/acre for control."
+      },
+      {
+        "role": "user",
+        "content": "How should I apply these treatments?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spray Malathion 50% EC at 200 ml/acre. Use neem seed kernel extract 5% @ 4 kg/acre for control."
+      }
+    ],
+    "timestamp": "2026-04-16T11:54:46.106213+00:00"
+  },
+  {
+    "source_id": "6974a1a1af17f554aa20831d",
+    "crop": "paddy",
+    "state": "Tamil Nadu",
+    "district": "Tiruvannamalai",
+    "domain": "plant protection",
+    "grounded": true,
+    "original_question": "Does the paddy field have shriveled, discolored grains with a foul smell and scattered empty panicles?",
+    "turns_added": 1,
+    "total_turns": 2,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Does the paddy field have shriveled, discolored grains with a foul smell and scattered empty panicles?"
+      },
+      {
+        "role": "assistant",
+        "content": "The symptoms indicate Gundhi Bug infestation. Apply Malathion 50% EC at 200 ml/acre during early morning or evening. Use KKM dust formulation to repel the pest."
+      },
+      {
+        "role": "user",
+        "content": "How should I apply the Malathion 50% EC and KKM dust?"
+      },
+      {
+        "role": "assistant",
+        "content": "Apply Malathion 50% EC as a spray at 200 ml/acre during early morning or evening. Use KKM dust formulation by spreading it directly over the affected areas to repel the pest."
+      }
+    ],
+    "timestamp": "2026-04-16T11:56:10.666316+00:00"
+  },
+  {
+    "source_id": "6974a1a1af17f554aa20831d",
+    "crop": "paddy",
+    "state": "Tamil Nadu",
+    "district": "Tiruvannamalai",
+    "domain": "plant protection",
+    "grounded": true,
+    "original_question": "Can you explain the correct application method for the insecticides recommended against Gundhi Bug in paddy fields?",
+    "turns_added": 1,
+    "total_turns": 2,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an agricultural advisory assistant helping farmers with crop management."
+      },
+      {
+        "role": "user",
+        "content": "Can you explain the correct application method for the insecticides recommended against Gundhi Bug in paddy fields?"
+      },
+      {
+        "role": "assistant",
+        "content": "Insecticides should be applied during early morning or evening hours when Gundhi Bugs are active. Ensure proper ventilation and avoid spraying during windy conditions. Farmers must wear chemical-resistant gloves, long-sleeved shirts, full-length trousers, and a face mask or respirator. Protective eyewear or a face shield is also required. The KKM dust formulation (10% Acorus calamus rhizome powder + 90% fly ash) should be applied as a dust to repel the pest. Always follow the specified dosages and safety precautions to minimize risks."
+      },
+      {
+        "role": "user",
+        "content": "What are the specific components of the KKM dust formulation mentioned?"
+      },
+      {
+        "role": "assistant",
+        "content": "The KKM dust formulation consists of 10% Acorus calamus rhizome powder and 90% fly ash."
+      }
+    ],
+    "timestamp": "2026-04-16T11:57:27.125022+00:00"
+  }
+]
