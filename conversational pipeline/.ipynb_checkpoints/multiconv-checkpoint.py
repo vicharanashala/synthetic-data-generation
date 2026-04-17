@@ -1,3 +1,4 @@
+
 # multiturn_v1_resumable.py
 # Purpose : Convert single-turn paraphrase_v12_messages.json records into
 #            multi-turn conversational datasets by generating realistic
@@ -7,24 +8,14 @@
 #            same vLLM client, same judge-as-hard-gate pattern, same
 #            checkpoint/resume logic, same dedup guard.
 #
-# Input   : paraphrase_v12_messages.json  (list of {source_id, crop, state,
-#            district, domain, grounded, messages:[sys,user,assistant]} records)
-# Output  : multiturn_v1.json   — list of multi-turn conversation records
+# Input   : paraphrase_v12_messages.json
+# Output  : multiturn_v1.jsonl  — list of multi-turn conversation records (JSON Lines)
 #           multiturn_v1.log    — per-record audit log
-#
-# Strategy (inspired by S2M paper, arXiv:2312.16511):
-#   For each single-turn record we generate N_FOLLOWUP_TURNS additional
-#   (user, assistant) pairs.  Each follow-up user question must:
-#     - Reference the existing conversation context (be coreference-dependent)
-#     - Ask about a DIFFERENT aspect of the seed topic (not repeat turn-1)
-#     - Be grounded EXCLUSIVELY in the original seed assistant answer
-#   A lightweight judge verifies grounding + scope before the turn is accepted.
 
 import json
 import os
 import re
 import time
-import uuid
 from datetime import datetime, timezone
 from openai import OpenAI
 
@@ -33,7 +24,8 @@ VLLM_URL        = "http://100.100.108.100:8080/v1"
 MODEL           = "Qwen/Qwen3-30B-A3B"
 
 INPUT_FILE      = "/home/kritika/self_instruct/conversational pipeline/paraphrase_conv_messages.json"
-OUT_JSON        = "/home/kritika/self_instruct/conversational pipeline/multiturn_v1.json"
+# Changed to .jsonl (JSON Lines) to allow clean appending without rewriting the file
+OUT_JSON        = "/home/kritika/self_instruct/conversational pipeline/multiturn_v1.jsonl"
 OUT_LOG         = "/home/kritika/self_instruct/conversational pipeline/multiturn_v1_log.txt"
 
 MAX_RECORDS         = None    # set to an int to cap; None = process all
@@ -41,13 +33,14 @@ N_FOLLOWUP_TURNS    = 3       # how many extra (user, assistant) turns to add
 MAX_RETRIES         = 5       # API-level retries per call
 RETRY_DELAY         = 5       # seconds between retries
 TEMPERATURE         = 0.75
-MAX_TOKENS          = 1000
+MAX_TOKENS          = 3000
 
 JUDGE_MAX_TOKENS    = 400
 JUDGE_TEMPERATURE   = 0.0
 MAX_JUDGE_RETRIES   = 3
 
-MIN_FOLLOWUP_WORDS  = 15
+# Lowered minimum words to allow concise factual answers
+MIN_FOLLOWUP_WORDS  = 5
 MAX_FOLLOWUP_WORDS  = 250
 
 # ─── KVK Stripping ────────────────────────────────────────────────────────────
@@ -107,7 +100,23 @@ def is_duplicate(new_q: str, seen_questions: set) -> bool:
             return True
     return False
 
-# ─── Answer Length Guard ──────────────────────────────────────────────────────
+# ─── Generic Phrase Guard ─────────────────────────────────────────────────────
+GENERIC_PHRASES = [
+    r"manufacturer['\u2019]?s instructions",
+    r"follow the instructions on the label",
+    r"as per recommended guidelines",
+    r"as per the manufacturer",
+    r"according to label",
+    r"consult a professional",
+    r"seek expert advice",
+]
+
+def has_generic_phrase(text: str) -> bool:
+    for pattern in GENERIC_PHRASES:
+        if re.search(pattern, text, re.IGNORECASE):
+            return True
+    return False
+
 def is_answer_length_ok(text: str) -> bool:
     wc = len(text.split())
     return MIN_FOLLOWUP_WORDS <= wc <= MAX_FOLLOWUP_WORDS
@@ -126,31 +135,22 @@ Generate exactly ONE follow-up (user_question, assistant_answer) pair that
 extends the conversation naturally.
 
 ABSOLUTE RULES:
-1. The follow-up user question MUST feel like a farmer continuing the chat —
-   it can use pronouns or references to earlier turns (e.g. "What about that
-   chemical you mentioned?" / "How long does that take?").
-2. The follow-up user question MUST focus on a DIFFERENT aspect of the seed
-   topic than aspects already covered in EXCLUDED ASPECTS.
+1. The follow-up user question MUST feel like a farmer continuing the chat.
+2. The follow-up user question MUST focus on a DIFFERENT aspect of the seed topic.
 3. The assistant answer MUST be grounded EXCLUSIVELY in the SEED ANSWER.
-   Do NOT invent new facts, chemicals, dosages, or recommendations not in
-   the seed answer.
-4. Do NOT add "consult your nearest KVK" or "contact local extension officer"
-   UNLESS this phrase already appears in the seed answer.
-5. Do NOT add disclaimers, generic safety warnings, or best-practice advice
-   that is not in the seed answer.
-6. Keep ALL chemical names, fertilizer codes, and crop names in English.
-7. Do NOT use self-referential language: no "the seed says", "the prompt", etc.
-8. SCOPE RULE: The assistant answer must ONLY address what the follow-up
-   question asks — do not answer questions the user did not ask.
-9. If the seed answer has no remaining unexplored aspects (all content already
-   covered), return JSON with user_question=null and assistant_answer=null.
+   Do NOT invent new facts.
+4. Do NOT add "consult your nearest KVK" unless it's in the seed answer.
+5. Do NOT add disclaimers or best-practice advice not in the seed answer.
+6. Keep ALL chemical names in English.
+7. Do NOT use self-referential language: no "the seed says", etc.
+8. SCOPE RULE: ONLY address what the follow-up question asks.
+9. If the seed answer has no remaining unexplored aspects, return JSON with user_question=null and assistant_answer=null.
 
-Output ONLY a valid JSON object — no markdown, no preamble, no extra keys:
+Output ONLY a valid JSON object:
 {
   "user_question": "<follow-up farmer question, or null>",
   "assistant_answer": "<grounded answer, or null>"
 }"""
-
 
 JUDGE_SYSTEM_PROMPT = """You are a strict quality verifier for an Indian agricultural multi-turn conversation dataset.
 
@@ -161,32 +161,18 @@ You receive:
 
 YOUR TASK — TWO CHECKS:
 
-CHECK 1 — GROUNDING:
-Does the FOLLOW-UP ANSWER contain any claim, fact, chemical name, dosage,
-quantity, location, timing, or recommendation NOT explicitly present in the
-SEED ANSWER?
-- Paraphrasing and rewording are ALLOWED.
-- Minor reformatting (e.g. "two or three weeks" → "2-3 weeks") is NOT a flag.
-- Omitting seed content is NOT a flag — only NEW facts matter.
-
-CHECK 2 — SCOPE ALIGNMENT:
-Does the FOLLOW-UP ANSWER stay within the scope of the FOLLOW-UP QUESTION?
-- If the question asks about one specific item, the answer must discuss ONLY
-  that item. Answering about other items from the seed = scope_overflow=true.
-- If the question asks for a full management plan, multiple items are fine.
+CHECK 1 — GROUNDING: Does the FOLLOW-UP ANSWER contain any claim/fact NOT explicitly present in the SEED ANSWER?
+CHECK 2 — SCOPE ALIGNMENT: Does the FOLLOW-UP ANSWER stay within the scope of the FOLLOW-UP QUESTION?
 
 Set grounded=false if CHECK 1 fails OR if scope_overflow=true.
 
-Output ONLY a valid JSON object — no markdown, no preamble:
+Output ONLY a valid JSON object:
 {
   "grounded": true or false,
   "scope_overflow": true or false,
   "confidence": "high" or "medium" or "low",
   "issues": ["<specific problem>"]
-}
-
-If grounded=true and scope_overflow=false, issues must be [].
-If grounded=false or scope_overflow=true, issues must list the problems found."""
+}"""
 
 # ─── Prompt Builders ──────────────────────────────────────────────────────────
 
@@ -208,30 +194,24 @@ FOLLOWUP_ASPECTS = [
 def build_generation_prompt(record: dict, conversation_so_far: list,
                              turn_number: int, excluded_aspects: list) -> str:
     seed_answer = strip_kvk_lines(
-        record["messages"][-1]["content"]  # last assistant message = seed answer
+        record["messages"][-1]["content"]
     )
-
     convo_text = ""
     for msg in conversation_so_far:
         role = "Farmer" if msg["role"] == "user" else "Expert"
         convo_text += f"{role}: {msg['content']}\n\n"
 
-    excluded_str = (", ".join(excluded_aspects) if excluded_aspects
-                    else "none yet — all aspects are open")
+    excluded_str = (", ".join(excluded_aspects) if excluded_aspects else "none yet")
 
     return (
-        f"SEED ANSWER (the ONLY allowed source of facts for your answer):\n"
-        f"{seed_answer}\n\n"
+        f"SEED ANSWER:\n{seed_answer}\n\n"
         f"CONVERSATION SO FAR:\n{convo_text.strip()}\n\n"
-        f"TURN NUMBER: {turn_number} (generating follow-up turn {turn_number})\n\n"
-        f"EXCLUDED ASPECTS (already covered — do NOT repeat these):\n"
-        f"{excluded_str}\n\n"
-        f"Available aspects to explore (pick the most natural one for a farmer "
-        f"to ask about next, given the conversation so far):\n"
+        f"TURN NUMBER: {turn_number}\n\n"
+        f"EXCLUDED ASPECTS:\n{excluded_str}\n\n"
+        f"Available aspects to explore:\n"
         + "\n".join(f"  - {a}" for a in FOLLOWUP_ASPECTS) +
         "\n\nNow produce the JSON output."
     )
-
 
 def build_judge_prompt(seed_answer: str, followup_question: str,
                        followup_answer: str) -> str:
@@ -251,7 +231,8 @@ def parse_generation_response(text: str):
         return None
     try:
         obj = json.loads(match.group())
-        if obj.get("user_question") is None or obj.get("assistant_answer") is None:
+        # We now return the object even if values are null, so call_model can handle exhaustion
+        if "user_question" not in obj or "assistant_answer" not in obj:
             return None
         return obj
     except json.JSONDecodeError:
@@ -310,6 +291,10 @@ def call_model(record: dict, conversation_so_far: list,
             if result is None:
                 return None
 
+            # Detect intentional exhaustion of topics (Rule 9)
+            if result.get("user_question") is None or result.get("assistant_answer") is None:
+                return {"exhausted": True}
+
             answer = result["assistant_answer"]
 
             if has_self_reference(answer) or has_self_reference(result["user_question"]):
@@ -319,6 +304,11 @@ def call_model(record: dict, conversation_so_far: list,
 
             if has_looping_text(answer):
                 print(f"    [loop] retrying...", end=" ", flush=True)
+                time.sleep(RETRY_DELAY)
+                continue
+
+            if has_generic_phrase(answer):
+                print(f"    [generic-phrase] retrying...", end=" ", flush=True)
                 time.sleep(RETRY_DELAY)
                 continue
 
@@ -360,23 +350,29 @@ def call_judge(seed_answer: str, followup_question: str,
         return {"grounded": True, "scope_overflow": False,
                 "confidence": "low", "issues": [], "judge_error": str(e)[:120]}
 
-# ─── Checkpoint Helpers ───────────────────────────────────────────────────────
-def save_checkpoint(all_results: list, log_lines: list) -> None:
-    with open(OUT_JSON, "w", encoding="utf-8") as f:
-        json.dump(all_results, f, ensure_ascii=False, indent=2)
-    with open(OUT_LOG, "w", encoding="utf-8") as f:
-        f.write("\n".join(log_lines))
+# ─── Append-Only Checkpoint Helpers ───────────────────────────────────────────
+def append_checkpoint(record: dict, record_log: list) -> None:
+    """Appends a single record to the JSONL file without rewriting it."""
+    with open(OUT_JSON, "a", encoding="utf-8") as f:
+        f.write(json.dumps(record, ensure_ascii=False) + "\n")
+    
+    if record_log:
+        with open(OUT_LOG, "a", encoding="utf-8") as f:
+            f.write("\n".join(record_log) + "\n")
 
 def load_checkpoint() -> tuple[list, set]:
+    """Reads existing JSONL file line by line to determine progress."""
+    all_results = []
     if not os.path.exists(OUT_JSON):
-        return [], set()
+        return all_results, set()
     try:
         with open(OUT_JSON, "r", encoding="utf-8") as f:
-            all_results = json.load(f)
-        # Use (source_id + original_question) as the unique key so we can
-        # resume per-record even if multiple records share a source_id.
+            for line in f:
+                if line.strip():
+                    all_results.append(json.loads(line))
+                    
         completed_keys = set(
-            r["source_id"] + "||" + r["original_question"]
+            r["source_id"] + "||" + r.get("original_question", "")
             for r in all_results
         )
         print(f"  ✔ Checkpoint found — {len(all_results)} records already done. Resuming.")
@@ -395,22 +391,24 @@ def main():
         records = records[:MAX_RECORDS]
 
     print(f"\n{'='*60}")
-    print(f"  Multi-Turn Conversation Generator v1 — RESUMABLE")
+    print(f"  Multi-Turn Conversation Generator v1 — RESUMABLE (JSONL Append)")
     print(f"  Input records     : {len(records)}")
     print(f"  Follow-up turns   : {N_FOLLOWUP_TURNS} per record")
-    print(f"  Est. output turns : ~{len(records) * N_FOLLOWUP_TURNS} additional turns")
     print(f"  Model             : {MODEL}")
-    print(f"  Judge             : HARD GATE, max {MAX_JUDGE_RETRIES} retries per turn")
-    print(f"  Checkpoint saved after every record — safe to Ctrl+C anytime.")
+    print(f"  Judge             : HARD GATE")
+    print(f"  Checkpoint format : Append-only JSONL — extremely fast and safe.")
     print(f"{'='*60}\n")
 
     all_results, completed_keys = load_checkpoint()
-    log_lines = []
+    
+    # We clear the log file ONLY if starting completely fresh
+    if len(completed_keys) == 0 and os.path.exists(OUT_LOG):
+        open(OUT_LOG, 'w').close()
+
     skip_count = judge_fail_count = success_count = 0
 
     for rec_idx, record in enumerate(records):
         source_id = record.get("source_id", str(rec_idx))
-        # Extract the original turn-1 user question from the messages list
         user_msgs = [m for m in record["messages"] if m["role"] == "user"]
         original_question = user_msgs[0]["content"] if user_msgs else ""
 
@@ -421,51 +419,46 @@ def main():
             continue
 
         print(f"\n── Record {rec_idx+1}/{len(records)}: "
-              f"{record.get('crop','?')} | "
-              f"{record.get('state','?')} | "
-              f"{record.get('domain','?')} ──")
+              f"{record.get('crop','?')} | {record.get('state','?')} | {record.get('domain','?')} ──")
         print(f"   Turn-1 Q: {original_question[:80]}...")
 
-        # The seed answer is always the last assistant message in the original record
-        seed_answer = next(
-            (m["content"] for m in reversed(record["messages"]) if m["role"] == "assistant"),
-            ""
-        )
-
-        # Build the running conversation starting from the original messages
-        # (system + user + assistant)
-        conversation = list(record["messages"])  # deep copy of original 3 turns
+        seed_answer = next((m["content"] for m in reversed(record["messages"]) if m["role"] == "assistant"), "")
+        conversation = list(record["messages"])
 
         seen_questions = {normalize_q(original_question)}
         excluded_aspects: list[str] = []
         turns_added = 0
         record_log: list[str] = []
+        had_grounding_failure = False  
 
         for turn_num in range(1, N_FOLLOWUP_TURNS + 1):
             print(f"  ┌ Turn {turn_num}/{N_FOLLOWUP_TURNS} ... ", end="", flush=True)
 
             attempts = 0
             accepted = False
+            exhausted_flag = False
 
             while attempts < MAX_RETRIES * 2:
                 attempts += 1
                 result = call_model(record, conversation, turn_num, excluded_aspects)
 
+                if result is not None and result.get("exhausted"):
+                    print(" [aspects exhausted] skipping remaining turns.", end=" ", flush=True)
+                    record_log.append(f"EXHAUSTED | rec={rec_idx} | turn={turn_num}")
+                    exhausted_flag = True
+                    break # Break out of attempt loop
+
                 if result is None:
-                    print(f"skipped (null/self-ref/loop/length)", end=" ", flush=True)
-                    record_log.append(
-                        f"SKIP | rec={rec_idx} | turn={turn_num} | attempt={attempts}"
-                    )
-                    break  # move on to next turn if generation keeps failing
+                    print(f"[null/self-ref/loop/length] retry {attempts}...", end=" ", flush=True)
+                    record_log.append(f"SKIP | rec={rec_idx} | turn={turn_num} | attempt={attempts}")
+                    continue  
 
                 followup_q = result["user_question"]
                 followup_a = result["assistant_answer"]
 
                 if is_duplicate(followup_q, seen_questions):
                     print(f"dup—retry", end=" ", flush=True)
-                    record_log.append(
-                        f"DUPE | rec={rec_idx} | turn={turn_num} | q={followup_q[:60]}"
-                    )
+                    record_log.append(f"DUPE | rec={rec_idx} | turn={turn_num} | q={followup_q[:60]}")
                     continue
 
                 # Judge gate
@@ -479,90 +472,72 @@ def main():
                         break
                     judge_retries += 1
                     judge_fail_count += 1
+                    had_grounding_failure = True
                     record_log.append(
-                        f"JUDGE_RETRY | rec={rec_idx} | turn={turn_num} | "
-                        f"retry={judge_retries}/{MAX_JUDGE_RETRIES} | "
-                        f"conf={verdict['confidence']} | "
-                        f"scope_overflow={verdict['scope_overflow']} | "
-                        f"issues={verdict['issues'][:2]}"
+                        f"JUDGE_RETRY | rec={rec_idx} | turn={turn_num} | retry={judge_retries}/{MAX_JUDGE_RETRIES} | "
+                        f"scope_overflow={verdict['scope_overflow']} | issues={verdict['issues'][:2]}"
                     )
                     if judge_retries > MAX_JUDGE_RETRIES:
                         print(f"⚠ JUDGE FAILED — turn skipped", end=" ", flush=True)
                         break
-                    print(f"⚠ FLAGGED — regen (judge retry {judge_retries})...",
-                          end=" ", flush=True)
+                    print(f"⚠ FLAGGED — regen (judge retry {judge_retries})...", end=" ", flush=True)
+                    
                     result = call_model(record, conversation, turn_num, excluded_aspects)
-                    if result is None:
+                    if result is None or result.get("exhausted"):
                         break
                     followup_q = result["user_question"]
                     followup_a = result["assistant_answer"]
 
                 if not verdict["grounded"]:
-                    record_log.append(
-                        f"JUDGE_ABANDON | rec={rec_idx} | turn={turn_num} | "
-                        f"conf={verdict['confidence']}"
-                    )
-                    break  # skip this turn; don't break whole record
+                    record_log.append(f"JUDGE_ABANDON | rec={rec_idx} | turn={turn_num}")
+                    print(f"⚠ judge abandoned — regen attempt {attempts}...", end=" ", flush=True)
+                    continue  
 
                 # Accept turn
                 print(f"✓ Q: {followup_q[:55]}...")
                 seen_questions.add(normalize_q(followup_q))
-                conversation.append({"role": "user",      "content": followup_q})
+                conversation.append({"role": "user", "content": followup_q})
                 conversation.append({"role": "assistant", "content": followup_a})
                 excluded_aspects.append(f"turn {turn_num}: {followup_q[:60]}")
                 turns_added += 1
                 accepted = True
-                record_log.append(
-                    f"OK | rec={rec_idx} | turn={turn_num} | "
-                    f"judge=PASS | scope_overflow=False | q={followup_q[:60]}"
-                )
-                break  # done with this turn
+                record_log.append(f"OK | rec={rec_idx} | turn={turn_num} | judge=PASS | q={followup_q[:60]}")
+                break  
+
+            if exhausted_flag:
+                break # Exit the turn_num loop for this record because no more facts remain
 
             if not accepted:
                 skip_count += 1
 
-        # Build output record — preserve all original metadata, replace messages
         output_record = {
             "source_id"        : source_id,
             "crop"             : record.get("crop", ""),
             "state"            : record.get("state", ""),
             "district"         : record.get("district", ""),
             "domain"           : record.get("domain", ""),
-            "grounded"         : record.get("grounded", True),
+            "grounded"         : not had_grounding_failure,
             "original_question": original_question,
             "turns_added"      : turns_added,
-            "total_turns"      : (len(conversation) - 1) // 2,  # exclude system msg
+            "total_turns"      : (len(conversation) - 1) // 2,
             "messages"         : conversation,
             "timestamp"        : datetime.now(timezone.utc).isoformat(),
         }
 
         all_results.append(output_record)
-        log_lines.extend(record_log)
         success_count += 1
 
-        # Checkpoint after every record (same as v12)
-        save_checkpoint(all_results, log_lines)
-        print(f"   💾 Checkpoint saved ({len(all_results)} records done so far)")
-
-    # Final save
-    save_checkpoint(all_results, log_lines)
-
-    # ── Summary ───────────────────────────────────────────────────────────────
-    total_new_turns = sum(r["turns_added"] for r in all_results)
-    judge_abandon   = sum(1 for l in log_lines if l.startswith("JUDGE_ABANDON"))
-    judge_retry     = sum(1 for l in log_lines if l.startswith("JUDGE_RETRY"))
+        # Checkpoint: Just append this single record to the file. Very fast.
+        append_checkpoint(output_record, record_log)
+        print(f"   💾 Appended to checkpoint ({len(all_results)} records done so far)")
 
     print(f"\n{'='*60}")
     print(f"  DONE")
     print(f"  Records processed         : {success_count}")
-    print(f"  Total new turns added     : {total_new_turns}")
     print(f"  Turns skipped (all causes): {skip_count}")
-    print(f"  Judge retries             : {judge_retry}")
-    print(f"  Judge abandoned (turns)   : {judge_abandon}")
-    print(f"  Output JSON  : {OUT_JSON}")
+    print(f"  Output JSONL : {OUT_JSON}")
     print(f"  Log          : {OUT_LOG}")
     print(f"{'='*60}\n")
-
 
 if __name__ == "__main__":
     main()
